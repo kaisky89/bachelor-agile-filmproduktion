@@ -83,6 +83,6 @@ Welche Methoden sehen erfoglreich aus, welche zeigen noch Verbesserungsbedarf? H
 
 # Sonstige Daten
 
-Student: Kai Wittmann
-Erstprüfer: Prof. Hans Kornacher
-Zweitprüfer: Prof. Mario Winter
+Student: Kai Wittmann  
+Erstprüfer: Prof. Hans Kornacher  
+Zweitprüfer: Prof. Mario Winter  
