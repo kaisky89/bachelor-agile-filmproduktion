@@ -4,6 +4,8 @@ Anwendung Methoden agiler Softwareentwicklung in der Produktion eines Imagefilms
 Bachelorarbeit Exposé
 ---
 
+This is a Test. 1.
+
 # Persönliche Motivation
 
 Während des Studiums und auch außerhalb des Studiums stand ich persönlich häufiger vor der Herausforderung, ein neues Filmprojekt zu starten. Von Anfang an hat sich mir persönlich oft die Frage gestellt, wie so ein großes Vorhaben geschickt und zeiteffizient geplant werden kann. Gerade bei Filmprojekten in der Wirtschaft, wo es einen “Auftraggeber” gibt, dessen Anforderungen es zu erfüllen gilt, sah ich oft, dass das bisherige Verständnis von klassischer Filmproduktion in diesem Kontext nicht gut bis gar nicht funktioniert.
