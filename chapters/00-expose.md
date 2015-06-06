@@ -4,7 +4,7 @@ Anwendung Methoden agiler Softwareentwicklung in der Produktion eines Imagefilms
 Bachelorarbeit Exposé
 ---
 
-Hello World!
+Hello World! This is a test.
 
 # Persönliche Motivation
 
