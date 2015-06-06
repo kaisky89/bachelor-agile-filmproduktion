@@ -7,6 +7,9 @@ $files = scandir('../chapters/');
 
 echo '<pre>';
 foreach ($files as $file) {
+  if ($file == "." || $file == "..") {
+    continue;
+  }
   echo $file;
   echo "\n";
 }
