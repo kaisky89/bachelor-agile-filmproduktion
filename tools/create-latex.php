@@ -5,15 +5,10 @@
 
 $files = scandir('../chapters/');
 
-echo '<pre>';
 foreach ($files as $file) {
   if ($file == "." || $file == "..") {
     continue;
   }
-  echo $file;
-  echo "\n";
+  $texfile = explode('.', $file)[0].'tex';
+  `/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i ../chapters/$file  -o ../latex/$texfile`; 
 }
-echo '</pre>';
-
-
-`/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i ../chapters/00-expose.md  -o ../latex/pandocked.tex`;
