@@ -8,6 +8,7 @@ $files = scandir('../chapters/');
 echo '<pre>';
 foreach ($files as $file) {
   echo $file;
+  echo "\n";
 }
 echo '</pre>';
 
