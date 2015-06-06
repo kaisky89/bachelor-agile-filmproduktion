@@ -1,12 +1,7 @@
 <?php
 
-$output = shell_exec('git pull');
-echo "<pre>$output</pre>";
+require_once('Git.php/Git.php');
 
-?>
+$repo = Git::open('../');  // -or- Git::create('/path/to/repo')
 
-<?php
-// Gibt den Benutzernamen aus, unter dem der PHP/HTTPD-Prozess läuft
-// (auf einem System in dem das Programm "whoami" im Ausführungspfad liegt)
-echo exec('whoami');
-?>
+$repo->pull('origin', 'master');
