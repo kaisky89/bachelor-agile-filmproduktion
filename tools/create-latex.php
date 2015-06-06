@@ -5,7 +5,7 @@
 
 $files = scandir('../chapters/');
 
-echp '<pre>';
+echo '<pre>';
 foreach ($files as $file) {
   echo $file;
 }
