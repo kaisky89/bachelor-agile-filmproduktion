@@ -1,6 +1,5 @@
 <?php
-`mkdir ../latex`;
-`mkdir ../temp`;
+
  
 # Alle Kapitel einzeln in latex konvertieren
 
