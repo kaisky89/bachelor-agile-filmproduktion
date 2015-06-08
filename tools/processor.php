@@ -55,5 +55,7 @@ class WordProcessor
     foreach ($this->rules as $rule) {
       $string = preg_replace($rule->regex, $rule->replace, $string);
     }
+
+    return $string;
   }
 }
