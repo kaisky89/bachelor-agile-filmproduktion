@@ -7,7 +7,6 @@ include_once 'processor.php';
 `mkdir ../pipeline/01-pre`;
 `mkdir ../pipeline/02-latex`;
 `mkdir ../pipeline/03-post`;
-`mkdir ../pipeline/04-merged`;
 
 # ---
 
@@ -31,16 +30,4 @@ foreach ($files as $file) {
   `/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i ../pipeline/01-pre/$file  -o ../pipeline/02-latex/$texfile`; 
 
   $latexPostProcessor->processFile("../pipeline/02-latex/".$texfile, "../pipeline/03-post/".$texfile);
-}
-
-# Einzelne Chapter zusammenfügen
-
-$files = scandir('../pipeline/03-post/');
-
-foreach ($files as $file) {
-  if ($file == "." || $file == "..") {
-    continue;
-  }
-
-  `cat ../pipeline/03-post/$file >> ../pipeline/04-merged/all-chapters.tex`;
 }
