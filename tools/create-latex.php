@@ -20,7 +20,7 @@ foreach ($files as $file) {
     continue;
   }
 
-  $markdownPreProcessor->process($file, $file);
+  $markdownPreProcessor->processFile($file, $file);
 
   $texfile = explode('.', $file)[0].'.tex';
 
