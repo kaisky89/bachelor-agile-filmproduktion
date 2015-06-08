@@ -20,7 +20,7 @@ class Rule
 */
 class WordProcessor
 {
-  private $rules[];
+  private $rules;
 
   public function __construct($rulesFile)
   {
