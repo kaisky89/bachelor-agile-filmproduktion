@@ -1,6 +1,5 @@
 <?php
 
-echo `cd .. && pwd`;
-`git fetch origin`;
-`git reset --hard origin/master`;
-`git checkout master`;
+echo `cd .. && git fetch origin`;
+echo `cd .. && git reset --hard origin/master`;
+echo `cd .. && git checkout master`;
