@@ -1,6 +1,12 @@
 <?php
 
- 
+# Ordner latex aufräumen
+
+`rm -R ../latex`;
+`mkdir ../latex`;
+
+# ---
+
 # Alle Kapitel einzeln in latex konvertieren
 
 $files = scandir('../chapters/');
