@@ -1,7 +1,5 @@
 <?php
 
-require_once('git-php/Git.php');
-
-$repo = Git::open('../');  // -or- Git::create('/path/to/repo')
-
-$repo->pull('origin', 'master');
+`cd ..`;
+`git fetch origin`;
+`git reset --hard origin/master`;
