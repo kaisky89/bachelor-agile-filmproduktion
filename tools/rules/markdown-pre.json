@@ -1,6 +1,6 @@
 [
   {
-    "regex" : "/title: /",
+    "regex" : "/Titel: /",
     "replace" : "Titel: "
   }
 ]
