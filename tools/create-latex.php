@@ -2,20 +2,22 @@
 
 include_once 'processor.php';
 
-# Ordner latex aufräumen
+# Ordner Aufräumen
 
-`rm -R ../latex`;
-`mkdir ../latex`;
+`rm -R ../pipeline`
+`mkdir ../pipeline`;
 
-# Ordner pre aufräumen
+# Ordner pre erstellen
 
-`rm -R ../pre`;
-`mkdir ../pre`;
+`mkdir ../pipeline/01-pre`;
 
-# Ordner post aufräumen
+# Ordner latex erstellen
 
-`rm -R ../post`;
-`mkdir ../post`;
+`mkdir ../pipeline/02-latex`;
+
+# Ordner post erstellen
+
+`mkdir ../pipeline/03-post`;
 
 # ---
 
@@ -32,12 +34,12 @@ foreach ($files as $file) {
   }
 
   // echo "<br>File: <code>".$file."<code>";
-  $markdownPreProcessor->processFile("../chapters/".$file, "../pre/".$file);
+  $markdownPreProcessor->processFile("../chapters/".$file, "../pipeline/01-pre/".$file);
 
   $texfile = explode('.', $file)[0].'.tex';
 
-  `/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i ../pre/$file  -o ../latex/$texfile`; 
+  `/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i ../pipeline/01-pre/$file  -o ../pipeline/02-latex/$texfile`; 
 
-  $latexPostProcessor->processFile("../latex/".$texfile, "../post/".$texfile);
+  $latexPostProcessor->processFile("../pipeline/02-latex/".$texfile, "../pipeline/03-post/".$texfile);
 }
 
