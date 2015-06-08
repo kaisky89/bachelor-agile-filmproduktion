@@ -1,0 +1,61 @@
+\include{header} 
+
+\begin{document}
+
+%=== Einleitung ======================================================
+\frontmatter 
+\setcounter{page}{3}
+\pagenumbering{arabic}
+
+\include{includes/titelseite}
+\onehalfspacing
+\include{chapter/abstract}
+\singlespacing
+\include{chapter/inhaltsverzeichnis}
+\onehalfspacing
+
+%=== Hauptteil =======================================================
+\mainmatter
+\setcounter{page}{6}
+
+%Einbinden eines Vorwortes
+\include{chapter/vorwort}
+
+  % Die Zähler für Tabellen und Abbildungen werden zurückgesetzt, damit
+  % in jedem Kapitel die Nummerierung neu beginnt
+\setcounter{table}{1}
+\setcounter{figure}{1}
+  % \include{chapter/mathetest} 
+  \include{chapter/kapitel1} 
+
+  % Die Zähler für Tabellen und Abbildungen werden zurückgesetzt, damit
+  % in jedem Kapitel die Nummerierung neu beginnt
+\setcounter{table}{1}
+\setcounter{figure}{1}
+  % Einbinden des zweiten Kapitels
+  \include{chapter/kapitel2}
+  
+  % Die Zähler für Tabellen und Abbildungen werden zurückgesetzt, damit
+  % in jedem Kapitel die Nummerierung neu beginnt
+\setcounter{table}{1}
+\setcounter{figure}{1}
+  % Einbinden des dritten Kapitels
+  \include{chapter/kapitel3}
+
+\singlespacing
+\include{chapter/verzeichnisse}
+
+%=== Schlussteil =====================================================
+% \backmatter
+% \pagenumbering{Roman}
+
+\setcounter{table}{1}
+\setcounter{figure}{1}
+\include{chapter/anhang}
+
+
+\setcounter{table}{1}
+\setcounter{figure}{1}
+\include{chapter/eid}
+
+\end{document}
