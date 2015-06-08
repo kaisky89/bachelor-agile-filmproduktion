@@ -9,4 +9,4 @@ include_once 'createAllChaptersTex.php';
 
 createAllChaptersTex('../pipeline/04-texprocess/chapters', '../pipeline/04-texprocess/all-chapter.tex', 'chapters/');
 
-renderTex('../pipeline/04-texprocess')
+//renderTex('../pipeline/04-texprocess')
