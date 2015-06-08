@@ -29,23 +29,23 @@ class WordProcessor
 
   public function processFile($from, $to)
   {
-    $string = openFile($from);
-    $string = process($string);
-    saveFile($string, $to);
+    $string = WordProcessor::openFile($from);
+    $string = $this->process($string);
+    WordProcessor::saveFile($string, $to);
   }
 
-  private function openFile($from)
+  private static function openFile($from)
   {
     return file_get_contents($from);
   }
 
   private static function openJsonFile($from)
   {
-    $string = $openFile($from);
+    $string = WordProcessor::openFile($from);
     return json_decode($string);
   }
 
-  private function saveFile($string, $to)
+  private static function saveFile($string, $to)
   {
     file_put_contents($to, $string);
   }
