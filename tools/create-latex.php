@@ -22,6 +22,7 @@ foreach ($files as $file) {
 
   $file = "../chapters/".$file;
 
+  echo "<br>File: <code>".$file."<code>";
   $markdownPreProcessor->processFile($file, $file);
 
   $texfile = explode('.', $file)[0].'.tex';
