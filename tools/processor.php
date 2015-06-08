@@ -24,7 +24,7 @@ class WordProcessor
 
   public function __construct($rulesFile)
   {
-    $this->rules = openJsonFile($rulesFile);
+    $this->rules = WordProcessor::openJsonFile($rulesFile);
   }
 
   public function processFile($from, $to)
@@ -39,7 +39,7 @@ class WordProcessor
     return file_get_contents($from);
   }
 
-  private function openJsonFile($from)
+  private static function openJsonFile($from)
   {
     $string = $openFile($from);
     return json_decode($string);
