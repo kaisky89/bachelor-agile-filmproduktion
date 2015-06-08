@@ -1,0 +1,9 @@
+{
+  "prefix" : [
+    "\\setcounter{table}{1}",
+    "\\setcounter{figure}{1}"
+  ],
+  "suffix" : [
+
+  ]
+}
