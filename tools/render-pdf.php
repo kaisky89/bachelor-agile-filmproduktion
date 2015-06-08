@@ -1,2 +1,2 @@
 <?php
-`cd ../pipeline/04-texprocess/ && pdflatex --interaction=nonstopmode VorlageBA.tex && pdflatex --interaction=nonstopmode VorlageBA.tex && pdflatex --interaction=nonstopmode VorlageBA.tex`;
+`cd ../pipeline/04-texprocess/ && pdflatex --interaction=nonstopmode Bachelorarbeit-Kai-Wittmann.tex && pdflatex --interaction=nonstopmode Bachelorarbeit-Kai-Wittmann.tex && pdflatex --interaction=nonstopmode Bachelorarbeit-Kai-Wittmann.tex`;
