@@ -52,17 +52,17 @@ class WordProcessor
 
   private function process($string)
   {
-    echo "<pre>";
+    // echo "<pre>";
     foreach ($this->rules as $rule) {
-      echo "Regel:";
+      // echo "Regel:";
       var_dump($rule);
-      echo "String vorher:";
+      // echo "String vorher:";
       var_dump($string);
       $string = preg_replace($rule->regex, $rule->replace, $string);
-      echo "String nachher:";
+      // echo "String nachher:";
       var_dump($string);
     }
-    echo "</pre>";
+    // echo "</pre>";
 
     return $string;
   }
