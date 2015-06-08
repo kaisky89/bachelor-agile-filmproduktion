@@ -38,6 +38,6 @@ foreach ($files as $file) {
 
   `/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i ../pre/$file  -o ../latex/$texfile`; 
 
-  $latexPostProcessor->processFile("../latex/".$file, "../post/".$file);
+  $latexPostProcessor->processFile("../latex/".$texfile, "../post/".$texfile);
 }
 
