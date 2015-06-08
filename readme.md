@@ -88,3 +88,9 @@ Welche Methoden sehen erfoglreich aus, welche zeigen noch Verbesserungsbedarf? H
 Student: Kai Wittmann  
 Erstprüfer: Prof. Hans Kornacher  
 Zweitprüfer: Prof. Mario Winter  
+
+# PDF Version
+
+Es folgt eine PDF Version der Bachelor Arbeit im momentanen Stand.
+
+[![Preview der momentanen Version](http://download.heart-co.de/Bildschirmfoto%202015-06-09%20um%2000.24.23.png)](http://bachelor.heart-co.de/pipeline/04-texprocess/Bachelorarbeit-Kai-Wittmann.pdf)
