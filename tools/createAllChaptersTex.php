@@ -36,6 +36,5 @@ function createAllChaptersTex($pathToChapters, $pathToTexFile, $prefixForChapter
     }
   }
 
-
-
+  file_put_contents($pathToTexFile, $outputString);
 }
