@@ -4,7 +4,7 @@ include_once 'processor.php';
 
 # Ordner Aufräumen
 
-`rm -R ../pipeline`
+`rm -R ../pipeline`;
 `mkdir ../pipeline`;
 
 # Ordner pre erstellen
