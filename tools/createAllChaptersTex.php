@@ -34,6 +34,8 @@ function createAllChaptersTex($pathToChapters, $pathToTexFile, $prefixForChapter
     foreach ($suffix as $suf) {
       $outputString .= $suf."\n";
     }
+
+    $outputString .= "\n";
   }
 
   file_put_contents($pathToTexFile, $outputString);
