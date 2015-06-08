@@ -7,6 +7,11 @@ include_once 'processor.php';
 `rm -R ../latex`;
 `mkdir ../latex`;
 
+# Ordner pre aufräumen
+
+`rm -R ../pre`;
+`mkdir ../pre`;
+
 # ---
 
 # Alle Kapitel einzeln in latex konvertieren
@@ -20,13 +25,11 @@ foreach ($files as $file) {
     continue;
   }
 
-  $file = "../chapters/".$file;
-
   echo "<br>File: <code>".$file."<code>";
-  $markdownPreProcessor->processFile($file, $file);
+  $markdownPreProcessor->processFile("../chapters/".$file, "../pre/".$file);
 
   $texfile = explode('.', $file)[0].'.tex';
 
-  `/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i $file  -o ../latex/$texfile`; 
+  `/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i ../pre/$file  -o ../latex/$texfile`; 
 }
 
