@@ -24,7 +24,7 @@ class WordProcessor
 
   public function __construct($rulesFile)
   {
-    $this->rules = openJsonFile($rulesFile)
+    $this->rules = openJsonFile($rulesFile);
   }
 
   public function processFile($from, $to)
