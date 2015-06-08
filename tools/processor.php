@@ -53,7 +53,7 @@ class WordProcessor
   private function process($string)
   {
     foreach ($this->rules as $rule) {
-      $string = preg_replace($rule->regex, $rule->replacement, $string);
+      $string = preg_replace($rule->regex, $rule->replace, $string);
     }
   }
 }
