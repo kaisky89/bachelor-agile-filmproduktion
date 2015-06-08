@@ -4,14 +4,7 @@ title: Einleitung
 
 # Persönliches
 
-![Dies ist ein Test Bild](http://download.heart-co.de/test.png)
-
 ## Kanban: Erfolgreicher Domänen Transfer
-
-| Eine | einfache | Tabelle |
-|------|----------|---------|
-| Dies | ist      | Inhalt  |
-| Dies | ist es   | auch    |
 
 ## Film und Software
 
