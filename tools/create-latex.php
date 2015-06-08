@@ -20,10 +20,12 @@ foreach ($files as $file) {
     continue;
   }
 
+  $file = "../chapters/".$file;
+
   $markdownPreProcessor->processFile($file, $file);
 
   $texfile = explode('.', $file)[0].'.tex';
 
-  `/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i ../chapters/$file  -o ../latex/$texfile`; 
+  `/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i $file  -o ../latex/$texfile`; 
 }
 
