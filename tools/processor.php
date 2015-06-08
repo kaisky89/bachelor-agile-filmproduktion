@@ -55,12 +55,12 @@ class WordProcessor
     // echo "<pre>";
     foreach ($this->rules as $rule) {
       // echo "Regel:";
-      var_dump($rule);
+      // var_dump($rule);
       // echo "String vorher:";
-      var_dump($string);
+      // var_dump($string);
       $string = preg_replace($rule->regex, $rule->replace, $string);
       // echo "String nachher:";
-      var_dump($string);
+      // var_dump($string);
     }
     // echo "</pre>";
 

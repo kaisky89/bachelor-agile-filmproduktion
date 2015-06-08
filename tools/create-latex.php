@@ -2,22 +2,12 @@
 
 include_once 'processor.php';
 
-# Ordner Aufräumen
-
 `rm -R ../pipeline`;
 `mkdir ../pipeline`;
-
-# Ordner pre erstellen
-
 `mkdir ../pipeline/01-pre`;
-
-# Ordner latex erstellen
-
 `mkdir ../pipeline/02-latex`;
-
-# Ordner post erstellen
-
 `mkdir ../pipeline/03-post`;
+`mkdir ../pipeline/04-merged`;
 
 # ---
 
@@ -43,3 +33,14 @@ foreach ($files as $file) {
   $latexPostProcessor->processFile("../pipeline/02-latex/".$texfile, "../pipeline/03-post/".$texfile);
 }
 
+# Einzelne Chapter zusammenfügen
+
+$files = scandir('../pipeline/03-post/');
+
+foreach ($files as $file) {
+  if ($file == "." || $file == "..") {
+    continue;
+  }
+
+  `cat ../pipeline/03-post/$file >> ../pipeline/04-merged/all-chapters.tex`;
+}
