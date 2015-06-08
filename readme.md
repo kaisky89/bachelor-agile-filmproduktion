@@ -26,6 +26,8 @@ Im Bereich **Filmproduktion** soll von meinen persönlichen Erfahrungen berichte
 
 Um das Problemfeld der agilen Software Entwicklung aufzumachen, betrachte ich zunächst die Begrifllichkeit “Agil”. Mithilfe des Agilen Manifests nähere ich mich dem Konzept der Agilität und stelle dar, welche Ideen sich hinter diesem Begriff verbergen. Danach liste ich einige bekannte Vorgehensmodelle auf, die sich der Agilität verpflichtet haben. Um ein grobes Verständnis zu entwickeln, stelle ich diese Vorgehensmodelle in ihren grundsätzlichen Zügen vor.
 
+[zur momentanen Version dieses Kapitels](https://github.com/kaisky89/bachelor-agile-filmproduktion/blob/master/chapters/02-problemfeld.md)
+
 ## Anforderungen an ein agiles Vorgehensmodell
 
 *geplante Dauer: 1,5 Wochen*
@@ -35,6 +37,8 @@ Nach der Vorstellung des Themas und einer breiteren Betrachtung der Themenfelder
 Danach analysiere ich mithilfe mir bekannter Methoden der Anforderungsanalyse den Kontext dieses Arbeitsfelds: Stakeholder Analyse, User Profiles, Personae und deskriptive Use Cases. Diese Methoden werde ich vor allem basierend auf meiner persönlichen bisherigen Erfahrung aus der Praxisarbeit anwenden. Eine breitere Recherche würde in diesem Kontext den zeitlichen Rahmen der Bachelor Arbeit sprengen.
 
 Mithilfe dieser Methoden werde ich Anforderungen definieren können, die an das Vorgehensmodell zu stellen sind. Je nach Ergebnis sehe ich evtl. eine Einteilung der Anforderungen in die folgenden Kategorien als sinnvoll: Pre-Produktion, Produktion und Post-Produktion.
+
+[zur momentanen Version dieses Kapitels](https://github.com/kaisky89/bachelor-agile-filmproduktion/blob/master/chapters/03-anforderungen.md)
 
 ## Entwurf eines agilen Vorgehensmodell
 
@@ -46,6 +50,8 @@ Außerdem müssen die ausgewählten Techniken wahrscheinlich hier und da modifiz
 
 Ergebnis dieses Teils der Arbeit ist eine Auswahl an Techniken, die sinnvoll so miteinander verknüpft sind, dass sich ein Vorgehensmodell ergibt, dass sowohl den Anforderungen der Produktion von Imagefilm genügt, als auch die Ideen der Agilen Entwicklung vertritt.
 
+[zur momentanen Version dieses Kapitels](https://github.com/kaisky89/bachelor-agile-filmproduktion/blob/master/chapters/04-entwurf.md)
+
 ## Testen anhand von Use Cases
 
 *geplante Dauer: 1,5 Wochen*
@@ -55,6 +61,8 @@ Nach der Konzipierung des Vorgehensmodells wird dieses anhand von Use Cases gete
 Die Use Cases sollen in narrativer Form die Handlungen der Personae beschreiben. Hierbei soll es verschiedene Use Cases geben. Voraussichtlich für jede vorgeschlagene Technik oder jeden Ansatz des Vorgehensmodells mindestens zwei: Eine Use Case, das beschreibt, wie die Technik im Optimalfall abläuft, und ein Use Case, das den “Worst Case” beschreibt.
 
 Außerdem ist bei den Use Cases zu beachten, dass diese auch das Zusammenspiel der einzelnen Techniken veranschaulichen. Gegebenenfalls werden dafür noch zusätzliche Use Cases nötig sein.
+
+[zur momentanen Version dieses Kapitels](https://github.com/kaisky89/bachelor-agile-filmproduktion/blob/master/chapters/05-test.md)
 
 ## Tests evaluieren
 
@@ -69,6 +77,8 @@ Es soll überprüft werden, ob mithilfe des entwickelten Vorgehensmodells die en
 ### Methoden
 
 Welche Methoden sehen erfoglreich aus, welche zeigen noch Verbesserungsbedarf? Hier wird untersucht, welche Faktoren den Erfolg bzw. Misserfolg bestimmter Methoden bestimmen. Zusätzlich wird aufgezeigt welche Methoden sich im Test bewährt haben und welche wohl verbessert oder ausgetauscht werden sollten.
+
+[zur momentanen Version dieses Kapitels](https://github.com/kaisky89/bachelor-agile-filmproduktion/blob/master/chapters/06-auswertung.md)
 
 # Zeitplan: Meilensteine
 
@@ -91,6 +101,6 @@ Zweitprüfer: Prof. Mario Winter
 
 # PDF Version
 
-Es folgt eine PDF Version der Bachelor Arbeit im momentanen Stand.
+Es folgt eine PDF Version der Bachelor Arbeit im aktuellen Stand.
 
 [![Preview der momentanen Version](http://download.heart-co.de/Bildschirmfoto%202015-06-09%20um%2000.24.23.png)](http://bachelor.heart-co.de/pipeline/04-texprocess/Bachelorarbeit-Kai-Wittmann.pdf)
