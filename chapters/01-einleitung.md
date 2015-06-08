@@ -4,7 +4,7 @@ title: Einleitung
 
 # Persönliches
 
-![Dies ist ein Test Bild](http://download.heart-co.de/Bildschirmfoto%202015-06-09%20um%2000.58.06.png)
+![Dies ist ein Test Bild](http://download.heart-co.de/test.png)
 
 ## Kanban: Erfolgreicher Domänen Transfer
 
