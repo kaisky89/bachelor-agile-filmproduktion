@@ -28,7 +28,7 @@ function createAllChaptersTex($pathToChapters, $pathToTexFile, $prefixForChapter
 
     # file
     $fileWithoutExtension = explode('.', $file)[0];
-    $outputString .= '\include{'.$prefixForChapterfiles.'/'.$fileWithoutExtension.'}'."\n";
+    $outputString .= '\include{'.$prefixForChapterfiles.$fileWithoutExtension.'}'."\n";
 
     # suffix
     foreach ($suffix as $suf) {

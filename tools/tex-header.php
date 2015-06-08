@@ -7,6 +7,6 @@ include_once 'createAllChaptersTex.php';
 `mkdir ../pipeline/04-texprocess/chapters`;
 `cp -R ../pipeline/03-post ../pipeline/04-texprocess/chapters`;
 
-createAllChaptersTex('../pipeline/04-texprocess/chapters', '../pipeline/04-texprocess/all-chapter.tex', 'chapters/');
+createAllChaptersTex('../pipeline/04-texprocess/chapters', '../pipeline/04-texprocess/all-chapters.tex', 'chapters/');
 
 //renderTex('../pipeline/04-texprocess')
