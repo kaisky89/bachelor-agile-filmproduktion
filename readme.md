@@ -103,4 +103,4 @@ Zweitprüfer: Prof. Mario Winter
 
 Es folgt eine PDF Version der Bachelor Arbeit im aktuellen Stand.
 
-[![Preview der momentanen Version](http://download.heart-co.de/Bildschirmfoto%202015-06-10%20um%2013.52.13.png)](http://bachelor.heart-co.de/pipeline/04-texprocess/Bachelorarbeit-Kai-Wittmann.pdf)
+[![Preview der momentanen Version](http://download.heart-co.de/Bildschirmfoto%202015-06-10%20um%2014.19.19.png)](http://bachelor.heart-co.de/pipeline/04-texprocess/Bachelorarbeit-Kai-Wittmann.pdf)
