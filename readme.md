@@ -1,6 +1,6 @@
 
 
-Anwendung Methoden agiler Softwareentwicklung in der Produktion eines Imagefilms
+Entwicklung eines Vorgehensmodells für die Imagefilmproduktion auf der Basis agiler Vorgehensmodelle und Techniken in der Softwareentwicklung
 ===
 
 Bachelorarbeit Exposé
