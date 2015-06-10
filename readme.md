@@ -91,7 +91,7 @@ Welche Methoden sehen erfoglreich aus, welche zeigen noch Verbesserungsbedarf? H
 | “Vorgehen testen” abgeschlossen          | 27.07.2015 (6)  |
 | “Test evaluieren” abgeschlossen          | 03.08.2015 (7)  |
 | Bachelor Arbeit Abgabe                   | 10.08.2015 (8)  |
-| Kolloquium                               | 24.08.2015      |
+| Kolloquium                               | 26.08.2015      |
 
 # Sonstige Daten
 
