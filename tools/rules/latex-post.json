@@ -1,18 +1,6 @@
 [
   {
-    "regex" : "/(\\\\includegraphics{.*)(\\\\%)(.*})/",
-    "replace" : "$1%$3"
-  },
-  {
-    "regex" : "/(\\\\includegraphics{.*)(\\\\%)(.*})/",
-    "replace" : "$1%$3"
-  },
-  {
-    "regex" : "/(\\\\includegraphics{.*)(\\\\%)(.*})/",
-    "replace" : "$1%$3"
-  },
-  {
-    "regex" : "/(\\\\includegraphics{.*)(\\\\%)(.*})/",
-    "replace" : "$1%$3"
+    "regex" : "/(abc)/",
+    "replace" : "$1"
   }
 ]
