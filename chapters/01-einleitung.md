@@ -2,13 +2,11 @@
 title: Einleitung
 ---
 
-# Persönliches
+# Film und Software
 
-## Film und Software
+## Kreative Arbeit
 
-### Kreative Arbeit
-
-### Kein klar definierbares Ziel
+## Kein klar definierbares Ziel
 
 # Vorstellung der Methodik in der Bachelorarbeit
 
