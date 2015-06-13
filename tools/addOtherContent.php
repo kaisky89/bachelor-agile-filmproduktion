@@ -9,6 +9,6 @@ function addOtherContent()
       continue;
     }
 
-    `cat ../pipeline/others/03-post/$file >> ../pipeline/04-texprocess/etc/$file`:
+    `cat ../pipeline/others/03-post/$file >> ../pipeline/04-texprocess/etc/$file`;
   }
 }

@@ -7,6 +7,7 @@ include_once 'processor.php';
 `mkdir ../pipeline/01-pre`;
 `mkdir ../pipeline/02-latex`;
 `mkdir ../pipeline/03-post`;
+`mkdir ../pipeline/others`;
 `mkdir ../pipeline/others/01-pre`;
 `mkdir ../pipeline/others/02-latex`;
 `mkdir ../pipeline/others/03-post`;
