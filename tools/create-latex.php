@@ -7,6 +7,9 @@ include_once 'processor.php';
 `mkdir ../pipeline/01-pre`;
 `mkdir ../pipeline/02-latex`;
 `mkdir ../pipeline/03-post`;
+`mkdir ../pipeline/others/01-pre`;
+`mkdir ../pipeline/others/02-latex`;
+`mkdir ../pipeline/others/03-post`;
 
 # ---
 
@@ -22,7 +25,6 @@ foreach ($files as $file) {
     continue;
   }
 
-  // echo "<br>File: <code>".$file."<code>";
   $markdownPreProcessor->processFile("../chapters/".$file, "../pipeline/01-pre/".$file);
 
   $texfile = explode('.', $file)[0].'.tex';
@@ -31,3 +33,22 @@ foreach ($files as $file) {
 
   $latexPostProcessor->processFile("../pipeline/02-latex/".$texfile, "../pipeline/03-post/".$texfile);
 }
+
+# Zusätzliche Teile in latex konvertieren
+
+$files = scandir('../others/');
+
+foreach ($files as $file) {
+  if ($file == "." || $file == "..") {
+    continue;
+  }
+
+  $markdownPreProcessor->processFile("../others/".$file, "../pipeline/others/01-pre/".$file);
+
+  $texfile = explode('.', $file)[0].'.tex';
+
+  `/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i ../pipeline/others/01-pre/$file  -o ../pipeline/others/02-latex/$texfile`; 
+
+  $latexPostProcessor->processFile("../pipeline/others/02-latex/".$texfile, "../pipeline/others/03-post/".$texfile);
+}
+
