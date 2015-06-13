@@ -4,8 +4,6 @@ title: Einleitung
 
 # Persönliches
 
-## Kanban: Erfolgreicher Domänen Transfer
-
 ## Film und Software
 
 ### Kreative Arbeit
