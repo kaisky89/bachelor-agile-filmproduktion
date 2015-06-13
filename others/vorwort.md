@@ -2,4 +2,4 @@ Während der Recherche über die agilen Vorgehensmodelle machte ich eine persön
 
 <!--TODO: Kanban: Erfolgreicher Domänen Transfer -->
 
-Dies ist ein Test. 3
+Dies ist ein Test. 4
