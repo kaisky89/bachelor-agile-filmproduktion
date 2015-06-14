@@ -1,6 +1,7 @@
 <?php
 
 include_once 'processor.php';
+include_once 'download-pictures.php';
 
 `rm -R ../pipeline`;
 `mkdir ../pipeline`;
@@ -13,6 +14,19 @@ include_once 'processor.php';
 `mkdir ../pipeline/others/03-post`;
 
 # ---
+
+# Bilder herunterladen
+
+$files = scandir('../chapters/');
+
+foreach ($files as $file) {
+  if ($file == "." || $file == "..") {
+    continue;
+  }
+
+  downloadPictures("../chapters/".$file);
+}
+
 
 # Alle Kapitel einzeln in latex konvertieren
 
