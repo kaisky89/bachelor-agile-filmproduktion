@@ -17,8 +17,7 @@ function downloadPictures($pathToFile)
     foreach ($newFileNameArray as $fileNamePart) {
       $newFileName .= $fileNamePart;
     }
-    if ($filename != $newFileName) {
-      `cd tex/images/ && wget -N $url -O $newFileName`;
-    }
+    
+    `cd tex/images/ && wget -N $url -O $newFileName`;
   }
 }
