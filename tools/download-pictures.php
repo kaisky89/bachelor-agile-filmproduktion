@@ -13,7 +13,7 @@ function downloadPictures($pathToFile)
 
     $urlParted = explode("/", $url);
     $filename = $urlParted[count($urlParted)-1];
-    $newFileNameArray = explode(" ", urldecode($filename);
+    $newFileNameArray = explode(" ", urldecode($filename));
     $newFileName = "";
     foreach ($newFileNameArray as $fileNamePart) {
       $newFileName .= $fileNamePart;
