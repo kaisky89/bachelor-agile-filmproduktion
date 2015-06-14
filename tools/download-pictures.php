@@ -9,7 +9,6 @@ function downloadPictures($pathToFile)
     $out, PREG_PATTERN_ORDER);
 
   foreach ($out[1] as $url) {
-    `cd tex/images/ && wget $url`;
 
     $urlParted = explode("/", $url);
     $filename = $urlParted[count($urlParted)-1];
@@ -19,7 +18,7 @@ function downloadPictures($pathToFile)
       $newFileName .= $fileNamePart;
     }
     if ($filename != $newFileName) {
-      `cd tex/images/ && mv $filename $newFileName`;
+      `cd tex/images/ && wget -N $url -O $newFileName`;
     }
   }
 }
