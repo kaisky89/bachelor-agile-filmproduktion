@@ -6,7 +6,7 @@ title: Problemfelder aufmachen
 
 ## Was ist ein Vorgehensmodell?
 
-Da das Thema dieser Arbeit die Entwicklung eines Vorgehensmodell ist, möchte dieses Wort zuerst einmal definiert werden. Hierbei können die beiden Wörter "Vorgehen" und "Modell" separat voneinander betrachtet werden.
+Da das Thema dieser Arbeit die Entwicklung eines Vorgehensmodell ist, möchte dieser Begriff zuerst einmal definiert werden. Hierbei sollen die beiden Wörter "Vorgehen" und "Modell" zunächst separat voneinander betrachtet werden.
 
 **Vorgehen**
 
@@ -18,7 +18,7 @@ Mit Vorgehen ist hier die Vorgehensweise, also die Art und Weise, wie jemand vor
 
 Aus der Formulierung "als wichtig erachtet" lässt sich der Ansatz der *Abstraktion* erkennen. Ein Modell möchte Informationen auf die wesentliche Punkte beschränken, indem es unwichtige Details weglässt.
 
-Ein *Vorgehensmodell* kann also als eine Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Ein Vorgehensmodell wird nicht die Umsetzung einer konkreten Aufgabe beschreiben, sondern eher eine bestimmte *Klasse von Aufgaben*<!--ZITAT Eckhart Hanser -->.
+Ein *Vorgehensmodell* kann also als eine Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Ein Vorgehensmodell beschreibt nicht die Umsetzung einer konkreten Aufgabe, sondern eher eine bestimmte *Klasse von Aufgaben*<!--ZITAT Eckhart Hanser -->.
 
 <!--ZITAT Eckhart Hanser --> schreibt, dass er als Synonym zu dem Begriff Vorgehensmodell den Begriff Prozessmodell verwendet und definiert diesen Begriff wie folgt:
 
@@ -26,7 +26,7 @@ Ein *Vorgehensmodell* kann also als eine Beschreibung definiert werden, wie für
 
 Vorgehensmodelle gehören in der Informatik zum Bereich des Projektmanagement. Projektmanagement wird laut <!--ZITAT DIN69901-5--> wie folgt definiert:
 
-> Gesamtheit von Führungsaufgaben, -organisation, -techniken und -mitteln für die Initiierung, Definition, Planung, Steuerung und den Abschluss von Projekten
+> Gesamtheit von Führungsaufgaben, -organisation, -techniken und -mitteln für die Initiierung, Definition, Planung, Steuerung und den Abschluss von Projekten
 
 Das Vorgehensmodell im Projektmanagement beantwortet die folgenden 5 Fragen:
 
@@ -39,6 +39,10 @@ Vorgehensmodelle in der Informatik beschreiben in abstrakter Form den Prozess de
 Nicht nur Aktivitäten, sondern auch Rollen und Artefakte
 
 ## Phasen in der Software Entwicklung
+
+Um in der Software Entwicklung von einem Auftrag zu einer fertigen und lauffähigen Software zu kommen, die am Ende beim Kunden in Betrieb genommen werden kann, sind verschiedene Aktivitäten notwendig. Als Laie könnte man meinen, Software Entwicklung sei *Programmieren*, also das schreiben von Code. Das ist nicht ganz falsch, das *Programmieren* ist tatsächlich ein Teil der Software Entwicklung. Allerdings gehören hier noch mehr Tätigkeiten dazu. Die erforderlichen Tätigkeiten der Software Entwicklung können in folgende Phasen unterteilt werden:
+
+
 
 
 ## Historie der Vorgehensmodelle
