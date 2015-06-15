@@ -12,18 +12,18 @@ title: Problemfelder aufmachen
 	- Wasserfallmodell
 	- Spiralmodell
 
-- Unterscheidung Schwergewichtig und leichtgewichtig
-
-- Agiles Manifest
-	- Individuen und Interaktionen mehr als Prozesse und Werkzeuge
-	- Funktionierende Software mehr als umfassende Dokumentation
-	- Zusammenarbeit mit dem Kunden mehr als Vertragsverhandlung
-	- Reagieren auf Veränderung mehr als das Befolgen eines Plans
-
-
 ## Was bedeutet “Agil”?
 
+- Unterscheidung Schwergewichtig und leichtgewichtig
+
 ### Agiles Manifest
+
+- Individuen und Interaktionen mehr als Prozesse und Werkzeuge
+- Funktionierende Software mehr als umfassende Dokumentation
+- Zusammenarbeit mit dem Kunden mehr als Vertragsverhandlung
+- Reagieren auf Veränderung mehr als das Befolgen eines Plans
+
+
 
 ## Agile Vorgehensmodelle
 
