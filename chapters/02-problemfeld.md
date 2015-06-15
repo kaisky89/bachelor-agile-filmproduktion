@@ -16,15 +16,24 @@ Mit Vorgehen ist hier die Vorgehensweise, also die Art und Weise, wie jemand vor
 
 > Ein Modell repräsentiert die als wichtig erachteten Aspekte eines Systems.
 
-Aus der Formulierung "als wichtig erachtet" lässt sich der Ansatz der *Abstraktion* erkennen. Ein Modell möchte also Informationen auf die wesentliche Punkte beschränken, indem es unwichtige Details weglässt.
+Aus der Formulierung "als wichtig erachtet" lässt sich der Ansatz der *Abstraktion* erkennen. Ein Modell möchte Informationen auf die wesentliche Punkte beschränken, indem es unwichtige Details weglässt.
 
-Ein *Vorgehensmodell* kann also als eine Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Ein Vorgehensmodell wird also nicht die Umsetzung einer konkreten Aufgabe beschreiben, sondern eher eine bestimmte *Klasse von Aufgaben*<!--ZITAT Eckhart Hanser -->.
+Ein *Vorgehensmodell* kann also als eine Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Ein Vorgehensmodell wird nicht die Umsetzung einer konkreten Aufgabe beschreiben, sondern eher eine bestimmte *Klasse von Aufgaben*<!--ZITAT Eckhart Hanser -->.
 
 <!--ZITAT Eckhart Hanser --> schreibt, dass er als Synonym zu dem Begriff Vorgehensmodell den Begriff Prozessmodell verwendet und definiert diesen Begriff wie folgt:
 
 > Ein Software-Prozessmodell ist ein Modell für den Ablauf der Entwicklung eines Software-Systems. Dabei geht es nicht um die Darstellung des Ablaufs eines bestimmten Software-Entwicklungsprojekts, sondern einer ganzen Klasse von Projekten.
 
-Vorgehensmodelle spielen in der Informatik seit je her eine große Rolle. 
+Vorgehensmodelle gehören in der Informatik zum Bereich des Projektmanagement. Projektmanagement wird laut <!--ZITAT DIN69901-5--> wie folgt definiert:
+
+> Gesamtheit von Führungsaufgaben, -organisation, -techniken und -mitteln für die Initiierung, Definition, Planung, Steuerung und den Abschluss von Projekten
+
+Das Vorgehensmodell im Projektmanagement beantwortet die folgenden 5 Fragen:
+
+**Wer** macht **Wann**, **Was** mit **Welchen Mitteln**, **Warum?** *(=mit welchem Ziel?)*
+<!--TODO Muss noch weiter ausgeführt und recherchiert werden -->
+
+Wenn ein 
 
 Vorgehensmodelle in der Informatik beschreiben in abstrakter Form den Prozess der Software Entwicklung
 Nicht nur Aktivitäten, sondern auch Rollen und Artefakte
