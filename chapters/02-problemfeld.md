@@ -18,7 +18,11 @@ Mit Vorgehen ist hier die Vorgehensweise, also die Art und Weise, wie jemand vor
 
 Aus der Formulierung "als wichtig erachtet" lässt sich der Ansatz der *Abstraktion* erkennen. Ein Modell möchte also Informationen auf die wesentliche Punkte beschränken, indem es unwichtige Details weglässt.
 
-Ein *Vorgehensmodell* kann also als ein Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Eine Vorgehensmodell wird also nicht die Umsetzung einer konkreten Aufgabe beschreiben, sondern eher eine bestimmte *Klasse von Aufgaben*<!--ZITAT Eckhart Hanser -->.
+Ein *Vorgehensmodell* kann also als eine Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Ein Vorgehensmodell wird also nicht die Umsetzung einer konkreten Aufgabe beschreiben, sondern eher eine bestimmte *Klasse von Aufgaben*<!--ZITAT Eckhart Hanser -->.
+
+<!--ZITAT Eckhart Hanser --> schreibt, dass er als Synonym zu dem Begriff Vorgehensmodell den Begriff Prozessmodell verwendet und definiert diesen Begriff wie folgt:
+
+> Ein Software-Prozessmodell ist ein Modell für den Ablauf der Entwicklung eines Software-Systems. Dabei geht es nicht um die Darstellung des Ablaufs eines bestimmten Software-Entwicklungsprojekts, sondern einer ganzen Klasse von Projekten.
 
 Vorgehensmodelle spielen in der Informatik seit je her eine große Rolle. 
 
@@ -32,8 +36,8 @@ Nicht nur Aktivitäten, sondern auch Rollen und Artefakte
 
 ### Wasserfallmodell
 
-Anforderungen unklar. 
-Probleme werden "verschleppt"
+Anforderungen unklar.  
+Probleme werden "verschleppt"  
 
 ### Spiralmodell
 
@@ -42,8 +46,8 @@ schwierig zu planen
 
 ### Inkrementell
 
-angepasstes Vertragsmodell
-stark zusammenhängend mit iterativ
+angepasstes Vertragsmodell  
+stark zusammenhängend mit iterativ  
 
 
 ## Schwergewichtige Vorgehensmodelle
