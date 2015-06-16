@@ -111,22 +111,20 @@ Funktionierende Software mehr als umfassende Dokumentation
 Zusammenarbeit mit dem Kunden mehr als Vertragsverhandlung  
 Reagieren auf Veränderung mehr als das Befolgen eines Plans  
 
-## Agile Vorgehensmodelle
-
 Unterscheidung: Meta - Modelle und Methoden
 
-### XP
+## XP
 
 Als erstes Vorgehensmodell soll das "eXtreme Programming" - oder kurz: XP - betrachtet werden. XP wurde von Kent Beck 19?? <!--TODO Wann genau??--> zum ersten mal eingesetzt und gilt als eines der ersten Vorgehensmodelle, die die Ansätze und Prinzipien von Agiler Softwareentwicklung in einem ganzheitlichem Rahmen umsetzen. <!--TODO Ist das so? Belege?--> 
 
 Der größte Unterschied zu den anderen Vorgehensmodellen, die nachfolgend betrachtet werden, ist, dass XP klar vorschreibt, welche Methoden und Techniken für die Umsetzung des Vorgehensmodells zu benutzen sind. Scrum und Kanban sind eher Meta Modelle, das heißt, sie beschreiben das Vorgehen auf der Meta Ebene. Sie lassen ein ein individuelles Auswählen der konkreten Techniken zur Umsetzung nicht nur zu, sondern machen dies sogar erforderlich. Viele Aspekte der Umsetzung werden in diesen Modellen bewusst offen gehalten. XP ist da anders. Es schreibt ganz konkrete Praktiken und Regeln vor, die benutzt werden sollen. Kent Beck <!--ZITAT Kent Beck--> verlangt sogar, dass XP nur in der Gesamtheit aller Methoden übernommen werden kann. 
 
 
-#### Die 5 Werte
+### Die 5 Werte
 
 Die Praktiken und Regeln in XP unterliegen den 5 Werten von XP: *Kommunikation*, *Einfachheit*, *Feedback*, *Mut* und *Respekt*.
 
-##### Kommunikation
+#### Kommunikation
 
 Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt nicht von Einzelkämpfern, sondern von einem Team geleistet wird, ist es 
 
@@ -146,11 +144,11 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 	- Änderung des Vorgehensmodells
 - Respekt
 
-#### Die 14 Prinzipien
+### Die 14 Prinzipien
 
-#### Die Praktiken
+### Die Praktiken
 
-##### Planung
+#### Planung
 
 - User Stories
 	- Nur kurzes Anreißen des Arbeitpakets. 
@@ -173,7 +171,7 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 	- klare, präzise und schnelle Kommunkation
 - Fix XP When it Breaks
 
-##### Design
+#### Design
 
 - Einfachheit des Designs
 	- Architektur nur für die in der anstehenden Iteration benötigten Kriterien entwerfen
@@ -197,7 +195,7 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 	- Beispiel: Interface mehrerer Klassen entwerfen, die unabhängig voneinander entworfen worden sind
 	- Meistens wird gute Software mit Refactoring Unterstützung notwendig
 
-##### Kodieren
+#### Kodieren
 
 - Der Kunde ist immer verfügbar
 	- Kunde ist Teil des Teams
@@ -219,7 +217,7 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 - Optimiere erst zum Schluss
 - Keine Überstunden
 
-##### Testen
+#### Testen
 
 - Unit Tests für den gesamten Code
 - Bei einem gefundenen Fehler muss ein Test generiert werden
@@ -228,9 +226,9 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 	- ersetzen die High-Level-Spezifikationen des Systems
 	- Wells: sollten automatisiert werden
 
-#### Erweiterte XP Praktiken
+### Erweiterte XP Praktiken
 
-##### Primärpraktiken
+#### Primärpraktiken
 
 - Team sitzt räumlich zusammen
 - Komplettes Team
@@ -243,7 +241,7 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 	- Viertljährliche Releases
 	- vierteljährliche Reflexionssitzungen
 
-##### Folgepraktiken
+#### Folgepraktiken
 
 - Teamkontinuität
 	- Auseinander reißen von Teams vermeiden
@@ -258,9 +256,9 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 	- Steigert die Motivation der Entwickler, Software zu entwickeln, die auch gerne genutzt wird
 
 
-### Kanban
+## Kanban
 
-### Scrum
+## Scrum
 
 ## Welches Vorgehensmodell ist "das Beste"?
 
