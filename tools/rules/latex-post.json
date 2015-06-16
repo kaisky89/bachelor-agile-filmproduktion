@@ -1,6 +1,6 @@
 [
   {
-    "regex" : "/(abc)/",
-    "replace" : "$1"
+    "regex": "#\\\\begin\\{itemize\\}\\[\\<\\+\\-\\>\\]#",
+    "replace": "\\begin{itemize}"
   }
 ]
