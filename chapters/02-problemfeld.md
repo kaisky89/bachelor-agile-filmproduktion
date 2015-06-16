@@ -117,6 +117,10 @@ Unterscheidung: Meta - Modelle und Methoden
 
 ### XP
 
+Als erstes Vorgehensmodell soll das "eXtreme Programming" - oder kurz: XP - betrachtet werden. XP wurde von Kent Beck 19?? <!--TODO Wann genau??--> zum ersten mal eingesetzt und gilt als eines der ersten Vorgehensmodelle, die die Ansätze und Prinzipien von Agiler Softwareentwicklung in einem ganzheitlichem Rahmen umsetzen. <!--TODO Ist das so? Belege?--> 
+
+Der größte Unterschied zu den anderen Vorgehensmodellen, die nachfolgend betrachtet werden, ist, dass XP klar vorschreibt, welche Methoden und Techniken für die Umsetzung des Vorgehensmodells zu benutzen sind. Scrum und Kanban sind eher Meta Modelle, das heißt, sie beschreiben das Vorgehen auf der Meta Ebene und es nicht nur zulassen sondern es erfordern, dass 
+
 Während andere Vorgehensmodelle Meta Modelle sind, also keine konkreten Methoden vorschreiben, sagt XP klar, welche Methoden für was benutzt werden sollen.
 
 #### Die 5 Werte
@@ -204,7 +208,50 @@ Während andere Vorgehensmodelle Meta Modelle sind, also keine konkreten Methode
 	- abwechelndes Denken: taktisch und strategisch
 	- Beck: Qualität wird besser
 	- Beck: Geschwindigkeit eines 2er Teams = 2 Einzelkämpfer
-- Code-Integration
+- Sequentielle Integration
+	- ...
+- Collective Code Ownership
+- Optimiere erst zum Schluss
+- Keine Überstunden
+
+##### Testen
+
+- Unit Tests für den gesamten Code
+- Bei einem gefundenen Fehler muss ein Test generiert werden
+- Akzeptanztest
+	- näher an den User Stories, nicht so nah an den Software Modulen
+	- ersetzen die High-Level-Spezifikationen des Systems
+	- Wells: sollten automatisiert werden
+
+#### Erweiterte XP Praktiken
+
+##### Primärpraktiken
+
+- Team sitzt räumlich zusammen
+- Komplettes Team
+	- alle nötigen Fähigkeiten müssen im Team vorhanden sein
+- Arbeitsumgebung: Informativ, Freiraum
+- Ten-Minute Build
+- Wöchentlicher Zyklus
+	- Iterationslänge reduzieren auf 1 Woche
+- Vierteljährlicher Zyklus
+	- Viertljährliche Releases
+	- vierteljährliche Reflexionssitzungen
+
+##### Folgepraktiken
+
+- Teamkontinuität
+	- Auseinander reißen von Teams vermeiden
+- Teams können schrumpfen
+	- Wenn das Team mit der Zeit effektiver arbeitet, sollte der Workload trotzdem gleich bleiben, und eher die Anzahl der Teammitglieder sinken
+- Ursachenanalyse
+	- Beim Fund eines Fehlers: Systemtest, Unit Test, Behebung. Warum gab es vorher keinen Test?
+- Tägliche Code Integration
+- Vertrag mit verhandelbaren Umfang
+- Pay-Per-Use
+	- Kunde zahlt nur soviel, wie viel er die Software auch nutzt
+	- Steigert die Motivation der Entwickler, Software zu entwickeln, die auch gerne genutzt wird
+
 
 ### Kanban
 
