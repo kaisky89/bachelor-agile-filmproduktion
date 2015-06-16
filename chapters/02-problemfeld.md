@@ -174,7 +174,37 @@ Während andere Vorgehensmodelle Meta Modelle sind, also keine konkreten Methode
 - Systemmetapher
 	- Eine Metapher für das System, welches alle Projektbeteiligten kennen und verstehen
 	- Beispiel: Automobilproduktionslinie im C3 Projekt
-- CRC Karten
+- CRC Karten (Class, Responsibilities and Collaboration Cards)
+	- Jede Karte eine Klasse (Class)
+	- schlicht, in maximal 4 Halbsätzen formulieren, was die Klasse leisten soll (Responsibilities)
+	- mit welcher Klasse sie dafür in Wechselwirkung steht
+- Spike Solutions
+	- Prototypenhafte Implementierung eines aufgetauchten technischen Problems
+	- "quick and dirty" Lösung
+	- Code wird danach meist weggeworfen
+- Refactoring
+	- Umstrukturierung des Designs
+	- mit der Zeit wird aus jedem guten Design ein schlechtes Design (Problem der *Software-Entropie*)
+	- Beispiel: Interface mehrerer Klassen entwerfen, die unabhängig voneinander entworfen worden sind
+	- Meistens wird gute Software mit Refactoring Unterstützung notwendig
+
+##### Kodieren
+
+- Der Kunde ist immer verfügbar
+	- Kunde ist Teil des Teams
+	- schnelle Reaktion auf sich ändernde Kundenwünsche
+	- Einwand: Kunde bekommt zu viel vom Projekt (auch die Fehler) mit. Vertrauensverlust? Nein, meist das Gegenteil
+	- Kommunikation mit dem Kunden ist kein Selbstläufer
+- Kodierungsstandards
+- Test zuerst programmieren
+	- Tests ersetzen eine detailierte Spezifikation
+	- Unit Tests! Systemtests eher zweitrangig
+- Pair Programming
+	- 2 Programmierer teilen sich 1 Computer
+	- abwechelndes Denken: taktisch und strategisch
+	- Beck: Qualität wird besser
+	- Beck: Geschwindigkeit eines 2er Teams = 2 Einzelkämpfer
+- Code-Integration
 
 ### Kanban
 
