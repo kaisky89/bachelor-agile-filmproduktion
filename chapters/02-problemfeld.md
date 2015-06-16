@@ -117,6 +117,65 @@ Unterscheidung: Meta - Modelle und Methoden
 
 ### XP
 
+Während andere Vorgehensmodelle Meta Modelle sind, also keine konkreten Methoden vorschreiben, sagt XP klar, welche Methoden für was benutzt werden sollen.
+
+#### Die 5 Werte
+
+- Kommunikation
+	- Interne Kommuniation
+	- Kommunikation mit dem Kunden ("Kunde vor Ort")
+- Einfachheit
+	- KISS / YAGNI
+- Feedback
+	- Systemtests ersetzen Spezifikationen (System gibt auskunft über Funktionalität und Erfolg)
+	- Feedback vom Kunden: Vorstellungen lassen sich nicht von Anfang an klar spezifizieren. 
+	- Qualifiziertes Feedback des Kunden (späterer Anwender) in der Sprache des Kunden
+	- Die Möglichkeit, frühes Kunden Feedback einzuholen, ist wichtiger als fehlerfreie Funktionen (?)
+- Mut
+	- Refactoring (Code neu schreiben)
+	- Transparenz gegenüber dem Kunden
+	- Änderung des Vorgehensmodells
+- Respekt
+
+#### Die 14 Prinzipien
+
+#### Die Praktiken
+
+##### Planung
+
+- User Stories
+	- Nur kurzes Anreißen des Arbeitpakets. 
+	- Details werden direkt während der Implementierung mit dem Kunden geklärt.
+- Release Planung
+	- 3 Parteien: Entwickler (will zeitliche Puffer), Geschäftsleitung (will möglichst schnell sein), Kunde (steht zwischen den Fronten)
+	- 4 Variablen: Umfang, Ressourcen, Zeit, Qualität (sollte immer maximal sein)
+	- ???
+- Kleine Releases
+- Messung der Projektgeschwindigkeit
+- Iterationsplanung
+	- Programmierer nehmen ganze User Story
+	- Von Anfang an Testfälle entwickeln zum Messen des Zielerreichungsgrad
+- Move People around
+	- dürftige Dokumentation: viel Wissen in den Köpfen der Entwickler
+	- Reduzierung des *Truck-Faktor*s duch beteiligung der Teammitglieder in allen Bereichen
+	- Manchmal schwierig, Teammitglieder von diesem generalistischen Ansatz zu überzeugen
+- Stand-Up Meeting
+	- "Sitzung" im stehen abhalten
+	- klare, präzise und schnelle Kommunkation
+- Fix XP When it Breaks
+
+##### Design
+
+- Einfachheit des Designs
+	- Architektur nur für die in der anstehenden Iteration benötigten Kriterien entwerfen
+	- daraus folgt: Gesamtarchitektur erst mit der letzten Iteration fertig
+	- Funktionalität nicht früher als nötig einbauen
+	- kann sein, dass andere Funktionalität später überflüssig sein wird
+- Systemmetapher
+	- Eine Metapher für das System, welches alle Projektbeteiligten kennen und verstehen
+	- Beispiel: Automobilproduktionslinie im C3 Projekt
+- CRC Karten
+
 ### Kanban
 
 ### Scrum
