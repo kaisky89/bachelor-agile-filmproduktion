@@ -119,11 +119,16 @@ Unterscheidung: Meta - Modelle und Methoden
 
 Als erstes Vorgehensmodell soll das "eXtreme Programming" - oder kurz: XP - betrachtet werden. XP wurde von Kent Beck 19?? <!--TODO Wann genau??--> zum ersten mal eingesetzt und gilt als eines der ersten Vorgehensmodelle, die die Ansätze und Prinzipien von Agiler Softwareentwicklung in einem ganzheitlichem Rahmen umsetzen. <!--TODO Ist das so? Belege?--> 
 
-Der größte Unterschied zu den anderen Vorgehensmodellen, die nachfolgend betrachtet werden, ist, dass XP klar vorschreibt, welche Methoden und Techniken für die Umsetzung des Vorgehensmodells zu benutzen sind. Scrum und Kanban sind eher Meta Modelle, das heißt, sie beschreiben das Vorgehen auf der Meta Ebene und es nicht nur zulassen sondern es erfordern, dass 
+Der größte Unterschied zu den anderen Vorgehensmodellen, die nachfolgend betrachtet werden, ist, dass XP klar vorschreibt, welche Methoden und Techniken für die Umsetzung des Vorgehensmodells zu benutzen sind. Scrum und Kanban sind eher Meta Modelle, das heißt, sie beschreiben das Vorgehen auf der Meta Ebene. Sie lassen ein ein individuelles Auswählen der konkreten Techniken zur Umsetzung nicht nur zu, sondern machen dies sogar erforderlich. Viele Aspekte der Umsetzung werden in diesen Modellen bewusst offen gehalten. XP ist da anders. Es schreibt ganz konkrete Praktiken und Regeln vor, die benutzt werden sollen. Kent Beck <!--ZITAT Kent Beck--> verlangt sogar, dass XP nur in der Gesamtheit aller Methoden übernommen werden kann. 
 
-Während andere Vorgehensmodelle Meta Modelle sind, also keine konkreten Methoden vorschreiben, sagt XP klar, welche Methoden für was benutzt werden sollen.
 
 #### Die 5 Werte
+
+Die Praktiken und Regeln in XP unterliegen den 5 Werten von XP: *Kommunikation*, *Einfachheit*, *Feedback*, *Mut* und *Respekt*.
+
+##### Kommunikation
+
+Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt nicht von Einzelkämpfern, sondern von einem Team geleistet wird, ist es 
 
 - Kommunikation
 	- Interne Kommuniation
