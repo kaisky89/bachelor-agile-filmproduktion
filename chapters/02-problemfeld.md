@@ -320,7 +320,7 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 - Tägliches Standup Meeting vor dem Board
 - aktueller Status wird kommuniziert
 - blockierte Aufgaben werden angesprochen
-
+<!-- -->
 - Außerdem: Retrospektiven Treffs, um Arbeitsprozess zu reflektieren
 
 
