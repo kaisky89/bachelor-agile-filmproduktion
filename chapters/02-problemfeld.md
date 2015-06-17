@@ -352,6 +352,38 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 
 #### Leerlaufzeiten
 
+- Durch Leerlaufzeiten können Mitarbeiter sinnvolle Tätigkeiten machen, die schon länger auf der Strecke geblieben sind: Automatisierungen, neue Dinge lernen, liegengebliebene Aufgaben aufgreifen
+- Durchsatz bleibt gleich, aber Mitarbeiter haben Zeit für Qualität und sonstiges
+- Konflikt: Klassisches Management: Auslastung einzelner Mitarbeiter optimieren. Lean Thinking: Durchlaufzeiten für einzelne Aufgaben optimieren.
+- Leerlaufzeit = Verbesserungspotenzial
+
+#### Pull Prinzip
+
+- Push: Zuweisung durch den Vorgesetzten
+- Pull: Mitarbeiter "zieht" sich neue Aufgaben, wenn ausreichend Kapazität vorhanden ist
+- Pull bedeutet VERTRAUEN. Dass Mitarbeiter nicht im Internet surfen, oder Kaffee trinken, sondern selbst Verantwortung übernehmen, motiviert sind, und ihr Bestes geben
+- Was mit Deadlines? Serviceklassen. Aber: Wenn Tickets beschleunigt werden, ist das System nicht mehr so gut vorhersagbar.
+
+#### Kanban verändert die Arbeit
+
+- Vorgesetzter kann nicht sofort neue Aufgaben zuweisen
+- Vorgesetzter muss sich um Probleme "nicht technischer Natur" kümmern. (Bildschirme, Möbel besorgen)
+- Aber: Es geht darum, dass das Team produktiv sein kann. Durchsatz!
+- Kennzahlen für die Kommunikation an das Management leicht erfassbar (Durchschnittliche Durchlaufzeit, Gesamt-Durchsatz)
+- Anhand der Durchlaufzeit können Verbesserungen vorgenommen
+
+#### Systemisches Denken
+
+- Problem: Lokale Optimierungen führen nicht zur Verbesserung des Systems. Wenn man als Mitarbeiter nur seine lokale Umgebung sieht, dann kann man nicht über Optimierung des Systems nachdenken. Die Motivation der einzelnen Mitarbeiter wird nur in den lokalen Optimierungen liegen, und so bilden sich eher Fronten zwischen den einzelnen Prozessschritten, als das sich das Systems in seiner Gesamtheit verbessert.
+- Lösung: Mitarbeiter müssen motiviert werden, ihre Arbeit im Gesamt System zu sehen. Hauptmotivation: "Wie schaffen wir es als Gesamt-System, unseren Kunden möglichst oft Ergebnisse mit möglichst viel Wert auszuliefern?"
+- Grenzen aufweichen
+- Manager bestimmen nicht über Mitarbeiter, sondern verbessern das System, "sodass Teams optimale Leistung bringen [...]"
+
+### Was leistet Kanban?
+
+- Einfache Mittel, kurze Zeit: Transparenz über akutellen Zustand und akute Probleme
+- 
+
 
 
 
