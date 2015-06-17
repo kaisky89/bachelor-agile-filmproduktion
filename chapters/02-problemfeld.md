@@ -323,6 +323,37 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 <!-- -->
 - Außerdem: Retrospektiven Treffs, um Arbeitsprozess zu reflektieren
 
+#### Messungen
+
+- Wichtigstes Maß: Durchlaufzeit einer Arbeitsaufgabe
+- Ziel: Durchlaufzeit verringern
+- Viele / Alle Probleme wirken sich auf die Durchlaufzeit aus
+- Weitere Kennzahlen: Menge an WIP, Fehlerrate, Termintreue, Anzahl der Blockaden.
+- Nur das messen, was Erkenntnisgewinn verspricht.
+- Ergebnisse für jeden gut zugänglich!
+
+### Kanban in der Praxis
+
+- Board in der Näher der Kaffee Maschine
+- Einfache Mittel machen schnell Probleme deutlich
+- Transparenz kann nur durch Vertrauen geschaffen werden
+- Wenn Mitarbeiter wegen Ehrlichkeit unter Druck geraten, geht die Transparenz verloren
+- Flipchart neben dem Board mit den Regeln
+
+<!-- -->
+
+#### WIP Limit
+
+- Gewinn von Geschwindigkeit durch kleine WIP Limits (Little's Law)
+- Kontextwechsel vermeiden
+- Qualität: Multitasking führt zu Fehlern
+- Überlastung vermeiden
+- Engpässe vermeiden
+
+#### Leerlaufzeiten
+
+
+
 
 
 
