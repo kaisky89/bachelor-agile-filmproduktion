@@ -290,6 +290,42 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 
 ### Prinzipien von Kanban
 
+- Kanban Board: IST-Zustand Visualisieren
+	- einfach, gut sichtbar
+	- Spalte: Arbeitsschritt
+	- Karte: Aufgabe
+	- wichtig: IST-Zustand, nicht Soll Zustand
+- Arbeit limitieren
+	- Spalten haben jeweils ein Limit, wieviele Karten sie beinhalten dürfen
+	- Limit: Zahl an der Spaltenüberschrift
+	- WIP = Work in Progess
+- Pull System
+	- Aufgaben werden nicht zugewiesen, sondern eigenverantwortlich "gezogen"
+	- Keine Zeitlimits
+	- Vertrauen der Führungskräfte in ihre Mitarbeiter
+	- Nachhaltige Entwicklungsgeschwindigkeit (mit WIP Limits)
+- Systemisches Denken
+	- Entscheidende Größe: Durchsatz
+	- Gesamtes System muss im Auge behalten werden
+	- Beispiel: Qualitative Entwicklung nimmt vielleicht viel Zeit für die Entwicklung ein, dafür ist Testing und Ausliefern viel schneller. Qualität kann, obwohl im lokalen Kontext die Entwicklung vielleicht länger dauert, im ganzen System dafür sorgen, dass der Durchsatz erhöht wird.
+
+### Kontinuierliche Verbesserungen
+
+- auch "Kaizen" genannt
+- kleine Verbesserungen: viel Geduld
+- es gibt immer Verbesserungen: Software Entwicklung ist ein flexibles Umfeld und benötig immer wieder Veränderung
+
+#### Feedback Meetings
+
+- Tägliches Standup Meeting vor dem Board
+- aktueller Status wird kommuniziert
+- blockierte Aufgaben werden angesprochen
+
+- Außerdem: Retrospektiven Treffs, um Arbeitsprozess zu reflektieren
+
+
+
+
 
 
 ## Scrum
