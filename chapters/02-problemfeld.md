@@ -256,7 +256,7 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 	- Steigert die Motivation der Entwickler, Software zu entwickeln, die auch gerne genutzt wird
 
 
-## Kanban
+## Kanban (aus "Agiles Projektmanagement")
 
 ### Geschichte von Kanban
 
@@ -407,6 +407,28 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 	- Zeit für langsame Veränderungen
 - Kaizen darf nicht vernachlässigt werden
 - Tooleritis: Kein elektronisches Board!
+
+## Kanban: Epping
+
+### Begriffe
+
+#### Wert
+
+> Ein Wert ist ein abstraktes Ziel, das mit einem nicht verhandelbaren Nutzen verbunden ist.
+> Akzeptiert eine Person einen Wert, so erkennt diese Person den Nutzen des Werts kompromisslos an. Erkennt umgekehrt eine Person den Nutzen eines Werts nicht kompromisslos an, so akzeptiert diese Person den Wert nicht.
+
+- Werte haben fundamentalen Charakter
+- schwierig, wenn Werte im Privatleben nicht mit Werten des Projektes übereinstimmen
+
+#### Element
+
+> Ein Element ist ein allgemeines Vorgehen, das durch einen abstrakten Wert motiviert ist und den Nutzen des Werts (oder kurz: den Wert) realisieren soll.
+> Ein Wert kann durch mehrere, verschiedene Elemente realisiert werden; umgekehrt kann ein Element mehrere, verschiedene Werte realisieren.
+
+#### Vorgehensmodell
+
+> Ein Vorgehensmodell ist eine Zusammenstellung von Elementen, die auf einem oder mehreren Werten basieren und von denen jedes durch eine oder mehrere Techniken umgesetzt wird.
+
 
 
 
