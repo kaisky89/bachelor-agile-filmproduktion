@@ -258,6 +258,40 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 
 ## Kanban
 
+### Geschichte von Kanban
+
+- Kanban kommt ursprünglich aus der Automobilindustrie
+	- Toyota
+	- Just in Time (Lagerbestände reduzieren - Überproduktion und Mangel eliminieren)
+	- Signalkarten, um Produktionsschritte zu synchronisieren
+	- Beispiel: Burger Produktion
+
+### Transfer in die Software Welt
+
+- Software ist keine Fließbandproduktion
+- Hohes Maß an Kreativität, Ungewissheit und Variabilität
+- Aber: Allgemeine Prinzipien lassen sich übernehmen (Pull, Flow)
+- Software-Kanban != Produktions-Kanban
+
+### Evolutionäres Change Management
+
+- David Anderson
+- Ausgangspunkt: Ist Zustand
+- Änderungen in kleinen Schritten
+
+### Vorteile von Kanban
+
+- Macht Probleme im Arbeitsablauf schnell sichtbar, regt zur Diskussion an
+- Durchlaufzeiten verkürzen
+- Engpässe erkennen
+- Überlastung von Mitarbeitern abbauen
+- Prozesse vorhersagbar machen
+- Akzeptanz der Beteiligten für Änderungen am Prozess erhöhen
+
+### Prinzipien von Kanban
+
+
+
 ## Scrum
 
 ## Welches Vorgehensmodell ist "das Beste"?
