@@ -382,12 +382,31 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 ### Was leistet Kanban?
 
 - Einfache Mittel, kurze Zeit: Transparenz über akutellen Zustand und akute Probleme
-- 
+- WIP-Limit: Kurze Durchlaufzeiten
+- Regelmäßige Meetings / Fokus auf Durchlaufzeiten: Diskussionen / verbesserte Zusammenarbeit im Gesamtsystem
+- nachhaltige Geschwindigkeit
 
+<!-- -->
 
+#### Kanban ist kein Wundermittel
 
+- zeigt Probleme, das Team muss sie lösen
+- zeigt kontinuierlich die Probleme im System und sorgt somit für immer wieder kleine aber stetige Verbesserungen
+- Kanban selbst muss eingeführt werden. Ein Board an der Wand macht Mitarbeiter nicht zu selbstständige und Eigenverantwortliche Menschen.
 
+### Was ist Kanban nicht?
 
+- KEINE Entwicklungsmethode. Keinerlei Aussagen darüber, WIE entwickelt werden soll. Keine Aussage über Planung, Organisation. Nimmt die momentane Situation und sorgt in kleinen Schritten für Optimierungen.
+- Keine Konkurrenz zu Vorgehensmodelle wie XP oder Scrum
+
+### Häufige Fehler
+
+- Kriterien für Kanban
+	- Wiederkehrende Prozessschritte 
+	- Bereitschaft der Beteiligten
+	- Zeit für langsame Veränderungen
+- Kaizen darf nicht vernachlässigt werden
+- Tooleritis: Kein elektronisches Board!
 
 
 
