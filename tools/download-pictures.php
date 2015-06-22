@@ -10,14 +10,30 @@ function downloadPictures($pathToFile)
 
   foreach ($out[1] as $url) {
 
+    # nur der Dateiname, nicht der ganze Pfad
     $urlParted = explode("/", $url);
     $filename = $urlParted[count($urlParted)-1];
-    $newFileNameArray = explode(" ", urldecode($filename));
-    $newFileName = "";
-    foreach ($newFileNameArray as $fileNamePart) {
-      $newFileName .= $fileNamePart;
+
+    # Leerzeichen entfernen
+    $noSpacesArray = explode(" ", urldecode($filename));
+    $noSpaces = "";
+    foreach ($noSpacesArray as $fileNamePart) {
+      $noSpaces .= $fileNamePart;
     }
+
+    # Punkte entfernen
+
+    ## Endung
+    $noPeriodArray = explode(".", $noSpaces);
+    $ending = array_pop($noPeriodArray);
+
+    ## Datei Name
+    $noPeriod = "";
+    foreach ($noPeriodArray as $fileNamePart) {
+      $noPeriod .= $fileNamePart;
+    }
+
     
-    `cd tex/images/ && wget -N $url -O $newFileName`;
+    `cd tex/images/ && wget -N $url -O $noPeriod`;
   }
 }
