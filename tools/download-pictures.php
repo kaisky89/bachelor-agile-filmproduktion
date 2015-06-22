@@ -33,7 +33,11 @@ function downloadPictures($pathToFile)
       $noPeriod .= $fileNamePart;
     }
 
+    ## Beide Dateihälften wieder zusammen fügen
+
+    $newFileName = $noPeriod.$ending;
+
     
-    `cd tex/images/ && wget -N $url -O $noPeriod`;
+    `cd tex/images/ && wget -N $url -O $newFileName`;
   }
 }
