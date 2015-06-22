@@ -485,7 +485,7 @@ David J. Anderson:
 
 ### Der Prozess
 
-<!--![Schematische Darstellung des Scrum Prozesses](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2012.06.07.png)-->
+![Schematische Darstellung des Scrum Prozesses](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2012.06.07.png)
 
 - Vision des Product Owners
 	- kurze Beschreibung des Produkts
