@@ -485,7 +485,7 @@ David J. Anderson:
 
 ### Der Prozess
 
-<!--![](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2012.06.07.png)-->
+<!--![Schematische Darstellung des Scrum Prozesses](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2012.06.07.png)-->
 
 - Vision des Product Owners
 	- kurze Beschreibung des Produkts
@@ -499,19 +499,60 @@ David J. Anderson:
 
 - Länge max. 30 Tage. Fixe Sprintlänge, nicht variieren.
 
-- Sprint Planungssitzung: 
-	- Sprint Ziel definieren
-	- Sprint Backlog wird erstellt (=Anforderungen für das nächste Inkrement) (
-	- 
+#### Sprint Planungssitzung
 
+- Sprint Ziel definieren
+- Sprint Backlog wird erstellt (=Anforderungen für das nächste Inkrement) (
+- Elemente des Sprint Backlogs kommen aus dem priorisiertem Product Backlog
+- Ergebnis: Realistisches Sprint Backlog. Team, das sich zu dessen Realisierung verpflichtet hat.
 
+#### Daily Scrum
 
+- täglich, gleicher Ort, gleiche Zeit. 
+- Kurze Sitzung (Timebox: 15 Minuten). 
+- Team und ScrumMaster müssen anwesend sein. 
+- Product Owner sollte anwesend sein. 
+- Status und Probleme ansprechen und Aufgaben besprechen.
+- Jeder aus dem *Team* beantwortet folgende 3 Fragen:
+	- Was habe ich seit dem letzten Daily Scrum für das Projekt getan?
+	- Wass will ich bis zum nächsten Daily Scrum für das Projekt tun?
+	- Was hindert mich daran, so effektiv wie möglich zu arbeiten?
+- ScrumMaster und Product Owner sorgen für die Beseitigung der Probleme
+- Häufige Empfehlung: *Standup Meetings*.
 
-	- Sprint: Team entwickelt ohne Störung von außen und ohne Veränderung der Anforderungen
-	- Daily Scrum: täglich, gleicher Ort, gleiche Zeit. Kurze Sitzung (Timebox). Team und ScrumMaster müssen anwesend sein. Product Owner sollte anwesend sein. Status und Probleme ansprechen und Aufgaben bespre
-	- Sprint Review: Präsentation und Abnahme des Software Inkrements (Vollständig und fehlerfrei)
-	- Sprint Retrospektive: Interne Reflektion zum Sprint. Zusammenarbeit des Teams. Verbesserungsmaßnahmen.
-	- 
+#### Entwicklung im Sprint
+
+- Team entwickelt ohne Störung von außen und ohne Veränderung der Anforderungen
+- Scrum: Keine Vorgaben für Entwicklungspraktiken: empfehlenswert sind agile Methoden wie z. B. aus XP
+
+#### Sprint Review
+
+- Präsentation und Abnahme des Software Inkrements (Vollständig und fehlerfrei) vor dem Product Owner
+- Timebox: 4 Stunden
+- Live Demo / Product Owner führt selbst Tests an der Software durch
+- Product Owner entscheidet, ob das Ergebnis zufriedenstellend ist.
+
+#### Sprint Retrospektive
+
+- Timebox: 3 Stunden
+- Interne Reflektion zum Sprint. Bewertung der Zusammenarbeit des Teams. Verbesserungsmaßnahmen.
+- Auswahl und Entscheidung über die Verwendung agiler Praktiken.
+- Teilnehmer: Team, ScrumMaster (soll). Product Owner (kann)
+- Ziel: Optimierung des Prozesses
+
+### Artefakte
+
+#### Product Backlog
+
+- zentrales Dokument zum Erfassen und Verwalten von Anforderungen
+- 1 Item = Funktionalität
+- evtl. User Storys für die Anforderungsspezifikation
+- Priorisierung. Detailierung. Aufwandsschätzung
+
+#### Sprint Backlog
+
+ - Backlog, dass die Aufgaben des aktuellen Sprints auflistet
+ - entsteht in der Sprint Planungssitzung
 
 
 ## Welches Vorgehensmodell ist "das Beste"?
