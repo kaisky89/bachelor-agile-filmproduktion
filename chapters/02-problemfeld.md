@@ -552,7 +552,19 @@ David J. Anderson:
 #### Sprint Backlog
 
  - Backlog, dass die Aufgaben des aktuellen Sprints auflistet
+ - mithilfe dieser Aufgaben kann das Sprint Ziel erreicht werden
  - entsteht in der Sprint Planungssitzung
+ - Aufwand ist abgeschätzt ( <= 16 Stunden )
+ - Stellt den momentanen Status der Entwicklungsarbeit dar
+
+#### Releaseplan
+
+ - etwas umstritten: Prinzip des "Moving Targets": Ergebnis und Ziel lässt sich nicht 100% voraussagen
+ - daher: Releaseplan kann sich zwischen den Sprints ändern
+
+#### Burndown Chart
+
+<!--![Burndown Chart](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2014.33.50.png)-->
 
 
 ## Welches Vorgehensmodell ist "das Beste"?
