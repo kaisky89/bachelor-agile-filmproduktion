@@ -35,7 +35,7 @@ function downloadPictures($pathToFile)
 
     ## Beide Dateihälften wieder zusammen fügen
 
-    $newFileName = $noPeriod.$ending;
+    $newFileName = $noPeriod.".".$ending;
 
     
     `cd tex/images/ && wget -N $url -O $newFileName`;
