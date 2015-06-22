@@ -425,14 +425,94 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 > Ein Element ist ein allgemeines Vorgehen, das durch einen abstrakten Wert motiviert ist und den Nutzen des Werts (oder kurz: den Wert) realisieren soll.
 > Ein Wert kann durch mehrere, verschiedene Elemente realisiert werden; umgekehrt kann ein Element mehrere, verschiedene Werte realisieren.
 
+#### Technik
+
+> Eine Technik ist eine konkrete Umsetzung eines allgemeinen Elements.
+> Ein Element kann durch mehrere, verschiedene Techniken umgesetzt werden; umgekehrt kann eine Technik mehrere, verschiedene Elemente umsetzen.
+
 #### Vorgehensmodell
 
 > Ein Vorgehensmodell ist eine Zusammenstellung von Elementen, die auf einem oder mehreren Werten basieren und von denen jedes durch eine oder mehrere Techniken umgesetzt wird.
 
+<!-- -->
+
+> Ein Vorgehensmodell ist also durch die Menge seiner Elemente charakterisiert. Aus der daraus resultierenden Menge von Werten ergibt sich für jedes Softwareentwicklungsprojekt eine projektindividuelle Kultur. In dieser sind die abstrakten Bestandteile (Werte) deutlich bestimmend, aber wenig sichtbar und die konkreten Bestandteile (Techniken) wenig bestimmend, aber deutlich sichtbar.
+
+### Grundlagen
+
+#### Name
+
+- *Kan*: Signal
+- *Ban*: Karte
+
+#### Werte
+
+David J. Anderson:
+
+> Value first, then flow, then waste reduction/elimination.
+
+- Value
 
 
 
-## Scrum
+
+## Scrum: Hanser
+
+- Projekt**management**methode - Zentrales Thema: Ablauf des Projekts
+- Gründer: Ken Schwaber, Jeff Sutherland
+- Kein "Projektmanager"
+- Wesentliches Merkmal: Sprints
+
+### Projektrollen
+
+- Product Owner
+	- Übernimmt Sichtweise des Kunden
+	- Anforderungsmanagement: Pflege von *Produktkonzept* und *Product Backlog*
+	- Releasemanagement: Planung von Funktionalität, Kosten und Termine
+	- Kommunikation: Team - Stakeholder
+	- Product Owner braucht Vollmachten und Zeit (Vollzeit Job)
+- Team
+	- Selbstorganisiert und klein: Kein Teamleiter, Vollzeitmitgliedschaft der Mitglieder
+	- Gemeinsames Büro: *osmotische* Kommunikation
+	- Multidisziplinär / Autonom: Alle benötigten Fähigkeiten sollten vorhanden sein, aber nicht auf "traditionelle Projektrollen" beharren
+- ScrumMaster
+	- Prozessverantwortlicher: Freund / Coach des Teams
+	- Sorgt dafür, dass Prinzipien von Scrum funktionieren. (Korrektheit des Prozesses)
+	- Ziel: Team kann ich Ruhe arbeiten
+	- Unterstützt den Product Owner und die Kommunikation mit dem Team (und schützt vor Einflüsse des Product Owners während eines Sprints)
+	- Hindernisse beseitigen: Teampsychologie, falsch verstandene Teamrollen, ungeeigneter Product Owner.
+	- Dem Team dienen: Kollegialer Führungsstil
+
+### Der Prozess
+
+![](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2012.06.07.png)
+
+- Vision des Product Owners
+	- kurze Beschreibung des Produkts
+	- Abschätzung des Aufwands
+	- mögliche Meilensteine
+- ist es Sinnvoll, das Projekt anzugehen?
+- Product Backlog wird vom Product Owner gefüllt
+- Team arbeitet in Sprints den Product Backlog ab
+
+#### Sprint
+
+- Länge max. 30 Tage. Fixe Sprintlänge, nicht variieren.
+
+- Sprint Planungssitzung: 
+	- Sprint Ziel definieren
+	- Sprint Backlog wird erstellt (=Anforderungen für das nächste Inkrement)
+	- 
+
+
+
+
+	- Sprint: Team entwickelt ohne Störung von außen und ohne Veränderung der Anforderungen
+	- Daily Scrum: täglich, gleicher Ort, gleiche Zeit. Kurze Sitzung (Timebox). Team und ScrumMaster müssen anwesend sein. Product Owner sollte anwesend sein. Status und Probleme ansprechen und Aufgaben bespre
+	- Sprint Review: Präsentation und Abnahme des Software Inkrements (Vollständig und fehlerfrei)
+	- Sprint Retrospektive: Interne Reflektion zum Sprint. Zusammenarbeit des Teams. Verbesserungsmaßnahmen.
+	- 
+
 
 ## Welches Vorgehensmodell ist "das Beste"?
 
