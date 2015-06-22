@@ -564,7 +564,7 @@ David J. Anderson:
 
 #### Burndown Chart
 
-<!--![Burndown Chart](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2014.33.50.png)-->
+![Burndown Chart](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2014.33.50.png)
 
 
 ## Welches Vorgehensmodell ist "das Beste"?
