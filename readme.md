@@ -85,7 +85,7 @@ Welche Methoden sehen erfoglreich aus, welche zeigen noch Verbesserungsbedarf? H
 | Meilenstein                              | Datum (Woche)   |
 |------------------------------------------|-----------------|
 | Anmeldung der Bachelor Arbeit            | 15.06.2015 (0)  |
-| “Problemfeld aufmachen” abgeschlossen    | 25.06.2015 (1,5)|
+| “Problemfeld aufmachen” abgeschlossen    | 29.06.2015 (2)  |
 | “Anforderungen definieren” abgeschlossen | 06.07.2015 (3)  |
 | “Vorgehen entwickeln” abgeschlossen      | 16.07.2015 (4,5)|
 | “Vorgehen testen” abgeschlossen          | 27.07.2015 (6)  |
