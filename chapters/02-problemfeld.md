@@ -485,7 +485,7 @@ David J. Anderson:
 
 ### Der Prozess
 
-![](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2012.06.07.png)
+<!--![](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2012.06.07.png)-->
 
 - Vision des Product Owners
 	- kurze Beschreibung des Produkts
@@ -501,7 +501,7 @@ David J. Anderson:
 
 - Sprint Planungssitzung: 
 	- Sprint Ziel definieren
-	- Sprint Backlog wird erstellt (=Anforderungen für das nächste Inkrement)
+	- Sprint Backlog wird erstellt (=Anforderungen für das nächste Inkrement) (
 	- 
 
 
