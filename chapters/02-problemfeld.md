@@ -102,22 +102,24 @@ Ein weiterer Nachteil des Wasserfallmodells ist, dass Probleme *verschleppt* wer
 
 ### Spiralmodell
 
+Software Entwicklung nach dem Wasserfallmodell sieht aus der Sicht des Auftraggebers wie folgt aus: Nachdem der Auftragnehmer der Ansicht ist, die Anforderungen verstanden zu haben, verschwindet er für einen längeren Zeitraum von der Bildfläche und meldet sich dann nach längerer Zeit wieder mit einem *fertigem* Software Produkt. Leider ist dieses Produkt erwartungsgemäß nicht das, was der Auftraggeber wirklich braucht, und somit ist ein Teil - wenn nicht im schlimmsten Fall sogar die ganze Arbeit - der Entwicklung unbrauchbar.
+
+Dies liegt vor allem an der Herausforderung des Auftraggebers, die Anforderungen zu identifizieren, spezifizieren und verifizieren zu können. Es gibt hier mehrere Probleme:
+
+- Der Auftragnehmer versteht die Problemstellung des Auftragnehmers nicht richtig
+- Der Auftraggeber ist sich seiner eigenen Problemstellung nicht vollständig bewusst
+- Die Anforderungen ändern sich
+
+Die Unschärfe, die diese Probleme der Anforderungsanalyse mit sich bringen, kann man als "Moving Target" bezeichnen. (siehe dazu <!--TODO Referenz: Die Vision des Endprodukts als "Moving Target" -->
+
 ![Die Vision des Endprodukts als "Moving Target"](http://download.heart-co.de/Bildschirmfoto%202015-06-27%20um%2018.48.22.png)
 
 <!--TODO selber Zeichnen. Zitieren aus Hanser-->
 
-<!--TODO Zitat: Barry Boehm nach Hanser -->
-
-### Iterativ
-schwierig zu planen
-
-### Inkrementell
-
-angepasstes Vertragsmodell  
-stark zusammenhängend mit iterativ  
+<!--TODO Zitat: Barry Boehm nach Hanser --> schlug in den 1980er Jahren also das Spiralmodell vor, dass einen iterativ-inkrementellen Ansatz verfolgte. Inkrementell bedeutet, anstatt das vollständige Produkt der Software auf ein mal zu entwickeln, was meist mehrere Jahre in Anspruch nimmt, schlägt Boehm vor, die Software in kleineren Paketen auszuliefern. Die einzelnen Pakete bauen aufeinander auf und erweitern die Software Stück für Stück um die gewünschten Funktionen. Iterativ bedeutet, dass für die Entwicklung jedes Inkrements (Pakets) die verschiedenen Phasen 
 
 
-## Schwergewichtige Vorgehensmodelle
+## Schwer- und leichtgewichtige Vorgehensmodelle
 
 Unterscheidung Schwergewichtig und leichtgewichtig
 
