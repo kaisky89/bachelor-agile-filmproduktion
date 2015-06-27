@@ -98,12 +98,13 @@ Vorteil bei diesem Modell ist die wahrgenommene Einfachheit in seiner Umsetzung.
 
 Allerdings bietet dieses Vorgehensmodell Nachteile, die gerade in Software Entwicklung negative Konsequenzen mit sich tragen. Das Wasserfallmodell geht davon aus, dass jede Phase zu einem definierten Zeitpunkt *abgeschlossen* ist. Das bedeutet, dass es z. B. einen Zeitpunkt gibt, an dem man behaupten kann, die Spezifikation der Anforderungen sei abgeschlossen und die nächste Phase könne nun beginnen. Was geschieht nun aber, wenn in der nächsten Phase deutlich wird, dass gewisse Anforderungen nicht detailliert genug spezifiziert worden sind, oder sogar gar nicht beachtet wurden? Im Wasserfallmodell wird so etwas nicht mit in Betracht gezogen. Gerade in der Software Entwicklung ist es aber häufig der Fall, dass sich Anforderungen ändern, oder dass sie nicht klar genug spezifiziert worden sind. Da das Wasserfallmodell ein zurück gehen in eine vorherige Phase nicht vor sieht, ist es für solche Situationen nicht geeignet.
 
-Ein weiterer Nachteil des Wasserfallmodells ist, dass Probleme *verschleppt* werden, ohne dass dies offensichtlich ist. Grund dafür ist die 
-
-Anforderungen unklar.  
-Probleme werden "verschleppt"  
+Ein weiterer Nachteil des Wasserfallmodells ist, dass Probleme *verschleppt* werden, ohne dass dies offensichtlich ist. Grund dafür ist die Tatsache, dass eine Verifikation erst am Ende des Prozesses stattfinden kann; erst, wenn der komplette Prozess der Software Entwicklung abgeschlossen ist, kann der Auftraggeber überprüfen, ob das entwickelte Software Produkt seinen Anforderungen und Erwartungen entspricht. Wenn am Ende der Entwicklung deutlich wird, dass bestimmte Anforderungen oder Funktionen nicht richtig verstanden worden sind, kann darauf nicht mehr eingegangen werden. Das Wasserfallmodell sieht eine Korrektur durch den Auftraggeber so nicht vor. Es wird also deutlich, dass im Wasserfallmodell die Gefahr besteht, durch fehlendes Feedback des Auftraggebers ein Software Produkt zu entwickeln, das nicht den *realen Anforderungen* entspricht.
 
 ### Spiralmodell
+
+![Die Vision des Endprodukts als "Moving Target"](http://download.heart-co.de/Bildschirmfoto%202015-06-27%20um%2018.48.22.png) <!--TODO selber Zeichnen. Zitieren aus Hanser-->
+
+<!--TODO Zitat: Barry Boehm nach Hanser -->
 
 ### Iterativ
 schwierig zu planen
