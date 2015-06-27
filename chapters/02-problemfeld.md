@@ -102,7 +102,9 @@ Ein weiterer Nachteil des Wasserfallmodells ist, dass Probleme *verschleppt* wer
 
 ### Spiralmodell
 
-![Die Vision des Endprodukts als "Moving Target"](http://download.heart-co.de/Bildschirmfoto%202015-06-27%20um%2018.48.22.png) <!--TODO selber Zeichnen. Zitieren aus Hanser-->
+![Die Vision des Endprodukts als "Moving Target"](http://download.heart-co.de/Bildschirmfoto%202015-06-27%20um%2018.48.22.png)
+
+<!--TODO selber Zeichnen. Zitieren aus Hanser-->
 
 <!--TODO Zitat: Barry Boehm nach Hanser -->
 
