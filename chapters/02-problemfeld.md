@@ -31,12 +31,19 @@ Vorgehensmodelle gehören in der Informatik zum Bereich des Projektmanagement. P
 Das Vorgehensmodell im Projektmanagement beantwortet die folgenden 5 Fragen:
 
 **Wer** macht **Wann**, **Was** mit **Welchen Mitteln**, **Warum?** *(=mit welchem Ziel?)*
+<!--TODO Quelle? -->
+
+Aus diesen fünf Fragen ergeben sich also die fünf Bereiche, mit denen sich das Projektmanagent beschäftigt:
+
+### Wer
+
+Im Projektmanagement geht es um Menschen. Da diese innerhalb eines Projekt unterschiedliche Funktionen erfüllen, wird hier auch von *Rollen* gesprochen. 
+
+### Wann
+
 <!--TODO Muss noch weiter ausgeführt und recherchiert werden -->
 
-Wenn ein 
-
-Vorgehensmodelle in der Informatik beschreiben in abstrakter Form den Prozess der Software Entwicklung
-Nicht nur Aktivitäten, sondern auch Rollen und Artefakte
+<!-- Vorgehensmodelle in der Informatik beschreiben in abstrakter Form den Prozess der Software Entwicklung. Nicht nur Aktivitäten, sondern auch Rollen und Artefakte -->
 
 ## Phasen in der Software Entwicklung
 
@@ -76,10 +83,22 @@ Nach dem Kodieren wird die Software getestet, um zu validieren, dass sowohl das 
 
 ## Historie der Vorgehensmodelle
 
+Die Disziplin des Informatikers ist, verglichen zu anderen ingeneurischen Tätigkeiten wie z. B. der Architektur noch sehr jung. Während man in der Architektur von Projekten weiß, die bereits mehrere Jahrtausend Jahre her sind, ist die Informatik erst im letzten Jahrhundert entstanden und kann somit noch keine große Historie aufweisen. Das bedeutet einerseits, dass in vielen Bereichen der Informatik Verbesserungspotenzial besteht, andererseits gibt es 
+
+Und genau so wie die Informatik ist auch das Management von Projekten in der Informatik vergleichsweise jung. 
+
 Warum machen wir das?
 Da die Disziplin der Software Entwicklung und somit auch das Projektmanagement von Software Projekten noch relativ jung ist.
 
 ### Wasserfallmodell
+
+Das Wasserfallmodell ist der einfachste Ansatz, ein Software Entwicklungsprojekt umzusetzen. Hierfür können die Phasen aus <!--TODO Referenz: "Phasen in der Software Entwicklung" --> betrachtet werden. Das ganze Projekt läuft beim Wasserfallmodell diese Phasen der Reihe nach durch. Jede Phase wird dabei genau ein mal durchgeführt. Jede Phase baut auf den Ergebnissen der vorherigen Phase auf und hat als Ergebnis die Basis für die nächste Phase. Somit herrscht für jede Phase die Bedingung, dass alle vorhergehenden Phasen keine Fehler enthalten und vollständig bearbeitet wurden.
+
+Vorteil bei diesem Modell ist die wahrgenommene Einfachheit in seiner Umsetzung. Da die Phasen, die in einem Software Projekt durchlaufen werden, aufeinander aufbauen und dadurch einen gewissen kanonischen Aufbau darstellen, bietet es sich natürlich an, diesen Aufbau genau so auch zu übernehmen.
+
+Allerdings bietet dieses Vorgehensmodell Nachteile, die gerade in Software Entwicklung negative Konsequenzen mit sich tragen. Das Wasserfallmodell geht davon aus, dass jede Phase zu einem definierten Zeitpunkt *abgeschlossen* ist. Das bedeutet, dass es z. B. einen Zeitpunkt gibt, an dem man behaupten kann, die Spezifikation der Anforderungen sei abgeschlossen und die nächste Phase könne nun beginnen. Was geschieht nun aber, wenn in der nächsten Phase deutlich wird, dass gewisse Anforderungen nicht detailliert genug spezifiziert worden sind, oder sogar gar nicht beachtet wurden? Im Wasserfallmodell wird so etwas nicht mit in Betracht gezogen. Gerade in der Software Entwicklung ist es aber häufig der Fall, dass sich Anforderungen ändern, oder dass sie nicht klar genug spezifiziert worden sind. Da das Wasserfallmodell ein zurück gehen in eine vorherige Phase nicht vor sieht, ist es für solche Situationen nicht geeignet.
+
+Ein weiterer Nachteil des Wasserfallmodells ist, dass Probleme *verschleppt* werden, ohne dass dies offensichtlich ist. Grund dafür ist die 
 
 Anforderungen unklar.  
 Probleme werden "verschleppt"  
@@ -569,9 +588,9 @@ David J. Anderson:
 
 ## Welches Vorgehensmodell ist "das Beste"?
 
-Kann man so nicht sagen. Vorgehensmodelle müssen dem Projekt entsprechend ausgewählt werden. Manchmal kann auch ein Wasserfallmodell sinnvoll sein
+Kann man so nicht sagen. Vorgehensmodelle müssen dem Projekt entsprechend ausgewählt werden. Manchmal kann auch ein Wasserfallmodell sinnvoll sein.
 
-#Problemfeld Filmproduktion
+# Problemfeld Filmproduktion
 
 ## Klassisches Vorgehen in der Filmindustrie
 
