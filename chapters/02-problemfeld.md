@@ -110,33 +110,58 @@ Dies liegt vor allem an der Herausforderung des Auftraggebers, die Anforderungen
 - Der Auftraggeber ist sich seiner eigenen Problemstellung nicht vollständig bewusst
 - Die Anforderungen ändern sich
 
-Die Unschärfe, die diese Probleme der Anforderungsanalyse mit sich bringen, kann man als "Moving Target" bezeichnen. (siehe dazu <!--TODO Referenz: Die Vision des Endprodukts als "Moving Target" -->
+Die Unschärfe, die diese Probleme der Anforderungsanalyse mit sich bringen, kann man als "Moving Target" bezeichnen. (siehe dazu <!--TODO Referenz: Die Vision des Endprodukts als "Moving Target" -->)
 
 ![Die Vision des Endprodukts als "Moving Target"](http://download.heart-co.de/Bildschirmfoto%202015-06-27%20um%2018.48.22.png)
 
 <!--TODO selber Zeichnen. Zitieren aus Hanser-->
 
-<!--TODO Zitat: Barry Boehm nach Hanser --> schlug in den 1980er Jahren also das Spiralmodell vor, dass einen iterativ-inkrementellen Ansatz verfolgte. Inkrementell bedeutet, anstatt das vollständige Produkt der Software auf ein mal zu entwickeln, was meist mehrere Jahre in Anspruch nimmt, schlägt Boehm vor, die Software in kleineren Paketen auszuliefern. Die einzelnen Pakete bauen aufeinander auf und erweitern die Software Stück für Stück um die gewünschten Funktionen. Iterativ bedeutet, dass für die Entwicklung jedes Inkrements (Pakets) die verschiedenen Phasen 
+<!--TODO Zitat: Barry Boehm nach Hanser --> schlug in den 1980er Jahren das Spiralmodell vor, dass einen iterativ-inkrementellen Ansatz verfolgte. Inkrementell bedeutet, anstatt das vollständige Produkt der Software auf ein mal zu entwickeln, was meist mehrere Jahre in Anspruch nimmt, wird die Software in kleineren Paketen entwickelt. Die einzelnen Pakete bauen aufeinander auf und erweitern die Software Stück für Stück um die gewünschten Funktionen. Iterativ bedeutet, dass für die Entwicklung jedes Inkrements (Pakets) die einzelnen Phasen der Software Entwicklung durchlaufen werden.
+
+Mithilfe des Spiralmodells kann auf die Problemstellung des "Moving Targets" besser reagiert werden: Die Software wird schrittweise entwickelt und nach jedem Schritt wieder mit den Wünschen und Anforderungen des Auftraggebers oder des Anwenders abgeglichen. So kann sichergestellt werden, dass die Entwicklung der Software den Erwartungen des Auftraggebers entspricht. Bei ändernden Wünschen kann schnell darauf reagiert werden, da diese bereits in die nächste Iteration eingebaut werden können. 
+
+Ein weiterer Vorteil des Spiralmodells ist die Möglichkeit, dem Kunden schon früh funktionierende Software zeigen zu können. Zwar sind dies zu Anfang der Entwicklung nur kleine Teilaspekte von funktionierender Software, aber der Auftraggeber bekommt schnell einen Eindruck, wie die Software später aussehen und funktionieren wird. Dies ermöglicht dem Auftragnehmer, klarer zu kommunizieren, was entwickelt wird. Durch die Präsentation bereits funktionierender Software kann der Auftraggeber außerdem sehen, welche Funktionen noch fehlen. 
 
 
-## Schwer- und leichtgewichtige Vorgehensmodelle
+## Schwergewichtige Vorgehensmodelle
 
-Unterscheidung Schwergewichtig und leichtgewichtig
+Man unterscheidet zwischen schwergewichtige und leichtgewichtige Vorgehensmodelle. <!--TODO Zitat Hanser-->
+
+Schwergewichtige Vorgehensmodelle sind dokumentenlastig. Die Dokumentation und eine formale Strukturierung der Prozesses spielen hier eine wesentliche Rolle. Schwergewichtige Vorgehensmodelle eignen sich vor allem für die Entwicklung für Software, die in lebenskritischen Situationen zum Einsatz kommt. Das bedeutet, wenn die Fehlfunktion der Software eine Gefahr für Menschenleben birgt, oder die Entwicklung sonstiger strenger Auflagen standhalten muss und somit eine ausführliche Dokumentation und Planung wirklich notwendig ist, ist man gut beraten, sich dieser schwergewichtigen Vorgehensmodelle zu bedienen. Als Beispiel für schwergewichtige Vorgehensmodelle seien hier das V-Modell - XT und der Unified Software Development Process genannt. <!--TODO Zitat Hanser--> Die schwergewichtigen Vorgehensmodelle gelten als dokumentenlastig und damit auch als teuer, da viel Zeit und Arbeit in Dokumente investiert wird. Zwar sind auch in den schwergewichtigen Vorgehensmodelle Iterationen und das Entwickeln von Inkrementen vorhanden, allerdings gelten sie durch ihre formale Strukturierung trotzdem als eher unflexibel auf wechselnde Anforderungen.
+
+Im Gegensatz dazu stehen die leichtgewichtigen Vorgehensmodelle, die auch als agile Vorgehensmodelle bezeichnet werden. Auf diese soll im Folgenden näher eingegangen werden.
 
 
-## Was bedeutet “Agil”?
+## Agile Vorgehensmodelle
 
-
+Agil bedeutet "von großer Beweglichkeit zeugend; regsam und wendig" <!--TODO Zitat Wörterbuch-->, betont in dem Kontext von Vorgehensmodellen also die Möglichkeit, auf Änderungen schnell reagieren zu können. Agile Vorgehensmodelle sind die Antwort auf die schwergewichtigen Vorgehensmodelle, die durch ihre formalisierte Struktur und den Anspruch an eine ausführliche Dokumentation als träge und unflexibel gelten. Ein Vorgehensmodell ist agil, wenn es dem *agilen Manifest* entspricht.
 
 ### Agiles Manifest
 
-Individuen und Interaktionen mehr als Prozesse und Werkzeuge  
-Funktionierende Software mehr als umfassende Dokumentation  
-Zusammenarbeit mit dem Kunden mehr als Vertragsverhandlung  
-Reagieren auf Veränderung mehr als das Befolgen eines Plans  
+Das Agile Manifest (oder auch das "Manifest für Agile Softwareentwicklung") ist die Erklärung führender Software Entwicklungs Experten, bewusst auf die Schwergewichtigkeit in Vorgehensmodellen zu verzichten und somit ein schnelleres, flexibleres und auf Änderungen reaktionsfähigeres Vorgehen zu entwickeln. Somit entschlossen sie sich im Februar 2001 für die 4 Werte Agilen Manifests:
 
-Unterscheidung: Meta - Modelle und Methoden
+![Das "Manifest für Agile Softwareentwicklung"](http://download.heart-co.de/Bildschirmfoto%202015-06-29%20um%2014.28.14.png)
 
+<!--TODO Quelle: http://www.agilemanifesto.org/iso/de/ -->
+
+- **Individuen und Interaktionen** mehr als *Prozesse und Werkzeuge*
+- **Funktionierende Software** mehr als *umfassende Dokumentation*
+- **Zusammenarbeit mit dem Kunden** mehr als *Vertragsverhandlung*
+- **Reagieren auf Veränderung** mehr als das *Befolgen eines Plans*
+
+Wie auch schon in <!--TODO Referenz auf Das "Manifest für Agile Softwareentwicklung"--> beschrieben bedeutet dass, das die Werte auf der rechten Seite zwar immer noch ihren Stellenwert haben, aber die Werte auf der linken Seite einen höheren Stellenwert haben.
+
+Betrachtet man z. B. den zweiten Satz:
+
+> **Funktionierende Software** mehr als *umfassende Dokumentation*
+
+Dies bedeutet eben nicht, dass in agilen Projekten gar nicht mehr dokumentiert wird. Dokumentation hat immer noch seinen Stellenwert. Allerdings hat funktionierende Software einen höheren Stellenwert. Da, wo Dokumentation eingesetzt werden kann, um dem Ziel der funktionierenden Software näher zu kommen, darf und soll sie auch eingesetzt werden.
+
+Diese Interpretation kann genau so auf die anderen Sätze angewendet werden: Die Prozesse und Werkzeuge sollen die individuen und die Interaktionen unterstützen, der Vertrag soll die Zusammenarbeit mit dem Kunden fördern (dies ist meist ein nicht unkompliziertes Unterfangen) und der Plan sollte es möglich machen, auf Veränderungen reagieren zu können. 
+
+Wichtig ist an dieser Stelle dem schnell zu entstehenden Gedanken zu widersprechen, dass agile Softwareentwicklung willkürlich, chaotisch oder gar anarchisch sei. Das stimmt so nicht. Es gibt immer noch Dokumentation, und es gibt immer noch eine Form, sich zu organisieren und einen Plan. Die Betonung liegt nur darauf, dass dieser Plan flexibel ist und Veränderungen reagieren kann.
+
+Diese Leitsätze bilden ein Wertesystem ab, dass die Grundeinstellung in der agilen Softwareentwicklung erklärt. Für ein konkretes Vorgehen in einem Projekt gibt es allerdings keine große Hilfestellung. <!--TODO Zitat Hanser--> 
 ## XP
 
 Als erstes Vorgehensmodell soll das "eXtreme Programming" - oder kurz: XP - betrachtet werden. XP wurde von Kent Beck 19?? <!--TODO Wann genau??--> zum ersten mal eingesetzt und gilt als eines der ersten Vorgehensmodelle, die die Ansätze und Prinzipien von Agiler Softwareentwicklung in einem ganzheitlichem Rahmen umsetzen. <!--TODO Ist das so? Belege?--> 
