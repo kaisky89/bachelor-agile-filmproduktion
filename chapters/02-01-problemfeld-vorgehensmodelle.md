@@ -214,6 +214,12 @@ Auf Basis der vorgestellten Werte führt XP viele Praktiken und Regeln ein, die 
 
 ### Planung
 
+
+
+#### User Stories
+
+
+
 - User Stories
 	- Nur kurzes Anreißen des Arbeitpakets. 
 	- Details werden direkt während der Implementierung mit dem Kunden geklärt.
@@ -320,7 +326,9 @@ Auf Basis der vorgestellten Werte führt XP viele Praktiken und Regeln ein, die 
 	- Steigert die Motivation der Entwickler, Software zu entwickeln, die auch gerne genutzt wird
 
 
-# Kanban (aus "Agiles Projektmanagement")
+# Kanban
+
+ (aus "Agiles Projektmanagement")
 
 ## Geschichte von Kanban
 
@@ -472,7 +480,9 @@ Auf Basis der vorgestellten Werte führt XP viele Praktiken und Regeln ein, die 
 - Kaizen darf nicht vernachlässigt werden
 - Tooleritis: Kein elektronisches Board!
 
-# Kanban: Epping
+# Kanban
+
+(aus: Epping)
 
 ## Begriffe
 
