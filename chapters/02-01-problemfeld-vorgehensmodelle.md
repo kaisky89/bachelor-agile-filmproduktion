@@ -530,7 +530,9 @@ David J. Anderson:
 
 
 
-# Scrum: Hanser
+# Scrum
+
+(aus: Hanser)
 
 - Projekt**management**methode - Zentrales Thema: Ablauf des Projekts
 - Gründer: Ken Schwaber, Jeff Sutherland
