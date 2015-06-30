@@ -161,7 +161,12 @@ Diese Interpretation kann genau so auf die anderen Sätze angewendet werden: Die
 
 Wichtig ist an dieser Stelle dem schnell zu entstehenden Gedanken zu widersprechen, dass agile Softwareentwicklung willkürlich, chaotisch oder gar anarchisch sei. Das stimmt so nicht. Es gibt immer noch Dokumentation, und es gibt immer noch eine Form, sich zu organisieren und einen Plan. Die Betonung liegt nur darauf, dass dieser Plan flexibel ist und Veränderungen reagieren kann.
 
-Diese Leitsätze bilden ein Wertesystem ab, dass die Grundeinstellung in der agilen Softwareentwicklung erklärt. Für ein konkretes Vorgehen in einem Projekt gibt es allerdings keine große Hilfestellung. <!--TODO Zitat Hanser--> 
+Diese Leitsätze bilden ein Wertesystem ab, dass die Grundeinstellung in der agilen Softwareentwicklung erklärt. Für ein konkretes Vorgehen in einem Projekt gibt dies allerdings keine große Hilfestellung. <!--TODO Zitat Hanser--> Hierfür gibt es die agilen Vorgehensmodelle, die sich dem agilen Manifest verschrieben haben und auf verschiedene Art und Weise die Werte des Manifests umsetzen. Jedes dieser Vorgehensmodelle hat nicht nur andere Ansätze sondern bewegt sich auch auf verschiedenen Konkretisierungsgraden <!--TODO besseres Wort!-->. XP beispielsweise ist eher eine Ansammlung von vielen Praktiken und Methoden, wie konkret in den verschiedenen Phasen der Software Entwicklung vorgegangen wird. Hier werden Methoden fest gefordert und es wird behauptet, dass XP ohne diese Methoden nicht mehr XP ist. Scrum hingegen ist ein Meta Vorgehensmodell, welches keine konkreten Praktiken vorschreibt, sondern dem Team die Möglichkeit bietet oder sogar fordert, die Praktiken selbst zu wählen. Der unterschiedliche Ansatz der Vorgehensmodelle macht es schwierig, sie direkt miteinander zu vergleichen. Allerdings bietet sich so auch die Möglichkeiten, die Vorgehensmodelle in vielerlei Hinsicht zu kombinieren, da sie ja auf unterschiedlicher Ebene agieren und sich so nicht widersprechen sondern meist ergänzen. So steht zum Beispiel als Schlussbemerkung im Scrum Guide: <!--TODO Quelle Scrum Guide-->
+
+> "Scrum existiert nur in seiner Gesamtheit und funktioniert sehr gut als Container für andere Techniken, Methoden und Praktiken."
+
+Im Folgenden werden die drei populärsten Vorgehensmodelle der agilen Softwareentwicklung vorgestellt und deren Kernaspekte dargestellt.
+
 ## XP
 
 Als erstes Vorgehensmodell soll das "eXtreme Programming" - oder kurz: XP - betrachtet werden. XP wurde von Kent Beck 19?? <!--TODO Wann genau??--> zum ersten mal eingesetzt und gilt als eines der ersten Vorgehensmodelle, die die Ansätze und Prinzipien von Agiler Softwareentwicklung in einem ganzheitlichem Rahmen umsetzen. <!--TODO Ist das so? Belege?--> 
@@ -171,22 +176,34 @@ Der größte Unterschied zu den anderen Vorgehensmodellen, die nachfolgend betra
 
 ### Die 5 Werte
 
-Die Praktiken und Regeln in XP unterliegen den 5 Werten von XP: *Kommunikation*, *Einfachheit*, *Feedback*, *Mut* und *Respekt*.
+Um die Philosophie von XP verstehen zu können, sollen zu erst die Werte von XP betrachtet werden. Diese Werte geben keine Hinweise auf konkrete Handlungsanweisungen, stellen aber das Fundament dar, auf dem XP basiert. Während sich über bestimmte Praktiken diskutieren lässt, sind diese Werte wesentliche Grundlage. Alle Beteiligten von XP sollten diese Werte bejahen können.
+
+Die Praktiken und Regeln in XP unterliegen den 5 Werten: *Kommunikation*, *Einfachheit*, *Feedback*, *Mut* und *Respekt*.
 
 #### Kommunikation
 
-Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt nicht von Einzelkämpfern, sondern von einem Team geleistet wird, ist es 
+Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt nicht von Einzelkämpfern, sondern von einem Team geleistet wird, ist es wesentlich, dass die Kommunikation innerhalb des Teams funktioniert. Aber nicht nur die interne Kommunikation ist wichtig, sondern auch die Kommunikation mit dem Auftraggeber ist in XP sehr wichtig. So schreibt XP z.B. vor, dass ein Vertreter des Auftraggebers vor Ort für das Team da ist und durchgehend ansprechbar sein muss. Durch möglichst unkomplizierte Wege kann die Kommunikation so einfach und effizient wie möglich gehalten werden und der einfachste Weg, zu kommunizieren, ist, mit dem Kommunikationspartner vor Ort zu reden.
 
-- Kommunikation
-	- Interne Kommuniation
-	- Kommunikation mit dem Kunden ("Kunde vor Ort")
-- Einfachheit
-	- KISS / YAGNI
-- Feedback
-	- Systemtests ersetzen Spezifikationen (System gibt auskunft über Funktionalität und Erfolg)
-	- Feedback vom Kunden: Vorstellungen lassen sich nicht von Anfang an klar spezifizieren. 
-	- Qualifiziertes Feedback des Kunden (späterer Anwender) in der Sprache des Kunden
-	- Die Möglichkeit, frühes Kunden Feedback einzuholen, ist wichtiger als fehlerfreie Funktionen (?)
+#### Einfachheit
+
+In der Software Entwicklung tendiert man schnell dazu, Funktionen komplizierter zu machen, als es sein muss. Zum Beispiel kann man eine Funktion genau so bauen, dass sie den momentanen Ansprüchen genügt, oder man kann sich überlegen, in welchen ähnlichen Situationen diese Funktion vielleicht auch noch gebraucht werden könnte um dann die Funktion so generisch wie möglich zu implementieren. In der Welt der agilen Software Entwicklung gibt als Antwort auf diese Tendenz zwei Akronyme:
+
+- KISS: "Keep it simple, stupid" (deutsch: Halte es dumm und einfach)
+- YAGNI: "You ain't gonna need it" (deutsch: Du wirst es sowieso nicht brauchen)
+
+Einfachheit bedeutet also, die Entwicklung so simpel und grundlegend zu halten, wie möglich. Es wird nicht darüber nachgedacht, was noch alles gemacht werden könnte, sondern genau das entwickelt, was wirklich auch gebraucht wird.
+
+#### Feedback
+
+Feedback spielt in vielen Bereichen von XP eine Rolle. Feedback als wichtig zu erachten bedeutet, sich einzugestehen, dass Ergebnisse Fehler enthalten können. Es zeugt davon, sich selbst hinterfragen zu können Arbeitsergebnisse immer wieder auf den Prüfstand legen zu lassen, um Fehler so früh wie möglich finden zu können. Diese Feedback Kultur wird sowohl intern als auch in der Kommunikation zum Kunden gelebt.
+
+Bei der Entwicklung werden Systemtest geschrieben. Diese ersetzen die Spezifikationen von Funktionen und ermöglichen ein direktes Testen der implementierten Funktionen. Somit kann auch auch bei späterer Veränderung der Funktionen oder bei einem Refactoring sicher gestellt werden, dass alle implementierten Funktionen und Klassen wie gewünscht funktionieren. 
+
+Das Feedback des Auftraggebers wird so früh wie möglich eingeholt. Inkrementelle Entwicklung macht es möglich, schon sehr früh dem Auftraggeber lauffähige Software zu zeigen. Dieses Feedback ist wesentlich für die weitere Entwicklung. Hier kann sehr früh nachgeprüft werden, ob sich die Entwicklung auf dem richtigen Weg befindet und ob Anforderungen und Probleme richtig verstanden wurden. Bei Kommunikation und Feedback vom Auftraggeber ist es wichtig, die Sprache des Auftraggebers zu verwenden. Hier ist es wichtig, dass das Team die Sprache des Auftraggebers, wie domänenspezifische Fachbegriffe lernt.
+
+#### Mut
+
+In vielen Bereichen der Entwicklung mit XP ist Mut nötig. Es braucht Mut, ein Refactoring zu machen, weil man sieht, dass bestimmte Teile des entwickelten Codes unübersichtlich werden. Entwickler tendieren dazu, geschriebenen und funktionierenden Code nicht zu ändern. Und es braucht auch Mut, seinen noch sehr frühen Prototypen bereits dem Auftraggeber zu zeigen. Und es braucht sicher auch Mut, sich immer wieder auf die Änderungswünsche des Auftraggebers einzulassen und nicht an dem Plan festzuhalten. Mut zeigt die Bereitschaft, aus der Komfortzone herauszutreten und Schritte für eine zielgerichtete und effiziente Entwicklung zu gehen. Transparenz gegenüber dem Auftraggeber wird zuerst oft skeptisch hinterfragt: Wenn der Kunde weiß, wie es 
 - Mut
 	- Refactoring (Code neu schreiben)
 	- Transparenz gegenüber dem Kunden
