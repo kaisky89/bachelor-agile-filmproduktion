@@ -193,11 +193,11 @@ Einfachheit bedeutet also, die Entwicklung so simpel und grundlegend zu halten, 
 
 ### Feedback
 
-Feedback spielt in vielen Bereichen von XP eine Rolle. Feedback als wichtig zu erachten bedeutet, sich einzugestehen, dass Ergebnisse Fehler enthalten können. Es zeugt davon, sich selbst hinterfragen zu können Arbeitsergebnisse immer wieder auf den Prüfstand legen zu lassen, um Fehler so früh wie möglich finden zu können. Diese Feedback Kultur wird sowohl intern als auch in der Kommunikation zum Kunden gelebt.
+Feedback spielt in vielen Bereichen von XP eine Rolle. Feedback als wichtig zu erachten bedeutet, sich einzugestehen, dass Ergebnisse Fehler enthalten können. Es zeugt davon, sich selbst hinterfragen zu können und Arbeitsergebnisse immer wieder auf den Prüfstand legen zu lassen, um Fehler so früh wie möglich finden zu können. Diese Feedback Kultur wird sowohl intern als auch in der Kommunikation zum Kunden gelebt.
 
 Bei der Entwicklung werden Systemtest geschrieben. Diese ersetzen die Spezifikationen von Funktionen und ermöglichen ein direktes Testen der implementierten Funktionen. Somit kann auch auch bei späterer Veränderung der Funktionen oder bei einem Refactoring sicher gestellt werden, dass alle implementierten Funktionen und Klassen wie gewünscht funktionieren. 
 
-Das Feedback des Auftraggebers wird so früh wie möglich eingeholt. Inkrementelle Entwicklung macht es möglich, schon sehr früh dem Auftraggeber lauffähige Software zu zeigen. Dieses Feedback ist wesentlich für die weitere Entwicklung. Hier kann sehr früh nachgeprüft werden, ob sich die Entwicklung auf dem richtigen Weg befindet und ob Anforderungen und Probleme richtig verstanden wurden. Bei Kommunikation und Feedback vom Auftraggeber ist es wichtig, die Sprache des Auftraggebers zu verwenden. Hier ist es wichtig, dass das Team die Sprache des Auftraggebers, wie domänenspezifische Fachbegriffe lernt.
+Das Feedback des Auftraggebers wird so früh wie möglich eingeholt. Inkrementelle Entwicklung macht es möglich, schon sehr früh dem Auftraggeber lauffähige Software zu zeigen. Dieses Feedback ist wesentlich für die weitere Entwicklung. Hier kann sehr früh nachgeprüft werden, ob sich die Entwicklung auf dem richtigen Weg befindet und ob Anforderungen und Probleme richtig verstanden wurden. Bei Kommunikation und Feedback vom Auftraggeber ist es wichtig, die Sprache des Auftraggebers zu verwenden. Hier ist es wichtig, dass das Team domänenspezifische Fachbegriffe lernt.
 
 ### Mut
 
@@ -274,42 +274,58 @@ XP ist sich der Individualität eines Software Projekts bewusst. Man sieht der T
 
 ### Design
 
-- Einfachheit des Designs
-	- Architektur nur für die in der anstehenden Iteration benötigten Kriterien entwerfen
-	- daraus folgt: Gesamtarchitektur erst mit der letzten Iteration fertig
-	- Funktionalität nicht früher als nötig einbauen
-	- kann sein, dass andere Funktionalität später überflüssig sein wird
-- Systemmetapher
-	- Eine Metapher für das System, welches alle Projektbeteiligten kennen und verstehen
-	- Beispiel: Automobilproduktionslinie im C3 Projekt
-- CRC Karten (Class, Responsibilities and Collaboration Cards)
-	- Jede Karte eine Klasse (Class)
-	- schlicht, in maximal 4 Halbsätzen formulieren, was die Klasse leisten soll (Responsibilities)
-	- mit welcher Klasse sie dafür in Wechselwirkung steht
-- Spike Solutions
-	- Prototypenhafte Implementierung eines aufgetauchten technischen Problems
-	- "quick and dirty" Lösung
-	- Code wird danach meist weggeworfen
-- Refactoring
-	- Umstrukturierung des Designs
-	- mit der Zeit wird aus jedem guten Design ein schlechtes Design (Problem der *Software-Entropie*)
-	- Beispiel: Interface mehrerer Klassen entwerfen, die unabhängig voneinander entworfen worden sind
-	- Meistens wird gute Software mit Refactoring Unterstützung notwendig
+In der Design Phase wird die Systemarchitektur der zu entwickelnden Software entworfen. Hierbei ist zu beachten, dass in XP die Design Phase nicht eine Phase mit Anfang und Ende ist, sondern dass in jeder Iteration (also idealer weise wöchentlich) überdacht und den entsprechenden Anforderungen angepasst werden. Die folgenden Regeln und Praktiken gibt XP hierfür vor:
+
+#### Einfachheit des Designs
+
+Wie schon in <!--TODO Referenz auf "Die 5 Werte" -> "Einfachheit"--> erwähnt, soll die Architektur so einfach wie möglich gehalten werden. Generalistische Ansätze von Funktionen und Klassen, weil evtl. damit mögliche zukünftige Anforderungen erfüllt werden können, die momentan noch nicht abzusehen sind, sind zu vermeiden. 
+
+Die Entwicklung in Iterationen stellt das Entwickler Team immer wieder vor die Herausforderung, die Architektur zu überdenken. Für jedes Inkrement muss das Team die Architektur des Systemdesigns so ändern, dass sie für die Anforderungen genau dieses Inkrements optimal ist. Falls sich Funktionen im laufe der Zeit erübrigen oder es sinnvoll ist, mehrere Klassen oder Funktionen zu einer generelleren Lösung zusammenzufassen tritt die Praxis des **Refactorings** <!--TODO Referenz auf "Refactoring" --> ein. Andererseits darf Funktionalität nicht früher als notwendig eingebaut werden. Auch wenn das Team weiß, dass bestimmte Funktionalitäten in Zukunft evtl. benötigt werden: Wenn diese Funktionalität den Anforderungen der aktuellen Iteration nicht gerecht wird, wird sie auch noch nicht implementiert. Es kann möglich sein, dass sich Anforderungen bis zu dem Zeitpunkt, an dem es sich anbietet, diese Funktionalität zu implementieren, ändern und somit diese Implementation überflüssig machen.
+
+#### Systemmetapher
+
+Die Idee hinter Systemmetaphern ist das Benutzen einer Metapher für das System, die jeder der Projektbeteiligten kennt und versteht. Das System wird dann mithilfe dieser Systemmetapher aufgebaut. Dabei hilft die Metapher, Neulingen die Struktur des Systems zu verstehen. Außerdem fällt es leichter, Namen für die einzelnen Module, Klassen und Funktionen zu finden und zu verstehen, da alle die gleiche Sprache sprechen.
+
+Eine System Metapher lässt sich nicht unbedingt leicht finden. Im initialen Projekt, in dem XP zum ersten mal durchgeführt wurde (Das *C3 Projekt*), wurde eine Automobilproduktionslinie als Metapher verwendet, da dieses Projekt in der Branche der Automobilindustrie befand und somit alle Beteiligten die Sprache der Produktionslinie verstanden. <!--TODO Quelle Hanser-->
+
+#### CRC Karten
+
+CRC Karten (Class, Responsibilities and Collaboration Cards) sind eine einfach Möglichkeit, schnell und zeiteffektiv im Team Systeme zu entwerfen, zu diskutieren und zu revidieren. Es werden ca. DIN A5 große Karten benutzt, die einen Teil der Software repräsentieren. Dies können konkrete Klassen sein, müssen es aber nicht. Auf die Karte wird mit einem Namen versehen ("Class") und es kann in maximal 4 Halbsätzen formuliert werden, was die Klasse leisten soll ("Responsibilities"). Zusätzlich kann noch notiert werden, mit welchen anderen Klassen diese Karte in Wechselwirkung steht ("Collaboration").
+
+Der wesentliche Teil der Praktik besteht in der Möglichkeit, sehr schnell und flexibel über den gesamten Aufbau und die Zusammenhänge der einzelnen Klassen zu diskutieren. Hierfür befindet sich das Team an einem Tisch und legt die Karten so auf den Tisch, wie sie sich die Struktur der zu entwickelnden Software vorstellen. Es werden Vor- und Nachteile der Systemarchitektur besprochen und die Karten können immer wieder neu angeordnet werden. Die Möglichkeit, die Karten neu anzuordnen und somit also wirkliche Haptik für die Problemstellung zu entwickeln, verstärkt im Team das Denken in Objektorientierung. Da ein revidieren oder auch ein neues Anordnen der Karten nur eine Sache von einigen Sekunden ist, kann hier sehr zeiteffizient gearbeitet werden und ohne Scheu vor Revision neue Entwürfe schnell diskutiert werden. <!--TODO Quelle Hanser --> <!--TODO Quelle extremeprogramming.org -->
+
+
+#### Spike Solutions
+
+Spike Solutions werden dann benutzt, wenn das Team sich nicht sicher ist, wie und ob ein Problem genau zu lösen ist und wie viel Aufwand das bedeutet. Spike Solutions sind kleine Prototypen, die "quick and dirty" entwickelt werden, um technologisches Neuland auszuprobieren. Der Code sollte nicht wiederverwendet werden, <!--TODO Quelle Hanser--> aber mithilfe des technologischen "Durchstichs" zu einem bestimmten Problem kann das Team aufgrund der Erfahrungen, die es dabei macht sehr viel besser abschätzen, was an Aufwand und Komplexität hinter einem Problem steht. Außerdem kann das Team so fremde Technologien wie z.B. ein neues Framework ausprobieren, ohne zu viel Zeit in die Einarbeit zu verlieren, nur um danach festzustellen, dass das Benutzen des Frameworks nicht hilfreich ist.
+
+#### Refactoring
+
+Wie schon in <!--TODO Referenz auf "Einfachheit des Designs"--> erwähnt, gehört Refactoring zu den Praktiken von XP. Refactoring bedeutet das Umstrukturieren oder neu schreiben von Code oder Systementwürfen.
+
+Mit der Zeit der Entwicklung wird aus jedem guten Design ein schlechtes Design. <!--TODO Zitat Hanser--> Mit jeder Iteration kommen neue Funktionen und Module zum Systementwurf hinzu. Nach einigen Iterationen lässt sich hinterfragen, ob der ursprüngliche Systementwurf für die momentanen Anforderungen des Systems der optimale ist, oder ob es nicht besser sei, einige grundlegende Veränderungen durchzuführen, oder Funktionalitäten, die sich ähnlich sind, mit einer generalistischeren Lösung zu ersetzen. Zu diesem Schritt gehört meistens Mut, denn Entwickler tendieren häufig dazu, Funktionalitäten, die einmal funktionieren, nicht mehr ändern zu wollen (Ganz nach dem Motto "Never change a running system"). Durch den testgetriebenen Ansatz von XP <!--TODO Referenz zu "Testen"--> wird allerdings sichergestellt, dass die Funktionalität des Codes auch bei Änderungen erhalten bleibt.
 
 ### Kodieren
 
-- Der Kunde ist immer verfügbar
-	- Kunde ist Teil des Teams
-	- schnelle Reaktion auf sich ändernde Kundenwünsche
-	- Einwand: Kunde bekommt zu viel vom Projekt (auch die Fehler) mit. Vertrauensverlust? Nein, meist das Gegenteil
-	- Kommunikation mit dem Kunden ist kein Selbstläufer
-- Kodierungsstandards
-- Test zuerst programmieren
-	- Tests ersetzen eine detailierte Spezifikation
-	- Unit Tests! Systemtests eher zweitrangig
+Für die Phase des Kodierens sieht XP folgende Praktiken vor.
 
-- Komplettes Team
-	- alle nötigen Fähigkeiten müssen im Team vorhanden sein
+#### Kunde immer verfügbar
+
+XP sieht vor, dass der Kunde immer für das Team als Ansprechpartner verfügbar ist. Konkret wird empfohlen, dass ein Experte von Kundenseite ständig zusammen bei dem Team ist. <!--TODO Zitat extremeprogramming.org--> Dies mag seltsam erscheinen, muss so der Kunde während der gesamten Projektlaufzeit auf eine wichtige Ressource (einen Experten) für den eigenen Betrieb verzichten. Dies ist aber für die verschiedenen Aktivitäten, und für das agile Vorgehen notwendig. Dieser Experte ersetzt, wie schon in <!--TODO Referenz ??? --> erwähnt, kann nur mithilfe des Experten vor Ort eine detaillierte Anforderungsspezifikation durchgeführt werden. Nur mithilfe des Kunden ist es beim Release Planning möglich, eine Priorisierung der User Stories nach *business value* vorzunehmen. <!--TODO Quelle extremeprogramming.org --> Und nur mit dem Kunden vor Ort ist es möglich, so schnell wie möglich auf Anforderungsänderungen einzugehen.
+
+Ein weiterer Einwand gegen die Arbeit mit dem Kunden vor Ort ist die daraus resultierende totale Transparenz des Teams und seines Fortschritts gegenüber dem Kunden. Wie schon in <!--TODO Referenz ??? --> erwähnt, könnte eine Transparenz gegenüber dem Kunden doch zu einem eher unprofessionellen Eindruck führen. Dem Kunden werden alle auftretenden Probleme und Hindernisse bekannt. Er sieht genau, wie das Team arbeitet und wo evtl. Schwächen und Hindernisse sichtbar werden. Führt dies nicht zu Vertrauensverlust des Kunden gegenüber dem Team? Die Erfahrung <!--TODO Zitat Hanser --> zeigt hier, dass durch das Einbinden des Kunden in das Team der Kunde eher ein besseres Verständnis für das Projekt entwickelt und er so eher dazu tendiert, dem Entwicklungsteam mehr zu Vertrauen.
+
+Insgesamt scheint es viel Zeit zu sein, die der Kunde mit der ständigen Anwesenheit eines Experten vor Ort zu investieren hat. Hierbei sei erwähnt, dass für diesen Ansatz allerdings die gesamte Zeit einer ausführlichen Anforderungsanalyse mit dem Kunden gespart werden kann. Zudem kann davon ausgegangen werden, dass am die Ergebnisse durch die Anwesenheit des Experten höchstens gering von den Anforderungen des Kunden abweichen und somit die Zeit gespart werden kann, die es kostet, wenn ein System entwickelt wird, dass nicht den realen Anforderungen des Kunden entspricht. <!--TODO Zitat extremeprogramming.org -->
+
+#### Kodierungsstandards verwenden
+
+Das Verwenden von einheitlichen Kodierungsstandards sorgt dafür, dass der Code von jedem Teammitglied leicht gelesen und verstanden werden kann. Da mit Praktiken wie *move people around* <!--TODO Referenz auf "move people around"--> und *collective code ownership* <!--TODO Referenz auf "collective code ownership"--> gegen eine zu starke Spezialisierung der Teammitglieder gearbeitet wird, sind hier einheitliche Kodierungsstandards sehr zu begrüßen, um das Einarbeiten in Code, den man selbst nicht geschrieben hat, zu erleichtern.
+
+#### Tests zuerst programmieren
+
+Tests ersetzen in XP eine detaillierte Spezifikation der Arbeitspakete. Außerdem ermöglicht automatisiertes Testen eine sehr zielgenaue und präzise Programmierung, um genau das an Funktionalität zu erreichen, was notwendig ist. <!--TODO Zitat extremeprogramming.org--> behauptet, wer Tests zuerst schreibt und dann den dazugehörigen Code entwickelt ist genau so schnell wie der, der nur den Code entwickelt. Dies lässt sich leicht damit begründen, dass der Entwickler sich schon während der Entwicklung der Tests Gedanken zu der Struktur der nötigen Lösung macht und diese danach nur noch "herunter schreiben" muss. Zudem weiß der Entwickler durch die Test genau, wann er fertig mit der Entwicklung der gewünschten Funktionalität ist: wenn alle Tests erfolgreich waren. <!--TODO Zitat extremeprogramming.org--> Ohne Tests lässt sich der Status "fertig entwickelt" für eine Funktion nicht so leicht definieren. Zuletzt bieten Tests die Grundlage für ein effektives Refactoring; ohne Tests kann nicht ermittelt werden, dass die Funktionalität bestimmter Module durch das Refactoring geändert wurden. <!--TODO Zitat Hanser -->
+
+
 - Pair Programming
 	- 2 Programmierer teilen sich 1 Computer
 	- abwechselndes Denken: taktisch und strategisch
@@ -333,21 +349,6 @@ XP ist sich der Individualität eines Software Projekts bewusst. Man sieht der T
 	- Wells: sollten automatisiert werden
 - Ursachenanalyse
 	- Beim Fund eines Fehlers: Systemtest, Unit Test, Behebung. Warum gab es vorher keinen Test?
-
-## Erweiterte XP Praktiken
-
-### Primärpraktiken
-
-
-
-
-
-### Folgepraktiken
-
-
-
-
-
 
 # Kanban
 
