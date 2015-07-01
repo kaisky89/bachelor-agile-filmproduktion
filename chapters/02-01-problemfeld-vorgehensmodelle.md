@@ -94,7 +94,7 @@ Das Wasserfallmodell ist der einfachste Ansatz, ein Software Entwicklungsprojekt
 
 Vorteil bei diesem Modell ist die wahrgenommene Einfachheit in seiner Umsetzung. Da die Phasen, die in einem Software Projekt durchlaufen werden, aufeinander aufbauen und dadurch einen gewissen kanonischen Aufbau darstellen, bietet es sich natürlich an, diesen Aufbau genau so auch zu übernehmen.
 
-Allerdings bietet dieses Vorgehensmodell Nachteile, die gerade in Software Entwicklung negative Konsequenzen mit sich tragen. Das Wasserfallmodell geht davon aus, dass jede Phase zu einem definierten Zeitpunkt *abgeschlossen* ist. Das bedeutet, dass es z. B. einen Zeitpunkt gibt, an dem man behaupten kann, die Spezifikation der Anforderungen sei abgeschlossen und die nächste Phase könne nun beginnen. Was geschieht nun aber, wenn in der nächsten Phase deutlich wird, dass gewisse Anforderungen nicht detailliert genug spezifiziert worden sind, oder sogar gar nicht beachtet wurden? Im Wasserfallmodell wird so etwas nicht mit in Betracht gezogen. Gerade in der Software Entwicklung ist es aber häufig der Fall, dass sich Anforderungen ändern, oder dass sie nicht klar genug spezifiziert worden sind. Da das Wasserfallmodell ein zurück gehen in eine vorherige Phase nicht vor sieht, ist es für solche Situationen nicht geeignet.
+Allerdings bietet dieses Vorgehensmodell Nachteile, die gerade in Software Entwicklung negative Konsequenzen mit sich tragen. Das Wasserfallmodell geht davon aus, dass jede Phase zu einem definierten Zeitpunkt *abgeschlossen* ist. Das bedeutet, dass es z. B. einen Zeitpunkt gibt, an dem man behaupten kann, die Spezifikation der Anforderungen sei abgeschlossen und die nächste Phase könne nun beginnen. Was geschieht nun aber, wenn in der nächsten Phase deutlich wird, dass gewisse Anforderungen nicht detailliert genug spezifiziert worden sind, oder sogar gar nicht beachtet wurden? Im Wasserfallmodell wird so etwas nicht mit in Betracht gezogen. Gerade in der Software Entwicklung ist es aber häufig der Fall, dass sich Anforderungen ändern, oder dass sie nicht klar genug spezifiziert worden sind. Da das Wasserfallmodell ein Zurück-Gehen in eine vorherige Phase nicht vorsieht, ist es für solche Situationen nicht geeignet.
 
 Ein weiterer Nachteil des Wasserfallmodells ist, dass Probleme *verschleppt* werden, ohne dass dies offensichtlich ist. Grund dafür ist die Tatsache, dass eine Verifikation erst am Ende des Prozesses stattfinden kann; erst, wenn der komplette Prozess der Software Entwicklung abgeschlossen ist, kann der Auftraggeber überprüfen, ob das entwickelte Software Produkt seinen Anforderungen und Erwartungen entspricht. Wenn am Ende der Entwicklung deutlich wird, dass bestimmte Anforderungen oder Funktionen nicht richtig verstanden worden sind, kann darauf nicht mehr eingegangen werden. Das Wasserfallmodell sieht eine Korrektur durch den Auftraggeber so nicht vor. Es wird also deutlich, dass im Wasserfallmodell die Gefahr besteht, durch fehlendes Feedback des Auftraggebers ein Software Produkt zu entwickeln, das nicht den *realen Anforderungen* entspricht.
 
@@ -210,36 +210,67 @@ Software Entwicklung ist eine Arbeit mit Menschen. Ob im Team oder in der Kommun
 
 ## Die Praktiken
 
-Auf Basis der vorgestellten Werte führt XP viele Praktiken und Regeln ein, die konkret beschreiben, wie ein agiles Handeln möglich gemacht werden kann. Diese Praktiken sind im Folgenden aufgeführt. Sie sind eingeteilt in die verschiedenen Phasen der Software Entwicklung: *Planung*, *Design*, *Kodieren* und *Testen*. Die Praktiken werden hier nicht in der Tiefe aller Details besprochen. Es soll nur ein grober Überblick gegeben werden. Für eine tiefere Einarbeitung sei auf weitere Literatur verwiesen. <!--TODO Zitat Hanser--> <!--TODO Zitat Beck-->
+Auf Basis der vorgestellten Werte führt XP viele Praktiken und Regeln ein, die konkret beschreiben, wie ein agiles Handeln möglich gemacht werden kann. Diese Praktiken sind im Folgenden aufgeführt. Hierbei sei erwähnt, dass nicht alle Praktiken nur XP typisch sind. Viele Praktiken wurden übernommen. Speziell an XP ist die Zusammenstellung dieser Praktiken und das konsequente und strukturierte Benutzen dieser. 
+
+Die Praktiken sind eingeteilt in die verschiedenen Phasen der Software Entwicklung, angelehnt an die Phasen aus dem Wasserfall Modell: *Planung*, *Managen*, *Design*, *Kodieren* und *Testen*. <!--TODO Zitat http://www.extremeprogramming.org/rules.html --> Die Praktiken werden hier nicht in der Tiefe aller Details besprochen. Außerdem wird hier auch nicht zwischen den beiden Versionen von 2000 <!--TODO Zitat Beck 2000--> und von 2004 <!--TODO Zitat Beck 2004--> differenziert. Es soll nur ein grober Überblick gegeben werden. Für eine tiefere Einarbeitung sei auf weitere Literatur verwiesen. <!--TODO Zitat Hanser--> <!--TODO Zitat Beck 2000--> <!--TODO Zitat Beck 2004--> <!--TODO Zitat http://www.extremeprogramming.org --> <!--TODO Zitat http://c2.com/cgi/wiki?PlanningGame -->
 
 ### Planung
 
-
+Für die Phase der Planung sieht Kent Beck <!--TODO Zitat Beck--> folgende Techniken vor.
 
 #### User Stories
 
+User Stories ist eine Technik für die Anforderungsspezifikation. User Stories stellen ähnlich wie Use Cases die Benutzung des Systems aus der Anwender Sicht dar. Während allerdings Use Cases darauf aus sind, möglichst viele Details zu erfassen, reißt man mit User Stories ein bestimmtes Arbeitspaket nur an. Mithilfe von maximal drei Sätzen wird erklärt, wie eine bestimmte Funktion aus Anwender Sicht funktionieren soll. Dies dient vor allem zur groben Spezifikation der Anforderungen. Mithilfe aller User Stories soll die ganze zu entwickelnde Software beschrieben werden. Gleichzeitig dienen die User Stories auch der Einteilung in Arbeitspakete. Für Iterationen werden bestimmte User Stories ausgewählt, die dann zum nächsten Release fertig gestellt werden müssen. Somit lässt sich der Funktionsumfang des nächsten Releases klar definieren. Alle Details der Anforderungen, die in der User Story nicht verfügbar sind, sollen mit dem Kunden direkt besprochen werden. Dieser ist also die "wandelnde Spezifikation" <!--TODO Zitat Hanser-->. Mithilfe von Unit Tests werden dann die herausgearbeiteten Spezifikationen festgehalten. <!--TODO Referenz zu Testing-->
+
+#### Releases
+
+Releases sind mit dem Auftraggeber, dem Management und dem Entwicklungsteam festgelegte Zeitpunkte, zu denen eine definierte Menge von User Stories fertig gestellt sein sollen. Ein Release wird in XP mithilfe des "Planning-Game" <!--TODO Zitat http://c2.com/cgi/wiki?PlanningGame --> geplant. Hierbei legt das Entwicklungsteam fest, wie viel Zeit es für jede der verfügbaren User Stories braucht. Mithilfe der geschätzten Zeiten einigen sich dann alle Beteiligten (Management, Kunde und Team) auf einen fixen Termin, an dem eine Auswahl an User Stories fertig gestellt sein muss. Die Menge der User Stories soll so gewählt werden, dass 
+
+- ein in sich sinnvoller Funktionsumfang der Software erreicht wird, 
+- dieses Release einen möglichst hohen *business value* besitzt und
+- riskante Teile der Software möglichst früh angegangen werden.
+
+<!--TODO Zitat http://c2.com/cgi/wiki?PlanningGame -->
+
+Es wird empfohlen, Releases in einem zeitlichen Rahmen von 3 Monaten zu planen. <!--TODO Zitat Beck 2004 nach Hanser -->
+
+#### Iterationen
+
+Wie in jedem modernen Vorgehensmodell wird in XP angelehnt an das Spiralmodell mit Iterationen gearbeitet. Es wird empfohlen, Iterationen in der Länge einer Woche anzusetzen <!--TODO Zitat Beck 2004 nach Hanser -->. Für eine Iteration nimmt sich das Team eine oder mehrere User Stories aus dem vorhandenen Pool, schreibt die nötigen Tests und verbringt den Rest der Woche dann damit, diese User Stories und die damit verbundenen Funktionen zu implementieren. Die Tests helfen dabei, zu messen, wie weit die gewünschte Funktionalität bereits implementiert wurde und bietet somit dem Entwicklungsteam immer wieder auch die Möglichkeit, sich auf die wesentlichen Anforderungen zu fokussieren. 
+
+Hier wird deutlich, dass innerhalb einer Iteration die verschiedenen Phasen des Wasserfallmodells durchlaufen werden: Es wird mithilfe der User Stories der Verlauf der nächsten Woche geplant (Phase *Planung*), dann wird zusammen mit dem Kunden die konkreten Anforderungen spezifiziert (Phase *Anforderungsspezifikation*). Diese Spezifikation wird in Unit Tests festgehalten (Phase *Test*), um diese im Verlauf der Woche dann zu entwickeln (Phasen *Design* und *Kodieren*). 
+
+Mithilfe der User Stories und deren geschätzten Aufwand, die innerhalb einer Iteration abgearbeitet wurden, kann die **Projektgeschwindigkeit** gemessen werden. Somit lässt sich schnell der aktuelle Stand des Projektes schätzen, so wie die Geschwindigkeit, mit der in den Iterationen gearbeitet wurde. Es ist normal, dass diese Geschwindigkeit schwankt. Falls aber über Iterationen hinweg eine unerwartete Geschwindigkeit festgestellt wird, empfiehlt sich ein neues Release Planning. <!--TODO Zitat http://www.extremeprogramming.org/rules/velocity.html -->
+
+### Managen
+
+Die Phase "Managen" findet sich so nicht im Wasserfallmodell wieder. Es handelt sich hierbei auch nicht um einer zusätzliche explizite Phase, sondern eher um Rahmenbedingungen für die gesamte Entwicklungsarbeit. Die Praktiken, die hier beschrieben werden, können nicht einer bestimmten Phase zugeordnet werden. Sie bestimmen die Faktoren, die unabhängig von den Arbeitsphasen gleich bleiben.
+
+#### Offene Arbeitsumgebung
+
+Kommunikation ist - wie schon weiter oben erwähnt - eins der Kernwerte von XP. Aus diesem Grund soll das Team nicht räumlich getrennt sein, sondern zusammen in einem informativen und offenen Raum arbeiten. So ergeben sich viele Möglichkeiten, Probleme auf möglichst schnellem Wege zu klären. Wenn ein Entwickler an einer bestimmten Stelle nicht weiterkommt, kann er direkt einen Kollegen fragen. Die Möglichkeit, direkt zu fragen, vermindert den Aufwand der Formalität von email oder den Wegen, zwischen Büroräumen zu wechseln. Außerdem ermöglicht es allen Mitgliedern des Entwicklerteams zu wissen, mit welchen Angelegenheiten sich die Kollegen gerade beschäftigen. Falls es ein Gespräch über ein Thema ist, das man als Entwickler gerade auch bearbeitet, gibt es unkompliziert die Möglichkeit, sich im Gespräch zu beteiligen. Alistair Cockburn nennt diesen Effekt "osmotische Kommunikation" <!--TODO Zitat Agile Software Entwicklung / Cockburn nach http://krsteski.de/projektmanagement/ist-ein-intranet-blog-nutzlich.html -->
 
 
-- User Stories
-	- Nur kurzes Anreißen des Arbeitpakets. 
-	- Details werden direkt während der Implementierung mit dem Kunden geklärt.
-- Release Planung
-	- 3 Parteien: Entwickler (will zeitliche Puffer), Geschäftsleitung (will möglichst schnell sein), Kunde (steht zwischen den Fronten)
-	- 4 Variablen: Umfang, Ressourcen, Zeit, Qualität (sollte immer maximal sein)
-	- ???
-- Kleine Releases
-- Messung der Projektgeschwindigkeit
-- Iterationsplanung
-	- Programmierer nehmen ganze User Story
-	- Von Anfang an Testfälle entwickeln zum Messen des Zielerreichungsgrad
-- Move People around
-	- dürftige Dokumentation: viel Wissen in den Köpfen der Entwickler
-	- Reduzierung des *Truck-Faktor*s durch Beteiligung der Teammitglieder in allen Bereichen
-	- Manchmal schwierig, Teammitglieder von diesem generalistischen Ansatz zu überzeugen
-- Stand-Up Meeting
-	- "Sitzung" im stehen abhalten
-	- klare, präzise und schnelle Kommunkation
-- Fix XP When it Breaks
+#### Move people around
+
+Die Tatsache, dass alle Teammitglieder in einem Raum sind - wie in <!--TODO Referenz "Offene Arbeitsumgebung"--> beschrieben, ermöglicht es auf unnötige Dokumentation zu verzichten. Bei Fragen wird direkt auf den Kollegen, der mit dem Themengebiet in Verbindung steht gesprochen. Die Dokumentation befindet sich also "in den Köpfen der Kollegen" <!--TODO Zitat Hanser-->. Dies birgt allerdings die Gefahr, dass durch den Ausfall eines einzelnen Teammitglieds das gesamte gefährdet werden kann. Diese Gefahr wird oft auch als "Truck Faktor" (Angelehnt an die Frage: *"Was passiert, wenn ein Teammitglied von einem Truck überfahren wird?"*) bezeichnet. Um das Risiko des Truck Faktors zu minimieren, werden die Aufgabengebiete der einzelnen Entwickler durchgewechselt. Somit wird sichergestellt, dass sich im Team keine Spezialisten etablieren, die als einzige wissen, wie ein bestimmter Aspekt der Software funktioniert.
+
+Abgesehen davon, dass im schlimmsten Fall mit dem Ausscheiden eines Teammitglied gerechnet wird, wird aber empfohlen, Teams nicht bewusst auseinander zu reißen. XP betont die Dynamik innerhalb eines Teams und ist sich dessen bewusst, dass jede Änderung innerhalb der Teamkonstellation negative Auswirkungen auf den Teamgeist hat. Ausnahme bildet hier die Empfehlung, dass bei wachsender Effektivität des Teams von einer Erhöhung des Workloads abgesehen werden sollte, sondern eher das Team verkleinert werden sollte. <!--TODO Zitat Hanser-->
+
+#### Stand-Up Meeting
+
+Jeder Arbeitstag in XP beginnt mit einem Stand-Up Meeting. In diesem Treffen wird möglichst präzise, klar und schnell kommuniziert, wie der aktuelle Stand des Projekts ist, woran jedes Team arbeitet und was es für Probleme gibt. Zeiteffizienz spielt hier eine große Rolle, da dieses Treffen jeden Tag stattfindet und eine ineffiziente Arbeitsweise bei diesem Treffen langfristig große Folgen für die Zeiteffektivität des Teams hat. Hierbei hilft die Tatsache, dass diese Treffen - wie der Name schon andeutet - *im Stehen* abgehalten werden. Dies hat den psychologischen Effekt, dass man sich nicht lange an einem Diskussionspunkt aufhält. Man kann bei diesem Treffen also nicht von einer *Sitzung* sprechen, da sich ja keiner *setzt*.
+
+#### Fix XP when it breaks
+
+XP ist sich der Individualität eines Software Projekts bewusst. Man sieht der Tatsache ins Auge, dass kein Software Projekt so ist wie das andere und dass Methoden, die bei einem Projekt gut funktioniert haben, nicht bei allen anderen Projekten genau so gut funktionieren. Dafür sind vierteljährige <!--TODO Zitat Hanser--> Reflektionssitzungen vorgesehen, in denen die Effektivität der momentanen Praktiken hinterfragt wird. Hier reflektiert das gesamte Team über die momentane Arbeitsweise und überprüft diese auf potenzielle Probleme. Wichtig ist hierbei, dass Probleme nicht nur angesprochen werden, sondern auch konkrete Entscheidungen getroffen werden, um diese Probleme anzugehen. XP geht davon aus, dass diese Anpassungen der Arbeitsweise zu den normalen Aktivitäten der Entwicklungsarbeit gehören und immer wieder durchgeführt wird. Deswegen wird hier bei auch die Formulierung "when" (englisch: temporale Formulierung, zu übersetzen mit "immer dann, wenn...") und nicht die Formulierung "if" (englisch: konditionale Formulierung, zu übersetzen mit "falls") benutzt.
+
+<!--TODO Das auch noch ausformulieren?
+- Vertrag mit verhandelbaren Umfang
+- Pay-Per-Use
+	- Kunde zahlt nur soviel, wie viel er die Software auch nutzt
+	- Steigert die Motivation der Entwickler, Software zu entwickeln, die auch gerne genutzt wird
+-->
 
 ### Design
 
@@ -276,6 +307,9 @@ Auf Basis der vorgestellten Werte führt XP viele Praktiken und Regeln ein, die 
 - Test zuerst programmieren
 	- Tests ersetzen eine detailierte Spezifikation
 	- Unit Tests! Systemtests eher zweitrangig
+
+- Komplettes Team
+	- alle nötigen Fähigkeiten müssen im Team vorhanden sein
 - Pair Programming
 	- 2 Programmierer teilen sich 1 Computer
 	- abwechselndes Denken: taktisch und strategisch
@@ -285,6 +319,8 @@ Auf Basis der vorgestellten Werte führt XP viele Praktiken und Regeln ein, die 
 	- ...
 - Collective Code Ownership
 - Optimiere erst zum Schluss
+- Ten-Minute Build
+- Tägliche Code Integration
 - Keine Überstunden
 
 ### Testen
@@ -295,35 +331,22 @@ Auf Basis der vorgestellten Werte führt XP viele Praktiken und Regeln ein, die 
 	- näher an den User Stories, nicht so nah an den Software Modulen
 	- ersetzen die High-Level-Spezifikationen des Systems
 	- Wells: sollten automatisiert werden
+- Ursachenanalyse
+	- Beim Fund eines Fehlers: Systemtest, Unit Test, Behebung. Warum gab es vorher keinen Test?
 
 ## Erweiterte XP Praktiken
 
 ### Primärpraktiken
 
-- Team sitzt räumlich zusammen
-- Komplettes Team
-	- alle nötigen Fähigkeiten müssen im Team vorhanden sein
-- Arbeitsumgebung: Informativ, Freiraum
-- Ten-Minute Build
-- Wöchentlicher Zyklus
-	- Iterationslänge reduzieren auf 1 Woche
-- Vierteljährlicher Zyklus
-	- Viertljährliche Releases
-	- vierteljährliche Reflexionssitzungen
+
+
+
 
 ### Folgepraktiken
 
-- Teamkontinuität
-	- Auseinander reißen von Teams vermeiden
-- Teams können schrumpfen
-	- Wenn das Team mit der Zeit effektiver arbeitet, sollte der Workload trotzdem gleich bleiben, und eher die Anzahl der Teammitglieder sinken
-- Ursachenanalyse
-	- Beim Fund eines Fehlers: Systemtest, Unit Test, Behebung. Warum gab es vorher keinen Test?
-- Tägliche Code Integration
-- Vertrag mit verhandelbaren Umfang
-- Pay-Per-Use
-	- Kunde zahlt nur soviel, wie viel er die Software auch nutzt
-	- Steigert die Motivation der Entwickler, Software zu entwickeln, die auch gerne genutzt wird
+
+
+
 
 
 # Kanban
