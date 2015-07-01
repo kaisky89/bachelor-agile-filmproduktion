@@ -325,29 +325,43 @@ Das Verwenden von einheitlichen Kodierungsstandards sorgt dafür, dass der Code 
 
 Tests ersetzen in XP eine detaillierte Spezifikation der Arbeitspakete. Außerdem ermöglicht automatisiertes Testen eine sehr zielgenaue und präzise Programmierung, um genau das an Funktionalität zu erreichen, was notwendig ist. <!--TODO Zitat extremeprogramming.org--> behauptet, wer Tests zuerst schreibt und dann den dazugehörigen Code entwickelt ist genau so schnell wie der, der nur den Code entwickelt. Dies lässt sich leicht damit begründen, dass der Entwickler sich schon während der Entwicklung der Tests Gedanken zu der Struktur der nötigen Lösung macht und diese danach nur noch "herunter schreiben" muss. Zudem weiß der Entwickler durch die Test genau, wann er fertig mit der Entwicklung der gewünschten Funktionalität ist: wenn alle Tests erfolgreich waren. <!--TODO Zitat extremeprogramming.org--> Ohne Tests lässt sich der Status "fertig entwickelt" für eine Funktion nicht so leicht definieren. Zuletzt bieten Tests die Grundlage für ein effektives Refactoring; ohne Tests kann nicht ermittelt werden, dass die Funktionalität bestimmter Module durch das Refactoring geändert wurden. <!--TODO Zitat Hanser -->
 
+#### Pair Programming
 
-- Pair Programming
-	- 2 Programmierer teilen sich 1 Computer
-	- abwechselndes Denken: taktisch und strategisch
-	- Beck: Qualität wird besser
-	- Beck: Geschwindigkeit eines 2er Teams = 2 Einzelkämpfer
-- Sequentielle Integration
-	- ...
-- Collective Code Ownership
-- Optimiere erst zum Schluss
-- Ten-Minute Build
-- Tägliche Code Integration
-- Keine Überstunden
+Pair Programming ist die Praxis, dass sich zwei Entwickler zusammen mit einer Aufgabe beschäftigen. Sie sitzen dabei zusammen an einem Rechner, ein Entwickler benutzt die Tastatur und der andere sitzt daneben. Die Rollen des Schreibens und des Beobachtens werden regelmäßig zwischen den beiden Entwicklern getauscht.
+
+Die Idee des Pair Programmings ist auf der Idee der gedanklichen Arbeitsteilung begründet: Während der Entwickler an der Tastatur auf das Problem auf taktischer Ebene angeht, macht sich sein beobachtender Kollege über die strategischen Dimensionen des Problems Gedanken.
+
+Pair Programming bietet verschiedene Vorteile. Es bietet die Möglichkeit, Wissensinseln zu vermeiden, indem mindestens zwei Entwickler über das Wissen der Codebasis für die zu entwickelnde Funktionalität verfügen. <!--TODO Zitat Wolf--> Somit können die Gefahren des *Truck Faktors* <!--TODO Referenz zu "move people around"--> reduziert werden. Wenn beide Entwickler ungefähr gleich viel Erfahrung haben, können sie sich gegenseitig gut unterstützen. Wenn ein Entwickler des Paars deutlich erfahrener als der andere ist, kann der Unerfahrene durch die Zusammenarbeit viel von dem Erfahrenen lernen. Hier gilt wieder der Wert der Kommunikation<!--TODO Referenz auf "Wert" -> "Kommunikation"-->, ein Reden über den Code von Angesicht zu Angesicht während man am Code Änderungen vornimmt, erweist sich als gute Grundlage, Wissenslücken zu füllen. <!--TODO Zitat Agiles PM-->
+
+#### Collective code ownership
+
+Diese Regel besagt, dass jedes Teammitglied jeden Teil der Software ändern darf. Es gibt keine Einteilung der Software in gewisse Funktionsbereiche, für die dann Spezialisten verantwortlich sind. Es gibt auch keinen Chef Software Architekten, der für den Entwurf der System Architektur zuständig ist. All dies liegt in der kollektiven Verantwortung des Teams. Die kollektive Verantwortung birgt einige Chancen in sich: Dadurch, dass jedes Teammitglied über das System bescheid weiß, können falsche Aussagen über Fakten des Systems vermieden werden, da diese nicht abhängig von einem Chefarchitekten, der sich durchaus auch mal irren kann<!--TODO Zitat extremeprogramming.org-->. 
+
+Das automatisierte Testen ermöglicht es jedem Teammitglied, in beliebigen Teilen der Software Änderungen zu tätigen, ohne befürchten zu müssen, dass die Änderungen unerwünschte Seiteneffekte ergeben, die die Funktionalität der Software beeinträchtigen.
+
+#### Häufige und sequentielle Integration
+
+Neben der Forderung, dass häufig integriert wird, also dass ein Entwicklerteam seinen Entwicklungsfortschritt in die gemeinsame Codebasis integriert, fordert XP, dass sequentiell, also hintereinander integriert wird. <!--TODO Zitat extremeprogramming.org--> <!--TODO Zitat Hanser-->
 
 ### Testen
 
-- Unit Tests für den gesamten Code
-- Bei einem gefundenen Fehler muss ein Test generiert werden
-- Akzeptanztest
-	- näher an den User Stories, nicht so nah an den Software Modulen
-	- ersetzen die High-Level-Spezifikationen des Systems
-	- Wells: sollten automatisiert werden
-- Ursachenanalyse
+Die Phase des Testens, die im Wasserfallmodell <!--TODO Referenz auf "Wasserfallmodell"--> eine explizite Phase war ist in XP, wie schon in <!--TODO Referenz auf "Tests zuerst programmieren"--> erwähnt, in der Entwicklung der Software integriert. Die Folgenden Praktiken und Regeln sieht XP für das Testen vor.
+
+#### Unit Tests für den gesamten Code
+
+Unit Tests, also Tests, die nah an der Funktionalität einzelner Codeabschnitte liegen, bilden die Grundlage in XP für ein zeiteffizientes entwickeln. <!--TODO Zitat extremeprogramming.org--> widerspricht der Annahme, dass das Entwickeln von Tests zu viel Zeit in Anspruch nehmen würde. Wie auch schon in <!--TODO Referenz "Tests zuerst programmieren"--> aufgeführt, nimmt das Entwickeln des Tests als solches kaum Zeit in Anspruch, wenn man es in der Kombination mit der Entwicklung der gewünschten Funktionalität sieht. 
+
+Allerdings bringen Tests laut <!--TODO Zitat extremeprogramming.org--> dem Team im weiteren Vorgehen einen immensen Nutzen:
+
+- Tests ermöglichen die Praktik des collectiv code ownership<!--TODO Referenz Refactoring-->, indem sie den Entwicklern die Angst nehmen, fremden Code zu ändern und dabei unwissend die Funktionalität zu beeinträchtigen
+- Tests helfen beim Refactoring <!--TODO Referenz Refactoring-->, indem sie überprüfbar machen, ob die gewünschte Funktionalität des geänderten Codes immer noch gegeben ist.
+- Tests fördern die Praxis der häufigen Integration<!--TODO Referenz "Häufige und sequentielle Integration"-->, indem sie schnell ersichtlich machen, wo bei der Integration Fehler aufgetreten sind und somit dem Entwicklerteam schnell Hinweise darauf geben, an welcher Stelle im Code etwas geändert werden muss.
+
+#### Akzeptanztest
+
+Akzeptanztests sind näher an den User Stories als die Unit Tests. Sie bieten ein Testen der Funktionalität aus der Sicht des Benutzers und weniger aus der Sicht des Entwicklers. Somit befinden sich Akzeptanz Tests auf einer höheren Ebene der Abstraktion als die nah am Code gelegenen Unit Tests. Akzeptanztests stellen die High-Level-Spezifikationen des Systems dar<!--TODO Zitat Hanser-->.
+
+#### Ursachenanalyse
 	- Beim Fund eines Fehlers: Systemtest, Unit Test, Behebung. Warum gab es vorher keinen Test?
 
 # Kanban
