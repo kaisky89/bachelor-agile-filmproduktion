@@ -362,7 +362,10 @@ Allerdings bringen Tests laut <!--TODO Zitat extremeprogramming.org--> dem Team 
 Akzeptanztests sind näher an den User Stories als die Unit Tests. Sie bieten ein Testen der Funktionalität aus der Sicht des Benutzers und weniger aus der Sicht des Entwicklers. Somit befinden sich Akzeptanz Tests auf einer höheren Ebene der Abstraktion als die nah am Code gelegenen Unit Tests. Akzeptanztests stellen die High-Level-Spezifikationen des Systems dar<!--TODO Zitat Hanser-->.
 
 #### Ursachenanalyse
-	- Beim Fund eines Fehlers: Systemtest, Unit Test, Behebung. Warum gab es vorher keinen Test?
+
+Falls in der Software ein Fehler gefunden wird, der von keinem Test abgedeckt wurde, muss zuerst mit dem Kunden zusammen ein Akzeptanztest entwickelt werden, in dem formuliert wird, wie dieser Fehler zu vermeiden ist. Dann wird untersucht, welche Software Module für diesen Akzeptanz verantwortlich sind, um entsprechenden Unit Tests zu entwickeln, die die zusätzliche Verantwortung der Software Module festlegen. Erst dann werden im Code Änderungen vorgenommen, um den Ansprüchen der Unit Tests zu genügen. Laufen die Unit Tests vollständig, sollte nun auch der neu entworfene Akzeptanztest laufen<!--TODO Zitat extremeprogramming.org-->. Die Antwort auf einen gefundenen Fehler ist also ein entwickeln von Tests in "Top-Down" Richtung und eine anschließende Verifikation der Tests in "Bottom-Up" Richtung.
+
+Nach Abschluss der Testentwicklung muss sich das Team die Frage stellen, wie es dazu kommen konnte, dass ein Fehler in der Software vorhanden war, der von keinem Test abgedeckt wurde und was getan werden kann, um weitere solcher Fehler zu vermeiden<!--TODO Zitat Hanser-->.
 
 # Kanban
 
