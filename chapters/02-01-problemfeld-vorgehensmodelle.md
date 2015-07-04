@@ -4,6 +4,8 @@ title: Problemfeld agile Vorgehensmodelle
 
 # Was ist ein Vorgehensmodell?
 
+<!--TODO Hier sollten die vier Begriffe "Wert", "Element" (vielleicht besser: Prinzip), "Technik" und "Vorgehensmodell" von Epping eingeführt werden -->
+
 Da das Thema dieser Arbeit die Entwicklung eines Vorgehensmodell ist, möchte dieser Begriff zuerst einmal definiert werden. Hierbei sollen die beiden Wörter "Vorgehen" und "Modell" zunächst separat voneinander betrachtet werden.
 
 **Vorgehen**
@@ -187,7 +189,7 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 In der Software Entwicklung tendiert man schnell dazu, Funktionen komplizierter zu machen, als es sein muss. Zum Beispiel kann man eine Funktion genau so bauen, dass sie den momentanen Ansprüchen genügt, oder man kann sich überlegen, in welchen ähnlichen Situationen diese Funktion vielleicht auch noch gebraucht werden könnte um dann die Funktion so generisch wie möglich zu implementieren. In der Welt der agilen Software Entwicklung gibt als Antwort auf diese Tendenz zwei Akronyme:
 
 - KISS: "Keep it simple, stupid" (deutsch: Halte es dumm und einfach)
-- YAGNI: "You ain't gonna need it" (deutsch: Du wirst es sowieso nicht brauchen)
+- YAGNI: "You ain't gonna need it" (deutsch: Du wirst es sowieso nicht brauchen) <!--TODO Zitat Epping-->
 
 Einfachheit bedeutet also, die Entwicklung so simpel und grundlegend zu halten, wie möglich. Es wird nicht darüber nachgedacht, was noch alles gemacht werden könnte, sondern genau das entwickelt, was wirklich auch gebraucht wird.
 
@@ -369,9 +371,71 @@ Nach Abschluss der Testentwicklung muss sich das Team die Frage stellen, wie es 
 
 # Kanban
 
- (aus "Agiles Projektmanagement")
+Das nächste zu betrachtende Vorgehensmodell ist Kanban. Kanban hat im Vergleich zu den beiden anderen in dieser Arbeit vorgestellten Vorgehensmodelle XP und Scrum die Besonderheit, dass es nicht für die Softwareentwicklung entworfen wurde. Ursprünglich wurde Kanban von Toyota entwickelt und diente zum Managen und Optimieren Prozessen in der Automobilherstellung. Die Tatsache, dass das Vorgehensmodell - wenn auch mit Änderungen - aus der Domäne *Automobilindustrie* in die Domäne *Softwareentwicklung* übertragen werden konnte, diente auch zum Teil als Motivation für diese Arbeit. Da Kanban nun bereits schon einmal erfolgreich in eine andere Domäne "übersetzt" <!--TODO besseres Wort--> werden konnte, gibt es also Grund genug, es als Vorgehensmodell hier genauer zu betrachten.
 
-## Geschichte von Kanban
+## Was ist Kanban?
+
+Das Wort "Kanban" kommt aus dem japanischen: *Kan* bedeutet soviel wie *Signal* und *Ban* kann man mit *Karte* übersetzen<!--TODO Zitat Epping-->. Damit ist auch schon die ursprüngliche Idee der Technik von Kanban grob beschrieben: Mithilfe von Signalkarten zu kommunizieren, wie der Status gewisser Produktionsabläufe ist. Der Begriff *Kanban* kann an sich kann vieles bedeuten, deswegen soll im Folgenden die folgende Unterscheidung vorgenommen werden:
+
+- *Kanban* als Vorgehensmodell
+	- **Produktions-Kanban** meint das ursprüngliche Vorgehensmodell, wie es in der Produktion verwendet wird
+	- **Software-Kanban** meint das Vorgehensmodell, wie es David J. Anderson in <!--TODO Zitat Anderson--> beschrieben hat.
+- *Kanban* als Technik
+	- Das **Kanban-Board** meint die Technik, ein Board mit Karten und Listen zu verwenden, um den IST-Zustand eines Systems zu veranschaulichen <!--TODO Referenz Technik "Kanban Board"-->
+
+Diese Begriffe sollen im weiteren Verlauf dieser Arbeit dazu dienen, die einzelnen Bedeutungen von Kanban zu unterscheiden. Da allerdings das *Kanban-Board* die zentrale Technik des *Software-Kanban*s ist, ist eine klare Unterscheidung dieser beiden Begriffe nicht immer gegeben. Falls der Begriff *Kanban* ohne Zusatz erscheint, ist damit das *Software-Kanban*, also das Vorgehensmodell gemeint. <!--TODO Diesen Abschnitt nochmal schön machen...-->
+
+### Was leistet Kanban?
+
+- Einfache Mittel, kurze Zeit: Transparenz über akutellen Zustand und akute Probleme
+- WIP-Limit: Kurze Durchlaufzeiten
+- Regelmäßige Meetings / Fokus auf Durchlaufzeiten: Diskussionen / verbesserte Zusammenarbeit im Gesamtsystem
+- nachhaltige Geschwindigkeit
+
+### Illustration
+
+http://www.it-agile.de/wissen/methoden/kanban/kanban-comic/
+
+### Was ist Kanban nicht?
+
+- KEINE Entwicklungsmethode. Keinerlei Aussagen darüber, WIE entwickelt werden soll. Keine Aussage über Planung, Organisation. Nimmt die momentane Situation und sorgt in kleinen Schritten für Optimierungen.
+- Keine Konkurrenz zu Vorgehensmodelle wie XP oder Scrum
+
+### Häufige Fehler
+
+- Kriterien für Kanban
+	- Wiederkehrende Prozessschritte 
+	- Bereitschaft der Beteiligten
+	- Zeit für langsame Veränderungen
+- Kaizen darf nicht vernachlässigt werden
+- Tooleritis: Kein elektronisches Board!
+
+### Kanban ist kein Wundermittel
+
+- zeigt Probleme, das Team muss sie lösen
+- zeigt kontinuierlich die Probleme im System und sorgt somit für immer wieder kleine aber stetige Verbesserungen
+- Kanban selbst muss eingeführt werden. Ein Board an der Wand macht Mitarbeiter nicht zu selbstständige und Eigenverantwortliche Menschen.
+
+### Kanban verändert die Arbeit
+
+- Vorgesetzter kann nicht sofort neue Aufgaben zuweisen
+- Vorgesetzter muss sich um Probleme "nicht technischer Natur" kümmern. (Bildschirme, Möbel besorgen)
+- Aber: Es geht darum, dass das Team produktiv sein kann. Durchsatz!
+- Kennzahlen für die Kommunikation an das Management leicht erfassbar (Durchschnittliche Durchlaufzeit, Gesamt-Durchsatz)
+- Anhand der Durchlaufzeit können Verbesserungen vorgenommen
+
+
+
+### Kanban in der Praxis
+
+- Board in der Näher der Kaffee Maschine
+- Einfache Mittel machen schnell Probleme deutlich
+- Transparenz kann nur durch Vertrauen geschaffen werden
+- Wenn Mitarbeiter wegen Ehrlichkeit unter Druck geraten, geht die Transparenz verloren
+- Flipchart neben dem Board mit den Regeln
+
+
+## Historie
 
 - Kanban kommt ursprünglich aus der Automobilindustrie
 	- Toyota
@@ -379,27 +443,62 @@ Nach Abschluss der Testentwicklung muss sich das Team die Frage stellen, wie es 
 	- Signalkarten, um Produktionsschritte zu synchronisieren
 	- Beispiel: Burger Produktion
 
-## Transfer in die Software Welt
+### Transfer in die Software Welt
 
 - Software ist keine Fließbandproduktion
 - Hohes Maß an Kreativität, Ungewissheit und Variabilität
 - Aber: Allgemeine Prinzipien lassen sich übernehmen (Pull, Flow)
 - Software-Kanban != Produktions-Kanban
 
-## Evolutionäres Change Management
+## Werte von Kanban
 
-- David Anderson
-- Ausgangspunkt: Ist Zustand
-- Änderungen in kleinen Schritten
+David J. Anderson:
 
-## Vorteile von Kanban
+> Value first, then flow, then waste reduction/elimination.
 
-- Macht Probleme im Arbeitsablauf schnell sichtbar, regt zur Diskussion an
-- Durchlaufzeiten verkürzen
-- Engpässe erkennen
-- Überlastung von Mitarbeitern abbauen
-- Prozesse vorhersagbar machen
-- Akzeptanz der Beteiligten für Änderungen am Prozess erhöhen
+- Value
+- Flow
+- Waste
+
+### Messgrößen
+
+- WIP
+- Cycle Time
+- Average Completion Rate
+
+### Little's Law
+
+![Gleichung von "Little's Law"](http://download.heart-co.de/Bildschirmfoto%202015-07-03%20um%2015.34.44.png)
+
+### Schlanke Softwareentwicklung
+
+- keine explizite Wert Formulierung
+- Aber: Epping stellt 7 Werte vor
+
+#### Eliminate Waste
+
+Waste ist:
+
+- Partially Done Work
+- Extra Processes
+- Extra Features
+- Task Switching
+- Waiting
+- Motion
+- Defects
+
+#### Amplify Learning
+
+#### Decide as Late as Possible
+
+#### Deliver as Fast as Possible
+
+#### Empower the Team
+
+#### Build Integrity in
+
+#### See the Whole
+
 
 ## Prinzipien von Kanban
 
@@ -422,38 +521,12 @@ Nach Abschluss der Testentwicklung muss sich das Team die Frage stellen, wie es 
 	- Gesamtes System muss im Auge behalten werden
 	- Beispiel: Qualitative Entwicklung nimmt vielleicht viel Zeit für die Entwicklung ein, dafür ist Testing und Ausliefern viel schneller. Qualität kann, obwohl im lokalen Kontext die Entwicklung vielleicht länger dauert, im ganzen System dafür sorgen, dass der Durchsatz erhöht wird.
 
-## Kontinuierliche Verbesserungen
+### Systemisches Denken
 
-- auch "Kaizen" genannt
-- kleine Verbesserungen: viel Geduld
-- es gibt immer Verbesserungen: Software Entwicklung ist ein flexibles Umfeld und benötig immer wieder Veränderung
-
-### Feedback Meetings
-
-- Tägliches Standup Meeting vor dem Board
-- aktueller Status wird kommuniziert
-- blockierte Aufgaben werden angesprochen
-<!-- -->
-- Außerdem: Retrospektiven Treffs, um Arbeitsprozess zu reflektieren
-
-### Messungen
-
-- Wichtigstes Maß: Durchlaufzeit einer Arbeitsaufgabe
-- Ziel: Durchlaufzeit verringern
-- Viele / Alle Probleme wirken sich auf die Durchlaufzeit aus
-- Weitere Kennzahlen: Menge an WIP, Fehlerrate, Termintreue, Anzahl der Blockaden.
-- Nur das messen, was Erkenntnisgewinn verspricht.
-- Ergebnisse für jeden gut zugänglich!
-
-## Kanban in der Praxis
-
-- Board in der Näher der Kaffee Maschine
-- Einfache Mittel machen schnell Probleme deutlich
-- Transparenz kann nur durch Vertrauen geschaffen werden
-- Wenn Mitarbeiter wegen Ehrlichkeit unter Druck geraten, geht die Transparenz verloren
-- Flipchart neben dem Board mit den Regeln
-
-<!-- -->
+- Problem: Lokale Optimierungen führen nicht zur Verbesserung des Systems. Wenn man als Mitarbeiter nur seine lokale Umgebung sieht, dann kann man nicht über Optimierung des Systems nachdenken. Die Motivation der einzelnen Mitarbeiter wird nur in den lokalen Optimierungen liegen, und so bilden sich eher Fronten zwischen den einzelnen Prozessschritten, als das sich das Systems in seiner Gesamtheit verbessert.
+- Lösung: Mitarbeiter müssen motiviert werden, ihre Arbeit im Gesamt System zu sehen. Hauptmotivation: "Wie schaffen wir es als Gesamt-System, unseren Kunden möglichst oft Ergebnisse mit möglichst viel Wert auszuliefern?"
+- Grenzen aufweichen
+- Manager bestimmen nicht über Mitarbeiter, sondern verbessern das System, "sodass Teams optimale Leistung bringen [...]"
 
 ### WIP Limit
 
@@ -477,53 +550,87 @@ Nach Abschluss der Testentwicklung muss sich das Team die Frage stellen, wie es 
 - Pull bedeutet VERTRAUEN. Dass Mitarbeiter nicht im Internet surfen, oder Kaffee trinken, sondern selbst Verantwortung übernehmen, motiviert sind, und ihr Bestes geben
 - Was mit Deadlines? Serviceklassen. Aber: Wenn Tickets beschleunigt werden, ist das System nicht mehr so gut vorhersagbar.
 
-### Kanban verändert die Arbeit
+### Evolutionäres Change Management
 
-- Vorgesetzter kann nicht sofort neue Aufgaben zuweisen
-- Vorgesetzter muss sich um Probleme "nicht technischer Natur" kümmern. (Bildschirme, Möbel besorgen)
-- Aber: Es geht darum, dass das Team produktiv sein kann. Durchsatz!
-- Kennzahlen für die Kommunikation an das Management leicht erfassbar (Durchschnittliche Durchlaufzeit, Gesamt-Durchsatz)
-- Anhand der Durchlaufzeit können Verbesserungen vorgenommen
+- David Anderson
+- Ausgangspunkt: Ist Zustand
+- Änderungen in kleinen Schritten
 
-### Systemisches Denken
+### Kontinuierliche Verbesserungen
 
-- Problem: Lokale Optimierungen führen nicht zur Verbesserung des Systems. Wenn man als Mitarbeiter nur seine lokale Umgebung sieht, dann kann man nicht über Optimierung des Systems nachdenken. Die Motivation der einzelnen Mitarbeiter wird nur in den lokalen Optimierungen liegen, und so bilden sich eher Fronten zwischen den einzelnen Prozessschritten, als das sich das Systems in seiner Gesamtheit verbessert.
-- Lösung: Mitarbeiter müssen motiviert werden, ihre Arbeit im Gesamt System zu sehen. Hauptmotivation: "Wie schaffen wir es als Gesamt-System, unseren Kunden möglichst oft Ergebnisse mit möglichst viel Wert auszuliefern?"
-- Grenzen aufweichen
-- Manager bestimmen nicht über Mitarbeiter, sondern verbessern das System, "sodass Teams optimale Leistung bringen [...]"
+- auch "Kaizen" genannt
+- kleine Verbesserungen: viel Geduld
+- es gibt immer Verbesserungen: Software Entwicklung ist ein flexibles Umfeld und benötig immer wieder Veränderung
 
-## Was leistet Kanban?
+## Techniken von Kanban
 
-- Einfache Mittel, kurze Zeit: Transparenz über akutellen Zustand und akute Probleme
-- WIP-Limit: Kurze Durchlaufzeiten
-- Regelmäßige Meetings / Fokus auf Durchlaufzeiten: Diskussionen / verbesserte Zusammenarbeit im Gesamtsystem
-- nachhaltige Geschwindigkeit
+### Kanban-Board
 
-<!-- -->
+### Stand-Ups
 
-### Kanban ist kein Wundermittel
+- Tägliches Standup Meeting vor dem Board
+- aktueller Status wird kommuniziert
+- blockierte Aufgaben werden angesprochen
 
-- zeigt Probleme, das Team muss sie lösen
-- zeigt kontinuierlich die Probleme im System und sorgt somit für immer wieder kleine aber stetige Verbesserungen
-- Kanban selbst muss eingeführt werden. Ein Board an der Wand macht Mitarbeiter nicht zu selbstständige und Eigenverantwortliche Menschen.
+### Retrospektiven
 
-## Was ist Kanban nicht?
+- Außerdem: Retrospektiven Treffs, um Arbeitsprozess zu reflektieren
 
-- KEINE Entwicklungsmethode. Keinerlei Aussagen darüber, WIE entwickelt werden soll. Keine Aussage über Planung, Organisation. Nimmt die momentane Situation und sorgt in kleinen Schritten für Optimierungen.
-- Keine Konkurrenz zu Vorgehensmodelle wie XP oder Scrum
+### User Stories
 
-## Häufige Fehler
+### Planungspoker
 
-- Kriterien für Kanban
-	- Wiederkehrende Prozessschritte 
-	- Bereitschaft der Beteiligten
-	- Zeit für langsame Veränderungen
-- Kaizen darf nicht vernachlässigt werden
-- Tooleritis: Kein elektronisches Board!
+### Code Reviews 
+
+### Continuous Integration
+
+### Abnahmekriterien
+
+### Messungen
+
+- Wichtigstes Maß: Durchlaufzeit einer Arbeitsaufgabe
+- Ziel: Durchlaufzeit verringern
+- Viele / Alle Probleme wirken sich auf die Durchlaufzeit aus
+- Weitere Kennzahlen: Menge an WIP, Fehlerrate, Termintreue, Anzahl der Blockaden.
+- Nur das messen, was Erkenntnisgewinn verspricht.
+- Ergebnisse für jeden gut zugänglich!
+
+### Entwicklungsgeschwindigkeit
+
+### Durchlaufzeit
+
+
+## Vorteile von Kanban
+
+- Macht Probleme im Arbeitsablauf schnell sichtbar, regt zur Diskussion an
+- Durchlaufzeiten verkürzen
+- Engpässe erkennen
+- Überlastung von Mitarbeitern abbauen
+- Prozesse vorhersagbar machen
+- Akzeptanz der Beteiligten für Änderungen am Prozess erhöhen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Kanban
 
-(aus: Epping)
+
 
 ## Begriffe
 
@@ -552,22 +659,6 @@ Nach Abschluss der Testentwicklung muss sich das Team die Frage stellen, wie es 
 <!-- -->
 
 > Ein Vorgehensmodell ist also durch die Menge seiner Elemente charakterisiert. Aus der daraus resultierenden Menge von Werten ergibt sich für jedes Softwareentwicklungsprojekt eine projektindividuelle Kultur. In dieser sind die abstrakten Bestandteile (Werte) deutlich bestimmend, aber wenig sichtbar und die konkreten Bestandteile (Techniken) wenig bestimmend, aber deutlich sichtbar.
-
-## Grundlagen
-
-### Name
-
-- *Kan*: Signal
-- *Ban*: Karte
-
-### Werte
-
-David J. Anderson:
-
-> Value first, then flow, then waste reduction/elimination.
-
-- Value
-
 
 
 
