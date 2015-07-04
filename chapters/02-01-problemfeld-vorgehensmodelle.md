@@ -383,65 +383,51 @@ Das Wort "Kanban" kommt aus dem japanischen: *Kan* bedeutet soviel wie *Signal* 
 - *Kanban* als Technik
 	- Das **Kanban-Board** meint die Technik, ein Board mit Karten und Listen zu verwenden, um den IST-Zustand eines Systems zu veranschaulichen <!--TODO Referenz Technik "Kanban Board"-->
 
-Diese Begriffe sollen im weiteren Verlauf dieser Arbeit dazu dienen, die einzelnen Bedeutungen von Kanban zu unterscheiden. Da allerdings das *Kanban-Board* die zentrale Technik des *Software-Kanban*s ist, ist eine klare Unterscheidung dieser beiden Begriffe nicht immer gegeben. Falls der Begriff *Kanban* ohne Zusatz erscheint, ist damit das *Software-Kanban*, also das Vorgehensmodell gemeint. <!--TODO Diesen Abschnitt nochmal schön machen...-->
+Diese Begriffe sollen im weiteren Verlauf dieser Arbeit dazu dienen, die einzelnen Bedeutungen von Kanban zu unterscheiden.<!-- Da allerdings das Kanban-Board die zentrale Technik des Software-Kanbans ist, ist eine klare Unterscheidung dieser beiden Begriffe nicht immer gegeben.--> Falls der Begriff *Kanban* ohne Zusatz erscheint, ist damit das *Software-Kanban*, also das Vorgehensmodell gemeint. <!--TODO Diesen Abschnitt nochmal schön machen...-->
 
-### Was leistet Kanban?
+Die Idee von Software-Kanban ist, mithilfe einfacher Mittel Transparenz über den aktuellen Entwicklungsstatus eines Projekts zu bekommen, und zu kommunizieren, welche Probleme gerade akut sind. Software-Kanban nutzt hierfür primär die Technik des Kanban-Boards, das dahinter liegende Wertesystem und die daraus resultierenden Prinzipien gehen aber weitaus über die Technik an sich hinaus und sollen im weiteren näher betrachtet werden.
 
-- Einfache Mittel, kurze Zeit: Transparenz über akutellen Zustand und akute Probleme
-- WIP-Limit: Kurze Durchlaufzeiten
-- Regelmäßige Meetings / Fokus auf Durchlaufzeiten: Diskussionen / verbesserte Zusammenarbeit im Gesamtsystem
-- nachhaltige Geschwindigkeit
-
-### Illustration
-
-http://www.it-agile.de/wissen/methoden/kanban/kanban-comic/
+Das Ziel von Software-Kanban ist nicht, Probleme zu lösen, sondern nur aufzuzeigen. Es gibt den Mitgliedern des Entwicklungsteams die nötigen Werkzeuge und Techniken in die Hand, Probleme und Schwachstellen in ihrer Zusammenarbeit zu sehen. Wie sie dann damit umgehen, bleibt in ihrer Hand. <!--TODO Zitat Agiles PM: Software-Kanban-->
 
 ### Was ist Kanban nicht?
 
-- KEINE Entwicklungsmethode. Keinerlei Aussagen darüber, WIE entwickelt werden soll. Keine Aussage über Planung, Organisation. Nimmt die momentane Situation und sorgt in kleinen Schritten für Optimierungen.
-- Keine Konkurrenz zu Vorgehensmodelle wie XP oder Scrum
+Software-Kanban ist keine Entwicklungsmethode. Es gibt keine Aussagen darüber *wie* entwickelt werden soll. Es bezieht auch keine Stellung darüber, wie ein Entwicklungsprojekt geplant oder organisiert werden soll. Das bedeutet, Software-Kanban kann sowohl in Projekten angewandt werden, die noch nach dem klassischen Wasserfallmodell arbeiten, als auch in modernen Projekten mit iterativ-inkrementellem Ansatz.
 
-### Häufige Fehler
-
-- Kriterien für Kanban
-	- Wiederkehrende Prozessschritte 
-	- Bereitschaft der Beteiligten
-	- Zeit für langsame Veränderungen
-- Kaizen darf nicht vernachlässigt werden
-- Tooleritis: Kein elektronisches Board!
-
-### Kanban ist kein Wundermittel
-
-- zeigt Probleme, das Team muss sie lösen
-- zeigt kontinuierlich die Probleme im System und sorgt somit für immer wieder kleine aber stetige Verbesserungen
-- Kanban selbst muss eingeführt werden. Ein Board an der Wand macht Mitarbeiter nicht zu selbstständige und Eigenverantwortliche Menschen.
-
-### Kanban verändert die Arbeit
-
-- Vorgesetzter kann nicht sofort neue Aufgaben zuweisen
-- Vorgesetzter muss sich um Probleme "nicht technischer Natur" kümmern. (Bildschirme, Möbel besorgen)
-- Aber: Es geht darum, dass das Team produktiv sein kann. Durchsatz!
-- Kennzahlen für die Kommunikation an das Management leicht erfassbar (Durchschnittliche Durchlaufzeit, Gesamt-Durchsatz)
-- Anhand der Durchlaufzeit können Verbesserungen vorgenommen
-
-
-
-### Kanban in der Praxis
-
-- Board in der Näher der Kaffee Maschine
-- Einfache Mittel machen schnell Probleme deutlich
-- Transparenz kann nur durch Vertrauen geschaffen werden
-- Wenn Mitarbeiter wegen Ehrlichkeit unter Druck geraten, geht die Transparenz verloren
-- Flipchart neben dem Board mit den Regeln
+Software-Kanban bietet somit auch in keinerlei Konkurrenz zu den Vorgehensmodellen wie XP oder Scrum<!--TODO Zitat Agiles PM: Software Kanban-->. Die Idee von Software-Kanban ist nicht, ein neues Vorgehen einzuführen. Es setzt auf die vorhanden Strukturen auf und arbeitet mit kleinen Schritten der Verbesserung.
 
 
 ## Historie
 
-- Kanban kommt ursprünglich aus der Automobilindustrie
-	- Toyota
-	- Just in Time (Lagerbestände reduzieren - Überproduktion und Mangel eliminieren)
-	- Signalkarten, um Produktionsschritte zu synchronisieren
-	- Beispiel: Burger Produktion
+### Produktions-Kanban
+
+Der ursprüngliche Gedanke von Software-Kanban kommt aus der Automobilindustrie. (Das Kanban Vorgehensmodell der Automobilindustrie wird im Folgenden Produktions-Kanban genannt, eine Differenzierung mit dem Software-Kanban zu ermöglichen)
+
+Der japanische Automobilhersteller Toyota entwickelte Produktions-Kanban, um eine Just-In-Time Produktion zu gewährleisten: Es sollte eine unnötige Überproduktion einzelner Teile in eine Produktionslinie vermieden werden, so konnte die Verschwendung von Lagerplatz eliminiert werden. Andererseits musste sichergestellt werden, dass nicht ein Mangel an Produktionsgütern vorherrschte. So entwickelte Toyota ein System, um die einzelnen Produktionsschritte miteinander zu synchronisieren: Es wurden Karten eingesetzt, um signalisieren, dass sich Bestände eines bestimmten Zwischenerzeugnisses dem Ende neigten. Die Nachproduktion wurde mithilfe dieser Karten initiiert. Somit konnte die Menge der zwischengelagerten Teile einer Produktion auf ein Minimum gebracht werden: Zwischenteile wurden erst genau dann produziert, wenn sie auch benötigt wurden.
+
+### Beispiel Burger Produktion
+
+Ein einfaches Beispiel, um die Technik der Signalkarte im Produktions-Kanban zu veranschaulichen, ist die Burger Produktion in einem Fast-Food Restaurant<!--TODO Zitat video2brain Kanban-->. 
+
+Dazu wird folgende Situation angenommen, wie sie in <!--TODO Referenz auf Abbildung--> abgebildet ist.
+
+![Beispiel Burgerproduktion Teil 1. Die Küche produziert Burger, die der Verkauf an die Restaurant Gäste verkauft. Beide sind durch eine Rutsche miteinander verbunden. Es liegen 5 Burger auf der Rutsche mit einer Signalkarte vor den letzten 2 Burgern.](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.50.52.png)
+
+<!--TODO Grafik selber malen-->
+<!--TODO Grafik zitieren aus video2brain Kanban-->
+
+Es existieren die Abteilungen *Küche* und *Verkauf*. In diesem vereinfachten Beispiel wird davon ausgegangen, dass das Restaurant nur eine Sorte von Burgern verkauft. Die *Küche* ist dafür zuständig, Burger zu produzieren. Der Verkauf nimmt Burger von der Küche und verkauft diese an die Restaurant Gäste. Die Burger werden von der Küche an den Verkauf über eine Rutsche transportiert, die auch gleichzeitig als Zwischenlager der Burger zwischen den beiden Stationen Küche und Verkauf dient. Auf der Rutsche liegen fünf Burger und eine Signalkarte (grüne Markierung). Die Signalkarte teilt die Warteschlange der Burger so ein, dass drei Burger vor und zwei Burger nach der Signalkarte liegen.
+
+Ziel des Kanbans Systems in diesem Beispiel ist es, den Zwischenlagerbestand (Anzahl der Burger auf der Rutsche) in einer optimalen Größe zu behalten. Wenn der Lagerbestand zu groß ist, bekommen die Gäste kalte Burger, weil diese zu lange auf der Rutsche liegen mussten. Ist der Lagerbestand zu klein, müssen die Gäste auf Burger warten. Die Technik der Signalkarte will hier also den optimalen Zeitpunkt für die Küche signalisieren, Burger nach zu produzieren.
+
+In dem Beispiel werden nun die ersten drei Burger verkauft. Die anderen Burger auf der Rutsche rutschen nach, mitsamt der Signalkarte. Der Verkauf hat nun die Signalkarte bei sich stehen und signalisiert dies der Küche (siehe <!--TODO Referenz auf Abbildung-->).
+
+![Beispiel Burgerproduktion Teil 2. Der Verkauf verkauft die ersten drei Burger. Er bekommt die Signalkarte und signalisiert dies Küche.](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.51.28.png)
+
+Die Küche produziert nun drei neue Burger und stellt diese mit der Signalkarte so auf die Rutsche, dass wieder zwei Burger hinter der Signalkarte stehen. Während die Küche die neuen Burger produziert, kann der Verkauf noch die letzten beiden Burger verkaufen (siehe <!--TODO Referenz auf Abbildung-->).
+
+![Beispiel Burgerproduktion Teil 3. Die Küche produziert Burger nach (lila) und stellt diese auf die Rutsche, inklusive Signalkarte vor den letzten zwei Burgern.](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.52.05.png)
+
+
 
 ### Transfer in die Software Welt
 
@@ -626,15 +612,49 @@ Waste ist:
 
 
 
-
-
-# Kanban
+## Literatur Kanban Roock
 
 
 
-## Begriffe
+- Regelmäßige Meetings / Fokus auf Durchlaufzeiten: Diskussionen / verbesserte Zusammenarbeit im Gesamtsystem
+- nachhaltige Geschwindigkeit
 
-### Wert
+### Illustration
+
+http://www.it-agile.de/wissen/methoden/kanban/kanban-comic/
+
+
+
+### Häufige Fehler
+
+- Kriterien für Kanban
+	- Wiederkehrende Prozessschritte 
+	- Bereitschaft der Beteiligten
+	- Zeit für langsame Veränderungen
+- Kaizen darf nicht vernachlässigt werden
+- Tooleritis: Kein elektronisches Board!
+
+### Kanban ist kein Wundermittel
+
+- zeigt Probleme, das Team muss sie lösen
+- zeigt kontinuierlich die Probleme im System und sorgt somit für immer wieder kleine aber stetige Verbesserungen
+- Kanban selbst muss eingeführt werden. Ein Board an der Wand macht Mitarbeiter nicht zu selbstständige und Eigenverantwortliche Menschen.
+
+### Kanban verändert die Arbeit
+
+- Vorgesetzter kann nicht sofort neue Aufgaben zuweisen
+- Vorgesetzter muss sich um Probleme "nicht technischer Natur" kümmern. (Bildschirme, Möbel besorgen)
+- Aber: Es geht darum, dass das Team produktiv sein kann. Durchsatz!
+- Kennzahlen für die Kommunikation an das Management leicht erfassbar (Durchschnittliche Durchlaufzeit, Gesamt-Durchsatz)
+- Anhand der Durchlaufzeit können Verbesserungen vorgenommen
+
+
+
+## Literatur Kanban Epping
+
+### Begriffe
+
+#### Wert
 
 > Ein Wert ist ein abstraktes Ziel, das mit einem nicht verhandelbaren Nutzen verbunden ist.
 > Akzeptiert eine Person einen Wert, so erkennt diese Person den Nutzen des Werts kompromisslos an. Erkennt umgekehrt eine Person den Nutzen eines Werts nicht kompromisslos an, so akzeptiert diese Person den Wert nicht.
@@ -642,17 +662,17 @@ Waste ist:
 - Werte haben fundamentalen Charakter
 - schwierig, wenn Werte im Privatleben nicht mit Werten des Projektes übereinstimmen
 
-### Element
+#### Element
 
 > Ein Element ist ein allgemeines Vorgehen, das durch einen abstrakten Wert motiviert ist und den Nutzen des Werts (oder kurz: den Wert) realisieren soll.
 > Ein Wert kann durch mehrere, verschiedene Elemente realisiert werden; umgekehrt kann ein Element mehrere, verschiedene Werte realisieren.
 
-### Technik
+#### Technik
 
 > Eine Technik ist eine konkrete Umsetzung eines allgemeinen Elements.
 > Ein Element kann durch mehrere, verschiedene Techniken umgesetzt werden; umgekehrt kann eine Technik mehrere, verschiedene Elemente umsetzen.
 
-### Vorgehensmodell
+#### Vorgehensmodell
 
 > Ein Vorgehensmodell ist eine Zusammenstellung von Elementen, die auf einem oder mehreren Werten basieren und von denen jedes durch eine oder mehrere Techniken umgesetzt wird.
 
