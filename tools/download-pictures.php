@@ -38,6 +38,6 @@ function downloadPictures($pathToFile)
     $newFileName = $noPeriod.".".$ending;
 
     
-    `cd tex/images/ && wget -N $url -O $newFileName`;
+    `cd tex/images/ && wget -N -quiet $url -O $newFileName`;
   }
 }
