@@ -427,6 +427,8 @@ Die Küche produziert nun drei neue Burger und stellt diese mit der Signalkarte 
 
 ![Beispiel Burgerproduktion Teil 3. Die Küche produziert Burger nach (lila) und stellt diese auf die Rutsche, inklusive Signalkarte vor den letzten zwei Burgern.](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.52.05.png)
 
+Aus dem Beispiel lässt sich die grundlegende Idee der Technik der Signalkarte aus dem Produktions-Kanban entnehmen.
+
 
 
 ### Transfer in die Software Welt
