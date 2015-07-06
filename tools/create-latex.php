@@ -44,7 +44,7 @@ foreach ($files as $file) {
 
   $texfile = explode('.', $file)[0].'.tex';
 
-  `/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i ../pipeline/01-pre/$file  -o ../pipeline/02-latex/$texfile`; 
+  `/usr/bin/pandoc --filter pandoc-citeproc -f markdown --latex-engine=xelatex -R -i ../pipeline/01-pre/$file  -o ../pipeline/02-latex/$texfile`; 
 
   $latexPostProcessor->processFile("../pipeline/02-latex/".$texfile, "../pipeline/03-post/".$texfile);
 }
@@ -62,7 +62,7 @@ foreach ($files as $file) {
 
   $texfile = explode('.', $file)[0].'.tex';
 
-  `/usr/bin/pandoc -f markdown --latex-engine=xelatex -R -i ../pipeline/others/01-pre/$file  -o ../pipeline/others/02-latex/$texfile`; 
+  `/usr/bin/pandoc --filter pandoc-citeproc -f markdown --latex-engine=xelatex -R -i ../pipeline/others/01-pre/$file  -o ../pipeline/others/02-latex/$texfile`; 
 
   $latexPostProcessor->processFile("../pipeline/others/02-latex/".$texfile, "../pipeline/others/03-post/".$texfile);
 }
