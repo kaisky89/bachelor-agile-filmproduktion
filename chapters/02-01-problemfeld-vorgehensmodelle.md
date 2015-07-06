@@ -116,7 +116,7 @@ Die Unschärfe, die diese Probleme der Anforderungsanalyse mit sich bringen, kan
 
 <!--TODO selber Zeichnen. Zitieren aus Hanser-->
 
-<!--TODO Zitat: Barry Boehm nach Hanser --> schlug in den 1980er Jahren das Spiralmodell vor, dass einen iterativ-inkrementellen Ansatz verfolgte. Inkrementell bedeutet, anstatt das vollständige Produkt der Software auf ein mal zu entwickeln, was meist mehrere Jahre in Anspruch nimmt, wird die Software in kleineren Paketen entwickelt. Die einzelnen Pakete bauen aufeinander auf und erweitern die Software Stück für Stück um die gewünschten Funktionen. Iterativ bedeutet, dass für die Entwicklung jedes Inkrements (Pakets) die einzelnen Phasen der Software Entwicklung durchlaufen werden.
+\cite[Barry Boehm]{boehm} (zitiert nach \cite{hanser}) schlug in den 1980er Jahren das Spiralmodell vor, dass einen iterativ-inkrementellen Ansatz verfolgte. Inkrementell bedeutet, anstatt das vollständige Produkt der Software auf ein mal zu entwickeln, was meist mehrere Jahre in Anspruch nimmt, wird die Software in kleineren Paketen entwickelt. Die einzelnen Pakete bauen aufeinander auf und erweitern die Software Stück für Stück um die gewünschten Funktionen. Iterativ bedeutet, dass für die Entwicklung jedes Inkrements (Pakets) die einzelnen Phasen der Software Entwicklung durchlaufen werden.
 
 Mithilfe des Spiralmodells kann auf die Problemstellung des "Moving Targets" besser reagiert werden: Die Software wird schrittweise entwickelt und nach jedem Schritt wieder mit den Wünschen und Anforderungen des Auftraggebers oder des Anwenders abgeglichen. So kann sichergestellt werden, dass die Entwicklung der Software den Erwartungen des Auftraggebers entspricht. Bei ändernden Wünschen kann schnell darauf reagiert werden, da diese bereits in die nächste Iteration eingebaut werden können. 
 
@@ -125,7 +125,7 @@ Ein weiterer Vorteil des Spiralmodells ist die Möglichkeit, dem Kunden schon fr
 
 # Schwergewichtige Vorgehensmodelle
 
-Man unterscheidet zwischen schwergewichtige und leichtgewichtige Vorgehensmodelle\cite{hanser}.  
+Man unterscheidet zwischen schwergewichtige und leichtgewichtige Vorgehensmodelle \cite{hanser}.  
 
 Schwergewichtige Vorgehensmodelle sind dokumentenlastig. Die Dokumentation und eine formale Strukturierung der Prozesses spielen hier eine wesentliche Rolle. Schwergewichtige Vorgehensmodelle eignen sich vor allem für die Entwicklung für Software, die in lebenskritischen Situationen zum Einsatz kommt. Das bedeutet, wenn die Fehlfunktion der Software eine Gefahr für Menschenleben birgt, oder die Entwicklung sonstiger strenger Auflagen standhalten muss und somit eine ausführliche Dokumentation und Planung wirklich notwendig ist, ist man gut beraten, sich dieser schwergewichtigen Vorgehensmodelle zu bedienen. Als Beispiel für schwergewichtige Vorgehensmodelle seien hier das V-Modell - XT und der Unified Software Development Process genannt. <!--TODO Zitat Hanser--> Die schwergewichtigen Vorgehensmodelle gelten als dokumentenlastig und damit auch als teuer, da viel Zeit und Arbeit in Dokumente investiert wird. Zwar sind auch in den schwergewichtigen Vorgehensmodelle Iterationen und das Entwickeln von Inkrementen vorhanden, allerdings gelten sie durch ihre formale Strukturierung trotzdem als eher unflexibel auf wechselnde Anforderungen.
 
@@ -134,15 +134,13 @@ Im Gegensatz dazu stehen die leichtgewichtigen Vorgehensmodelle, die auch als ag
 
 # Agile Vorgehensmodelle
 
-Agil bedeutet "von großer Beweglichkeit zeugend; regsam und wendig" <!--TODO Zitat Wörterbuch-->, betont in dem Kontext von Vorgehensmodellen also die Möglichkeit, auf Änderungen schnell reagieren zu können. Agile Vorgehensmodelle sind die Antwort auf die schwergewichtigen Vorgehensmodelle, die durch ihre formalisierte Struktur und den Anspruch an eine ausführliche Dokumentation als träge und unflexibel gelten. Ein Vorgehensmodell ist agil, wenn es dem *agilen Manifest* entspricht.
+Agil bedeutet "von großer Beweglichkeit zeugend; regsam und wendig" \cite{duden}, betont in dem Kontext von Vorgehensmodellen also die Möglichkeit, auf Änderungen schnell reagieren zu können. Agile Vorgehensmodelle sind die Antwort auf die schwergewichtigen Vorgehensmodelle, die durch ihre formalisierte Struktur und den Anspruch an eine ausführliche Dokumentation als träge und unflexibel gelten. Ein Vorgehensmodell ist agil, wenn es dem *agilen Manifest* entspricht.
 
 ## Agiles Manifest
 
-Das Agile Manifest (oder auch das "Manifest für Agile Softwareentwicklung") ist die Erklärung führender Software Entwicklungs Experten, bewusst auf die Schwergewichtigkeit in Vorgehensmodellen zu verzichten und somit ein schnelleres, flexibleres und auf Änderungen reaktionsfähigeres Vorgehen zu entwickeln. Somit entschlossen sie sich im Februar 2001 für die 4 Werte Agilen Manifests:
+Das Agile Manifest (oder auch das "Manifest für Agile Softwareentwicklung") ist die Erklärung führender Software Entwicklungs Experten, bewusst auf die Schwergewichtigkeit in Vorgehensmodellen zu verzichten und somit ein schnelleres, flexibleres und auf Änderungen reaktionsfähigeres Vorgehen zu entwickeln. Somit entschlossen sie sich im Februar 2001 für die 4 Werte Agilen Manifests \cite{agilemanifesto}:
 
 ![Das "Manifest für Agile Softwareentwicklung"](http://download.heart-co.de/Bildschirmfoto%202015-06-29%20um%2014.28.14.png)
-
-<!--TODO Quelle: http://www.agilemanifesto.org/iso/de/ -->
 
 - **Individuen und Interaktionen** mehr als *Prozesse und Werkzeuge*
 - **Funktionierende Software** mehr als *umfassende Dokumentation*
@@ -161,7 +159,7 @@ Diese Interpretation kann genau so auf die anderen Sätze angewendet werden: Die
 
 Wichtig ist an dieser Stelle dem schnell zu entstehenden Gedanken zu widersprechen, dass agile Softwareentwicklung willkürlich, chaotisch oder gar anarchisch sei. Das stimmt so nicht. Es gibt immer noch Dokumentation, und es gibt immer noch eine Form, sich zu organisieren und einen Plan. Die Betonung liegt nur darauf, dass dieser Plan flexibel ist und Veränderungen reagieren kann.
 
-Diese Leitsätze bilden ein Wertesystem ab, dass die Grundeinstellung in der agilen Softwareentwicklung erklärt. Für ein konkretes Vorgehen in einem Projekt gibt dies allerdings keine große Hilfestellung. <!--TODO Zitat Hanser--> Hierfür gibt es die agilen Vorgehensmodelle, die sich dem agilen Manifest verschrieben haben und auf verschiedene Art und Weise die Werte des Manifests umsetzen. Jedes dieser Vorgehensmodelle hat nicht nur andere Ansätze sondern bewegt sich auch auf verschiedenen Abstraktionsgraden. XP beispielsweise ist eher eine Ansammlung von vielen Praktiken und Methoden, wie konkret in den verschiedenen Phasen der Software Entwicklung vorgegangen wird. Hier werden Methoden fest gefordert und es wird behauptet, dass XP ohne diese Methoden nicht mehr XP ist. Scrum hingegen ist ein Meta Vorgehensmodell, welches keine konkreten Praktiken vorschreibt, sondern dem Team die Möglichkeit bietet oder sogar fordert, die Praktiken selbst zu wählen. Der unterschiedliche Ansatz der Vorgehensmodelle macht es schwierig, sie direkt miteinander zu vergleichen. Allerdings bietet sich so auch die Möglichkeiten, die Vorgehensmodelle in vielerlei Hinsicht zu kombinieren, da sie ja auf unterschiedlicher Ebene agieren und sich so nicht widersprechen sondern meist ergänzen. So steht zum Beispiel als Schlussbemerkung im Scrum Guide: <!--TODO Quelle Scrum Guide-->
+Diese Leitsätze bilden ein Wertesystem ab, dass die Grundeinstellung in der agilen Softwareentwicklung erklärt. Für ein konkretes Vorgehen in einem Projekt gibt dies allerdings keine große Hilfestellung \cite{hanser}. Hierfür gibt es die agilen Vorgehensmodelle, die sich dem agilen Manifest verschrieben haben und auf verschiedene Art und Weise die Werte des Manifests umsetzen. Jedes dieser Vorgehensmodelle hat nicht nur andere Ansätze sondern bewegt sich auch auf verschiedenen Abstraktionsgraden. XP beispielsweise ist eher eine Ansammlung von vielen Praktiken und Methoden, wie konkret in den verschiedenen Phasen der Software Entwicklung vorgegangen wird. Hier werden Methoden fest gefordert und es wird behauptet, dass XP ohne diese Methoden nicht mehr XP ist. Scrum hingegen ist ein Meta Vorgehensmodell, welches keine konkreten Praktiken vorschreibt, sondern dem Team die Möglichkeit bietet oder sogar fordert, die Praktiken selbst zu wählen. Der unterschiedliche Ansatz der Vorgehensmodelle macht es schwierig, sie direkt miteinander zu vergleichen. Allerdings bietet sich so auch die Möglichkeiten, die Vorgehensmodelle in vielerlei Hinsicht zu kombinieren, da sie ja auf unterschiedlicher Ebene agieren und sich so nicht widersprechen sondern meist ergänzen. So steht zum Beispiel als Schlussbemerkung im \cite[Scrum Guide]{scrumguide}: 
 
 > "Scrum existiert nur in seiner Gesamtheit und funktioniert sehr gut als Container für andere Techniken, Methoden und Praktiken."
 
