@@ -127,7 +127,7 @@ Ein weiterer Vorteil des Spiralmodells ist die Möglichkeit, dem Kunden schon fr
 
 Man unterscheidet zwischen schwergewichtige und leichtgewichtige Vorgehensmodelle \cite{hanser}.  
 
-Schwergewichtige Vorgehensmodelle sind dokumentenlastig. Die Dokumentation und eine formale Strukturierung der Prozesses spielen hier eine wesentliche Rolle. Schwergewichtige Vorgehensmodelle eignen sich vor allem für die Entwicklung für Software, die in lebenskritischen Situationen zum Einsatz kommt. Das bedeutet, wenn die Fehlfunktion der Software eine Gefahr für Menschenleben birgt, oder die Entwicklung sonstiger strenger Auflagen standhalten muss und somit eine ausführliche Dokumentation und Planung wirklich notwendig ist, ist man gut beraten, sich dieser schwergewichtigen Vorgehensmodelle zu bedienen. Als Beispiel für schwergewichtige Vorgehensmodelle seien hier das V-Modell - XT und der Unified Software Development Process genannt. <!--TODO Zitat Hanser--> Die schwergewichtigen Vorgehensmodelle gelten als dokumentenlastig und damit auch als teuer, da viel Zeit und Arbeit in Dokumente investiert wird. Zwar sind auch in den schwergewichtigen Vorgehensmodelle Iterationen und das Entwickeln von Inkrementen vorhanden, allerdings gelten sie durch ihre formale Strukturierung trotzdem als eher unflexibel auf wechselnde Anforderungen.
+Schwergewichtige Vorgehensmodelle sind dokumentenlastig. Die Dokumentation und eine formale Strukturierung der Prozesses spielen hier eine wesentliche Rolle. Schwergewichtige Vorgehensmodelle eignen sich vor allem für die Entwicklung für Software, die in lebenskritischen Situationen zum Einsatz kommt. Das bedeutet, wenn die Fehlfunktion der Software eine Gefahr für Menschenleben birgt, oder die Entwicklung sonstiger strenger Auflagen standhalten muss und somit eine ausführliche Dokumentation und Planung wirklich notwendig ist, ist man gut beraten, sich dieser schwergewichtigen Vorgehensmodelle zu bedienen. Als Beispiel für schwergewichtige Vorgehensmodelle seien hier das V-Modell - XT und der Unified Software Development Process genannt \cite{hanser}. Die schwergewichtigen Vorgehensmodelle gelten als dokumentenlastig und damit auch als teuer, da viel Zeit und Arbeit in Dokumente investiert wird. Zwar sind auch in den schwergewichtigen Vorgehensmodelle Iterationen und das Entwickeln von Inkrementen vorhanden, allerdings gelten sie durch ihre formale Strukturierung trotzdem als eher unflexibel auf wechselnde Anforderungen.
 
 Im Gegensatz dazu stehen die leichtgewichtigen Vorgehensmodelle, die auch als agile Vorgehensmodelle bezeichnet werden. Auf diese soll im Folgenden näher eingegangen werden.
 
@@ -224,13 +224,11 @@ User Stories ist eine Technik für die Anforderungsspezifikation. User Stories s
 
 #### Releases
 
-Releases sind mit dem Auftraggeber, dem Management und dem Entwicklungsteam festgelegte Zeitpunkte, zu denen eine definierte Menge von User Stories fertig gestellt sein sollen. Ein Release wird in XP mithilfe des "Planning-Game" <!--TODO Zitat http://c2.com/cgi/wiki?PlanningGame --> geplant. Hierbei legt das Entwicklungsteam fest, wie viel Zeit es für jede der verfügbaren User Stories braucht. Mithilfe der geschätzten Zeiten einigen sich dann alle Beteiligten (Management, Kunde und Team) auf einen fixen Termin, an dem eine Auswahl an User Stories fertig gestellt sein muss. Die Menge der User Stories soll so gewählt werden, dass 
+Releases sind mit dem Auftraggeber, dem Management und dem Entwicklungsteam festgelegte Zeitpunkte, zu denen eine definierte Menge von User Stories fertig gestellt sein sollen. Ein Release wird in XP mithilfe des "Planning-Game" \cite{c2} geplant. Hierbei legt das Entwicklungsteam fest, wie viel Zeit es für jede der verfügbaren User Stories braucht. Mithilfe der geschätzten Zeiten einigen sich dann alle Beteiligten (Management, Kunde und Team) auf einen fixen Termin, an dem eine Auswahl an User Stories fertig gestellt sein muss. Die Menge der User Stories soll so gewählt werden, dass 
 
 - ein in sich sinnvoller Funktionsumfang der Software erreicht wird, 
 - dieses Release einen möglichst hohen *business value* besitzt und
-- riskante Teile der Software möglichst früh angegangen werden.
-
-<!--TODO Zitat http://c2.com/cgi/wiki?PlanningGame -->
+- riskante Teile der Software möglichst früh angegangen werden \cite{c2}.
 
 Es wird empfohlen, Releases in einem zeitlichen Rahmen von 3 Monaten zu planen \cite{beck} (nach \cite{hanser}).
 
@@ -391,7 +389,7 @@ Das Ziel von Software-Kanban ist nicht, Probleme zu lösen, sondern nur aufzuzei
 
 Software-Kanban ist keine Entwicklungsmethode. Es gibt keine Aussagen darüber *wie* entwickelt werden soll. Es bezieht auch keine Stellung darüber, wie ein Entwicklungsprojekt geplant oder organisiert werden soll. Das bedeutet, Software-Kanban kann sowohl in Projekten angewandt werden, die noch nach dem klassischen Wasserfallmodell arbeiten, als auch in modernen Projekten mit iterativ-inkrementellem Ansatz.
 
-Software-Kanban bietet somit auch in keinerlei Konkurrenz zu den Vorgehensmodellen wie XP oder Scrum<!--TODO Zitat Agiles PM: Software Kanban-->. Die Idee von Software-Kanban ist nicht, ein neues Vorgehen einzuführen. Es setzt auf die vorhanden Strukturen auf und arbeitet mit kleinen Schritten der Verbesserung.
+Software-Kanban bietet somit auch in keinerlei Konkurrenz zu den Vorgehensmodellen wie XP oder Scrum \cite{agilespmkanban}. Die Idee von Software-Kanban ist nicht, ein neues Vorgehen einzuführen. Es setzt auf die vorhanden Strukturen auf und arbeitet mit kleinen Schritten der Verbesserung.
 
 
 ## Historie
@@ -404,7 +402,7 @@ Der japanische Automobilhersteller Toyota entwickelte Produktions-Kanban, um ein
 
 ### Beispiel Burger Produktion
 
-Ein einfaches Beispiel, um die Technik der Signalkarte im Produktions-Kanban zu veranschaulichen, ist die Burger Produktion in einem Fast-Food Restaurant<!--TODO Zitat video2brain Kanban-->. 
+Ein einfaches Beispiel, um die Technik der Signalkarte im Produktions-Kanban zu veranschaulichen, ist die Burger Produktion in einem Fast-Food Restaurant \cite{video2brainkanban}. 
 
 Dazu wird folgende Situation angenommen, wie sie in <!--TODO Referenz auf Abbildung--> abgebildet ist.
 
