@@ -187,7 +187,7 @@ Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt
 In der Software Entwicklung tendiert man schnell dazu, Funktionen komplizierter zu machen, als es sein muss. Zum Beispiel kann man eine Funktion genau so bauen, dass sie den momentanen Ansprüchen genügt, oder man kann sich überlegen, in welchen ähnlichen Situationen diese Funktion vielleicht auch noch gebraucht werden könnte um dann die Funktion so generisch wie möglich zu implementieren. In der Welt der agilen Software Entwicklung gibt als Antwort auf diese Tendenz zwei Akronyme:
 
 - KISS: "Keep it simple, stupid" (deutsch: Halte es dumm und einfach)
-- YAGNI: "You ain't gonna need it" \cize{epping}(deutsch: Du wirst es sowieso nicht brauchen)
+- YAGNI: "You ain't gonna need it" \cite{epping}(deutsch: Du wirst es sowieso nicht brauchen)
 
 Einfachheit bedeutet also, die Entwicklung so simpel und grundlegend zu halten, wie möglich. Es wird nicht darüber nachgedacht, was noch alles gemacht werden könnte, sondern genau das entwickelt, was wirklich auch gebraucht wird.
 
