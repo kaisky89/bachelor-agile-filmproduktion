@@ -331,17 +331,17 @@ Pair Programming ist die Praxis, dass sich zwei Entwickler zusammen mit einer Au
 
 Die Idee des Pair Programmings ist auf der Idee der gedanklichen Arbeitsteilung begründet: Während der Entwickler an der Tastatur auf das Problem auf taktischer Ebene angeht, macht sich sein beobachtender Kollege über die strategischen Dimensionen des Problems Gedanken.
 
-Pair Programming hat verschiedene Vorteile. Es bietet die Möglichkeit, Wissensinseln zu vermeiden, indem mindestens zwei Entwickler über das Wissen der Codebasis für die zu entwickelnde Funktionalität verfügen. <!--TODO Zitat Wolf--> Somit können die Gefahren des *Truck Faktors* <!--TODO Referenz zu "move people around"--> reduziert werden. Wenn beide Entwickler ungefähr gleich viel Erfahrung haben, können sie sich gegenseitig gut unterstützen. Wenn ein Entwickler des Paars deutlich erfahrener als der andere ist, kann der Unerfahrene durch die Zusammenarbeit viel von dem Erfahrenen lernen. Hier gilt wieder der Wert der Kommunikation<!--TODO Referenz auf "Wert" -> "Kommunikation"-->, ein Reden über den Code von Angesicht zu Angesicht während man am Code Änderungen vornimmt, erweist sich als gute Grundlage, Wissenslücken zu füllen. <!--TODO Zitat Agiles PM-->
+Pair Programming hat verschiedene Vorteile. Es bietet die Möglichkeit, Wissensinseln zu vermeiden, indem mindestens zwei Entwickler über das Wissen der Codebasis für die zu entwickelnde Funktionalität verfügen \cite{wolf}. Somit können die Gefahren des *Truck Faktors* <!--TODO Referenz zu "move people around"--> reduziert werden. Wenn beide Entwickler ungefähr gleich viel Erfahrung haben, können sie sich gegenseitig gut unterstützen. Wenn ein Entwickler des Paars deutlich erfahrener als der andere ist, kann der Unerfahrene durch die Zusammenarbeit viel von dem Erfahrenen lernen. Hier gilt wieder der Wert der Kommunikation<!--TODO Referenz auf "Wert" -> "Kommunikation"-->, ein Reden über den Code von Angesicht zu Angesicht während man am Code Änderungen vornimmt, erweist sich als gute Grundlage, Wissenslücken zu füllen \cite{agilespmkanban}.
 
 #### Collective code ownership
 
-Diese Regel besagt, dass jedes Teammitglied jeden Teil der Software ändern darf. Es gibt keine Einteilung der Software in gewisse Funktionsbereiche, für die dann Spezialisten verantwortlich sind. Es gibt auch keinen Chef Software Architekten, der für den Entwurf der System Architektur zuständig ist. All dies liegt in der kollektiven Verantwortung des Teams. Die kollektive Verantwortung birgt einige Chancen in sich: Dadurch, dass jedes Teammitglied über das System bescheid weiß, können falsche Aussagen über Fakten des Systems vermieden werden, da diese nicht abhängig von einem Chefarchitekten, der sich durchaus auch mal irren kann<!--TODO Zitat extremeprogramming.org-->. 
+Diese Regel besagt, dass jedes Teammitglied jeden Teil der Software ändern darf. Es gibt keine Einteilung der Software in gewisse Funktionsbereiche, für die dann Spezialisten verantwortlich sind. Es gibt auch keinen Chef Software Architekten, der für den Entwurf der System Architektur zuständig ist. All dies liegt in der kollektiven Verantwortung des Teams. Die kollektive Verantwortung birgt einige Chancen in sich: Dadurch, dass jedes Teammitglied über das System bescheid weiß, können falsche Aussagen über Fakten des Systems vermieden werden, da diese nicht abhängig von einem Chefarchitekten, der sich durchaus auch mal irren kann \cite{extremeprogramming}. 
 
 Das automatisierte Testen ermöglicht es jedem Teammitglied, in beliebigen Teilen der Software Änderungen zu tätigen, ohne befürchten zu müssen, dass die Änderungen unerwünschte Seiteneffekte ergeben, die die Funktionalität der Software beeinträchtigen.
 
 #### Häufige und sequentielle Integration
 
-Neben der Forderung, dass häufig integriert wird, also dass ein Entwicklerteam seinen Entwicklungsfortschritt in die gemeinsame Codebasis integriert, fordert XP, dass sequentiell, also hintereinander integriert wird. <!--TODO Zitat extremeprogramming.org--> <!--TODO Zitat Hanser-->
+Neben der Forderung, dass häufig integriert wird, also dass ein Entwicklerteam seinen Entwicklungsfortschritt in die gemeinsame Codebasis integriert, fordert XP, dass sequentiell, also hintereinander integriert wird. \cite{extremeprogramming} \cite{hanser}
 
 ### Testen
 
@@ -349,9 +349,9 @@ Die Phase des Testens, die im Wasserfallmodell <!--TODO Referenz auf "Wasserfall
 
 #### Unit Tests für den gesamten Code
 
-Unit Tests, also Tests, die nah an der Funktionalität einzelner Codeabschnitte liegen, bilden die Grundlage in XP für ein zeiteffizientes entwickeln. <!--TODO Zitat extremeprogramming.org--> widerspricht der Annahme, dass das Entwickeln von Tests zu viel Zeit in Anspruch nehmen würde. Wie auch schon in <!--TODO Referenz "Tests zuerst programmieren"--> aufgeführt, nimmt das Entwickeln des Tests als solches kaum Zeit in Anspruch, wenn man es in der Kombination mit der Entwicklung der gewünschten Funktionalität sieht. 
+Unit Tests, also Tests, die nah an der Funktionalität einzelner Codeabschnitte liegen, bilden die Grundlage in XP für ein zeiteffizientes entwickeln. \cite{extremeprogramming} widerspricht der Annahme, dass das Entwickeln von Tests zu viel Zeit in Anspruch nehmen würde. Wie auch schon in <!--TODO Referenz "Tests zuerst programmieren"--> aufgeführt, nimmt das Entwickeln des Tests als solches kaum Zeit in Anspruch, wenn man es in der Kombination mit der Entwicklung der gewünschten Funktionalität sieht. 
 
-Allerdings bringen Tests laut <!--TODO Zitat extremeprogramming.org--> dem Team im weiteren Vorgehen einen immensen Nutzen:
+Allerdings bringen Tests laut \cite{extremeprogramming} dem Team im weiteren Vorgehen einen immensen Nutzen:
 
 - Tests ermöglichen die Praktik des collectiv code ownership<!--TODO Referenz Refactoring-->, indem sie den Entwicklern die Angst nehmen, fremden Code zu ändern und dabei unwissend die Funktionalität zu beeinträchtigen
 - Tests helfen beim Refactoring <!--TODO Referenz Refactoring-->, indem sie überprüfbar machen, ob die gewünschte Funktionalität des geänderten Codes immer noch gegeben ist.
@@ -359,13 +359,13 @@ Allerdings bringen Tests laut <!--TODO Zitat extremeprogramming.org--> dem Team 
 
 #### Akzeptanztest
 
-Akzeptanztests sind näher an den User Stories als die Unit Tests. Sie bieten ein Testen der Funktionalität aus der Sicht des Benutzers und weniger aus der Sicht des Entwicklers. Somit befinden sich Akzeptanz Tests auf einer höheren Ebene der Abstraktion als die nah am Code gelegenen Unit Tests. Akzeptanztests stellen die High-Level-Spezifikationen des Systems dar<!--TODO Zitat Hanser-->.
+Akzeptanztests sind näher an den User Stories als die Unit Tests. Sie bieten ein Testen der Funktionalität aus der Sicht des Benutzers und weniger aus der Sicht des Entwicklers. Somit befinden sich Akzeptanz Tests auf einer höheren Ebene der Abstraktion als die nah am Code gelegenen Unit Tests. Akzeptanztests stellen die High-Level-Spezifikationen des Systems dar \cite{hanser}.
 
 #### Ursachenanalyse
 
-Falls in der Software ein Fehler gefunden wird, der von keinem Test abgedeckt wurde, muss zuerst mit dem Kunden zusammen ein Akzeptanztest entwickelt werden, in dem formuliert wird, wie dieser Fehler zu vermeiden ist. Dann wird untersucht, welche Software Module für diesen Akzeptanz verantwortlich sind, um entsprechenden Unit Tests zu entwickeln, die die zusätzliche Verantwortung der Software Module festlegen. Erst dann werden im Code Änderungen vorgenommen, um den Ansprüchen der Unit Tests zu genügen. Laufen die Unit Tests vollständig, sollte nun auch der neu entworfene Akzeptanztest laufen<!--TODO Zitat extremeprogramming.org-->. Die Antwort auf einen gefundenen Fehler ist also ein entwickeln von Tests in "Top-Down" Richtung und eine anschließende Verifikation der Tests in "Bottom-Up" Richtung.
+Falls in der Software ein Fehler gefunden wird, der von keinem Test abgedeckt wurde, muss zuerst mit dem Kunden zusammen ein Akzeptanztest entwickelt werden, in dem formuliert wird, wie dieser Fehler zu vermeiden ist. Dann wird untersucht, welche Software Module für diesen Akzeptanz verantwortlich sind, um entsprechenden Unit Tests zu entwickeln, die die zusätzliche Verantwortung der Software Module festlegen. Erst dann werden im Code Änderungen vorgenommen, um den Ansprüchen der Unit Tests zu genügen. Laufen die Unit Tests vollständig, sollte nun auch der neu entworfene Akzeptanztest laufen \cite{extremeprogramming}. Die Antwort auf einen gefundenen Fehler ist also ein entwickeln von Tests in "Top-Down" Richtung und eine anschließende Verifikation der Tests in "Bottom-Up" Richtung.
 
-Nach Abschluss der Testentwicklung muss sich das Team die Frage stellen, wie es dazu kommen konnte, dass ein Fehler in der Software vorhanden war, der von keinem Test abgedeckt wurde und was getan werden kann, um weitere solcher Fehler zu vermeiden<!--TODO Zitat Hanser-->.
+Nach Abschluss der Testentwicklung muss sich das Team die Frage stellen, wie es dazu kommen konnte, dass ein Fehler in der Software vorhanden war, der von keinem Test abgedeckt wurde und was getan werden kann, um weitere solcher Fehler zu vermeiden \cite{hanser}.
 
 # Kanban
 
@@ -373,11 +373,11 @@ Das nächste zu betrachtende Vorgehensmodell ist Kanban. Kanban hat im Vergleich
 
 ## Was ist Kanban?
 
-Das Wort "Kanban" kommt aus dem japanischen: *Kan* bedeutet soviel wie *Signal* und *Ban* kann man mit *Karte* übersetzen<!--TODO Zitat Epping-->. Damit ist auch schon die ursprüngliche Idee der Technik von Kanban grob beschrieben: Mithilfe von Signalkarten zu kommunizieren, wie der Status gewisser Produktionsabläufe ist. Der Begriff *Kanban* kann an sich kann vieles bedeuten, deswegen soll im Folgenden die folgende Unterscheidung vorgenommen werden:
+Das Wort "Kanban" kommt aus dem japanischen: *Kan* bedeutet soviel wie *Signal* und *Ban* kann man mit *Karte* übersetzen \cite{epping}. Damit ist auch schon die ursprüngliche Idee der Technik von Kanban grob beschrieben: Mithilfe von Signalkarten zu kommunizieren, wie der Status gewisser Produktionsabläufe ist. Der Begriff *Kanban* kann an sich kann vieles bedeuten, deswegen soll im Folgenden die folgende Unterscheidung vorgenommen werden:
 
 - *Kanban* als Vorgehensmodell
 	- **Produktions-Kanban** meint das ursprüngliche Vorgehensmodell, wie es in der Produktion verwendet wird
-	- **Software-Kanban** meint das Vorgehensmodell, wie es David J. Anderson in <!--TODO Zitat Anderson--> beschrieben hat.
+	- **Software-Kanban** meint das Vorgehensmodell, wie es David J. Anderson in \cite{anderson} beschrieben hat.
 - *Kanban* als Technik
 	- Das **Kanban-Board** meint die Technik, ein Board mit Karten und Listen zu verwenden, um den IST-Zustand eines Systems zu veranschaulichen <!--TODO Referenz Technik "Kanban Board"-->
 
@@ -385,7 +385,7 @@ Diese Begriffe sollen im weiteren Verlauf dieser Arbeit dazu dienen, die einzeln
 
 Die Idee von Software-Kanban ist, mithilfe einfacher Mittel Transparenz über den aktuellen Entwicklungsstatus eines Projekts zu bekommen, und zu kommunizieren, welche Probleme gerade akut sind. Software-Kanban nutzt hierfür primär die Technik des Kanban-Boards, das dahinter liegende Wertesystem und die daraus resultierenden Prinzipien gehen aber weitaus über die Technik an sich hinaus und sollen im weiteren näher betrachtet werden.
 
-Das Ziel von Software-Kanban ist nicht, Probleme zu lösen, sondern nur aufzuzeigen. Es gibt den Mitgliedern des Entwicklungsteams die nötigen Werkzeuge und Techniken in die Hand, Probleme und Schwachstellen in ihrer Zusammenarbeit zu sehen. Wie sie dann damit umgehen, bleibt in ihrer Hand. <!--TODO Zitat Agiles PM: Software-Kanban-->
+Das Ziel von Software-Kanban ist nicht, Probleme zu lösen, sondern nur aufzuzeigen. Es gibt den Mitgliedern des Entwicklungsteams die nötigen Werkzeuge und Techniken in die Hand, Probleme und Schwachstellen in ihrer Zusammenarbeit zu sehen. Wie sie dann damit umgehen, bleibt in ihrer Hand \cite{extremeprogramming}.
 
 ### Was ist Kanban nicht?
 
