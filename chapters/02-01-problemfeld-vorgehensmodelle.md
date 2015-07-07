@@ -406,7 +406,7 @@ Ein einfaches Beispiel, um die Technik der Signalkarte im Produktions-Kanban zu 
 
 Dazu wird folgende Situation angenommen, wie sie in <!--TODO Referenz auf Abbildung--> abgebildet ist.
 
-![Beispiel Burgerproduktion Teil 1. Die Küche produziert Burger, die der Verkauf an die Restaurant Gäste verkauft. Beide sind durch eine Rutsche miteinander verbunden. Es liegen 5 Burger auf der Rutsche mit einer Signalkarte vor den letzten 2 Burgern.](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.50.52.png)
+![Beispiel Burgerproduktion Teil 1](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.50.52.png)
 
 <!--TODO Grafik selber malen-->
 <!--TODO Grafik zitieren aus video2brain Kanban-->
@@ -417,11 +417,11 @@ Ziel des Kanbans Systems in diesem Beispiel ist es, den Zwischenlagerbestand (An
 
 In dem Beispiel werden nun die ersten drei Burger verkauft. Die anderen Burger auf der Rutsche rutschen nach, mitsamt der Signalkarte. Der Verkauf hat nun die Signalkarte bei sich stehen und signalisiert dies der Küche (siehe <!--TODO Referenz auf Abbildung-->).
 
-![Beispiel Burgerproduktion Teil 2. Der Verkauf verkauft die ersten drei Burger. Er bekommt die Signalkarte und signalisiert dies der Küche.](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.51.28.png)
+![Beispiel Burgerproduktion Teil 2](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.51.28.png)
 
 Die Küche produziert nun drei neue Burger und stellt diese mit der Signalkarte so auf die Rutsche, dass wieder zwei Burger hinter der Signalkarte stehen. Während die Küche die neuen Burger produziert, kann der Verkauf noch die letzten beiden Burger verkaufen (siehe <!--TODO Referenz auf Abbildung-->).
 
-![Beispiel Burgerproduktion Teil 3. Die Küche produziert Burger nach (lila) und stellt diese auf die Rutsche, inklusive Signalkarte vor den letzten zwei Burgern.](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.52.05.png)
+![Beispiel Burgerproduktion Teil 3](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.52.05.png)
 
 Aus dem Beispiel lässt sich die grundlegende Idee der Technik der Signalkarte aus dem Produktions-Kanban entnehmen. Neben dem Mechanismus der Signalisierung zeigt das Beispiel aber noch ein weiteren Aspekt auf: Die Anzahl der Burger, die die Küche bei Signalisierung produziert, wurde hier willkürlich festgelegt. Genau so auch die Anzahl der Burger, die nach einer Signalkarte als Zwischenpuffer dienen, um die Zeit der Produktion in der Küche zu überbrücken. Diese Faktoren können nun angepasst werden und so in kleinen Schritten der Verbesserung optimiert werden.
 
