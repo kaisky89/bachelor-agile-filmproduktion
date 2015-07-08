@@ -4,40 +4,31 @@ function downloadPictures($pathToFile)
 {
   $string = file_get_contents($pathToFile);
 
+  downloadPicturesString($string);  
+}
+
+function downloadPicturesString($string)
+{
   preg_match_all("|!\[[^\]]*\]\(([^)]+)\)|",
     $string,
     $out, PREG_PATTERN_ORDER);
 
+  $i = 0;
+
   foreach ($out[1] as $url) {
 
-    # nur der Dateiname, nicht der ganze Pfad
-    $urlParted = explode("/", $url);
-    $filename = $urlParted[count($urlParted)-1];
+    # Bild speichern
+    $urlArray = explode(".", $url);
+    $ending = array_pop($urlArray);
 
-    # Leerzeichen entfernen
-    $noSpacesArray = explode(" ", urldecode($filename));
-    $noSpaces = "";
-    foreach ($noSpacesArray as $fileNamePart) {
-      $noSpaces .= $fileNamePart;
-    }
-
-    # Punkte entfernen
-
-    ## Endung
-    $noPeriodArray = explode(".", $noSpaces);
-    $ending = array_pop($noPeriodArray);
-
-    ## Datei Name
-    $noPeriod = "";
-    foreach ($noPeriodArray as $fileNamePart) {
-      $noPeriod .= $fileNamePart;
-    }
-
-    ## Beide Dateihälften wieder zusammen fügen
-
-    $newFileName = $noPeriod.".".$ending;
-
+    $newFileName = "image".$i++.$ending;
     
     `cd tex/images/ && wget -N --quiet $url -O $newFileName`;
+
+    # Bild umbenennen im Text umbenennen
+
+    $string = str_replace($url, 'images/'.$newFileName, $string);
   }
+
+  return $string;
 }

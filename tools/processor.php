@@ -1,5 +1,7 @@
 <?php
 
+include_once 'download-pictures.php';
+
 /**
 * 
 */
@@ -21,10 +23,12 @@ class Rule
 class WordProcessor
 {
   private $rules;
+  private $processImages = false;
 
-  public function __construct($rulesFile)
+  public function __construct($rulesFile, $processImages=false)
   {
     $this->rules = WordProcessor::openJsonFile($rulesFile);
+    $this->processImages = $processImages;
   }
 
   public function processFile($from, $to)
@@ -52,18 +56,16 @@ class WordProcessor
 
   private function process($string)
   {
-    // echo "<pre>";
     foreach ($this->rules as $rule) {
-      // echo "Regel:";
-      // var_dump($rule);
-      // echo "String vorher:";
-      // var_dump($string);
       $string = preg_replace($rule->regex, $rule->replace, $string);
-      // echo "String nachher:";
-      // var_dump($string);
     }
-    // echo "</pre>";
+
+    if ($this->processImages) {
+      $string = downloadPicturesString($string);
+    }
 
     return $string;
   }
+
+
 }

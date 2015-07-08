@@ -15,22 +15,9 @@ include_once 'download-pictures.php';
 
 # ---
 
-# Bilder herunterladen
-
-$files = scandir('../chapters/');
-
-foreach ($files as $file) {
-  if ($file == "." || $file == "..") {
-    continue;
-  }
-
-  downloadPictures("../chapters/".$file);
-}
-
-
 # Alle Kapitel einzeln in latex konvertieren
 
-$markdownPreProcessor = new WordProcessor('rules/markdown-pre.json');
+$markdownPreProcessor = new WordProcessor('rules/markdown-pre.json', true);
 $latexPostProcessor = new WordProcessor('rules/latex-post.json');
 
 $files = scandir('../chapters/');
