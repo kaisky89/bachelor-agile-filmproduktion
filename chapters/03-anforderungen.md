@@ -76,7 +76,7 @@ Diese Darstellungsform soll für die Stakeholder Analyse für diese Arbeit über
 
 - klare Kommunikation über: Idee, Gestaltung und Aufbau des Imagefilms
 - Möglichkeit, Änderungen der Wünsche zu äußern
-- 
+
 
 
 ### Team
