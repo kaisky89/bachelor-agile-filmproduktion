@@ -68,6 +68,27 @@ Diese Darstellungsform soll für die Stakeholder Analyse für diese Arbeit über
 # Personae
 # Use Cases
 # Anforderungen
+
+
 ## Pre Production
+
+### Kunde
+
+- klare Kommunikation über: Idee, Gestaltung und Aufbau des Imagefilms
+- Möglichkeit, Änderungen der Wünsche zu äußern
+- 
+
+
+### Team
+
+- Möglichkeit, immer wieder kreative Ideen in den Prozess mit einzubauen
+- Möglichkeit, auf Wunschäußerungen einzugehen
+- Frühe Präsentation von (Teil-) Ergebnissen
+- Frühes Einholen von Feedback
+
+
+
+
+
 ## Production
 ## Post Production
