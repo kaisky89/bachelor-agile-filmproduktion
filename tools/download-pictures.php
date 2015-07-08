@@ -21,7 +21,7 @@ function downloadPicturesString($string)
     $urlArray = explode(".", $url);
     $ending = array_pop($urlArray);
 
-    $newFileName = "image".$i++.$ending;
+    $newFileName = "image".$i++.'.'.$ending;
     
     `cd tex/images/ && wget -N --quiet $url -O $newFileName`;
 
