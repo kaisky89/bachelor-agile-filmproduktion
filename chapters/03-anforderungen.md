@@ -27,9 +27,9 @@ Für die Identifikation von Stakeholdern wird im Folgenden die Methodik benutzt,
 - **Größe**: Je größer, desto wichtiger für den Erfolg
 - **Entfernung**: Entfernung zur Mitte zeigt Einfluss auf das Team auf
 
-Diese Darstellungsform soll für die Stakeholder Analyse für diese Arbeit übernommen werden. Allerdings geht es in dieser Arbeit nicht um die Einführung des Kanban Vorgehensmodells in ein vorhandenes Team, sondern um die Entwicklung eines neuen Vorgehensmodells. Das Team ist in diesem Fall nur ein weiterer Stakeholder, zentrales Element ist das Vorgehensmodell ander Abbildung <!--TODO Referenz auf Grafik--> zeigt eine erste Analyse der Stakeholder.
+Diese Darstellungsform soll für die Stakeholder Analyse für diese Arbeit übernommen werden. Allerdings geht es in dieser Arbeit nicht um die Einführung des Kanban Vorgehensmodells in ein vorhandenes Team, sondern um die Entwicklung eines neuen Vorgehensmodells. Das Team ist in diesem Fall nur ein weiterer Stakeholder, zentrales Element ist das Vorgehensmodell. In den folgenden Abbildungen wird das Vorgehensmodell als zentrales Objekt dargestellt, die anderen Objekte werden in Bezug auf das Vorgehensmodell positioniert. Die beiden DimensionenAbbildung <!--TODO Referenz auf Grafik--> zeigt eine erste Analyse der Stakeholder.
 
-![Identifizierung der Stakeholder](https://www.lucidchart.com/publicSegments/view/559d02ad-b1a4-4316-8dc0-2a7c0a00cdd1/image.png)
+![Identifizierung der Stakeholder Teil 1](https://www.lucidchart.com/publicSegments/view/559d02ad-b1a4-4316-8dc0-2a7c0a00cdd1/image.png)
 
 <!-- Lucid Chart Link https://www.lucidchart.com/documents/edit/504b7c7a-6b4e-4eb0-9563-f6e2c8d86335? -->
 
