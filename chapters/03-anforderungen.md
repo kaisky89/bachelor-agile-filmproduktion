@@ -42,26 +42,33 @@ In **Größe** ist die Rede von *Projekterfolg*. Dieser Begriff sei in dem Konte
 > - die Wirtschaftlichkeit des Projekts für das auszuführende Unternehmen gegeben ist, und
 > - alle Beteiligten eine positive Haltung gegenüber dem Projekt haben
 
-Aus dieser Defininition ergeben sich schon die wesentlichen Stakeholder, die ein Imagefilm Projekt ausmachen und somit relevant für das Vorgehensmodell sind. Abbildung <!--TODO Referenz auf Grafik--> zeigt diese Stakeholder in der vorher beschriebenen Darstellungsform.
+Aus dieser Defininition ergeben sich die wesentlichen Stakeholder, die ein Imagefilm Projekt ausmachen und somit relevant für das Vorgehensmodell sind. Abbildung <!--TODO Referenz auf Grafik--> zeigt diese Stakeholder in der vorher beschriebenen Darstellungsform.
 
 ![Identifizierung der Stakeholder Teil 1](https://www.lucidchart.com/publicSegments/view/559d02ad-b1a4-4316-8dc0-2a7c0a00cdd1/image.png)
 
 <!-- Lucid Chart Link https://www.lucidchart.com/documents/edit/504b7c7a-6b4e-4eb0-9563-f6e2c8d86335? -->
 
-Es ergibt sich also eine grobe Einteilung der Stakeholder in drei Parteien. 
+Es ergibt sich also eine grobe Einteilung der Stakeholder in drei Parteien:
 
 #### Filmproduktionsunternehmen
 Das Filmproduktionsunternehmen ist für die Umsetzung aller Aktivitäten zur Erstellung des Imagefilms verantwortlich. Somit trägt es also eine große Verantwortung für den Projekterfolg und ist dementsprechend groß notiert. Außerdem ist es die Partei, die am meisten an der Umsetzung des Vorgehensmodells beteiligt ist.
 
 #### Kunde
-Der Kunde ist der Auftraggeber des Projektes. Er hat auf den Projekterfolg Einfluss, da er bewertet, welcher finanzielle und zeitliche Rahmen für das Projekt angemessen ist. Der Kunde ist an der Umsetzung des Vorgehensmodells nicht direkt beteiligt, allerdings hat das Vorgehensmodell Einfluss auf die Art und Weise, wie der Kunde mit dem Filmproduktionsunternehemn kommuniziert. Der Kunde kommt also im geringeren Maße mit dem Vorgehensmodell in Berührung.
+Der Kunde ist der Auftraggeber des Projektes. Er hat auf den Projekterfolg Einfluss, da er bewertet, welcher finanzielle und zeitliche Rahmen für das Projekt angemessen ist. Der Kunde ist an der Umsetzung des Vorgehensmodells nicht direkt beteiligt, allerdings hat das Vorgehensmodell Einfluss auf die Art und Weise, wie der Kunde mit dem Filmproduktionsunternehmen kommuniziert. Der Kunde kommt also in einem geringen Maße mit dem Vorgehensmodell in Berührung.
 
 #### Betrachter
-Der Betrachter ist das intendierte Zielpublikum des Imagefilms. Er ist für den Projekterfolg wichtig, die Reaktion 
+Der Betrachter ist das intendierte Zielpublikum des Imagefilms. Er ist für den Projekterfolg wichtig, da die Reaktion eine wesentliche Rolle spielt. Der Betrachter hat nichts bis sehr wenig mit dem Vorgehensmodell zu tun.
+
+Die Parteien *Filmproduktionsunternehmen* und *Kunde* können noch genauer untergliedert werden. Dies wird in Abbildung <!--TODO Referenz auf Grafik --> dargestellt.
 
 ![](https://www.lucidchart.com/publicSegments/view/559fe2b9-e6c0-4fa0-9940-1bc40a0098d2/image.png)
 
 <!-- Lucid Chart Link https://www.lucidchart.com/documents/edit/825981a5-8360-4f46-bfec-7e1b53c4a9d5 -->
+
+Auf Seiten des Kunden gibt es drei Stakeholder:
+
+#### Geschäftsführung
+Die Geschäftsführung des Kunden ist an der Wirtschaftlichkeit des Projektes für den Kunden interessiert
 
 
 
