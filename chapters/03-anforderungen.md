@@ -22,12 +22,12 @@ In dem Kontext der Entwicklung eines Vorgehensmodells sind alle diejenigen Stake
 
 ## Identifizierung der Stakeholder
 
-Für die Identifikation von Stakeholdern wird im Folgenden die Methodik benutzt, die Lobacher für die Einführung von Kanban in Entwicklungsunternehmen vorschlägt \cite{video2brainkanban}. Alle Stakeholdergruppen werden kreisförmig auf einer Grafik dargestellt. Lobacher empfiehlt, das Team als zentrales Element in der Mitte der Grafik zu platzieren und mithilfe der folgenden Dimensionen zu veranschaulichen, inwiefern diese Gruppe Einfluss auf die Einführung des neuen Vorgehens hat:
+Für die Identifikation von Stakeholdern wird im Folgenden die Methodik benutzt, die Lobacher für die Einführung von Kanban in Entwicklungsunternehmen vorschlägt \cite{video2brainkanban}. Alle Stakeholder werden kreisförmig auf einer Grafik dargestellt. Lobacher empfiehlt, das Team als zentrales Element in der Mitte der Grafik zu platzieren und mithilfe der folgenden Dimensionen zu veranschaulichen, inwiefern diese Gruppe Einfluss auf die Einführung des neuen Vorgehens hat:
 
 - **Größe**: Je größer, desto wichtiger für den Erfolg
 - **Entfernung**: Entfernung zur Mitte zeigt Einfluss auf das Team auf
 
-Diese Darstellungsform soll für die Stakeholder Analyse für diese Arbeit übernommen werden. Abbildung <!--TODO Referenz auf Grafik--> zeigt eine erste Analyse der Stakeholder.
+Diese Darstellungsform soll für die Stakeholder Analyse für diese Arbeit übernommen werden. Allerdings geht es in dieser Arbeit nicht um die Einführung des Kanban Vorgehensmodells in ein vorhandenes Team, sondern um die Entwicklung eines neuen Vorgehensmodells. Das Team ist in diesem Fall nur ein weiterer Stakeholder, zentrales Element ist das Vorgehensmodell ander Abbildung <!--TODO Referenz auf Grafik--> zeigt eine erste Analyse der Stakeholder.
 
 ![Identifizierung der Stakeholder](https://www.lucidchart.com/publicSegments/view/559d02ad-b1a4-4316-8dc0-2a7c0a00cdd1/image.png)
 
@@ -66,7 +66,12 @@ Diese Darstellungsform soll für die Stakeholder Analyse für diese Arbeit über
 
 
 # Personae
+
+## Teamleiter
+
 # Use Cases
+
+
 # Anforderungen
 
 
