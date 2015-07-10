@@ -40,6 +40,7 @@ In **Größe** ist die Rede von *Projekterfolg*. Dieser Begriff sei in dem Konte
 > - diese Aktivitäten in einem für den Kunden angemessenen finanziellen und zeitlichen Rahmen abgeschlossen sind,
 > - das Produkt der Aktivitäten (der Imagefilm) die intendierte Wirkung des Kunden auf den Betrachter hat,
 > - die Wirtschaftlichkeit des Projekts für das auszuführende Unternehmen gegeben ist, und
+> - alle Beteiligten eine positive Haltung gegenüber dem Projekt haben
 
 Aus dieser Defininition ergeben sich schon die wesentlichen Stakeholder, die ein Imagefilm Projekt ausmachen und somit relevant für das Vorgehensmodell sind. Abbildung <!--TODO Referenz auf Grafik--> zeigt diese Stakeholder in der vorher beschriebenen Darstellungsform.
 
