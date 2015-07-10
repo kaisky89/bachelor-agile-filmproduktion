@@ -29,17 +29,30 @@ Für die Identifikation von Stakeholdern wird im Folgenden die Methodik benutzt,
 
 Diese Darstellungsform soll für die Stakeholder Analyse für diese Arbeit übernommen werden. Allerdings geht es in dieser Arbeit nicht um die Einführung des Kanban Vorgehensmodells in ein vorhandenes Team, sondern um die Entwicklung eines neuen Vorgehensmodells. Das Team ist in diesem Fall nur ein weiterer Stakeholder, zentrales Element ist das Vorgehensmodell. In den folgenden Abbildungen wird das Vorgehensmodell als zentrales Objekt dargestellt, die anderen Objekte werden in Bezug auf das Vorgehensmodell positioniert. Die beiden Dimensionen **Größe** und **Entfernung** werden in dieser Darstellung wie folgt benutzt:
 
-- **Größe**: Je größer der Kreis, desto wichtiger ist der durch diesen Kreis repräsentierte Stakeholder für den Projekterfolg
+- **Größe**: Je größer der Kreis, desto wichtiger ist der durch diesen Kreis repräsentierte Stakeholder für den Projekterfolg.
 - **Entfernung**: Je näher der Kreis an der Repräsentation des Vorgehensmodells ist, desto mehr ist der repräsentierte Stakeholder an der Umsetzung des Vorgehensmodell beteiligt.
+
+In **Größe** ist die Rede von *Projekterfolg*. Dieser Begriff sei in dem Kontext der Imagefilmproduktion wie folgt definiert:
+
+> Ein Imagefilm Projekt ist dann erfolgreich, wenn 
+> 
+> - alle nötigen Aktivitäten zur Erstellung eines Imagefilms abgeschlossen sind, 
+> - diese Aktivitäten in einem für den Kunden angemessenen finanziellen und zeitlichen Rahmen abgeschlossen sind,
+> - das Produkt der Aktivitäten (der Imagefilm) die intendierte Wirkung des Kunden auf den Betrachter hat, und
+> - die Wirtschaftlichkeit des Projekts für das auszuführende Unternehmen gegeben ist.
+
 
 
 Abbildung <!--TODO Referenz auf Grafik--> zeigt eine erste Analyse der Stakeholder.
 
 ![Identifizierung der Stakeholder Teil 1](https://www.lucidchart.com/publicSegments/view/559d02ad-b1a4-4316-8dc0-2a7c0a00cdd1/image.png)
 
-
-
 <!-- Lucid Chart Link https://www.lucidchart.com/documents/edit/504b7c7a-6b4e-4eb0-9563-f6e2c8d86335? -->
+
+![](https://www.lucidchart.com/publicSegments/view/559fe2b9-e6c0-4fa0-9940-1bc40a0098d2/image.png)
+
+<!-- Lucid Chart Link https://www.lucidchart.com/documents/edit/825981a5-8360-4f46-bfec-7e1b53c4a9d5 -->
+
 
 
 
