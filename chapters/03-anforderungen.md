@@ -65,7 +65,7 @@ Die Parteien *Filmproduktionsunternehmen* und *Kunde* können noch genauer unter
 
 <!-- Lucid Chart Link https://www.lucidchart.com/documents/edit/825981a5-8360-4f46-bfec-7e1b53c4a9d5 -->
 
-Auf Seiten des Kunden gibt es drei Stakeholder:
+Auf Seiten des Kunden gibt es drei für das Vorgehensmodell relevante Stakeholder:
 
 #### Geschäftsführung
 Die Geschäftsführung des Kunden ist an der Wirtschaftlichkeit des Projektes für den Kunden interessiert
