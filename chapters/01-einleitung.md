@@ -4,7 +4,7 @@ title: Einleitung
 
 # Film und Software {#identifier}
 
-![Bildbeschreibung](http://download.heart-co.de/Bildschirmfoto%202015-07-14%20um%2019.12.13.png)
+![Bildbeschreibung](http://download.heart-co.de/Bildschirmfoto%202015-07-14%20um%2019.12.13.png) {#bild1}
 
 Hier verweise ich auf das Bild.
 
