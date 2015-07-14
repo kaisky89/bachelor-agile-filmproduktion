@@ -4,6 +4,8 @@ title: Einleitung
 
 # Film und Software
 
+Wie auch schon in [film-und-software] beschrieben...
+
 ## Kreative Arbeit
 
 ## Kein klar definierbares Ziel
