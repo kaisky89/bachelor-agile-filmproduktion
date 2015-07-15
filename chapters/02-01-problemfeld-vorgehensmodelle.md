@@ -214,7 +214,7 @@ Auf Basis der vorgestellten Werte führt XP viele Praktiken und Regeln ein, die 
 
 Die Praktiken sind eingeteilt in die verschiedenen Phasen der Software Entwicklung, angelehnt an die Phasen aus dem Wasserfall Modell: *Planung*, *Managen*, *Design*, *Kodieren* und *Testen*. \cite{extremeprogramming} Die Praktiken werden hier nicht in der Tiefe aller Details besprochen. Es soll nur ein grober Überblick gegeben werden. Für eine tiefere Einarbeitung sei auf weitere Literatur verwiesen \cite{hanser} \cite{beck} \cite{extremeprogramming}.
 
-## Praktiken: Planung
+## Praktiken der Planung
 
 Für die Phase der Planung sieht Kent Beck \cite{beck} folgende Techniken vor.
 
@@ -240,7 +240,7 @@ Hier wird deutlich, dass innerhalb einer Iteration die verschiedenen Phasen des 
 
 Mithilfe der User Stories und deren geschätzten Aufwand, die innerhalb einer Iteration abgearbeitet wurden, kann die **Projektgeschwindigkeit** gemessen werden. Somit lässt sich schnell der aktuelle Stand des Projektes schätzen, so wie die Geschwindigkeit, mit der in den Iterationen gearbeitet wurde. Es ist normal, dass diese Geschwindigkeit schwankt. Falls aber über Iterationen hinweg eine unerwartete Geschwindigkeit festgestellt wird, empfiehlt sich ein neues Release Planning \cite{extremeprogramming}. 
 
-## Praktiken Managen
+## Praktiken des Managens
 
 Die Phase "Managen" findet sich so nicht im Wasserfallmodell wieder. Es handelt sich hierbei auch nicht um einer zusätzliche explizite Phase, sondern eher um Rahmenbedingungen für die gesamte Entwicklungsarbeit. Die Praktiken, die hier beschrieben werden, können nicht einer bestimmten Phase zugeordnet werden. Sie bestimmen die Faktoren, die unabhängig von den Arbeitsphasen gleich bleiben.
 
@@ -263,7 +263,7 @@ Jeder Arbeitstag in XP beginnt mit einem Stand-Up Meeting. In diesem Treffen wir
 
 XP ist sich der Individualität eines Software Projekts bewusst. Man sieht der Tatsache ins Auge, dass kein Software Projekt so ist wie das andere und dass Methoden, die bei einem Projekt gut funktioniert haben, nicht bei allen anderen Projekten genau so gut funktionieren. Dafür sind vierteljährige \cite{hanser} Reflektionssitzungen vorgesehen, in denen die Effektivität der momentanen Praktiken hinterfragt wird. Hier reflektiert das gesamte Team über die momentane Arbeitsweise und überprüft diese auf potenzielle Probleme. Wichtig ist hierbei, dass Probleme nicht nur angesprochen werden, sondern auch konkrete Entscheidungen getroffen werden, um diese Probleme anzugehen. XP geht davon aus, dass diese Anpassungen der Arbeitsweise zu den normalen Aktivitäten der Entwicklungsarbeit gehören und immer wieder durchgeführt werden. Deswegen wird hier bei auch die Formulierung "when" (englisch: temporale Formulierung, zu übersetzen mit "immer dann, wenn...") und nicht die Formulierung "if" (englisch: konditionale Formulierung, zu übersetzen mit "falls") benutzt.
 
-## Praktiken: Design
+## Praktiken des Designs
 
 In der Design Phase wird die Systemarchitektur der zu entwickelnden Software entworfen. Hierbei ist zu beachten, dass in XP die Design Phase nicht eine Phase mit Anfang und Ende ist, sondern dass in jeder Iteration (also idealer weise wöchentlich) überdacht und den entsprechenden Anforderungen angepasst werden. Die folgenden Regeln und Praktiken gibt XP hierfür vor:
 
@@ -296,7 +296,7 @@ Wie schon im Abschnitt \ref{einfachheit-des-designs} erwähnt, gehört Refactori
 
 Mit der Zeit der Entwicklung wird aus jedem guten Design ein schlechtes Design \cite{hanser}. Mit jeder Iteration kommen neue Funktionen und Module zum Systementwurf hinzu. Nach einigen Iterationen lässt sich hinterfragen, ob der ursprüngliche Systementwurf für die momentanen Anforderungen des Systems der optimale ist, oder ob es nicht besser sei, einige grundlegende Veränderungen durchzuführen, oder Funktionalitäten, die sich ähnlich sind, mit einer generalistischeren Lösung zu ersetzen. Zu diesem Schritt gehört meistens Mut, denn Entwickler tendieren häufig dazu, Funktionalitäten, die einmal funktionieren, nicht mehr ändern zu wollen (ganz nach dem Motto "Never change a running system"). Durch den testgetriebenen Ansatz von XP (siehe Abschnitt \ref{Testing}) wird allerdings sichergestellt, dass die Funktionalität des Codes auch bei Änderungen erhalten bleibt.
 
-## Praktiken: Kodieren
+## Praktiken des Kodierens
 
 Für die Phase des Kodierens sieht XP folgende Praktiken vor.
 
@@ -334,7 +334,7 @@ Das automatisierte Testen ermöglicht es jedem Teammitglied, in beliebigen Teile
 
 Neben der Forderung, dass häufig integriert wird, also dass ein Entwicklerteam seinen Entwicklungsfortschritt in die gemeinsame Codebasis integriert, fordert XP, dass sequentiell, also hintereinander integriert wird. \cite{extremeprogramming} \cite{hanser}
 
-## Praktiken: Testen {#Testing}
+## Praktiken des Testens {#Testing}
 
 Die Phase des Testens, die im Wasserfallmodell (siehe Abschnitt \ref{wasserfallmodell}) eine explizite Phase war ist in XP, wie schon in Abschnitt \ref{tests-zuerst-programmieren} erwähnt, in der Entwicklung der Software integriert. Die Folgenden Praktiken und Regeln sieht XP für das Testen vor.
 
