@@ -62,7 +62,7 @@ class WordProcessor
     }
 
     if ($this->processImages) {
-      $string = downloadPicturesString($string, $processImageNumber);
+      $string = downloadPicturesString($string, $this->processImageNumber);
     }
 
     return $string;
