@@ -310,7 +310,7 @@ Insgesamt scheint es viel Zeit zu sein, die der Kunde mit der ständigen Anwesen
 
 #### Kodierungsstandards verwenden
 
-Das Verwenden von einheitlichen Kodierungsstandards sorgt dafür, dass der Code von jedem Teammitglied leicht gelesen und verstanden werden kann. Da mit Praktiken wie *move people around* <!--TODO Referenz auf "move people around"--> und *collective code ownership* <!--TODO Referenz auf "collective code ownership"--> gegen eine zu starke Spezialisierung der Teammitglieder gearbeitet wird, sind hier einheitliche Kodierungsstandards sehr zu begrüßen, um das Einarbeiten in Code, den man selbst nicht geschrieben hat, zu erleichtern.
+Das Verwenden von einheitlichen Kodierungsstandards sorgt dafür, dass der Code von jedem Teammitglied leicht gelesen und verstanden werden kann. Da mit Praktiken wie *move people around* (Abschnitt \ref{move-people-around}) und *collective code ownership* (Abschnitt \ref{collective-code-ownership}) gegen eine zu starke Spezialisierung der Teammitglieder gearbeitet wird, sind hier einheitliche Kodierungsstandards sehr zu begrüßen, um das Einarbeiten in Code, den man selbst nicht geschrieben hat, zu erleichtern.
 
 #### Tests zuerst programmieren
 
@@ -322,7 +322,7 @@ Pair Programming ist die Praxis, dass sich zwei Entwickler zusammen mit einer Au
 
 Die Idee des Pair Programmings ist auf der Idee der gedanklichen Arbeitsteilung begründet: Während der Entwickler an der Tastatur auf das Problem auf taktischer Ebene angeht, macht sich sein beobachtender Kollege über die strategischen Dimensionen des Problems Gedanken.
 
-Pair Programming hat verschiedene Vorteile. Es bietet die Möglichkeit, Wissensinseln zu vermeiden, indem mindestens zwei Entwickler über das Wissen der Codebasis für die zu entwickelnde Funktionalität verfügen \cite{wolf}. Somit können die Gefahren des *Truck Faktors* <!--TODO Referenz zu "move people around"--> reduziert werden. Wenn beide Entwickler ungefähr gleich viel Erfahrung haben, können sie sich gegenseitig gut unterstützen. Wenn ein Entwickler des Paars deutlich erfahrener als der andere ist, kann der Unerfahrene durch die Zusammenarbeit viel von dem Erfahrenen lernen. Hier gilt wieder der Wert der Kommunikation<!--TODO Referenz auf "Wert" -> "Kommunikation"-->, ein Reden über den Code von Angesicht zu Angesicht während man am Code Änderungen vornimmt, erweist sich als gute Grundlage, Wissenslücken zu füllen \cite{agilespmkanban}.
+Pair Programming hat verschiedene Vorteile. Es bietet die Möglichkeit, Wissensinseln zu vermeiden, indem mindestens zwei Entwickler über das Wissen der Codebasis für die zu entwickelnde Funktionalität verfügen \cite{wolf}. Somit können die Gefahren des *Truck Faktors* (siehe auch Abschnitt \ref{move-people-around}) reduziert werden. Wenn beide Entwickler ungefähr gleich viel Erfahrung haben, können sie sich gegenseitig gut unterstützen. Wenn ein Entwickler des Paars deutlich erfahrener als der andere ist, kann der Unerfahrene durch die Zusammenarbeit viel von dem Erfahrenen lernen. Hier gilt wieder der Wert der Kommunikation (siehe Abschnitt \ref{werte-kommunikation}), ein Reden über den Code von Angesicht zu Angesicht während man am Code Änderungen vornimmt, erweist sich als gute Grundlage, Wissenslücken zu füllen \cite{agilespmkanban}.
 
 #### Collective code ownership
 
@@ -336,7 +336,7 @@ Neben der Forderung, dass häufig integriert wird, also dass ein Entwicklerteam 
 
 ### Testen {#Testing}
 
-Die Phase des Testens, die im Wasserfallmodell <!--TODO Referenz auf "Wasserfallmodell"--> eine explizite Phase war ist in XP, wie schon in <!--TODO Referenz auf "Tests zuerst programmieren"--> erwähnt, in der Entwicklung der Software integriert. Die Folgenden Praktiken und Regeln sieht XP für das Testen vor.
+Die Phase des Testens, die im Wasserfallmodell (siehe Abschnitt \ref{wasserfallmodell}) eine explizite Phase war ist in XP, wie schon in <!--TODO Referenz auf "Tests zuerst programmieren"--> erwähnt, in der Entwicklung der Software integriert. Die Folgenden Praktiken und Regeln sieht XP für das Testen vor.
 
 #### Unit Tests für den gesamten Code
 
