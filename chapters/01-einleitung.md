@@ -8,6 +8,8 @@ title: Einleitung
 
 Hier verweise ich auf das Bild.
 
+Wie auch in Kapitel \ref{identifier} beschrieben...
+
 ## Kreative Arbeit
 
 ## Kein klar definierbares Ziel
