@@ -24,6 +24,7 @@ class WordProcessor
 {
   private $rules;
   private $processImages = false;
+  private $processImageNumber = 0;
 
   public function __construct($rulesFile, $processImages=false)
   {
@@ -61,7 +62,7 @@ class WordProcessor
     }
 
     if ($this->processImages) {
-      $string = downloadPicturesString($string);
+      $string = downloadPicturesString($string, $processImageNumber);
     }
 
     return $string;

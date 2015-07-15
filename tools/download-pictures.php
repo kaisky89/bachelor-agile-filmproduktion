@@ -7,13 +7,17 @@ function downloadPictures($pathToFile)
   downloadPicturesString($string);  
 }
 
-function downloadPicturesString($string)
+function downloadPicturesString($string, &$imageNumber = null)
 {
   preg_match_all("|!\[[^\]]*\]\(([^)]+)\)|",
     $string,
     $out, PREG_PATTERN_ORDER);
 
-  $i = 0;
+  if ($imageNumber == null) {
+    $i = 0;
+  } else {
+    $i = $imageNumber;
+  }
 
   foreach ($out[1] as $url) {
 
@@ -25,10 +29,12 @@ function downloadPicturesString($string)
     
     `cd tex/images/ && wget -N --quiet $url -O $newFileName`;
 
-    # Bild umbenennen im Text umbenennen
+    # Bild im Text umbenennen
 
     $string = str_replace($url, 'images/'.$newFileName, $string);
   }
+
+  $imageNumber = $i;
 
   return $string;
 }
