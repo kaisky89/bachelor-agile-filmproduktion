@@ -110,9 +110,9 @@ Dies liegt vor allem an der Herausforderung des Auftraggebers, die Anforderungen
 - Der Auftraggeber ist sich seiner eigenen Problemstellung nicht vollständig bewusst
 - Die Anforderungen ändern sich
 
-Die Unschärfe, die diese Probleme der Anforderungsanalyse mit sich bringen, kann man als "Moving Target" bezeichnen. (siehe dazu Abbildung \ref{Die Vision des Endprodukts als "Moving Target"} nach \cite{hanser})
+Die Unschärfe, die diese Probleme der Anforderungsanalyse mit sich bringen, kann man als "Moving Target" bezeichnen. (siehe dazu Abbildung \ref{Die Vision des Endprodukts als Moving Target} nach \cite{hanser})
 
-![Die Vision des Endprodukts als "Moving Target"](http://download.heart-co.de/Bildschirmfoto%202015-06-27%20um%2018.48.22.png)
+![Die Vision des Endprodukts als Moving Target](http://download.heart-co.de/Bildschirmfoto%202015-06-27%20um%2018.48.22.png)
 
 <!--TODO selber Zeichnen-->
 
