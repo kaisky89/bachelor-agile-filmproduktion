@@ -110,11 +110,11 @@ Dies liegt vor allem an der Herausforderung des Auftraggebers, die Anforderungen
 - Der Auftraggeber ist sich seiner eigenen Problemstellung nicht vollständig bewusst
 - Die Anforderungen ändern sich
 
-Die Unschärfe, die diese Probleme der Anforderungsanalyse mit sich bringen, kann man als "Moving Target" bezeichnen. (siehe dazu Die Vision des Endprodukts als "Moving Target" nach \cite{hanser})
+Die Unschärfe, die diese Probleme der Anforderungsanalyse mit sich bringen, kann man als "Moving Target" bezeichnen. (siehe dazu Abbildung \ref{Die Vision des Endprodukts als "Moving Target"} nach \cite{hanser})
 
-![Die Vision des Endprodukts als "Moving Target" nach \cite{hanser}](http://download.heart-co.de/Bildschirmfoto%202015-06-27%20um%2018.48.22.png)
+![Die Vision des Endprodukts als "Moving Target"](http://download.heart-co.de/Bildschirmfoto%202015-06-27%20um%2018.48.22.png)
 
-<!--TODO selber Zeichnen. Zitieren aus Hanser-->
+<!--TODO selber Zeichnen-->
 
 Barry Boehm \cite{boehm}(zitiert nach \cite{hanser}) schlug in den 1980er Jahren das Spiralmodell vor, dass einen iterativ-inkrementellen Ansatz verfolgte. Inkrementell bedeutet, anstatt das vollständige Produkt der Software auf ein mal zu entwickeln, was meist mehrere Jahre in Anspruch nimmt, wird die Software in kleineren Paketen entwickelt. Die einzelnen Pakete bauen aufeinander auf und erweitern die Software Stück für Stück um die gewünschten Funktionen. Iterativ bedeutet, dass für die Entwicklung jedes Inkrements (Pakets) die einzelnen Phasen der Software Entwicklung durchlaufen werden.
 
