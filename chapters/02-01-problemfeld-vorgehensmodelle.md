@@ -214,15 +214,15 @@ Auf Basis der vorgestellten Werte führt XP viele Praktiken und Regeln ein, die 
 
 Die Praktiken sind eingeteilt in die verschiedenen Phasen der Software Entwicklung, angelehnt an die Phasen aus dem Wasserfall Modell: *Planung*, *Managen*, *Design*, *Kodieren* und *Testen*. \cite{extremeprogramming} Die Praktiken werden hier nicht in der Tiefe aller Details besprochen. Es soll nur ein grober Überblick gegeben werden. Für eine tiefere Einarbeitung sei auf weitere Literatur verwiesen \cite{hanser} \cite{beck} \cite{extremeprogramming}.
 
-### Planung
+## Praktiken: Planung
 
 Für die Phase der Planung sieht Kent Beck \cite{beck} folgende Techniken vor.
 
-#### User Stories {#planung-user-stories}
+### User Stories {#planung-user-stories}
 
 User Stories ist eine Technik für die Anforderungsspezifikation. User Stories stellen ähnlich wie Use Cases die Benutzung des Systems aus der Anwender Sicht dar. Während allerdings Use Cases darauf aus sind, möglichst viele Details zu erfassen, reißt man mit User Stories ein bestimmtes Arbeitspaket nur an. Mithilfe von maximal drei Sätzen wird erklärt, wie eine bestimmte Funktion aus Anwender Sicht funktionieren soll. Dies dient vor allem zur groben Spezifikation der Anforderungen. Mithilfe aller User Stories soll die ganze zu entwickelnde Software beschrieben werden. Gleichzeitig dienen die User Stories auch der Einteilung in Arbeitspakete. Für Iterationen werden bestimmte User Stories ausgewählt, die dann zum nächsten Release fertig gestellt werden müssen. Somit lässt sich der Funktionsumfang des nächsten Releases klar definieren. Alle Details der Anforderungen, die in der User Story nicht verfügbar sind, sollen mit dem Kunden direkt besprochen werden. Dieser ist also die "wandelnde Spezifikation" \cite{beck}. Mithilfe von Unit Tests werden dann die herausgearbeiteten Spezifikationen festgehalten (siehe dazu auch Abschnitt \ref{Testing}).
 
-#### Releases
+### Releases
 
 Releases sind mit dem Auftraggeber, dem Management und dem Entwicklungsteam festgelegte Zeitpunkte, zu denen eine definierte Menge von User Stories fertig gestellt sein sollen. Ein Release wird in XP mithilfe des "Planning-Game" \cite{c2} geplant. Hierbei legt das Entwicklungsteam fest, wie viel Zeit es für jede der verfügbaren User Stories braucht. Mithilfe der geschätzten Zeiten einigen sich dann alle Beteiligten (Management, Kunde und Team) auf einen fixen Termin, an dem eine Auswahl an User Stories fertig gestellt sein muss. Die Menge der User Stories soll so gewählt werden, dass 
 
@@ -232,7 +232,7 @@ Releases sind mit dem Auftraggeber, dem Management und dem Entwicklungsteam fest
 
 Es wird empfohlen, Releases in einem zeitlichen Rahmen von 3 Monaten zu planen \cite{beck} (nach \cite{hanser}).
 
-#### Iterationen
+### Iterationen
 
 Wie in jedem modernen Vorgehensmodell wird in XP angelehnt an das Spiralmodell mit Iterationen gearbeitet. Es wird empfohlen, Iterationen in der Länge einer Woche anzusetzen\cite{beck} (nach \cite{hanser}). Für eine Iteration nimmt sich das Team eine oder mehrere User Stories aus dem vorhandenen Pool, schreibt die nötigen Tests und verbringt den Rest der Woche dann damit, diese User Stories und die damit verbundenen Funktionen zu implementieren. Die Tests helfen dabei, zu messen, wie weit die gewünschte Funktionalität bereits implementiert wurde und bietet somit dem Entwicklungsteam immer wieder auch die Möglichkeit, sich auf die wesentlichen Anforderungen zu fokussieren. 
 
@@ -240,67 +240,67 @@ Hier wird deutlich, dass innerhalb einer Iteration die verschiedenen Phasen des 
 
 Mithilfe der User Stories und deren geschätzten Aufwand, die innerhalb einer Iteration abgearbeitet wurden, kann die **Projektgeschwindigkeit** gemessen werden. Somit lässt sich schnell der aktuelle Stand des Projektes schätzen, so wie die Geschwindigkeit, mit der in den Iterationen gearbeitet wurde. Es ist normal, dass diese Geschwindigkeit schwankt. Falls aber über Iterationen hinweg eine unerwartete Geschwindigkeit festgestellt wird, empfiehlt sich ein neues Release Planning \cite{extremeprogramming}. 
 
-### Managen
+## Praktiken Managen
 
 Die Phase "Managen" findet sich so nicht im Wasserfallmodell wieder. Es handelt sich hierbei auch nicht um einer zusätzliche explizite Phase, sondern eher um Rahmenbedingungen für die gesamte Entwicklungsarbeit. Die Praktiken, die hier beschrieben werden, können nicht einer bestimmten Phase zugeordnet werden. Sie bestimmen die Faktoren, die unabhängig von den Arbeitsphasen gleich bleiben.
 
-#### Offene Arbeitsumgebung
+### Offene Arbeitsumgebung
 
 Kommunikation ist - wie schon weiter oben erwähnt - eins der Kernwerte von XP. Aus diesem Grund soll das Team nicht räumlich getrennt sein, sondern zusammen in einem informativen und offenen Raum arbeiten. So ergeben sich viele Möglichkeiten, Probleme auf möglichst schnellem Wege zu klären. Wenn ein Entwickler an einer bestimmten Stelle nicht weiterkommt, kann er direkt einen Kollegen fragen. Die Möglichkeit, direkt zu fragen, vermindert den Aufwand der Formalität von email oder den Wegen, zwischen Büroräumen zu wechseln. Außerdem ermöglicht es allen Mitgliedern des Entwicklerteams zu wissen, mit welchen Angelegenheiten sich die Kollegen gerade beschäftigen. Falls es ein Gespräch über ein Thema ist, das man als Entwickler gerade auch bearbeitet, gibt es unkompliziert die Möglichkeit, sich im Gespräch zu beteiligen. Alistair Cockburn nennt diesen Effekt "osmotische Kommunikation" \cite{cockburn} (zitiert nach \cite{krsteski}).
 
 
-#### Move people around
+### Move people around
 
 Die Tatsache, dass alle Teammitglieder in einem Raum sind - wie im Abschnitt \ref{offene-arbeitsumgebung} beschrieben, ermöglicht es auf unnötige Dokumentation zu verzichten. Bei Fragen wird direkt auf den Kollegen, der mit dem Themengebiet in Verbindung steht gesprochen. Die Dokumentation befindet sich also "in den Köpfen der Kollegen" \cite{hanser}. Dies birgt allerdings die Gefahr, dass durch den Ausfall eines einzelnen Teammitglieds das gesamte gefährdet werden kann. Diese Gefahr wird oft auch als "Truck Faktor" (Angelehnt an die Frage: *"Was passiert, wenn ein Teammitglied von einem Truck überfahren wird?"*) bezeichnet. Um das Risiko des Truck Faktors zu minimieren, werden die Aufgabengebiete der einzelnen Entwickler durchgewechselt. Somit wird sichergestellt, dass sich im Team keine Spezialisten etablieren, die als einzige wissen, wie ein bestimmter Aspekt der Software funktioniert.
 
 Abgesehen davon, dass im schlimmsten Fall mit dem Ausscheiden eines Teammitglied gerechnet wird, wird aber empfohlen, Teams nicht bewusst auseinander zu reißen. XP betont die Dynamik innerhalb eines Teams und ist sich dessen bewusst, dass jede Änderung innerhalb der Teamkonstellation negative Auswirkungen auf den Teamgeist hat. Ausnahme bildet hier die Empfehlung, dass bei wachsender Effektivität des Teams von einer Erhöhung des Workloads abgesehen werden sollte, sondern eher das Team verkleinert werden sollte \cite{hanser}. 
 
-#### Stand-Up Meeting
+### Stand-Up Meeting
 
 Jeder Arbeitstag in XP beginnt mit einem Stand-Up Meeting. In diesem Treffen wird möglichst präzise, klar und schnell kommuniziert, wie der aktuelle Stand des Projekts ist, woran jedes Team arbeitet und was es für Probleme gibt. Zeiteffizienz spielt hier eine große Rolle, da dieses Treffen jeden Tag stattfindet und eine ineffiziente Arbeitsweise bei diesem Treffen langfristig große Folgen für die Zeiteffektivität des Teams hat. Hierbei hilft die Tatsache, dass diese Treffen - wie der Name schon andeutet - *im Stehen* abgehalten werden. Dies hat den psychologischen Effekt, dass man sich nicht lange an einem Diskussionspunkt aufhält. Man kann bei diesem Treffen also nicht von einer *Sitzung* sprechen, da sich ja keiner *setzt*.
 
-#### Fix XP when it breaks
+### Fix XP when it breaks
 
 XP ist sich der Individualität eines Software Projekts bewusst. Man sieht der Tatsache ins Auge, dass kein Software Projekt so ist wie das andere und dass Methoden, die bei einem Projekt gut funktioniert haben, nicht bei allen anderen Projekten genau so gut funktionieren. Dafür sind vierteljährige \cite{hanser} Reflektionssitzungen vorgesehen, in denen die Effektivität der momentanen Praktiken hinterfragt wird. Hier reflektiert das gesamte Team über die momentane Arbeitsweise und überprüft diese auf potenzielle Probleme. Wichtig ist hierbei, dass Probleme nicht nur angesprochen werden, sondern auch konkrete Entscheidungen getroffen werden, um diese Probleme anzugehen. XP geht davon aus, dass diese Anpassungen der Arbeitsweise zu den normalen Aktivitäten der Entwicklungsarbeit gehören und immer wieder durchgeführt werden. Deswegen wird hier bei auch die Formulierung "when" (englisch: temporale Formulierung, zu übersetzen mit "immer dann, wenn...") und nicht die Formulierung "if" (englisch: konditionale Formulierung, zu übersetzen mit "falls") benutzt.
 
-### Design
+## Praktiken: Design
 
 In der Design Phase wird die Systemarchitektur der zu entwickelnden Software entworfen. Hierbei ist zu beachten, dass in XP die Design Phase nicht eine Phase mit Anfang und Ende ist, sondern dass in jeder Iteration (also idealer weise wöchentlich) überdacht und den entsprechenden Anforderungen angepasst werden. Die folgenden Regeln und Praktiken gibt XP hierfür vor:
 
-#### Einfachheit des Designs
+### Einfachheit des Designs
 
 Wie schon im Abschnitt \ref{werte-einfachheit} erwähnt, soll die Architektur so einfach wie möglich gehalten werden. Generalistische Ansätze von Funktionen und Klassen, weil evtl. damit mögliche zukünftige Anforderungen erfüllt werden können, die momentan noch nicht abzusehen sind, sind zu vermeiden. 
 
 Die Entwicklung in Iterationen stellt das Entwickler Team immer wieder vor die Herausforderung, die Architektur zu überdenken. Für jedes Inkrement muss das Team die Architektur des Systemdesigns so ändern, dass sie für die Anforderungen genau dieses Inkrements optimal ist. Falls sich Funktionen im laufe der Zeit erübrigen oder es sinnvoll ist, mehrere Klassen oder Funktionen zu einer generelleren Lösung zusammenzufassen tritt die Praxis des **Refactorings** (siehe Abschnitt \ref{refactoring}) ein. Andererseits darf Funktionalität nicht früher als notwendig eingebaut werden. Auch wenn das Team weiß, dass bestimmte Funktionalitäten in Zukunft evtl. benötigt werden: Wenn diese Funktionalität den Anforderungen der aktuellen Iteration nicht gerecht wird, wird sie auch noch nicht implementiert. Es kann möglich sein, dass sich Anforderungen bis zu dem Zeitpunkt, an dem es sich anbietet, diese Funktionalität zu implementieren, ändern und somit diese Implementation überflüssig machen.
 
-#### Systemmetapher
+### Systemmetapher
 
 Die Idee hinter Systemmetaphern ist das Benutzen einer Metapher für das System, die jeder der Projektbeteiligten kennt und versteht. Das System wird dann mithilfe dieser Systemmetapher aufgebaut. Dabei hilft die Metapher, Neulingen die Struktur des Systems zu verstehen. Außerdem fällt es leichter, Namen für die einzelnen Module, Klassen und Funktionen zu finden und zu verstehen, da alle die gleiche Sprache sprechen.
 
 Eine System Metapher lässt sich nicht unbedingt leicht finden. Im initialen Projekt, in dem XP zum ersten mal durchgeführt wurde (Das *C3 Projekt*), wurde eine Automobilproduktionslinie als Metapher verwendet, da dieses Projekt in der Branche der Automobilindustrie befand und somit alle Beteiligten die Sprache der Produktionslinie verstanden \cite{hanser}.
 
-#### CRC Karten
+### CRC Karten
 
 CRC Karten (Class, Responsibilities and Collaboration Cards) sind eine einfach Möglichkeit, schnell und zeiteffektiv im Team Systeme zu entwerfen, zu diskutieren und zu revidieren. Es werden ca. DIN A5 große Karten benutzt, die einen Teil der Software repräsentieren. Dies können konkrete Klassen sein, müssen es aber nicht. Auf die Karte wird mit einem Namen versehen ("Class") und es kann in maximal 4 Halbsätzen formuliert werden, was die Klasse leisten soll ("Responsibilities"). Zusätzlich kann noch notiert werden, mit welchen anderen Klassen diese Karte in Wechselwirkung steht ("Collaboration").
 
 Der wesentliche Teil der Praktik besteht in der Möglichkeit, sehr schnell und flexibel über den gesamten Aufbau und die Zusammenhänge der einzelnen Klassen zu diskutieren. Hierfür befindet sich das Team an einem Tisch und legt die Karten so auf den Tisch, wie sie sich die Struktur der zu entwickelnden Software vorstellen. Es werden Vor- und Nachteile der Systemarchitektur besprochen und die Karten können immer wieder neu angeordnet werden. Die Möglichkeit, die Karten neu anzuordnen und somit also wirkliche Haptik für die Problemstellung zu entwickeln, verstärkt im Team das Denken in Objektorientierung. Da ein revidieren oder auch ein neues Anordnen der Karten nur eine Sache von einigen Sekunden ist, kann hier sehr zeiteffizient gearbeitet werden und ohne Scheu vor Revision neue Entwürfe schnell diskutiert werden \cite{hanser} \cite{extremeprogramming}.
 
 
-#### Spike Solutions
+### Spike Solutions
 
 Spike Solutions werden dann benutzt, wenn das Team sich nicht sicher ist, wie und ob ein Problem genau zu lösen ist und wie viel Aufwand das bedeutet. Spike Solutions sind kleine Prototypen, die "quick and dirty" entwickelt werden, um technologisches Neuland auszuprobieren. Der Code sollte nicht wiederverwendet werden \cite{hanser}, aber mithilfe des technologischen "Durchstichs" zu einem bestimmten Problem kann das Team aufgrund der Erfahrungen, die es dabei macht sehr viel besser abschätzen, was an Aufwand und Komplexität hinter einem Problem steht. Außerdem kann das Team so fremde Technologien wie z.B. ein neues Framework ausprobieren, ohne zu viel Zeit in die Einarbeit zu verlieren, nur um danach festzustellen, dass das Benutzen des Frameworks nicht hilfreich ist.
 
-#### Refactoring
+### Refactoring
 
 Wie schon im Abschnitt \ref{einfachheit-des-designs} erwähnt, gehört Refactoring zu den Praktiken von XP. Refactoring bedeutet das Umstrukturieren oder neu schreiben von Code oder Systementwürfen.
 
 Mit der Zeit der Entwicklung wird aus jedem guten Design ein schlechtes Design \cite{hanser}. Mit jeder Iteration kommen neue Funktionen und Module zum Systementwurf hinzu. Nach einigen Iterationen lässt sich hinterfragen, ob der ursprüngliche Systementwurf für die momentanen Anforderungen des Systems der optimale ist, oder ob es nicht besser sei, einige grundlegende Veränderungen durchzuführen, oder Funktionalitäten, die sich ähnlich sind, mit einer generalistischeren Lösung zu ersetzen. Zu diesem Schritt gehört meistens Mut, denn Entwickler tendieren häufig dazu, Funktionalitäten, die einmal funktionieren, nicht mehr ändern zu wollen (ganz nach dem Motto "Never change a running system"). Durch den testgetriebenen Ansatz von XP (siehe Abschnitt \ref{Testing}) wird allerdings sichergestellt, dass die Funktionalität des Codes auch bei Änderungen erhalten bleibt.
 
-### Kodieren
+## Praktiken: Kodieren
 
 Für die Phase des Kodierens sieht XP folgende Praktiken vor.
 
-#### Kunde immer verfügbar
+### Kunde immer verfügbar
 
 XP sieht vor, dass der Kunde immer für das Team als Ansprechpartner verfügbar ist. Konkret wird empfohlen, dass ein Experte von Kundenseite ständig zusammen bei dem Team ist \cite{extremeprogramming}. Dies mag seltsam erscheinen, muss so der Kunde während der gesamten Projektlaufzeit auf eine wichtige Ressource (einen Experten) für den eigenen Betrieb verzichten. Dies ist aber für die verschiedenen Aktivitäten, und für das agile Vorgehen notwendig. Wie schon im Abschnitt \ref{planung-user-stories} erwähnt, kann nur mithilfe des Experten vor Ort eine detaillierte Anforderungsspezifikation durchgeführt werden. Nur mithilfe des Kunden ist es beim Release Planning möglich, eine Priorisierung der User Stories nach *business value* vorzunehmen \cite{extremeprogramming}. Und nur mit dem Kunden vor Ort ist es möglich, so schnell wie möglich auf Anforderungsänderungen einzugehen.
 
@@ -308,15 +308,15 @@ Ein weiterer Einwand gegen die Arbeit mit dem Kunden vor Ort ist die daraus resu
 
 Insgesamt scheint es viel Zeit zu sein, die der Kunde mit der ständigen Anwesenheit eines Experten vor Ort zu investieren hat. Hierbei sei erwähnt, dass für diesen Ansatz allerdings die gesamte Zeit einer ausführlichen Anforderungsanalyse mit dem Kunden gespart werden kann. Zudem kann davon ausgegangen werden, dass am die Ergebnisse durch die Anwesenheit des Experten höchstens gering von den Anforderungen des Kunden abweichen und somit die Zeit gespart werden kann, die es kostet, wenn ein System entwickelt wird, dass nicht den realen Anforderungen des Kunden entspricht \cite{extremeprogramming}.
 
-#### Kodierungsstandards verwenden
+### Kodierungsstandards verwenden
 
 Das Verwenden von einheitlichen Kodierungsstandards sorgt dafür, dass der Code von jedem Teammitglied leicht gelesen und verstanden werden kann. Da mit Praktiken wie *move people around* (Abschnitt \ref{move-people-around}) und *collective code ownership* (Abschnitt \ref{collective-code-ownership}) gegen eine zu starke Spezialisierung der Teammitglieder gearbeitet wird, sind hier einheitliche Kodierungsstandards sehr zu begrüßen, um das Einarbeiten in Code, den man selbst nicht geschrieben hat, zu erleichtern.
 
-#### Tests zuerst programmieren
+### Tests zuerst programmieren
 
 Tests ersetzen in XP eine detaillierte Spezifikation der Arbeitspakete. Außerdem ermöglicht automatisiertes Testen eine sehr zielgenaue und präzise Programmierung, um genau das an Funktionalität zu erreichen, was notwendig ist. Wells \cite{extremeprogramming} behauptet, wer Tests zuerst schreibt und dann den dazugehörigen Code entwickelt ist genau so schnell wie der, der nur den Code entwickelt. Dies lässt sich leicht damit begründen, dass der Entwickler sich schon während der Entwicklung der Tests Gedanken zu der Struktur der nötigen Lösung macht und diese danach nur noch "herunter schreiben" muss. Zudem weiß der Entwickler durch die Test genau, wann er fertig mit der Entwicklung der gewünschten Funktionalität ist: wenn alle Tests erfolgreich waren \cite{extremeprogramming}. Ohne Tests lässt sich der Status "fertig entwickelt" für eine Funktion nicht so leicht definieren. Zuletzt bieten Tests die Grundlage für ein effektives Refactoring; ohne Tests kann nicht ermittelt werden, dass die Funktionalität bestimmter Module durch das Refactoring geändert wurden \cite{hanser}.
 
-#### Pair Programming
+### Pair Programming
 
 Pair Programming ist die Praxis, dass sich zwei Entwickler zusammen mit einer Aufgabe beschäftigen. Sie sitzen dabei zusammen an einem Rechner, ein Entwickler benutzt die Tastatur und der andere sitzt daneben. Die Rollen des Schreibens und des Beobachtens werden regelmäßig zwischen den beiden Entwicklern getauscht.
 
@@ -324,21 +324,21 @@ Die Idee des Pair Programmings ist auf der Idee der gedanklichen Arbeitsteilung 
 
 Pair Programming hat verschiedene Vorteile. Es bietet die Möglichkeit, Wissensinseln zu vermeiden, indem mindestens zwei Entwickler über das Wissen der Codebasis für die zu entwickelnde Funktionalität verfügen \cite{wolf}. Somit können die Gefahren des *Truck Faktors* (siehe auch Abschnitt \ref{move-people-around}) reduziert werden. Wenn beide Entwickler ungefähr gleich viel Erfahrung haben, können sie sich gegenseitig gut unterstützen. Wenn ein Entwickler des Paars deutlich erfahrener als der andere ist, kann der Unerfahrene durch die Zusammenarbeit viel von dem Erfahrenen lernen. Hier gilt wieder der Wert der Kommunikation (siehe Abschnitt \ref{werte-kommunikation}), ein Reden über den Code von Angesicht zu Angesicht während man am Code Änderungen vornimmt, erweist sich als gute Grundlage, Wissenslücken zu füllen \cite{agilespmkanban}.
 
-#### Collective code ownership
+### Collective code ownership
 
 Diese Regel besagt, dass jedes Teammitglied jeden Teil der Software ändern darf. Es gibt keine Einteilung der Software in gewisse Funktionsbereiche, für die dann Spezialisten verantwortlich sind. Es gibt auch keinen Chef Software Architekten, der für den Entwurf der System Architektur zuständig ist. All dies liegt in der kollektiven Verantwortung des Teams. Die kollektive Verantwortung birgt einige Chancen in sich: Dadurch, dass jedes Teammitglied über das System bescheid weiß, können falsche Aussagen über Fakten des Systems vermieden werden, da diese nicht abhängig von einem Chefarchitekten, der sich durchaus auch mal irren kann \cite{extremeprogramming}. 
 
 Das automatisierte Testen ermöglicht es jedem Teammitglied, in beliebigen Teilen der Software Änderungen zu tätigen, ohne befürchten zu müssen, dass die Änderungen unerwünschte Seiteneffekte ergeben, die die Funktionalität der Software beeinträchtigen.
 
-#### Häufige und sequentielle Integration {#haeufige-sequenzielle-integration}
+### Häufige und sequentielle Integration {#haeufige-sequenzielle-integration}
 
 Neben der Forderung, dass häufig integriert wird, also dass ein Entwicklerteam seinen Entwicklungsfortschritt in die gemeinsame Codebasis integriert, fordert XP, dass sequentiell, also hintereinander integriert wird. \cite{extremeprogramming} \cite{hanser}
 
-### Testen {#Testing}
+## Praktiken: Testen {#Testing}
 
 Die Phase des Testens, die im Wasserfallmodell (siehe Abschnitt \ref{wasserfallmodell}) eine explizite Phase war ist in XP, wie schon in Abschnitt \ref{tests-zuerst-programmieren} erwähnt, in der Entwicklung der Software integriert. Die Folgenden Praktiken und Regeln sieht XP für das Testen vor.
 
-#### Unit Tests für den gesamten Code
+### Unit Tests für den gesamten Code
 
 Unit Tests, also Tests, die nah an der Funktionalität einzelner Codeabschnitte liegen, bilden die Grundlage in XP für ein zeiteffizientes entwickeln. \cite{extremeprogramming} widerspricht der Annahme, dass das Entwickeln von Tests zu viel Zeit in Anspruch nehmen würde. Wie auch schon in Abschnitt \ref{tests-zuerst-programmieren} aufgeführt, nimmt das Entwickeln des Tests als solches kaum Zeit in Anspruch, wenn man es in der Kombination mit der Entwicklung der gewünschten Funktionalität sieht. 
 
@@ -348,11 +348,11 @@ Allerdings bringen Tests laut \cite{extremeprogramming} dem Team im weiteren Vor
 - Tests helfen beim Refactoring (siehe Abschnitt \ref{refactoring}), indem sie überprüfbar machen, ob die gewünschte Funktionalität des geänderten Codes immer noch gegeben ist.
 - Tests fördern die Praxis der häufigen Integration (siehe Abschnitt \ref{haeufige-sequenzielle-integration}), indem sie schnell ersichtlich machen, wo bei der Integration Fehler aufgetreten sind und somit dem Entwicklerteam schnell Hinweise darauf geben, an welcher Stelle im Code etwas geändert werden muss.
 
-#### Akzeptanztest
+### Akzeptanztest
 
 Akzeptanztests sind näher an den User Stories als die Unit Tests. Sie bieten ein Testen der Funktionalität aus der Sicht des Benutzers und weniger aus der Sicht des Entwicklers. Somit befinden sich Akzeptanz Tests auf einer höheren Ebene der Abstraktion als die nah am Code gelegenen Unit Tests. Akzeptanztests stellen die High-Level-Spezifikationen des Systems dar \cite{hanser}.
 
-#### Ursachenanalyse
+### Ursachenanalyse
 
 Falls in der Software ein Fehler gefunden wird, der von keinem Test abgedeckt wurde, muss zuerst mit dem Kunden zusammen ein Akzeptanztest entwickelt werden, in dem formuliert wird, wie dieser Fehler zu vermeiden ist. Dann wird untersucht, welche Software Module für diesen Akzeptanz verantwortlich sind, um entsprechenden Unit Tests zu entwickeln, die die zusätzliche Verantwortung der Software Module festlegen. Erst dann werden im Code Änderungen vorgenommen, um den Ansprüchen der Unit Tests zu genügen. Laufen die Unit Tests vollständig, sollte nun auch der neu entworfene Akzeptanztest laufen \cite{extremeprogramming}. Die Antwort auf einen gefundenen Fehler ist also ein entwickeln von Tests in "Top-Down" Richtung und eine anschließende Verifikation der Tests in "Bottom-Up" Richtung.
 
