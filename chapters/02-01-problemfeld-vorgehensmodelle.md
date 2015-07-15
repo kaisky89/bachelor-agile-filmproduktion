@@ -45,7 +45,7 @@ Im Projektmanagement geht es um Menschen. Da diese innerhalb eines Projekt unter
 
 <!-- Vorgehensmodelle in der Informatik beschreiben in abstrakter Form den Prozess der Software Entwicklung. Nicht nur Aktivitäten, sondern auch Rollen und Artefakte -->
 
-# Phasen in der Software Entwicklung
+# Phasen in der Software Entwicklung {#phasen-in-der-software-entwicklung}
 
 Um in der Software Entwicklung von einem Auftrag zu einer fertigen und lauffähigen Software zu kommen, die am Ende beim Kunden in Betrieb genommen werden kann, sind verschiedene Aktivitäten notwendig. Als Laie könnte man meinen, Software Entwicklung sei *Programmieren*, also das schreiben von Code. Das ist nicht ganz falsch, das *Programmieren* ist tatsächlich ein Teil der Software Entwicklung. Allerdings gehören hier noch mehr Tätigkeiten dazu. Die erforderlichen Tätigkeiten der Software Entwicklung können in folgende Phasen unterteilt werden: \cite{hanser}
 
@@ -140,14 +140,14 @@ Agil bedeutet "von großer Beweglichkeit zeugend; regsam und wendig" \cite{duden
 
 Das Agile Manifest (oder auch das "Manifest für Agile Softwareentwicklung") ist die Erklärung führender Software Entwicklungs Experten, bewusst auf die Schwergewichtigkeit in Vorgehensmodellen zu verzichten und somit ein schnelleres, flexibleres und auf Änderungen reaktionsfähigeres Vorgehen zu entwickeln. Somit entschlossen sie sich im Februar 2001 für die 4 Werte Agilen Manifests \cite{agilemanifesto}:
 
-![Das "Manifest für Agile Softwareentwicklung"](http://download.heart-co.de/Bildschirmfoto%202015-06-29%20um%2014.28.14.png)
+![Das Manifest für Agile Softwareentwicklung](http://download.heart-co.de/Bildschirmfoto%202015-06-29%20um%2014.28.14.png)
 
 - **Individuen und Interaktionen** mehr als *Prozesse und Werkzeuge*
 - **Funktionierende Software** mehr als *umfassende Dokumentation*
 - **Zusammenarbeit mit dem Kunden** mehr als *Vertragsverhandlung*
 - **Reagieren auf Veränderung** mehr als das *Befolgen eines Plans*
 
-Wie auch schon in <!--TODO Referenz auf Das "Manifest für Agile Softwareentwicklung"--> beschrieben bedeutet dass, das die Werte auf der rechten Seite zwar immer noch ihren Stellenwert haben, aber die Werte auf der linken Seite einen höheren Stellenwert haben.
+Wie auch schon in Abbildung \ref{Das Manifest für Agile Softwareentwicklung} beschrieben bedeutet das, dass die Werte auf der rechten Seite zwar immer noch als wichtig erachtet werden, aber die Werte auf der linken Seite einen höheren Stellenwert haben.
 
 Betrachtet man z. B. den zweiten Satz:
 
@@ -182,7 +182,7 @@ Die Praktiken und Regeln in XP unterliegen den 5 Werten: *Kommunikation*, *Einfa
 
 Ein zentrales Anliegen in XP ist die Kommunikation. Da die Arbeit an dem Projekt nicht von Einzelkämpfern, sondern von einem Team geleistet wird, ist es wesentlich, dass die Kommunikation innerhalb des Teams funktioniert. Aber nicht nur die interne Kommunikation ist wichtig, sondern auch die Kommunikation mit dem Auftraggeber ist in XP sehr wichtig. So schreibt XP z.B. vor, dass ein Vertreter des Auftraggebers vor Ort für das Team da ist und durchgehend ansprechbar sein muss. Durch möglichst unkomplizierte Wege kann die Kommunikation so einfach und effizient wie möglich gehalten werden und der einfachste Weg, zu kommunizieren, ist, mit dem Kommunikationspartner vor Ort zu reden.
 
-### Einfachheit
+### Einfachheit {#werte-einfachheit}
 
 In der Software Entwicklung tendiert man schnell dazu, Funktionen komplizierter zu machen, als es sein muss. Zum Beispiel kann man eine Funktion genau so bauen, dass sie den momentanen Ansprüchen genügt, oder man kann sich überlegen, in welchen ähnlichen Situationen diese Funktion vielleicht auch noch gebraucht werden könnte um dann die Funktion so generisch wie möglich zu implementieren. In der Welt der agilen Software Entwicklung gibt als Antwort auf diese Tendenz zwei Akronyme:
 
@@ -220,7 +220,7 @@ Für die Phase der Planung sieht Kent Beck \cite{beck} folgende Techniken vor.
 
 #### User Stories
 
-User Stories ist eine Technik für die Anforderungsspezifikation. User Stories stellen ähnlich wie Use Cases die Benutzung des Systems aus der Anwender Sicht dar. Während allerdings Use Cases darauf aus sind, möglichst viele Details zu erfassen, reißt man mit User Stories ein bestimmtes Arbeitspaket nur an. Mithilfe von maximal drei Sätzen wird erklärt, wie eine bestimmte Funktion aus Anwender Sicht funktionieren soll. Dies dient vor allem zur groben Spezifikation der Anforderungen. Mithilfe aller User Stories soll die ganze zu entwickelnde Software beschrieben werden. Gleichzeitig dienen die User Stories auch der Einteilung in Arbeitspakete. Für Iterationen werden bestimmte User Stories ausgewählt, die dann zum nächsten Release fertig gestellt werden müssen. Somit lässt sich der Funktionsumfang des nächsten Releases klar definieren. Alle Details der Anforderungen, die in der User Story nicht verfügbar sind, sollen mit dem Kunden direkt besprochen werden. Dieser ist also die "wandelnde Spezifikation" \cite{beck}. Mithilfe von Unit Tests werden dann die herausgearbeiteten Spezifikationen festgehalten. <!--TODO Referenz zu Testing-->
+User Stories ist eine Technik für die Anforderungsspezifikation. User Stories stellen ähnlich wie Use Cases die Benutzung des Systems aus der Anwender Sicht dar. Während allerdings Use Cases darauf aus sind, möglichst viele Details zu erfassen, reißt man mit User Stories ein bestimmtes Arbeitspaket nur an. Mithilfe von maximal drei Sätzen wird erklärt, wie eine bestimmte Funktion aus Anwender Sicht funktionieren soll. Dies dient vor allem zur groben Spezifikation der Anforderungen. Mithilfe aller User Stories soll die ganze zu entwickelnde Software beschrieben werden. Gleichzeitig dienen die User Stories auch der Einteilung in Arbeitspakete. Für Iterationen werden bestimmte User Stories ausgewählt, die dann zum nächsten Release fertig gestellt werden müssen. Somit lässt sich der Funktionsumfang des nächsten Releases klar definieren. Alle Details der Anforderungen, die in der User Story nicht verfügbar sind, sollen mit dem Kunden direkt besprochen werden. Dieser ist also die "wandelnde Spezifikation" \cite{beck}. Mithilfe von Unit Tests werden dann die herausgearbeiteten Spezifikationen festgehalten (siehe dazu auch Abschnitt \ref{Testing}).
 
 #### Releases
 
@@ -251,7 +251,7 @@ Kommunikation ist - wie schon weiter oben erwähnt - eins der Kernwerte von XP. 
 
 #### Move people around
 
-Die Tatsache, dass alle Teammitglieder in einem Raum sind - wie in <!--TODO Referenz "Offene Arbeitsumgebung"--> beschrieben, ermöglicht es auf unnötige Dokumentation zu verzichten. Bei Fragen wird direkt auf den Kollegen, der mit dem Themengebiet in Verbindung steht gesprochen. Die Dokumentation befindet sich also "in den Köpfen der Kollegen" \cite{hanser}. Dies birgt allerdings die Gefahr, dass durch den Ausfall eines einzelnen Teammitglieds das gesamte gefährdet werden kann. Diese Gefahr wird oft auch als "Truck Faktor" (Angelehnt an die Frage: *"Was passiert, wenn ein Teammitglied von einem Truck überfahren wird?"*) bezeichnet. Um das Risiko des Truck Faktors zu minimieren, werden die Aufgabengebiete der einzelnen Entwickler durchgewechselt. Somit wird sichergestellt, dass sich im Team keine Spezialisten etablieren, die als einzige wissen, wie ein bestimmter Aspekt der Software funktioniert.
+Die Tatsache, dass alle Teammitglieder in einem Raum sind - wie im Abschnitt \ref{offene-arbeitsumgebung} beschrieben, ermöglicht es auf unnötige Dokumentation zu verzichten. Bei Fragen wird direkt auf den Kollegen, der mit dem Themengebiet in Verbindung steht gesprochen. Die Dokumentation befindet sich also "in den Köpfen der Kollegen" \cite{hanser}. Dies birgt allerdings die Gefahr, dass durch den Ausfall eines einzelnen Teammitglieds das gesamte gefährdet werden kann. Diese Gefahr wird oft auch als "Truck Faktor" (Angelehnt an die Frage: *"Was passiert, wenn ein Teammitglied von einem Truck überfahren wird?"*) bezeichnet. Um das Risiko des Truck Faktors zu minimieren, werden die Aufgabengebiete der einzelnen Entwickler durchgewechselt. Somit wird sichergestellt, dass sich im Team keine Spezialisten etablieren, die als einzige wissen, wie ein bestimmter Aspekt der Software funktioniert.
 
 Abgesehen davon, dass im schlimmsten Fall mit dem Ausscheiden eines Teammitglied gerechnet wird, wird aber empfohlen, Teams nicht bewusst auseinander zu reißen. XP betont die Dynamik innerhalb eines Teams und ist sich dessen bewusst, dass jede Änderung innerhalb der Teamkonstellation negative Auswirkungen auf den Teamgeist hat. Ausnahme bildet hier die Empfehlung, dass bei wachsender Effektivität des Teams von einer Erhöhung des Workloads abgesehen werden sollte, sondern eher das Team verkleinert werden sollte \cite{hanser}. 
 
@@ -263,20 +263,13 @@ Jeder Arbeitstag in XP beginnt mit einem Stand-Up Meeting. In diesem Treffen wir
 
 XP ist sich der Individualität eines Software Projekts bewusst. Man sieht der Tatsache ins Auge, dass kein Software Projekt so ist wie das andere und dass Methoden, die bei einem Projekt gut funktioniert haben, nicht bei allen anderen Projekten genau so gut funktionieren. Dafür sind vierteljährige \cite{hanser} Reflektionssitzungen vorgesehen, in denen die Effektivität der momentanen Praktiken hinterfragt wird. Hier reflektiert das gesamte Team über die momentane Arbeitsweise und überprüft diese auf potenzielle Probleme. Wichtig ist hierbei, dass Probleme nicht nur angesprochen werden, sondern auch konkrete Entscheidungen getroffen werden, um diese Probleme anzugehen. XP geht davon aus, dass diese Anpassungen der Arbeitsweise zu den normalen Aktivitäten der Entwicklungsarbeit gehören und immer wieder durchgeführt werden. Deswegen wird hier bei auch die Formulierung "when" (englisch: temporale Formulierung, zu übersetzen mit "immer dann, wenn...") und nicht die Formulierung "if" (englisch: konditionale Formulierung, zu übersetzen mit "falls") benutzt.
 
-<!--TODO Das auch noch ausformulieren?
-- Vertrag mit verhandelbaren Umfang
-- Pay-Per-Use
-	- Kunde zahlt nur soviel, wie viel er die Software auch nutzt
-	- Steigert die Motivation der Entwickler, Software zu entwickeln, die auch gerne genutzt wird
--->
-
 ### Design
 
 In der Design Phase wird die Systemarchitektur der zu entwickelnden Software entworfen. Hierbei ist zu beachten, dass in XP die Design Phase nicht eine Phase mit Anfang und Ende ist, sondern dass in jeder Iteration (also idealer weise wöchentlich) überdacht und den entsprechenden Anforderungen angepasst werden. Die folgenden Regeln und Praktiken gibt XP hierfür vor:
 
 #### Einfachheit des Designs
 
-Wie schon in <!--TODO Referenz auf "Die 5 Werte" -> "Einfachheit"--> erwähnt, soll die Architektur so einfach wie möglich gehalten werden. Generalistische Ansätze von Funktionen und Klassen, weil evtl. damit mögliche zukünftige Anforderungen erfüllt werden können, die momentan noch nicht abzusehen sind, sind zu vermeiden. 
+Wie schon im Abschnitt <!--TODO Referenz auf "Die 5 Werte" -> "Einfachheit"--> erwähnt, soll die Architektur so einfach wie möglich gehalten werden. Generalistische Ansätze von Funktionen und Klassen, weil evtl. damit mögliche zukünftige Anforderungen erfüllt werden können, die momentan noch nicht abzusehen sind, sind zu vermeiden. 
 
 Die Entwicklung in Iterationen stellt das Entwickler Team immer wieder vor die Herausforderung, die Architektur zu überdenken. Für jedes Inkrement muss das Team die Architektur des Systemdesigns so ändern, dass sie für die Anforderungen genau dieses Inkrements optimal ist. Falls sich Funktionen im laufe der Zeit erübrigen oder es sinnvoll ist, mehrere Klassen oder Funktionen zu einer generelleren Lösung zusammenzufassen tritt die Praxis des **Refactorings** <!--TODO Referenz auf "Refactoring" --> ein. Andererseits darf Funktionalität nicht früher als notwendig eingebaut werden. Auch wenn das Team weiß, dass bestimmte Funktionalitäten in Zukunft evtl. benötigt werden: Wenn diese Funktionalität den Anforderungen der aktuellen Iteration nicht gerecht wird, wird sie auch noch nicht implementiert. Es kann möglich sein, dass sich Anforderungen bis zu dem Zeitpunkt, an dem es sich anbietet, diese Funktionalität zu implementieren, ändern und somit diese Implementation überflüssig machen.
 
@@ -341,7 +334,7 @@ Das automatisierte Testen ermöglicht es jedem Teammitglied, in beliebigen Teile
 
 Neben der Forderung, dass häufig integriert wird, also dass ein Entwicklerteam seinen Entwicklungsfortschritt in die gemeinsame Codebasis integriert, fordert XP, dass sequentiell, also hintereinander integriert wird. \cite{extremeprogramming} \cite{hanser}
 
-### Testen
+### Testen {#Testing}
 
 Die Phase des Testens, die im Wasserfallmodell <!--TODO Referenz auf "Wasserfallmodell"--> eine explizite Phase war ist in XP, wie schon in <!--TODO Referenz auf "Tests zuerst programmieren"--> erwähnt, in der Entwicklung der Software integriert. Die Folgenden Praktiken und Regeln sieht XP für das Testen vor.
 
