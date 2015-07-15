@@ -330,23 +330,23 @@ Diese Regel besagt, dass jedes Teammitglied jeden Teil der Software ändern darf
 
 Das automatisierte Testen ermöglicht es jedem Teammitglied, in beliebigen Teilen der Software Änderungen zu tätigen, ohne befürchten zu müssen, dass die Änderungen unerwünschte Seiteneffekte ergeben, die die Funktionalität der Software beeinträchtigen.
 
-#### Häufige und sequentielle Integration
+#### Häufige und sequentielle Integration {#haeufige-sequenzielle-integration}
 
 Neben der Forderung, dass häufig integriert wird, also dass ein Entwicklerteam seinen Entwicklungsfortschritt in die gemeinsame Codebasis integriert, fordert XP, dass sequentiell, also hintereinander integriert wird. \cite{extremeprogramming} \cite{hanser}
 
 ### Testen {#Testing}
 
-Die Phase des Testens, die im Wasserfallmodell (siehe Abschnitt \ref{wasserfallmodell}) eine explizite Phase war ist in XP, wie schon in <!--TODO Referenz auf "Tests zuerst programmieren"--> erwähnt, in der Entwicklung der Software integriert. Die Folgenden Praktiken und Regeln sieht XP für das Testen vor.
+Die Phase des Testens, die im Wasserfallmodell (siehe Abschnitt \ref{wasserfallmodell}) eine explizite Phase war ist in XP, wie schon in Abschnitt \ref{tests-zuerst-programmieren} erwähnt, in der Entwicklung der Software integriert. Die Folgenden Praktiken und Regeln sieht XP für das Testen vor.
 
 #### Unit Tests für den gesamten Code
 
-Unit Tests, also Tests, die nah an der Funktionalität einzelner Codeabschnitte liegen, bilden die Grundlage in XP für ein zeiteffizientes entwickeln. \cite{extremeprogramming} widerspricht der Annahme, dass das Entwickeln von Tests zu viel Zeit in Anspruch nehmen würde. Wie auch schon in <!--TODO Referenz "Tests zuerst programmieren"--> aufgeführt, nimmt das Entwickeln des Tests als solches kaum Zeit in Anspruch, wenn man es in der Kombination mit der Entwicklung der gewünschten Funktionalität sieht. 
+Unit Tests, also Tests, die nah an der Funktionalität einzelner Codeabschnitte liegen, bilden die Grundlage in XP für ein zeiteffizientes entwickeln. \cite{extremeprogramming} widerspricht der Annahme, dass das Entwickeln von Tests zu viel Zeit in Anspruch nehmen würde. Wie auch schon in Abschnitt \ref{tests-zuerst-programmieren} aufgeführt, nimmt das Entwickeln des Tests als solches kaum Zeit in Anspruch, wenn man es in der Kombination mit der Entwicklung der gewünschten Funktionalität sieht. 
 
 Allerdings bringen Tests laut \cite{extremeprogramming} dem Team im weiteren Vorgehen einen immensen Nutzen:
 
-- Tests ermöglichen die Praktik des collectiv code ownership<!--TODO Referenz Refactoring-->, indem sie den Entwicklern die Angst nehmen, fremden Code zu ändern und dabei unwissend die Funktionalität zu beeinträchtigen
-- Tests helfen beim Refactoring <!--TODO Referenz Refactoring-->, indem sie überprüfbar machen, ob die gewünschte Funktionalität des geänderten Codes immer noch gegeben ist.
-- Tests fördern die Praxis der häufigen Integration<!--TODO Referenz "Häufige und sequentielle Integration"-->, indem sie schnell ersichtlich machen, wo bei der Integration Fehler aufgetreten sind und somit dem Entwicklerteam schnell Hinweise darauf geben, an welcher Stelle im Code etwas geändert werden muss.
+- Tests ermöglichen die Praktik des collectiv code ownership (siehe Abschnitt \ref{collective-code-ownership}, indem sie den Entwicklern die Angst nehmen, fremden Code zu ändern und dabei unwissend die Funktionalität zu beeinträchtigen
+- Tests helfen beim Refactoring (siehe Abschnitt \ref{refactoring}), indem sie überprüfbar machen, ob die gewünschte Funktionalität des geänderten Codes immer noch gegeben ist.
+- Tests fördern die Praxis der häufigen Integration (siehe Abschnitt \ref{haeufige-sequenzielle-integration}), indem sie schnell ersichtlich machen, wo bei der Integration Fehler aufgetreten sind und somit dem Entwicklerteam schnell Hinweise darauf geben, an welcher Stelle im Code etwas geändert werden muss.
 
 #### Akzeptanztest
 
