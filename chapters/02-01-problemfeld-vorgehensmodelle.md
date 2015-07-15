@@ -18,13 +18,13 @@ Mit Vorgehen ist hier die Vorgehensweise, also die Art und Weise, wie jemand vor
 
 Aus der Formulierung "als wichtig erachtet" lässt sich der Ansatz der *Abstraktion* erkennen. Ein Modell möchte Informationen auf die wesentliche Punkte beschränken, indem es unwichtige Details weglässt.
 
-Ein *Vorgehensmodell* kann also als eine Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Ein Vorgehensmodell beschreibt nicht die Umsetzung einer konkreten Aufgabe, sondern eher eine bestimmte *Klasse von Aufgaben*<!--ZITAT Eckhart Hanser -->.
+Ein *Vorgehensmodell* kann also als eine Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Ein Vorgehensmodell beschreibt nicht die Umsetzung einer konkreten Aufgabe, sondern eher eine bestimmte *Klasse von Aufgaben* \cite{hanser}.
 
-<!--ZITAT Eckhart Hanser --> schreibt, dass er als Synonym zu dem Begriff Vorgehensmodell den Begriff Prozessmodell verwendet und definiert diesen Begriff wie folgt:
+\cite{hanser} schreibt, dass er als Synonym zu dem Begriff Vorgehensmodell den Begriff Prozessmodell verwendet und definiert diesen Begriff wie folgt:
 
 > Ein Software-Prozessmodell ist ein Modell für den Ablauf der Entwicklung eines Software-Systems. Dabei geht es nicht um die Darstellung des Ablaufs eines bestimmten Software-Entwicklungsprojekts, sondern einer ganzen Klasse von Projekten.
 
-Vorgehensmodelle gehören in der Informatik zum Bereich des Projektmanagement. Projektmanagement wird laut <!--ZITAT DIN69901-5--> wie folgt definiert:
+Vorgehensmodelle gehören in der Informatik zum Bereich des Projektmanagement. Projektmanagement wird laut \cite{din699015} wie folgt definiert:
 
 > Gesamtheit von Führungsaufgaben, -organisation, -techniken und -mitteln für die Initiierung, Definition, Planung, Steuerung und den Abschluss von Projekten
 
@@ -47,7 +47,7 @@ Im Projektmanagement geht es um Menschen. Da diese innerhalb eines Projekt unter
 
 # Phasen in der Software Entwicklung
 
-Um in der Software Entwicklung von einem Auftrag zu einer fertigen und lauffähigen Software zu kommen, die am Ende beim Kunden in Betrieb genommen werden kann, sind verschiedene Aktivitäten notwendig. Als Laie könnte man meinen, Software Entwicklung sei *Programmieren*, also das schreiben von Code. Das ist nicht ganz falsch, das *Programmieren* ist tatsächlich ein Teil der Software Entwicklung. Allerdings gehören hier noch mehr Tätigkeiten dazu. Die erforderlichen Tätigkeiten der Software Entwicklung können in folgende Phasen unterteilt werden: <!--ZITAT Eckhart Hanser -->
+Um in der Software Entwicklung von einem Auftrag zu einer fertigen und lauffähigen Software zu kommen, die am Ende beim Kunden in Betrieb genommen werden kann, sind verschiedene Aktivitäten notwendig. Als Laie könnte man meinen, Software Entwicklung sei *Programmieren*, also das schreiben von Code. Das ist nicht ganz falsch, das *Programmieren* ist tatsächlich ein Teil der Software Entwicklung. Allerdings gehören hier noch mehr Tätigkeiten dazu. Die erforderlichen Tätigkeiten der Software Entwicklung können in folgende Phasen unterteilt werden: \cite{hanser}
 
 - Planung des Prozesses
 - Spezifikation der Anforderungen
@@ -110,13 +110,13 @@ Dies liegt vor allem an der Herausforderung des Auftraggebers, die Anforderungen
 - Der Auftraggeber ist sich seiner eigenen Problemstellung nicht vollständig bewusst
 - Die Anforderungen ändern sich
 
-Die Unschärfe, die diese Probleme der Anforderungsanalyse mit sich bringen, kann man als "Moving Target" bezeichnen. (siehe dazu <!--TODO Referenz: Die Vision des Endprodukts als "Moving Target" -->)
+Die Unschärfe, die diese Probleme der Anforderungsanalyse mit sich bringen, kann man als "Moving Target" bezeichnen. (siehe dazu Die Vision des Endprodukts als "Moving Target" nach \cite{hanser})
 
-![Die Vision des Endprodukts als "Moving Target"](http://download.heart-co.de/Bildschirmfoto%202015-06-27%20um%2018.48.22.png)
+![Die Vision des Endprodukts als "Moving Target" nach \cite{hanser}](http://download.heart-co.de/Bildschirmfoto%202015-06-27%20um%2018.48.22.png)
 
 <!--TODO selber Zeichnen. Zitieren aus Hanser-->
 
-[Barry Boehm \cite{boehm}(zitiert nach \cite{hanser}) schlug in den 1980er Jahren das Spiralmodell vor, dass einen iterativ-inkrementellen Ansatz verfolgte. Inkrementell bedeutet, anstatt das vollständige Produkt der Software auf ein mal zu entwickeln, was meist mehrere Jahre in Anspruch nimmt, wird die Software in kleineren Paketen entwickelt. Die einzelnen Pakete bauen aufeinander auf und erweitern die Software Stück für Stück um die gewünschten Funktionen. Iterativ bedeutet, dass für die Entwicklung jedes Inkrements (Pakets) die einzelnen Phasen der Software Entwicklung durchlaufen werden.
+Barry Boehm \cite{boehm}(zitiert nach \cite{hanser}) schlug in den 1980er Jahren das Spiralmodell vor, dass einen iterativ-inkrementellen Ansatz verfolgte. Inkrementell bedeutet, anstatt das vollständige Produkt der Software auf ein mal zu entwickeln, was meist mehrere Jahre in Anspruch nimmt, wird die Software in kleineren Paketen entwickelt. Die einzelnen Pakete bauen aufeinander auf und erweitern die Software Stück für Stück um die gewünschten Funktionen. Iterativ bedeutet, dass für die Entwicklung jedes Inkrements (Pakets) die einzelnen Phasen der Software Entwicklung durchlaufen werden.
 
 Mithilfe des Spiralmodells kann auf die Problemstellung des "Moving Targets" besser reagiert werden: Die Software wird schrittweise entwickelt und nach jedem Schritt wieder mit den Wünschen und Anforderungen des Auftraggebers oder des Anwenders abgeglichen. So kann sichergestellt werden, dass die Entwicklung der Software den Erwartungen des Auftraggebers entspricht. Bei ändernden Wünschen kann schnell darauf reagiert werden, da diese bereits in die nächste Iteration eingebaut werden können. 
 
