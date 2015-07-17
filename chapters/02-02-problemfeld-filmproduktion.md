@@ -10,9 +10,6 @@ Im Folgenden sollen die typischen Gewerke vorgestellt werden, die in der Produkt
 
 <!--
 
-- "Filmarbeit ist Teamarbeit"
-- Viel Spezialisierung, viele Bereiche. Nicht nur am Dreh, sondern auch davor / danach
-- Viel Kommunikation und Zusammenarbeit nötig
 - Gängige Praxis für die Produktion von non-fiktionalem Film fürs Fernsehen: 
 	- 3 Mann Team (Kamera, Ton, Autor)
 	- 2 Autoren (kümmern sich um alles)
@@ -20,25 +17,20 @@ Im Folgenden sollen die typischen Gewerke vorgestellt werden, die in der Produkt
 - Produktion und Inhalt meistens getrennt: Kamerateams werden "hinzugebucht", sind an der Entwicklung des Stoffs nicht beteiligt.
 - Nachteil: Know-How der Gerwerke kann nicht in die Entwicklung und in die Planung einbezogen werden.
 
+-->
+
 
 ## Autor
 
-- Aufgabenbereiche: Recherche, Regie, Aufnahmeleitung
-- ist Verantwortlich für den Inhalt
-
-## Regie
-
-- Normalerweise übernimmt der Autor die Regie. Wenn es aber Dinge gibt, die die Kompetent des Autor übersteigen, wird ein zusätzlicher Regisseur benutzt
-- Bekommt vom Autor in Form von Treatment oder Drehbuch die nötigen Inhalte
-- Bespricht alle technischen Details mit Kamera und Ton
-- Verantwortlich für die Inszenierung
+Der Autor hat die führende Rolle im Filmprojekt. Er ist verantwortlich für den Inhalt des Films und für das Filmprojekt als Ganzes. Er übernimmt häufig die Aufgaben der Recherche und der Regie. Das bedeutet, dass er alle nötigen technischen Details mit den anderen Gewerken bespricht. Dabei gibt der Autor an, was in dem Film kommuniziert werden soll. Wie das dann technisch genau umgesetzt wird, darum kümmert sich jedes Gewerk bestenfalls selbstständig.
 
 ## Kameramann
 
-- Verantwortung: Gestaltung der Bilder, Auswahl der Technik
-- Kommuniziert mit dem Autor optimalerweise über die gewünschte Wirkung des Bildes, um dementsprechend die Bildgestaltung und die technischen Gegebenheiten anzupassen.
+Der Kameramann ist während der Produktion dafür verantwortlich, die Bilder so zu gestalten, dass sie den intendierten Inhalt des Autors bestmöglich kommunizieren. Er entscheidet darüber, welche Technik beim Dreh eingesetzt wird, also welche Kamera, welches Objektiv und wie die Kamera geführt werden soll. Außerdem bestimmt er, wie die einzelnen Parameter der Kamera eingestellt werden. Zusammen mit einer guten Positionierung der Kamera erreicht der Kameramann so eine Bildgestaltung, die die gewünschte Wirkung vom Autor unterstützt. 
 
-## Ton
+## Tonmann
+
+Der Tonmann ist verantwortlich für einen sendefähigen Ton. Er entscheidet, welche Mikrofone wie eingesetzt werden. Dies bespri
 
 - Verantwortung: Sendefähiger Ton. Entscheidung über eingesetzte Technik auf Basis der Erwartung des Autors. Management des Mischens und der Aufnahme während des Drehs.
 
