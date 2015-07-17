@@ -80,21 +80,18 @@ title: Problemfeld Filmproduktion
 - Autor ist zuständig für die Geschichte, zur Not übernimmt er die Führungsrolle
 - Empfehlenswert für den Autor: Absicht klarstellen. Gewerke selbstständig für diese Absicht arbeiten lassen.
 - Feedback ist wichtig: Cutter und Redakteur spielen hier eine wichtige Rolle als frühe Feedback Instrumente
-- Viele Spzialisierungen und Teilfachgebiete. Deswegen: Kommunikation ist Entscheidend für Projekterfolg!
+- Viele Spezialisierungen und Teilfachgebiete. Deswegen: Kommunikation ist Entscheidend für Projekterfolg!
 
 # Phasen in der Filmproduktion
 
-Während in der Welt der Informatik ausformulierte und formalisierte Vorgangsmodelle gerade für größere Unternehmen typisch sind, gibt es in der Welt der Filmproduktion diese starke Standardisierung des Vorgehens nicht. Es gibt keine DIN oder ISO Normen, die festlegen, welche festlegen, aus welchen Phasen ein Filmprojekt zu bestehen hat, oder wie es abzulaufen hat. Nichts desto Trotz lässt sich eine Filmproduktion doch grob in Phasen einteilen. Diese unterscheiden sich zwar
+Während in der Welt der Informatik ausformulierte und formalisierte Vorgangsmodelle gerade für größere Unternehmen typisch sind, gibt es in der Welt der Filmproduktion diese starke Standardisierung des Vorgehens nicht. Es gibt keine DIN oder ISO Normen, die festlegen, aus welchen Phasen ein Filmprojekt zu bestehen hat, oder wie es abzulaufen hat. Nichts desto Trotz lässt sich eine Filmproduktion doch grob in Phasen einteilen. Diese unterscheiden sich je nach Art des Filmprojekts in ihrer Ausprägung: Eine Fernsehfilmproduktion hat insgesamt weniger Ressourcen als ein Kinofilm und die Art der Produktion wird sich in einem Dokumentarfilm sicher von einem Werbefilm unterscheiden.
 
-- Filmfördergesetz teilt in folgende Phasen ein 
+\cite{jacobs2015prozess} schreibt, dass das Filmfördergesetz die Filmproduktion in folgende Phasen einteilt:
 
-\cite{jacobs2015prozess}
-
-- **Filmfördergesetz** unterteilt Filmproduktion in verschiedene Phasen:
-	- Stoffentwicklung: Erste Idee -> erste Drehbuchfassung
-	- Projektentwicklung: Erste Drehbuchfassung -> erster Drehtag
-	- Produktion: erster Drehtag -> Herstellung Master-Kopie (Einteilung Pre- / Post)
-	- Distribution: "Jegliche Form der Auswertung"
+- Stoffentwicklung: Erste Idee -> erste Drehbuchfassung
+- Projektentwicklung: Erste Drehbuchfassung -> erster Drehtag
+- Produktion: erster Drehtag -> Herstellung Master-Kopie (Einteilung Pre- / Post)
+- Distribution: "Jegliche Form der Auswertung"
 
 \cite{wahbe2012idee}
 
