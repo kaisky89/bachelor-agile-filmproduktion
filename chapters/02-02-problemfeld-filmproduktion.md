@@ -86,12 +86,14 @@ title: Problemfeld Filmproduktion
 
 Während in der Welt der Informatik ausformulierte und formalisierte Vorgangsmodelle gerade für größere Unternehmen typisch sind, gibt es in der Welt der Filmproduktion diese starke Standardisierung des Vorgehens nicht. Es gibt keine DIN oder ISO Normen, die festlegen, aus welchen Phasen ein Filmprojekt zu bestehen hat, oder wie es abzulaufen hat. Nichts desto Trotz lässt sich eine Filmproduktion doch grob in Phasen einteilen. Diese unterscheiden sich je nach Art des Filmprojekts in ihrer Ausprägung: Eine Fernsehfilmproduktion hat insgesamt weniger Ressourcen als ein Kinofilm und die Art der Produktion wird sich in einem Dokumentarfilm sicher von einem Werbefilm unterscheiden.
 
-\cite{jacobs2015prozess} schreibt, dass das Filmfördergesetz die Filmproduktion in folgende Phasen einteilt:
+\cite{jacobs2015prozess} schreibt, dass das *Filmfördergesetz* \cite{ffg2004gesetz} die Filmproduktion in folgende Phasen einteilt:
 
-- Stoffentwicklung: Erste Idee -> erste Drehbuchfassung
-- Projektentwicklung: Erste Drehbuchfassung -> erster Drehtag
-- Produktion: erster Drehtag -> Herstellung Master-Kopie (Einteilung Pre- / Post)
-- Distribution: "Jegliche Form der Auswertung"
+- **Stoffentwicklung**: Dies umfasst alle Aktivitäten vom Verfassen der ersten Filmidee bis zur ersten Drehbuchfassung
+- **Projektentwicklung**: Sobald die erste Drehbuchfassung vorhanden ist, kann die filmische Produktion geplant werden. Diese Phase geht bis zum ersten Drehtag.
+- **Produktion**: Beginnend mit dem ersten Drehtag, enthält diese Phase alle Aktivitäten zur Erstellung des filmischen Materials. Also vorbereitende Arbeiten für die Drehorte, Dreharbeiten bis hin zur Herstellung der "Master-Kopie". \cite{jacobs2015prozess} schreibt, dass hier eine weitere Einteilung in Pre Produktion, Produktion und Post Produktion möglich sei.
+- **Distribution**: Die Inhalte der "Master-Kopie" werden an das Zielpublikum veröffentlicht. Dies kann auf unterschiedlichen Wegen passieren: Fernsehausstrahlung, DVD Produktion, Kinoaufführung und Internet Veröffentlichung sind nur einige davon.
+
+
 
 \cite{wahbe2012idee}
 
