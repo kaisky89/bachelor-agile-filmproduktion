@@ -90,7 +90,7 @@ title: Problemfeld Filmproduktion
 
 
 
-\re
+\cite{jacobs2015prozess}
 
 - **Filmfördergesetz** unterteilt Filmproduktion in verschiedene Phasen:
 	- Stoffentwicklung: Erste Idee -> erste Drehbuchfassung
