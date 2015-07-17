@@ -90,7 +90,7 @@ title: Problemfeld Filmproduktion
 
 
 
-<!-- Journalismus fürs Fernsehen. Kapitel 5: Der Prozess der Filmherstellung -->
+\re
 
 - **Filmfördergesetz** unterteilt Filmproduktion in verschiedene Phasen:
 	- Stoffentwicklung: Erste Idee -> erste Drehbuchfassung
