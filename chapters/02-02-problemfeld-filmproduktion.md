@@ -93,15 +93,15 @@ Während in der Welt der Informatik ausformulierte und formalisierte Vorgangsmod
 - **Produktion**: Beginnend mit dem ersten Drehtag, enthält diese Phase alle Aktivitäten zur Erstellung des filmischen Materials. Also vorbereitende Arbeiten für die Drehorte, Dreharbeiten bis hin zur Herstellung der "Master-Kopie". \cite{jacobs2015prozess} schreibt, dass hier eine weitere Einteilung in Pre Produktion, Produktion und Post Produktion möglich sei.
 - **Distribution**: Die Inhalte der "Master-Kopie" werden an das Zielpublikum veröffentlicht. Dies kann auf unterschiedlichen Wegen passieren: Fernsehausstrahlung, DVD Produktion, Kinoaufführung und Internet Veröffentlichung sind nur einige davon.
 
-
-
-\cite{wahbe2012idee}
+\cite{wahbe2012idee} beschreibt die Entstehung einer Kochshow als Fernsehserie. Dabei werden die Phasen wie in Abbildung \ref{Entwicklungsprozess der Kocharena} aufgezeigt. Hier kommt zu der Ausstrahlung noch die "Kontinuierliche Weiterentwicklung" hinzu. Dies ist im Zusammenhang mit der Zielstellung dieser Arbeit interessant, da hier iterative Ansätze herauszuhören sind. 
 
 ![Entwicklungsprozess der Kocharena](http://download.heart-co.de/Bildschirmfoto%202015-06-24%20um%2019.20.54.png)
 
-\cite{finney2008learning}
+\cite{finney2008learning} (zitiert nach \cite{cook2010learning}) beschreibt die Produktion von Independent Filmen. Er benutzt dabei die Einteilung in die folgenden 5 Phasen:
 
-## Development
+## Entwicklung
+
+Grundlage für ein Film ist immer eine Idee oder ein Buch. Dies muss in Form eines Drehbuchs aufgeschrieben werden. Außerdem müssen für die Idee oder das Buch die entsprechenden Rechte für die Produktion eines Films eingeholt werden. Zusätzlich wird in dieser Phase das grundlegende Team organisiert: Regisseur, Kameramann und die Schauspi
 
 Idee/Buch -> Aufschreiben (Drehbuch) -> Rechte bekommen -> Team organisieren (Regie, Kamera, Schauspieler, ...) -> Geld besorgen
 
