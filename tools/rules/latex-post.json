@@ -10,5 +10,9 @@
   {
     "regex": "#\\\\caption\\{([^\\}]+)\\}#",
     "replace": "\\caption{$1}\\label{$1}"
+  },
+  {
+    "regex": "#``([^'']*)''#",
+    "replace": "\\enquote{$1}"
   }
 ]
