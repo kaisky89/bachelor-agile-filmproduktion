@@ -4,7 +4,7 @@ title: Problemfeld Filmproduktion
 
 # Gewerke in der Filmproduktion
 
-<!-- Journalismus fürs Fernsehen. Kapitel 5: Der Prozess der Filmherstellung -->
+\cite{jacobs2015prozess}
 
 - "Filmarbeit ist Teamarbeit"
 - Viel Spezialisierung, viele Bereiche. Nicht nur am Dreh, sondern auch davor / danach
@@ -84,11 +84,9 @@ title: Problemfeld Filmproduktion
 
 # Phasen in der Filmproduktion
 
+Während in der Welt der Informatik ausformulierte und formalisierte Vorgangsmodelle gerade für größere Unternehmen typisch sind, gibt es in der Welt der Filmproduktion diese starke Standardisierung des Vorgehens nicht. Es gibt keine DIN oder ISO Normen, die festlegen, welche festlegen, aus welchen Phasen ein Filmprojekt zu bestehen hat, oder wie es abzulaufen hat. Nichts desto Trotz lässt sich eine Filmproduktion doch grob in Phasen einteilen. Diese unterscheiden sich zwar
+
 - Filmfördergesetz teilt in folgende Phasen ein 
-
-
-
-
 
 \cite{jacobs2015prozess}
 
@@ -98,11 +96,11 @@ title: Problemfeld Filmproduktion
 	- Produktion: erster Drehtag -> Herstellung Master-Kopie (Einteilung Pre- / Post)
 	- Distribution: "Jegliche Form der Auswertung"
 
-<!-- Management kreativitätsintensiver Prozesse - Kapitel 11: Von der Idee zur Fernsehshow am Beispiel der Kocharena -->
+\cite{wahbe2012idee}
 
 ![Entwicklungsprozess der Kocharena](http://download.heart-co.de/Bildschirmfoto%202015-06-24%20um%2019.20.54.png)
 
-<!-- Learning from sharks (Lessons on Managing Projects in the Independent Film Industry - Angus Finney) -->
+\cite{finney2008learning}
 
 ## Development
 
@@ -139,7 +137,7 @@ Idee/Buch -> Aufschreiben (Drehbuch) -> Rechte bekommen -> Team organisieren (Re
 - Ancillary markets
 
 
-<!-- Handbuch Medienmanagement: Produktionssteuerung – Grundlagen der Medienproduktion -->
+\cite{klimsa2006produktionssteuerung}
 
 ## Film
 
