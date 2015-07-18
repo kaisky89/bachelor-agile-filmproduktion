@@ -53,7 +53,7 @@ In der Zusammenarbeit als Team spielt Feedback auch eine wichtige Rolle: Der Cut
 Insgesamt lässt sich sagen, dass in einem Filmprojekt Team viele Spezialisierungen und Teilfachgebiete vorhanden sind. Daher spielt Kommunikation eine wesentliche Rolle für den Projekterfolg.
 
 
-# Phasen in der Filmproduktion
+# Phasen in der Filmproduktion {#02-02-phasen}
 
 Während in der Welt der Informatik ausformulierte und formalisierte Vorgangsmodelle gerade für größere Unternehmen typisch sind, gibt es in der Welt der Filmproduktion diese starke Standardisierung des Vorgehens nicht. Es gibt keine DIN oder ISO Normen, die festlegen, aus welchen Phasen ein Filmprojekt zu bestehen hat, oder wie es abzulaufen hat. Nichts desto Trotz lässt sich eine Filmproduktion doch grob in Phasen einteilen. Diese unterscheiden sich je nach Art des Filmprojekts in ihrer Ausprägung: Eine Fernsehfilmproduktion hat insgesamt weniger Ressourcen als ein Kinofilm und die Art der Produktion wird sich in einem Dokumentarfilm sicher von einem Werbefilm unterscheiden.
 
@@ -109,6 +109,8 @@ Es werden erste Vorschau Versionen erstellt und Strategien für das Marketing er
 In dieser Phase wird dafür gesorgt, dass der Film an das gewünschte Zielpublikum gelangt. Eine gute Möglichkeit für Independent Filme im Kinoformat sind Film Festivals, die die Möglichkeit bieten, das interessierte Film Publikum zu erreichen. Außerdem kann auf den üblichen Wegen wie Internet, Trailer, Plakate und Anzeigen Werbung für den Film gemacht werden. Da sich diese Arbeit auf den Imagefilm konzentriert und hierbei der Abnehmer des Films bereits klar ist, soll der Aspekt der Distribution des Films hier nicht weiter betrachtet werden.
 
 # Vorgehen in der Produktion eines Imagefilms
+
+In dieser Arbeit soll ein Vorgehensmodell speziell für den Filmtyp *Imagefilm* entwickelt werden. Die in Abschnitt \ref{02-02-phasen} beschriebenen Phasen beziehen sich nicht auf die Erstellung eines Imagefilms, sondern auf die Produktion eines vollständigen Kinofilm in der Independent Filmwelt. Da sich beispielsweise die Länge eines Kinofilms deutlich von der eines Imagefilms unterscheidet,^[Die Länge eines Kinofilms beträgt im Durchschnitt ca. 90 - 120 Minuten. Ein Imagefilm hat eine maximale Länge von 15 Minuten.] muss hier deutlich gemacht werden, dass die Produktion eines Imagefilms andere Außmaße annimmt. Das Problem der Beschreibung der Produktion eines Imagefilms ist nur, dass es hierfür keine Standards gibt. Es ist nirgendwo festgelegt, wie ein Imagefilm produziert werden soll, und dem Autor dieser Arbeit fiel es schwer, in der Literatur explizite Beschreibungen für die Produktion von dieser Art zu finden. In der Realität hat jedes Unternehmen, welches anbietet, Imagefilme zu produzieren, wahrscheinlich sein eigenes Vorgehen entwickelt. Dieses Vorgehen hält sich aber häufig an das bekannte  \ref{02-02-phasen} trotzdem die 
 
 
 - Kinofilm Produktion / Fernsehproduktion ist nicht gleich Imagefilm Produktion
