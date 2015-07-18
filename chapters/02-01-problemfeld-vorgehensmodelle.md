@@ -395,24 +395,23 @@ Der japanische Automobilhersteller Toyota entwickelte Produktions-Kanban, um ein
 
 ### Beispiel Burger Produktion
 
-Ein einfaches Beispiel, um die Technik der Signalkarte im Produktions-Kanban zu veranschaulichen, ist die Burger Produktion in einem Fast-Food Restaurant \cite{video2brainkanban}. 
+Ein einfaches Beispiel, um die Technik der Signalkarte im Produktions-Kanban zu veranschaulichen, ist die Burger Produktion in einem Fast-Food Restaurant, wie sie auch in \cite{video2brainkanban} beschrieben wird. 
 
-Dazu wird folgende Situation angenommen, wie sie in <!--TODO Referenz auf Abbildung--> abgebildet ist.
+Dazu wird folgende Situation angenommen, wie sie in Abbildung \ref{Beispiel Burgerproduktion Teil 1} (Grafik nach \cite{video2brainkanban}) abgebildet ist.
 
 ![Beispiel Burgerproduktion Teil 1](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.50.52.png)
 
 <!--TODO Grafik selber malen-->
-<!--TODO Grafik zitieren aus video2brain Kanban-->
 
 Es existieren die Abteilungen *Küche* und *Verkauf*. In diesem vereinfachten Beispiel wird davon ausgegangen, dass das Restaurant nur eine Sorte von Burgern verkauft. Die *Küche* ist dafür zuständig, Burger zu produzieren. Der Verkauf nimmt Burger von der Küche und verkauft diese an die Restaurant Gäste. Die Burger werden von der Küche an den Verkauf über eine Rutsche transportiert, die auch gleichzeitig als Zwischenlager der Burger zwischen den beiden Stationen Küche und Verkauf dient. Auf der Rutsche liegen fünf Burger und eine Signalkarte (grüne Markierung). Die Signalkarte teilt die Warteschlange der Burger so ein, dass drei Burger vor und zwei Burger nach der Signalkarte liegen.
 
 Ziel des Kanbans Systems in diesem Beispiel ist es, den Zwischenlagerbestand (Anzahl der Burger auf der Rutsche) in einer optimalen Größe zu behalten. Wenn der Lagerbestand zu groß ist, bekommen die Gäste kalte Burger, weil diese zu lange auf der Rutsche liegen mussten. Ist der Lagerbestand zu klein, müssen die Gäste auf Burger warten. Die Technik der Signalkarte will hier also den optimalen Zeitpunkt für die Küche signalisieren, Burger nach zu produzieren.
 
-In dem Beispiel werden nun die ersten drei Burger verkauft. Die anderen Burger auf der Rutsche rutschen nach, mitsamt der Signalkarte. Der Verkauf hat nun die Signalkarte bei sich stehen und signalisiert dies der Küche (siehe <!--TODO Referenz auf Abbildung-->).
+In dem Beispiel werden nun die ersten drei Burger verkauft. Die anderen Burger auf der Rutsche rutschen nach, mitsamt der Signalkarte. Der Verkauf hat nun die Signalkarte bei sich stehen und signalisiert dies der Küche (siehe Abbildung \ref{Beispiel Burgerproduktion Teil 2}).
 
 ![Beispiel Burgerproduktion Teil 2](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.51.28.png)
 
-Die Küche produziert nun drei neue Burger und stellt diese mit der Signalkarte so auf die Rutsche, dass wieder zwei Burger hinter der Signalkarte stehen. Während die Küche die neuen Burger produziert, kann der Verkauf noch die letzten beiden Burger verkaufen (siehe <!--TODO Referenz auf Abbildung-->).
+Die Küche produziert nun drei neue Burger und stellt diese mit der Signalkarte so auf die Rutsche, dass wieder zwei Burger hinter der Signalkarte stehen. Während die Küche die neuen Burger produziert, kann der Verkauf noch die letzten beiden Burger verkaufen (siehe Abbildung \ref{Beispiel Burgerproduktion Teil 3}).
 
 ![Beispiel Burgerproduktion Teil 3](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.52.05.png)
 
@@ -423,14 +422,14 @@ Hier kann man sehen, dass hinter der Technik der Signalkarte im Produktions-Kanb
 
 ### Transfer in die Software Welt
 
-- Software ist keine Fließbandproduktion
-- Hohes Maß an Kreativität, Ungewissheit und Variabilität
-- Aber: Allgemeine Prinzipien lassen sich übernehmen (Pull, Flow)
-- Software-Kanban != Produktions-Kanban
+Das historische Produktions-Kanban lässt sich nicht eins zu eins in der Software Welt übernehmen, da es in der Software Entwicklung nicht um Fließbandproduktion geht, in der immer wieder das gleiche geschieht. Software Entwicklung erfordert eine hohes Maß an Kreativität, und ist mit vielen Ungewissheiten und Variabilität verbunden. Allerdings lassen sich die Werte und Prinzipien sehr gut übernehmen. 
+
+Somit entstand das Software Kanban, auf das im Folgenden näher eingegangen wird. Wichtig ist zu erwähnen, dass Software-Kanban und Produktions-Kanban nicht dasselbe ist. Sie basieren allerdings auf den gleichen Werten und den gleichen Prinzipien.
+
 
 ## Werte von Kanban
 
-David J. Anderson:
+David J. Anderson: \cite{anderson} nach \cite{epping}
 
 > Value first, then flow, then waste reduction/elimination.
 
@@ -438,11 +437,7 @@ David J. Anderson:
 - Flow
 - Waste
 
-### Messgrößen
 
-- WIP
-- Cycle Time
-- Average Completion Rate
 
 ### Little's Law
 
