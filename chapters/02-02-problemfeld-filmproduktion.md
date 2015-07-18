@@ -115,13 +115,6 @@ In dieser Phase wird dafür gesorgt, dass der Film an das gewünschte Zielpublik
 - Imagefilm Produktion: nicht viel Material, da kein Standard vorhanden, jedes Unternehmen (Agentur, etc.) hat eigene Vorgehensweise. Keine Kapazität für gezielte Interviews. 
 - Aber: Eigene Erfahrungen des Autors im beruflichen Kontext und Praxisprojekt
 
-## Film
-
-Produktionseinteilung in *Pre Produktion*, *Produktion* und *Post Production*
-
-![Produktionsphasen des Films](http://download.heart-co.de/Bildschirmfoto%202015-06-24%20um%2016.50.19.png)
-
-
 
 ## Online Video Portale
 
