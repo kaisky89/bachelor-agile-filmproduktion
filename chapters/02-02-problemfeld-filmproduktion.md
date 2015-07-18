@@ -22,7 +22,7 @@ Im Folgenden sollen die typischen Gewerke vorgestellt werden, die in der Produkt
 
 ## Autor
 
-Der Autor ^[\cite{jacobs2015prozess} nennt ihn "Autor", da es sich bei ihm um hauptsächlich journalistische Filme handelt. In anderen Branchen sind Bezeichnungen wie "Regisseur" denkbar.] hat die führende Rolle im Filmprojekt. Er ist verantwortlich für den Inhalt des Films und für das Filmprojekt als Ganzes. Er übernimmt häufig die Aufgaben der Recherche und der Regie. Das bedeutet, dass er alle nötigen technischen Details mit den anderen Gewerken bespricht. Dabei gibt der Autor an, was in dem Film kommuniziert werden soll. Wie das dann technisch genau umgesetzt wird, darum kümmert sich jedes Gewerk bestenfalls selbstständig.
+Der Autor^[\cite{jacobs2015prozess} nennt ihn "Autor", da es sich bei ihm um hauptsächlich journalistische Filme handelt. In anderen Branchen sind Bezeichnungen wie "Regisseur" denkbar.] hat die führende Rolle im Filmprojekt. Er ist verantwortlich für den Inhalt des Films und für das Filmprojekt als Ganzes. Er übernimmt häufig die Aufgaben der Recherche und der Regie. Das bedeutet, dass er alle nötigen technischen Details mit den anderen Gewerken bespricht. Dabei gibt der Autor an, was in dem Film kommuniziert werden soll. Wie das dann technisch genau umgesetzt wird, darum kümmert sich jedes Gewerk bestenfalls selbstständig.
 
 ## Kameramann
 
@@ -38,39 +38,20 @@ Außerdem sorgt der Tonmann während des Drehs für die Auspegelung des Tons, so
 
 Der Cutter macht den Videoschnitt, nachdem die Aufnahme des Materials  abgeschlossen ist. Er sichtet alles Material, schneidet und montiert das Material dann so, dass eine in sich schlüssige Geschichte entsteht. Wenn aus dem Material als solches schon ein logischer Ablauf  oder eine Handlung ersichtlich ist, kann er diese Handlung ohne viel Anweisung selbst montieren.
 
-Der Cutter ist meistens bei dem Dreh nicht dabei gewesen. Dies hat sowohl Vor- als auch Nachteile: Vorteil ist, dass er mehr "Distanz" zu den Bildern hat. Er kann objektiver betrachten, was für eine Wirkung das Bild auf den Betrachter hat, weil er nur dieses Bild sieht und nicht weiß, was in dieser Situation sonst noch alles passiert ist. Der Cutter ist also weiter entfernt von dem Erlebnis der Aufnahme und somit "näher" am Seheindruck des letztendlichen Betrachter. Allerdings weiß durch das bloße Sichten des Materials nicht, welche Stellen in der Geschichte besonderen Stellenwert haben, wo vielleicht emotional viel kommuniziert werden soll. Dies muss vom Autor klar kommuniziert werden, damit die gewünschte Wirkung 
-
-- Meist großer Vorteil: war bei dem Dreh nicht dabei. Mehr "Distanz" zu den Bildern (somit "näher" am Seheindruck des letztendlichen Zuschauers)
-- Kann selbstständig in sich logische Abläufe und Handlungen schneiden.
-- Durch Kommunikation von Erwartungen, wichtigen Emotionen und Wendepunkten kann der Cutter mit entsprechenden Mitteln diese unterstützen
+Der Cutter ist meistens bei dem Dreh nicht dabei gewesen. Dies hat sowohl Vor- als auch Nachteile: Vorteil ist, dass er mehr "Distanz" zu den Bildern hat. Er kann objektiver betrachten, was für eine Wirkung das Bild auf den Betrachter hat, weil er nur dieses Bild sieht und nicht weiß, was in dieser Situation sonst noch alles passiert ist. Der Cutter ist also weiter entfernt von dem Erlebnis der Aufnahme und somit "näher" am Seheindruck des letztendlichen Betrachter. Allerdings weiß durch das bloße Sichten des Materials nicht, welche Stellen in der Geschichte besonderen Stellenwert haben, wo emotional viel kommuniziert werden soll. Dies muss vom Autor klar kommuniziert werden.
 
 ## Tonmeister / Mischung
 
-- finales Mischen des Tons. Tonstudio. Musik, Geräusche auf richtigen Pegel bringen
-- IT Fassung. (Fassung ohne Sprache, für internationale Zwecke)
+Ähnlich wie der Cutter das Material vom Kameramann bearbeitet, bearbeitet der Tonmeister das Material des Tonmanns. Hierbei sorgt er dafür, dass Musik, Geräusche und Sprache auf den richtigen Pegel gebracht werden. Er sorgt also dafür, dass die Sprache immer verständlich ist, die Musik nicht zu sehr im Vordergrund ist, und Geräusche im richtigen Moment wichtige Ereignisse unterstreichen. Auch hier ist wieder Absprache mit dem Autor wichtig, denn gerade der Ton hat einen wesentlichen Einfluss auf die Gefühlswelt des Betrachters und somit kann der richtige Mix und der richtige Einsatz von Musik und Geräuschen die gewünschten Emotionen unterstreichen.
 
-## Produktionsleitung
+## Zusammenarbeit als Team
 
-- Verantwortung: technische Kapazitäten, Finanzen, organisatorische Aspekte
-- Budget!
-- Oft die Rolle des "Arbeitgebers"
-- Wägt ab, wieviel wo rein investiert wird
+Der Autor hat die Verantwortung des Filmprojekts, er entscheidet, was inhaltlich im Film passiert, und wie welche Botschaft übermittelt werden soll. Allerdings kennt sich der Autor in den Gewerken nicht so gut aus und kann also die detaillierteren Entscheidungen für z. B. Auswahl der Technik nicht so gut treffen, wie die Spezialisten der einzelnen Gewerke. Es entsteht hier also die Notwendigkeit, dass der Autor stark mit seinem Team zusammen arbeitet, um das Know-How seiner Teammitglieder bestmöglich zu nutzen. Schließlich sind diese in ihrem Fachgebiet Spezialisten und haben meist viel Erfahrung. \cite{jacobs2015prozess} schreibt, dass es empfehlenswert für den Autor ist, nur seine Absicht klarzustellen. Die Gewerke werden dann selbstständig für diese Absicht arbeiten.
 
-## Aufnahmeleitung
+In der Zusammenarbeit als Team spielt Feedback auch eine wichtige Rolle: Der Cutter z. B. kann früh Feedback geben, ob das Material gut ist und wie es wirkt, weil er selbst eine gewisse "Distanz" zu den Bildern hat. Dieses frühe Feedback ist sehr hilfreich um möglichst früh weitere Entscheidungen treffen zu können und um gegebenenfalls geplante Szenen oder Abläufe anzupassen.
 
-- Für alles Organisatorische während der Aufnahme zuständig: Schlafen, essen, Aufnahmetechnik.
-- "verlängerter Arm" der Produktionsleitung
+Insgesamt lässt sich sahen, dass in einem Filmprojekt Team viele Spezialisierungen und Teilfachgebiete vorhanden sind. Daher spielt Kommunikation eine wesentliche Rolle für den Projekterfolg.
 
-## Redaktion
-
-- Redakteur ist für das inhaltliche Gesamtpaket des Senders verantwortlich.
-- Sucht Themen, liest Themenvorschläge, vergibt Produktionsaufträge, sucht Autoren für passende Themen
-- Kritisches Hinterfragen der Produktion in allen Schritten vor allem gegen Ende.
-
-## Kommunikation im Team
-
-- Autor ist zuständig für die Geschichte, zur Not übernimmt er die Führungsrolle
-- Empfehlenswert für den Autor: Absicht klarstellen. Gewerke selbstständig für diese Absicht arbeiten lassen.
 - Feedback ist wichtig: Cutter und Redakteur spielen hier eine wichtige Rolle als frühe Feedback Instrumente
 - Viele Spezialisierungen und Teilfachgebiete. Deswegen: Kommunikation ist Entscheidend für Projekterfolg!
 
