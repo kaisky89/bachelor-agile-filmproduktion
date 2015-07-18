@@ -22,7 +22,7 @@ Im Folgenden sollen die typischen Gewerke vorgestellt werden, die in der Produkt
 
 ## Autor
 
-Der Autor hat die führende Rolle im Filmprojekt. Er ist verantwortlich für den Inhalt des Films und für das Filmprojekt als Ganzes. Er übernimmt häufig die Aufgaben der Recherche und der Regie. Das bedeutet, dass er alle nötigen technischen Details mit den anderen Gewerken bespricht. Dabei gibt der Autor an, was in dem Film kommuniziert werden soll. Wie das dann technisch genau umgesetzt wird, darum kümmert sich jedes Gewerk bestenfalls selbstständig.
+Der Autor ^[\cite{jacobs2015prozess} nennt ihn "Autor", da es sich bei ihm um hauptsächlich journalistische Filme handelt. In anderen Branchen sind Bezeichnungen wie "Regisseur" denkbar.] hat die führende Rolle im Filmprojekt. Er ist verantwortlich für den Inhalt des Films und für das Filmprojekt als Ganzes. Er übernimmt häufig die Aufgaben der Recherche und der Regie. Das bedeutet, dass er alle nötigen technischen Details mit den anderen Gewerken bespricht. Dabei gibt der Autor an, was in dem Film kommuniziert werden soll. Wie das dann technisch genau umgesetzt wird, darum kümmert sich jedes Gewerk bestenfalls selbstständig.
 
 ## Kameramann
 
@@ -30,23 +30,19 @@ Der Kameramann ist während der Produktion dafür verantwortlich, die Bilder so 
 
 ## Tonmann
 
-Der Tonmann ist verantwortlich für einen sendefähigen Ton. Er entscheidet, welche Mikrofone wie eingesetzt werden. Dies bespri
+Der Tonmann ist verantwortlich für einen sendefähigen Ton. Er entscheidet, welche Mikrofone wie eingesetzt werden. Dies leitet er aus den Anforderungen ab, die der Autor ihm mitteilt. Aufgrund der Anforderungen weiß der Tonmann, welche Atmosphäre im Ton kommuniziert werden soll, und kann dann aufgrund seines Wissens über die Wirkung des Tons und seinen technischen Erfahrungen die dementsprechend beste Ausstattung wählen und umsetzen.
 
-- Verantwortung: Sendefähiger Ton. Entscheidung über eingesetzte Technik auf Basis der Erwartung des Autors. Management des Mischens und der Aufnahme während des Drehs.
+Außerdem sorgt der Tonmann während des Drehs für die Auspegelung des Tons, sodass es während der Aufnahme zu keinen Übersteuerungen im Ton kommt.
 
 ## Cutter
+
+Der Cutter macht den Videoschnitt, nachdem die Aufnahme des Materials  abgeschlossen ist. Er sichtet alles Material, schneidet und montiert das Material dann so, dass eine in sich schlüssige Geschichte entsteht. Wenn aus dem Material als solches schon ein logischer Ablauf  oder eine Handlung ersichtlich ist, kann er diese Handlung ohne viel Anweisung selbst montieren.
+
+Der Cutter ist meistens bei dem Dreh nicht dabei gewesen. Dies hat sowohl Vor- als auch Nachteile: Vorteil ist, dass er mehr "Distanz" zu den Bildern hat. Er kann objektiver betrachten, was für eine Wirkung das Bild auf den Betrachter hat, weil er nur dieses Bild sieht und nicht weiß, was in dieser Situation sonst noch alles passiert ist. Der Cutter ist also weiter entfernt von dem Erlebnis der Aufnahme und somit "näher" am Seheindruck des letztendlichen Betrachter. Allerdings weiß durch das bloße Sichten des Materials nicht, welche Stellen in der Geschichte besonderen Stellenwert haben, wo vielleicht emotional viel kommuniziert werden soll. Dies muss vom Autor klar kommuniziert werden, damit die gewünschte Wirkung 
 
 - Meist großer Vorteil: war bei dem Dreh nicht dabei. Mehr "Distanz" zu den Bildern (somit "näher" am Seheindruck des letztendlichen Zuschauers)
 - Kann selbstständig in sich logische Abläufe und Handlungen schneiden.
 - Durch Kommunikation von Erwartungen, wichtigen Emotionen und Wendepunkten kann der Cutter mit entsprechenden Mitteln diese unterstützen
-
-## Videojournalist
-
-- Quick & Dirty: Kann schnell und flexibel agieren, ist aber meist technisch begrenzt und wirkt für größere Aufwände zu unprofessionell.
-- Ist günstiger
-- unauffälliger
-- für kleine Räume
-- wenn besonderer Zugang zu einem speziellen Thema / Person da ist
 
 ## Tonmeister / Mischung
 
