@@ -131,10 +131,20 @@ Auf Basis der herausgearbeiteten Anforderungen wurde im Team nach geeigneten Ide
 
 ## Konzeptvorstellung
 
-Nachdem erste Ideen gefunden worden waren, wurden diese in einem Dokument festgehalten und dieses Dokument in Form eines Konzepts an den Kunden geschickt. Leider war die gewählte Form, gesta
+Nachdem erste Ideen gefunden worden waren, wurden diese in einem Dokument festgehalten und dieses Dokument in Form eines Konzepts an den Kunden geschickt. Leider war die gewählte Form, filmische und gestalterische Ideen in Form eines gedruckten Dokuments zu kommunizieren nicht effektiv. Das Team musste die Erfahrung machen, dass viele Ideen aufgrund des beschränkten Mediums nicht verstanden worden waren. 
 
 ## Vertiefende Anforderungsanalyse
 
+Aufgrund der offensichtlichen Schwierigkeiten in der Kommunikation wurde vom Team eine vertiefende Anforderungsanalyse initiiert, mit dessen Hilfe Missverständnisse zwischen Team und Kunden beseitigt werden konnten und eine gemeinsame Vorstellung des finalen Imagefilms mit dem Kunden erarbeitet werden konnte. 
+
+In dieser Phase wurden auch erste Testaufnahmen gemacht, die dem Kunden zeigen konnten, wie bestimmte Ideen des Teams aussahen. Das Team durfte die Erfahrung machen, dass die Testaufnahmen für ein weitaus größeres Verständnis des Kunden sorgten. Dies führte sogar so weit, dass sogar zusätzliche Ideen von seiten des Kunden geäußert wurden, und dass bestimmte Anforderungen klarer und konkreter formuliert werden konnten. Insgesamt kann man sagen, dass die Anforderungen erst im Verlauf des Projektes ersichtlich wurden.
+
 ## Produktion
 
+Nachdem die inhaltlichen und gestalterischen Aspekte des Imagefilms klar waren, wurden Hilfsmittel gebaut, um diese so umzusetzen. Der Kunde sorgte für die nötigen Akteure (Mitarbeiter des Kunden), den richtigen Drehort und die richtigen Termine und das Team kümmerte sich um die technische Realisierung und die inhaltliche Gestaltung.
+
+Die Phase der Produktion ging vergleichsweise schnell vorüber, es gab insgesamt 2 Drehtage. Die hauptsächliche Arbeit lag in der Vorbereitung der nötigen Hilfsmittel und in der Konzipierung der Inhalte in Zusammenarbeit mit dem Kunden.
+
 ## Schnitt und Montage
+
+Direkt nach den Aufnahmen wurde ein Rohschnitt des Films erstellt, der dem Kunden gezeigt werden konnte. Dieser vermittelte einen frühen Eindruck des Films und ermöglichte wertvolles frühes Feedback des Kundens an das Team. Danach wurde mithilfe der Angaben des Kunden, den herausgearbeiteten Anforderungen und dem Konzept die finale Version des Films erstellt. Hierzu gehörten Aktivitäten im Bereich Schnitt, Ton, Musik, visuelle Effekte und Farbkorrektur.
