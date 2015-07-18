@@ -110,5 +110,31 @@ In dieser Phase wird dafür gesorgt, dass der Film an das gewünschte Zielpublik
 
 # Vorgehen in der Produktion eines Imagefilms
 
-In dieser Arbeit soll ein Vorgehensmodell speziell für den Filmtyp *Imagefilm* entwickelt werden. Die in Abschnitt \ref{phasen-in-der-filmproduktion} beschriebenen Phasen beziehen sich nicht auf die Erstellung eines Imagefilms, sondern auf die Produktion eines vollständigen Kinofilm in der Independent Filmwelt. Da sich beispielsweise die Länge eines Kinofilms deutlich von der eines Imagefilms unterscheidet,^[Die Länge eines Kinofilms beträgt im Durchschnitt ca. 90 - 120 Minuten. Ein Imagefilm hat eine maximale Länge von 15 Minuten.] muss hier deutlich gemacht werden, dass die Produktion eines Imagefilms andere Außmaße annimmt. Das Problem der Beschreibung der Produktion eines Imagefilms ist nur, dass es hierfür keine Standards gibt. Es ist nirgendwo festgelegt, wie ein Imagefilm produziert werden soll, und dem Autor dieser Arbeit fiel es schwer, in der Literatur explizite Beschreibungen für die Produktion von dieser Art zu finden. In der Realität hat jedes Unternehmen, welches anbietet, Imagefilme zu produzieren, wahrscheinlich sein eigenes Vorgehen entwickelt. Dieses Vorgehen hält sich aber häufig an das bekannte klassische Vorgehen der Filmindustrie, wie es exemplarisch in \ref{phasen-in-der-filmproduktion} beschrieben wurde. Aus diesem Grund bietet die Beschreibung der Phasen ein grundlegendes Verständnis für die Produktion eines Imagefilms. Der Autor hat selbst im beruflichen Kontext Erfahrungen mit der Produktion von Imagefilmen in einem kleinen Unternehmen machen können, außerdem auch im akademischen Kontext eines Praxisprojekts das Vorgehen bei der Produktion eines Imagefilms \cite{wittmann2014praxiprojekt} näher betrachten dürfen. Der Ablauf sei hier grob zusammen gefasst, für genauere Details siehe \cite{wittmann2014praxiprojekt}.
+In dieser Arbeit soll ein Vorgehensmodell speziell für den Filmtyp *Imagefilm* entwickelt werden. Die in Abschnitt \ref{phasen-in-der-filmproduktion} beschriebenen Phasen beziehen sich nicht auf die Erstellung eines Imagefilms, sondern auf die Produktion eines vollständigen Kinofilm in der Independent Filmwelt. Da sich beispielsweise die Länge eines Kinofilms deutlich von der eines Imagefilms unterscheidet,^[Die Länge eines Kinofilms beträgt im Durchschnitt ca. 90 - 120 Minuten. Ein Imagefilm hat eine maximale Länge von 15 Minuten.] muss hier deutlich gemacht werden, dass die Produktion eines Imagefilms andere Außmaße annimmt. Das Problem der Beschreibung der Produktion eines Imagefilms ist nur, dass es hierfür keine Standards gibt. Es ist nirgendwo festgelegt, wie ein Imagefilm produziert werden soll, und dem Autor dieser Arbeit fiel es schwer, in der Literatur explizite Beschreibungen für die Produktion von dieser Art zu finden. In der Realität hat jedes Unternehmen, welches anbietet, Imagefilme zu produzieren, wahrscheinlich sein eigenes Vorgehen entwickelt. Dieses Vorgehen hält sich aber häufig an das bekannte klassische Vorgehen der Filmindustrie, wie es exemplarisch in \ref{phasen-in-der-filmproduktion} beschrieben wurde. Aus diesem Grund bietet die Beschreibung der Phasen ein grundlegendes Verständnis für die Produktion eines Imagefilms. Der Autor hat selbst im beruflichen Kontext Erfahrungen mit der Produktion von Imagefilmen in einem kleinen Unternehmen machen können, außerdem auch im akademischen Kontext eines Praxisprojekts das Vorgehen bei der Produktion eines Imagefilms \cite{wittmann2014praxiprojekt} näher betrachten dürfen. Der Ablauf des Praxisprojekts sei hier grob zusammen gefasst, um Einblicke in die Herausforderungen und Besonderheiten bei der Produktion eines Imagfilms zu geben. Für genauere Details siehe auch \cite{wittmann2014praxiprojekt}.
 
+## Projektfindung
+
+In dieser Phase wurde der Kontakt mit dem Kunden hergestellt, sowie das Team zusammengestellt. Das Team bestand in dem Praxisprojekt lediglich aus zwei Mitgliedern. Der Kontakt mit dem Kunden wurde auf einer Kontaktbörse innerhalb der FH Köln hergestellt, es hab eine Ansprechpartnerin als auch den Leiter des Marketings, der Informationen zu den Vorstellungen des Imagefilms geben konnte. Die Hauptaktivitäten in dieser Phase bestanden also in:
+
+- Teamfindung
+- Kontakt mit dem Kunden
+- Ansprechpartner und andere Stakeholder des Kunden kennen lernen
+
+## Aufgabenfindung
+
+In dieser Phase hat das Team im Gespräch mit dem Kunden analysiert, was genau vom Kunden erwartet wurde. Was sollte das Zielpublikum des Films sein? Welche Aussage sollte der Film haben? Welcher Schwerpunkt sollte gelegt werden? Sollten die Produkte vom Kunden in irgendeiner Art auch präsentiert werden? Diese Fragen wurden grundsätzlich geklärt. Insgesamt kann man diese Phase als *Anforderungsanalyse* beschreiben.
+
+
+## Ideenfindung
+
+Auf Basis der herausgearbeiteten Anforderungen wurde im Team nach geeigneten Ideen gesucht, um die Aussagen und geplanten Inhalte erzähltechnisch und gestalterisch ansprechend zu gestalten. Diese Phase stellt das Erkunden des Teams in die Problemwelt des Kunden dar, und das gleichzeitige Suchen nach möglichen gestalterischen Mitteln, diese Welt des Kunden in einem Film zu kommunizieren.
+
+## Konzeptvorstellung
+
+Nachdem erste Ideen gefunden worden waren, wurden diese in einem Dokument festgehalten und dieses Dokument in Form eines Konzepts an den Kunden geschickt. Leider war die gewählte Form, gesta
+
+## Vertiefende Anforderungsanalyse
+
+## Produktion
+
+## Schnitt und Montage
