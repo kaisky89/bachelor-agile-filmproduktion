@@ -108,9 +108,12 @@ Es werden erste Vorschau Versionen erstellt und Strategien für das Marketing er
 
 In dieser Phase wird dafür gesorgt, dass der Film an das gewünschte Zielpublikum gelangt. Eine gute Möglichkeit für Independent Filme im Kinoformat sind Film Festivals, die die Möglichkeit bieten, das interessierte Film Publikum zu erreichen. Außerdem kann auf den üblichen Wegen wie Internet, Trailer, Plakate und Anzeigen Werbung für den Film gemacht werden. Da sich diese Arbeit auf den Imagefilm konzentriert und hierbei der Abnehmer des Films bereits klar ist, soll der Aspekt der Distribution des Films hier nicht weiter betrachtet werden.
 
-## Anmerkungen
+# Vorgehen in der Produktion eines Imagefilms
 
 
+- Kinofilm Produktion / Fernsehproduktion ist nicht gleich Imagefilm Produktion
+- Imagefilm Produktion: nicht viel Material, da kein Standard vorhanden, jedes Unternehmen (Agentur, etc.) hat eigene Vorgehensweise. Keine Kapazität für gezielte Interviews. 
+- Aber: Eigene Erfahrungen des Autors im beruflichen Kontext und Praxisprojekt
 
 ## Film
 
@@ -118,32 +121,7 @@ Produktionseinteilung in *Pre Produktion*, *Produktion* und *Post Production*
 
 ![Produktionsphasen des Films](http://download.heart-co.de/Bildschirmfoto%202015-06-24%20um%2016.50.19.png)
 
-### Pre Produktion
 
- - Stoff für ein Film wird gesucht, Drehbuch wird geschrieben
- - Team wird zusammen gestellt (Regie, Hauptdarsteller, etc.)
- - Finanzierung wird geklärt
- - Drehplan wird erstellt
- 
-### Produktion
-
-- Bühnenbild
-- Kostüme
-- Spezialeffekte
-- Licht
-- Kamera
-- Ton
-- Regie
-- Dreharbeiten
-
-### Post Produktion
-
-- Schnitt
-- Synchronisation
-- digitale Effekte
-- Farbkorrektur
-- Musik 
-- Marketing
 
 ## Online Video Portale
 
