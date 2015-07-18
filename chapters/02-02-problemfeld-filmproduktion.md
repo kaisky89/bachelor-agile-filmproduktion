@@ -98,26 +98,19 @@ In der Produktionsphase wird das Filmmaterial aufgenommen. Die gesamte Crew ist 
 
 ## Post Produktion
 
-Nach der Produktion
+Nach der Produktion beginnt die Phase der Post Produktion. Evtl. werden zu Anfang noch einige Szenen noch einmal aufgenommen, um danach dann den Schnitt und die Montage des Films zu tätigen. 
 
-- Pick-ups, re-shoots 
-- Lock picture 
-- Sound mix 
-- Previews 
-- Marketing plans 
-- Wrap up accounting
+Nachdem der Schnitt abgeschlossen ist, gibt es einen sogenannten "Picture Lock", das beschreibt den Status, dass sich an der zeitlichen Abfolge des Schnitts nichts mehr ändert. Ab diesem Zeitpunkt können die Arbeiten an der Tonmischung und auch die visuellen Effekte vorgenommen werden. Es werden die nötigen Stimmen Synchronisationen erstellt und die Musik wird möglichst passend zum Bild produziert. Außerdem können am Bild weitere Arbeiten an der Farbkorrektur vorgenommen werden, sowie die Ausarbeitung der visuellen digitalen Effekte.
 
-## Distribution and Marketing
+Es werden erste Vorschau Versionen erstellt und Strategien für das Marketing erstellt, um den Film gewinnbringend zu veröffentlichen. 
 
-- Managing the preview process
-- Film festivals
-- Marketing materials
-- Distribution sales and plan
-- Publicity
-- Ancillary markets
+## Absatz und Marketing
+
+In dieser Phase wird dafür gesorgt, dass der Film an das gewünschte Zielpublikum gelangt. Eine gute Möglichkeit für Independent Filme im Kinoformat sind Film Festivals, die die Möglichkeit bieten, das interessierte Film Publikum zu erreichen. Außerdem kann auf den üblichen Wegen wie Internet, Trailer, Plakate und Anzeigen Werbung für den Film gemacht werden. Da sich diese Arbeit auf den Imagefilm konzentriert und hierbei der Abnehmer des Films bereits klar ist, soll der Aspekt der Distribution des Films hier nicht weiter betrachtet werden.
+
+## Anmerkungen
 
 
-\cite{klimsa2006produktionssteuerung}
 
 ## Film
 
