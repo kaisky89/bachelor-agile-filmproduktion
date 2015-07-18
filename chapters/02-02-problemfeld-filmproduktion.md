@@ -50,10 +50,8 @@ Der Autor hat die Verantwortung des Filmprojekts, er entscheidet, was inhaltlich
 
 In der Zusammenarbeit als Team spielt Feedback auch eine wichtige Rolle: Der Cutter z. B. kann früh Feedback geben, ob das Material gut ist und wie es wirkt, weil er selbst eine gewisse "Distanz" zu den Bildern hat. Dieses frühe Feedback ist sehr hilfreich um möglichst früh weitere Entscheidungen treffen zu können und um gegebenenfalls geplante Szenen oder Abläufe anzupassen.
 
-Insgesamt lässt sich sahen, dass in einem Filmprojekt Team viele Spezialisierungen und Teilfachgebiete vorhanden sind. Daher spielt Kommunikation eine wesentliche Rolle für den Projekterfolg.
+Insgesamt lässt sich sagen, dass in einem Filmprojekt Team viele Spezialisierungen und Teilfachgebiete vorhanden sind. Daher spielt Kommunikation eine wesentliche Rolle für den Projekterfolg.
 
-- Feedback ist wichtig: Cutter und Redakteur spielen hier eine wichtige Rolle als frühe Feedback Instrumente
-- Viele Spezialisierungen und Teilfachgebiete. Deswegen: Kommunikation ist Entscheidend für Projekterfolg!
 
 # Phasen in der Filmproduktion
 
@@ -79,19 +77,28 @@ Grundlage für ein Film ist eine Idee oder ein Buch. Dies muss in Form eines Dre
 
 ## Pre Produktion
 
-Zu der Pre Produktion gehört das Suchen nach geeigneten Drehplätzen, so wie das 
+Während in der Phase der Entwicklung der Film inhaltlich vorbereitet wird, geschieht in der Pre Produktion die organisatorische Vorbereitung des Films. Hierzu gehört das Suchen nach geeigneten Drehplätzen. Außerdem wird ein Casting der Schauspieler vorgenommen, sowie das finale Drehbuch bestätigt.
 
-- Scout locations
-- Casting
-- Approve the final shooting script 
-- Production schedule 
-- Budget
+Zur Pre Produktion gehört auch das Entwickeln eines Plans, wie in der Produktionsphase vorgegangen werden soll. Welche Szene soll wann gedreht werden? Wer ist an welchen Tagen mit involviert, wann werden welche Schauspieler benötigt? All diese organisatorischen Aspekte werden in dem Drehplan formuliert.
 
-## Production
+Außerdem werden hier die finanziellen Aspekte des Projekts geklärt. Wie viel Geld ist verfügbar? Wie viel wird für die einzelnen Aspekte nötig sein?
 
-> "Shoot the darn thing..."
+## Produktion
 
-## Post Production
+In der Produktionsphase wird das Filmmaterial aufgenommen. Die gesamte Crew ist vor Ort und arbeitet mehrere Tage bis mehrere Wochen zusammen. Diese Phase ist die zentrale Phase, in der Arbeiten in vielen Bereichen gemacht werden \cite{klimsa2006produktionssteuerung}:
+
+- Bühnenbild
+- Kostüme
+- Spezialeffekte
+- Licht
+- Kamera
+- Ton
+- Regie
+- Dreharbeiten
+
+## Post Produktion
+
+Nach der Produktion
 
 - Pick-ups, re-shoots 
 - Lock picture 
