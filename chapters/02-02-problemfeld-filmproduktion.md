@@ -110,24 +110,5 @@ In dieser Phase wird dafür gesorgt, dass der Film an das gewünschte Zielpublik
 
 # Vorgehen in der Produktion eines Imagefilms
 
-In dieser Arbeit soll ein Vorgehensmodell speziell für den Filmtyp *Imagefilm* entwickelt werden. Die in Abschnitt \ref{02-02-phasen} beschriebenen Phasen beziehen sich nicht auf die Erstellung eines Imagefilms, sondern auf die Produktion eines vollständigen Kinofilm in der Independent Filmwelt. Da sich beispielsweise die Länge eines Kinofilms deutlich von der eines Imagefilms unterscheidet,^[Die Länge eines Kinofilms beträgt im Durchschnitt ca. 90 - 120 Minuten. Ein Imagefilm hat eine maximale Länge von 15 Minuten.] muss hier deutlich gemacht werden, dass die Produktion eines Imagefilms andere Außmaße annimmt. Das Problem der Beschreibung der Produktion eines Imagefilms ist nur, dass es hierfür keine Standards gibt. Es ist nirgendwo festgelegt, wie ein Imagefilm produziert werden soll, und dem Autor dieser Arbeit fiel es schwer, in der Literatur explizite Beschreibungen für die Produktion von dieser Art zu finden. In der Realität hat jedes Unternehmen, welches anbietet, Imagefilme zu produzieren, wahrscheinlich sein eigenes Vorgehen entwickelt. Dieses Vorgehen hält sich aber häufig an das bekannte  \ref{02-02-phasen} trotzdem die 
+In dieser Arbeit soll ein Vorgehensmodell speziell für den Filmtyp *Imagefilm* entwickelt werden. Die in Abschnitt \ref{02-02-phasen} beschriebenen Phasen beziehen sich nicht auf die Erstellung eines Imagefilms, sondern auf die Produktion eines vollständigen Kinofilm in der Independent Filmwelt. Da sich beispielsweise die Länge eines Kinofilms deutlich von der eines Imagefilms unterscheidet,^[Die Länge eines Kinofilms beträgt im Durchschnitt ca. 90 - 120 Minuten. Ein Imagefilm hat eine maximale Länge von 15 Minuten.] muss hier deutlich gemacht werden, dass die Produktion eines Imagefilms andere Außmaße annimmt. Das Problem der Beschreibung der Produktion eines Imagefilms ist nur, dass es hierfür keine Standards gibt. Es ist nirgendwo festgelegt, wie ein Imagefilm produziert werden soll, und dem Autor dieser Arbeit fiel es schwer, in der Literatur explizite Beschreibungen für die Produktion von dieser Art zu finden. In der Realität hat jedes Unternehmen, welches anbietet, Imagefilme zu produzieren, wahrscheinlich sein eigenes Vorgehen entwickelt. Dieses Vorgehen hält sich aber häufig an das bekannte klassische Vorgehen der Filmindustrie, wie es exemplarisch in \ref{02-02-phasen} beschrieben wurde. Aus diesem Grund bietet die Beschreibung der Phasen ein grundlegendes Verständnis für die Produktion eines Imagefilms. Der Autor hat selbst im beruflichen Kontext Erfahrungen mit der Produktion von Imagefilmen in einem kleinen Unternehmen machen können, außerdem auch im akademischen Kontext eines Praxisprojekts das Vorgehen bei der Produktion eines Imagefilms \cite{wittmann2014praxiprojekt} näher betrachten dürfen. Der Ablauf sei hier grob zusammen gefasst, für genauere Details siehe \cite{wittmann2014praxiprojekt}.
 
-
-- Kinofilm Produktion / Fernsehproduktion ist nicht gleich Imagefilm Produktion
-- Imagefilm Produktion: nicht viel Material, da kein Standard vorhanden, jedes Unternehmen (Agentur, etc.) hat eigene Vorgehensweise. Keine Kapazität für gezielte Interviews. 
-- Aber: Eigene Erfahrungen des Autors im beruflichen Kontext und Praxisprojekt
-
-
-## Online Video Portale
-
-![Produktionskomponenten Online-Medien](http://download.heart-co.de/Bildschirmfoto%202015-06-24%20um%2017.31.42.png)
-
-Konventioneller Ablauf bei Multimedia Projekten:
-
-- Konzept (Idee, Grundkonzept, Feinkonzept, Netzplan, Finanzierung)
-- Design (Interfaceentwicklung, Metapher für die MCI, Design-Plan, Storyboard)
-- Produktion (Medienproduktion: Text, Bild, Ton, Video; Medienintegration und Programmierung),
-- Beta-Test (Nutzer-Test unter normalen Einsatzbedingungen)
-- Mastering (Erstellen eines Rohling für weitere Kopien)
-- Distribution
-- Wartung / Support
