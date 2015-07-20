@@ -790,8 +790,3 @@ http://www.it-agile.de/wissen/methoden/kanban/kanban-comic/
 ### Burndown Chart
 
 ![Burndown Chart](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2014.33.50.png)
-
-
-# Welches Vorgehensmodell ist "das Beste"?
-
-Kann man so nicht sagen. Vorgehensmodelle müssen dem Projekt entsprechend ausgewählt werden. Manchmal kann auch ein Wasserfallmodell sinnvoll sein.
