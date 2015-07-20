@@ -61,9 +61,36 @@ Bei allen Bemühungen um Ideen und gestalterischen Feinheiten kann schnell die z
 
 Der Ablauf des Vorgehensmodells richtet sich stark nach dem von Scrum (siehe Kapitel \ref{problemfeld-scrum}). Da Scrum sich weniger um die konkreten Techniken der Software Entwicklung dreht sondern eher ein Meta Modell ist, lässt sich das Modell leicht für andere Domänen übernehmen. 
 
-Die Abbildung \ref{Grober Überblick des Ablaufs} zeigt einen groben Überblick zu dem Ablauf des Vorgehens.
-
 ![Grober Überblick des Ablaufs](https://www.lucidchart.com/publicSegments/view/55ad0773-1da0-4c48-b1d2-35f10a00800d/image.png)
 
+<!-- Link zu Lucidchart: https://www.lucidchart.com/documents/edit/fe537f40-1088-45c7-8ca6-96fd911bac46 -->
 
-Die
+Die Abbildung \ref{Grober Überblick des Ablaufs} zeigt einen groben Überblick zu dem Ablauf des Vorgehens. Es werden sowohl Aktivitäten als auch Artefakte dargestellt. Auf die einzelnen Aktivitäten und Artefakte wird in den folgenden Kapiteln noch detaillierter eingegangen.
+
+## Projekt Initialisierung
+
+Jedes Projekt beginnt mit einer *Recherche*. Dabei werden die zentralen Fragen des Projekts geklärt. Das sind Fragen wie:
+
+- Wer ist der Kunde?
+- Wer ist das Zielpublikum?
+- Was ist die Hauptaussage des Films?
+
+Die Ergebnisse der Recherche werden in der *Film Vision* festgehalten. Mithilfe der Filmvision wird die Aktivität das *Projekt initialisiert*. Hierbei trifft sich das gesamte Team zusammen mit dem Kunden und bespricht die Vorstellungen und Kriterien für das Projekt. Zusammen mit dem Kunden arbeitet das Team Elemente für das *Film Backlog* aus.
+
+## Sprint
+
+Sobald die *Projekt Initialisierung* abgeschlossen ist, beginnt das Team seine Arbeit. Die gesamte Entwicklung und Produktion des Films geschieht in Form von Sprints. Ziel eines Sprints ist immer eine 
+
+
+
+## Projekt Abschluss
+
+# Techniken
+
+## Cheap Production
+
+## Film Statements
+
+## Ideen Verwaltung
+
+## Kanban Board
