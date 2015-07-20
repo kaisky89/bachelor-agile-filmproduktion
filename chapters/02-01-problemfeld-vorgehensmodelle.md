@@ -2,9 +2,11 @@
 title: Problemfeld agile Vorgehensmodelle
 ---
 
-# Was ist ein Vorgehensmodell?
+<!-- # Was ist ein Vorgehensmodell? -->
 
 <!--TODO Hier sollten die vier Begriffe "Wert", "Element" (vielleicht besser: Prinzip), "Technik" und "Vorgehensmodell" von Epping eingeführt werden -->
+
+<!--
 
 Da das Thema dieser Arbeit die Entwicklung eines Vorgehensmodell ist, möchte dieser Begriff zuerst einmal definiert werden. Hierbei sollen die beiden Wörter "Vorgehen" und "Modell" zunächst separat voneinander betrachtet werden.
 
@@ -30,16 +32,23 @@ Vorgehensmodelle gehören in der Informatik zum Bereich des Projektmanagement. P
 
 Das Vorgehensmodell im Projektmanagement beantwortet die folgenden 5 Fragen:
 
+
+
 **Wer** macht **Wann**, **Was** mit **Welchen Mitteln**, **Warum?** *(=mit welchem Ziel?)*
+
+-->
+
 <!--TODO Quelle? -->
 
-Aus diesen fünf Fragen ergeben sich also die fünf Bereiche, mit denen sich das Projektmanagent beschäftigt:
 
-## Wer
 
-Im Projektmanagement geht es um Menschen. Da diese innerhalb eines Projekt unterschiedliche Funktionen erfüllen, wird hier auch von *Rollen* gesprochen. 
+<!-- Aus diesen fünf Fragen ergeben sich also die fünf Bereiche, mit denen sich das Projektmanagent beschäftigt: -->
 
-## Wann
+<!-- ## Wer -->
+
+<!-- Im Projektmanagement geht es um Menschen. Da diese innerhalb eines Projekt unterschiedliche Funktionen erfüllen, wird hier auch von *Rollen* gesprochen. -->
+
+<!-- ## Wann -->
 
 <!--TODO Muss noch weiter ausgeführt und recherchiert werden -->
 
@@ -429,10 +438,11 @@ Somit entstand das Software Kanban, auf das im Folgenden näher eingegangen wird
 
 ## Werte von Kanban
 
-David J. Anderson: \cite{anderson} nach \cite{epping}
+Die Werte von Kanban unterscheiden sich von den anderen beiden in dieser Arbeit vorgestellten Vorgehensmodelle. Das liegt daran, weil Kanban sich nicht nur dem Werte System der *Agilen Softwareentwicklung* verschreibt, sondern auch dem der *Schlanken Softwareentwicklung*. Zusammenfassend können die drei Hauptwerte mit den Worten von David J. Anderson beschrieben werden.
 
-> Value first, then flow, then waste reduction/elimination.
+> "Value first, then flow, then waste reduction/elimination." \cite{anderson} (zitiert nach \cite{epping})
 
+Hier kommen die drei 
 - Value
 - Flow
 - Waste
