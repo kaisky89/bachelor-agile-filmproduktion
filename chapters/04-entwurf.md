@@ -97,11 +97,11 @@ Mithilfe der Ergebnis der *Produktions Phase* werden in der *Post Phase* Videocl
 
 #### Sprint Review / Retrospektive
 
-Die Ergebnisse werden im *Sprint Review* dem Kunden demonstriert. Der Sprint Review dient als Grundlage für weitere Diskussionen und Entscheidungen mit dem Kunden. Wenn das Team sich zum Beispiel nicht sicher ist, welche Idee für die Umsetzung einer Anforderung passend ist, kann es während des Sprints mehrere Ideen umsetzen und die Ergebnisse dem Kunden präsentieren. Das Team kann dann zusammen mit dem Kunden diskutieren und abwägen, 
-
-
+Die Ergebnisse werden im *Sprint Review* dem Kunden demonstriert. Der Sprint Review dient als Grundlage für weitere Diskussionen und Entscheidungen mit dem Kunden. Wenn das Team sich zum Beispiel nicht sicher ist, welche Idee für die Umsetzung einer Anforderung passend ist, kann es während des Sprints mehrere Ideen umsetzen und die Ergebnisse dem Kunden präsentieren. Das Team kann dann zusammen mit dem Kunden diskutieren und abwägen, welches Idee passend ist und wie weiter vorgegangen werden soll. Während des Gesprächs mit dem Kunden im *Sprint Review* ist es Möglich, dass sich neue Anforderungen herausstellen. Diese werden im *Film Backlog* festgehalten. Ergebnisse, mit denen der Kunde zufrieden ist, werden im Artefakt *wachsender Film* integriert. Der *wachsende Film* ist eine publikationsreife Version des 
 
 ## Projekt Abschluss
+
+Das Projekt der 
 
 # Artefakte
 
