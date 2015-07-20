@@ -79,7 +79,25 @@ Die Ergebnisse der Recherche werden in der *Film Vision* festgehalten. Mithilfe 
 
 ## Sprint
 
-Sobald die *Projekt Initialisierung* abgeschlossen ist, beginnt das Team seine Arbeit. Die gesamte Entwicklung und Produktion des Films geschieht in Form von Sprints. Ziel eines Sprints ist immer eine 
+Sobald die *Projekt Initialisierung* abgeschlossen ist, beginnt das Team seine Arbeit. Die gesamte Entwicklung und Produktion des Films geschieht in Form von Sprints. Ziel eines Sprints ist immer ein oder mehrere Videos zu produzieren, die die getane Arbeit des Sprints demonstrieren. Der Sprint ist aufgeteilt in drei Phasen:
+
+#### Pioneer Phase
+
+Diese Phase dient zum kreativen Entdecken von neuen Ideen. Auf Basis der Anforderungen aus dem Sprint Backlog werden Ideen gesucht, die diese Anforderungen umsetzen. Dabei ist es durchaus möglich dass mehrere Ideen für ein Element aus dem Sprint vorhanden sind. Das Team hält alle Ideen fest und entscheidet selbstständig, welche Ideen umgesetzt werden.
+
+Je nachdem, in wie weit das Projekt fortgeschritten ist, ist es möglich, die *Pioneer Phase* zu überspringen, wenn zum Beispiel keine neuen Anforderungen vorhanden sind, die eine kreative Phase benötigen würden.
+
+#### Produktions Phase
+
+Auf Basis der Ideen aus der *Pioneer Phase* werden in der *Produktions Phase* die Ideen umgesetzt, oder es werden bereits vorhandene Produktionen verbessert bzw. erneuert. Auch diese Phase ist optional: Wenn alle finalen Produktionen abgeschlossen sind, und es nicht mehr nötig ist, Material zu produzieren, kann diese Phase übersprungen werden.
+
+#### Post Phase
+
+Mithilfe der Ergebnis der *Produktions Phase* werden in der *Post Phase* Videoclips erstellt, die demonstrieren, was das Team in dem Sprint geleistet hat. Dies kann je nach Projektstatus die Arbeit am finalen Film sein, oder - wenn das Projekt noch jung ist und auf Ideenfindung - mehrere kleine Clips sein, die die neuen Ideen des Teams zeigen. Ergebnis der *Post Phase* ist das Artefakt *Vorschläge / Iterationsergebnisse*
+
+#### Sprint Review / Retrospektive
+
+Die Ergebnisse werden im *Sprint Review* dem Kunden demonstriert. Der Sprint Review dient als Grundlage für weitere Diskussionen und Entscheidungen mit dem Kunden. Wenn das Team sich zum Beispiel 
 
 
 
