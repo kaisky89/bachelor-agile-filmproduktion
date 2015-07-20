@@ -42,4 +42,8 @@ Es muss der Tatsache ins Auge gesehen werden, dass Anforderungen und Vorstellung
 
 > "Je mehr Du nach Plan arbeitest, um so mehr bekommst Du das, was Du geplant hast, aber nicht das, was Du brauchst." \cite{muller2008agile}
 
-## 
+## Späte Entscheidung, frühe Produktion
+
+## Die Botschaft als zentrales Ziel
+
+Bei allen Bemühungen um Ideen und gestalterischen Feinheiten kann schnell die zentrale Botschaft des Kunden, die er mit dem Film kommunizieren möchte, in den Hintergrund treten. Diese Botschaft ist aber die Grundmotivation des Kunden für die Produktion des Imagefilms und wesentliches Kriterium für die Qualität des Films und den Erfolg des Projekts. Der wirtschaftliche Mehrwert des Imagfilms sich für den Kunden nicht direkt in konkreten Zahlen ausdrücken, es geht ja, wie der Name schon sagt, um das Image, also um einen indirektes Werbeanliegen, das sich nicht direkt auf die wirtschaftlichen Umsatz des Unternehmens auswirkt, sondern indirekt einen langfristigen Nutzen bringt. Die agile Software Entwicklung setzt daran an, Funktionalität für den Kunden zu entwickeln und diese Funktionalität zum Zentrum des Gesprächs mit dem Kunden zu machen. In dem Kontext von Imagefilm Produktion ist die Funktionalität zu ersetzen mit der zentralen Botschaft, die der Kunde mit dem Imagefilm 
