@@ -1,6 +1,6 @@
 [
   {
     "regex" : "/---\ntitle: ([\\w äöüÄÖÜ]*)\n---/",
-    "replace" : "\\chapter{${1}}"
+    "replace" : "\\chapter{${1}} \\label{${1}}"
   }
 ]
