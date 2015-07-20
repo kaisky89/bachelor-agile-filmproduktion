@@ -58,6 +58,18 @@ Bei allen Bemühungen um Ideen und gestalterischen Feinheiten kann schnell die z
 
 - Iterationen / kurze Releases
 
+# Rollen
+
+## Product Owner
+
+## Teamleiter
+
+<!-- ?? -->
+
+## Team
+
+## Kunde
+
 
 # Ablauf
 
