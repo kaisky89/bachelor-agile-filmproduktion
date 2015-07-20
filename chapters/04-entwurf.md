@@ -18,21 +18,26 @@ Wie in Abschnitt \ref{zusammenarbeit-als-team} beschrieben, ist die Kommunikatio
 
 ### Kommunikation mit dem Kunden
 
-Anders als in der klassischen Filmwelt^[mit klassische Filmwelt ist hier die Produktion von Kinofilmen, Fernsehproduktionen usw. gemeint, also die Situation, wo es keinen direkten wirtschaftlichen Abnehmer des Produktes gibt] gibt es bei der Produktion eines Imagefilms einen direkten Kunden, für den der Film produziert wird. Der Kunde hat den Anspruch, dass der Film seinen Vorstellungen und Anforderungen entspricht. Diese Situation ist in der klassischen Produktion von Filmen eher untypisch, in der Software Welt normal. Das in dieser Arbeit vorgestellte Vorgehensmodell soll den Ansatz der agilen Softwareentwicklung verfolgen, in dem es den Kunden in das Projektgeschehen mit integriert und eine transparente und konsequente Kommunikation mit dem Kunden vertritt.
+Anders als in der klassischen Filmwelt^[mit klassische Filmwelt ist hier die Produktion von Kinofilmen, Fernsehproduktionen usw. gemeint, also die Situation, wo es keinen direkten wirtschaftlichen Abnehmer des Produktes gibt. In der klassischen Filmwelt sind alle Beteiligten an dem Projekt professionell dafür ausgebildet. Eine Kommunikation mit einem Kunden, der für die Fachdomäne Film ein Laie ist, gibt es nicht.] gibt es bei der Produktion eines Imagefilms einen direkten Kunden, für den der Film produziert wird. Der Kunde hat den Anspruch, dass der Film seinen Vorstellungen und Anforderungen entspricht. Diese Situation ist in der klassischen Produktion von Filmen eher untypisch, in der Software Welt normal. Das in dieser Arbeit vorgestellte Vorgehensmodell soll den Ansatz der agilen Softwareentwicklung verfolgen, in dem es den Kunden in das Projektgeschehen mit integriert und eine transparente und konsequente Kommunikation mit dem Kunden vertritt.
 
 ### Kommunikationsformen
 
-Technische Entwicklungen in den letzten Jahren machen es möglich, Kommunikation auf neuen Wegen zu praktizieren: 
+Es gibt sehr verschiedene Möglichkeiten zu kommunizieren: Man kann eine email versenden, ein Dokument verfassen, eine Videobotschaft versenden, telefonieren oder von Angesicht zu Angesicht reden. Jede Kommunikationsform hat seine Existenzberechtigung und ist für gewisse Situationen die beste Möglichkeit. Wichtig ist jedoch zu beachten, dass für den jeweiligen Zweck die richtige Kommunikationsform benutzt wird: Wenn dem Kunden eine Idee zu einer bestimmten Kamerabewegung gezeigt werden soll, ist es wahrscheinlich besser, dies in Form eines kleinen Beispielvideos zu tun als über die seitenlange Dokumentation mit vielen Skizzen, Grundrissen und einem Storyboard. Kommunikation gezielt zu leben bedeutet, seine Kommunikationswege und -formen bewusst zu wählen.
 
 
 ## Feedback
 
 Feedback spielt in jeder kreativen Arbeit eine wesentliche Rolle. Grundsätzlich gilt hierbei, je früher das Feedback kommt desto leichter und schneller lässt sich darauf reagieren und entsprechende Maßnamen treffen.
 
-Gerade in der Phase der Anforderungsermittlung und der Ideenfindung ist Feedback wesentlich, um zu verifizieren, dass die Kommunikation mit dem Kunden funktioniert. Es ist daher sinnvoll, Feedbackmechanismen einzubauen, die eine Kultur des frühen Feedbacks ermöglichen. Basis für Feedback ist eine gute Kommunikation. Hierfür ist 
+Gerade in der Phase der Anforderungsermittlung und der Ideenfindung ist Feedback wesentlich, um zu verifizieren, dass die Kommunikation mit dem Kunden funktioniert. Es ist daher sinnvoll, Feedbackmechanismen einzubauen, die eine Kultur des frühen Feedbacks ermöglichen.
 
+Aber auch in späteren Phasen ist Feedback wichtig: bis zum Ende des Projekts können immer noch Änderungen vorgenommen werden und das Ergebnis den Wünschen und Vorstellungen des Kundens angepasst werden.
+
+Auch innerhalb des Teams ist eine ausgeprägte Feedback Kultur wichtig. In der Softwarewelt dienen automatisierte Tests dazu, ein Feedback zu der gerade getanen Arbeit zu liefern. Dies ist in der Filmwelt so nicht möglich, daher ist es umso wichtiger, dass die einzelnen Teammitglieder sich Feedback zu der getanen Arbeit geben: Was erwarte ich als Spezialist in meinem Fachbereich von meinen Teamkollegen? Gibt es fachliche Fehler, von anderen Teamkollegen, die meine Arbeit behindern? Gibt es Möglichkeiten, die Zusammenarbeit als Team zu verbessern?
 
 
 ## Offenheit für Änderungen
+
+Es muss der Tatsache ins Auge gesehen werden, dass Anforderungen und Vorstellungen nicht zu einem festen Zeitpunkt klar und vollständig definiert werden können. Gerade, weil in dem Kontext von Imagefilm der Kunde meist ein Laie ist, also jemand, dessen berufliche Kompetenzen nicht in der Fachdomäne der Filmproduktion liegen, ist ein 
 
 ## 
