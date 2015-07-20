@@ -38,6 +38,8 @@ Auch innerhalb des Teams ist eine ausgeprägte Feedback Kultur wichtig. In der S
 
 ## Offenheit für Änderungen
 
-Es muss der Tatsache ins Auge gesehen werden, dass Anforderungen und Vorstellungen nicht zu einem festen Zeitpunkt klar und vollständig definiert werden können. Gerade, weil in dem Kontext von Imagefilm der Kunde meist ein Laie ist, also jemand, dessen berufliche Kompetenzen nicht in der Fachdomäne der Filmproduktion liegen, ist ein 
+Es muss der Tatsache ins Auge gesehen werden, dass Anforderungen und Vorstellungen nicht zu einem festen Zeitpunkt klar und vollständig definiert werden können. In dem Kontext von Imagefilm ist der Kunde meist ein Laie, also jemand, dessen berufliche Kompetenzen nicht in der Fachdomäne der Filmproduktion liegen. Er ist es also nicht gewohnt, z. B. ein Drehbuch zu lesen und sofort zu verstehen, wie er sich das geschriebene vorzustellen hat. Er kann sich auch nicht präzise mit den richtigen Fachbegriffen ausdrücken. Außerdem ist er die Arbeit mit dem Medium Film nicht gewohnt und ist sich seiner Handlungs- und Entscheidungsmöglichkeiten gar nicht in seinem vollen Ausmaße bewusst. Dieses Verständnis kann erst während der Arbeit an dem Imagefilm entstehen, und mit einem wachsenden Verständnis wächst auch die Vorstellung und das Verständnis für die Anforderungen an den Imagefilm. Änderungen an Anforderungen an den Imagefilm während der Entwicklung sind also nicht zu vermeiden. Außerdem ist es durchaus denkbar, dass sich auch andere Faktoren während der Entstehung des Imagefilms ändern, wie z. B. eine geänderte Marketingstrategie des Kunden. Ziel des Vorgehens ist es, mit diesen Änderungen zu rechnen, sie nicht zu verdrängen, sondern sie bewusst in die Planung zu integrieren. Der Leitsatz, der auch aus der agilen Softwareentwicklung kommt, lautet also:
+
+> "Je mehr Du nach Plan arbeitest, um so mehr bekommst Du das, was Du geplant hast, aber nicht das, was Du brauchst." \cite{muller2008agile}
 
 ## 
