@@ -2,7 +2,7 @@
 title: Entwurf eines agilen Vorgehensmodells
 ---
 
-In diesem Kapitel soll aus den in Kapitel <!--TODO Referenz--> vorgestellten Vorgehensmodellen ein neues, für die Filmproduktion sinnvolles Vorgehensmodell entwickelt werden.
+In diesem Kapitel soll aus den in Kapitel \ref{Problemfeld agile Vorgehensmodelle} vorgestellten Vorgehensmodellen ein neues, für die Filmproduktion sinnvolles Vorgehensmodell entwickelt werden.
 
 # Werte
 
@@ -10,7 +10,13 @@ Das Vorgehensmodell bezieht sich auf die Werte von der *Agilen Softwareentwicklu
 
 ## Kommunikation
 
-Genau so wie in der Software Welt geht es in der Produktion von einem Imagefilm darum, eine abstrakte Vorstellung, die zu Anfang nur in den Köpfen der Beteiligten vorhanden ist, Realität werden zu lassen.
+Genau so wie in der Software Welt geht es in der Produktion von einem Imagefilm darum, eine abstrakte Vorstellung, die zu Anfang nur in den Köpfen der Beteiligten vorhanden ist, Realität werden zu lassen. Ein wesentlicher Punkt, um erfolgreich im Team und mit dem Kunden zusammenarbeiten zu können ist also auch in der Filmwelt eine passende, effektive und effiziente Kommunikation. Kommunikation findet hauptsächlich in zwei Kontexten statt:
+
+### Kommunikation im Team
+
+Wie in 
+
+
 
 ## Feedback
 
