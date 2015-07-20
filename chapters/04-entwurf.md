@@ -44,6 +44,8 @@ Es muss der Tatsache ins Auge gesehen werden, dass Anforderungen und Vorstellung
 
 ## Frühe Produktion
 
+<!-- Umbenennen in "Transparenz"?? -->
+
 Für gutes Feedback ist es wesentlich, so früh wie möglich dem Kunden schon erste Ergebnisse zeigen zu können. Ergebnisse, die dem Kunden müssen nicht perfekt sein, sollen aber dem Kunden die wesentlichen Merkmale zeigen, um die es momentan geht. Je früher der Kunde einen ersten Eindruck in Form eines Films über die geplanten Inhalte bekommt, desto früher kann er auch Feedback geben und verstehen, worum es geht und wie geplante filmische Aspekte wirken. Außerdem hilft es dem Team, durch frühe beispielhafte Produktionen selbst ein Gefühl dafür zu bekommen, welcher Aufwand mit bestimmten Techniken verbunden ist, oder welche Herausforderungen eine gewisse filmische Methode beinhaltet. Gerade bei neuen Ideen und innovativen und kreativen Ansätzen ist dies eine hilfreiche Möglichkeit, den eigenen Aufwand einzuschätzen.
 
 
@@ -97,11 +99,15 @@ Mithilfe der Ergebnis der *Produktions Phase* werden in der *Post Phase* Videocl
 
 #### Sprint Review / Retrospektive
 
-Die Ergebnisse werden im *Sprint Review* dem Kunden demonstriert. Der Sprint Review dient als Grundlage für weitere Diskussionen und Entscheidungen mit dem Kunden. Wenn das Team sich zum Beispiel nicht sicher ist, welche Idee für die Umsetzung einer Anforderung passend ist, kann es während des Sprints mehrere Ideen umsetzen und die Ergebnisse dem Kunden präsentieren. Das Team kann dann zusammen mit dem Kunden diskutieren und abwägen, welches Idee passend ist und wie weiter vorgegangen werden soll. Während des Gesprächs mit dem Kunden im *Sprint Review* ist es Möglich, dass sich neue Anforderungen herausstellen. Diese werden im *Film Backlog* festgehalten. Ergebnisse, mit denen der Kunde zufrieden ist, werden im Artefakt *wachsender Film* integriert. Der *wachsende Film* ist eine publikationsreife Version des Imagefilms im momentanen Stand. Je nach Vereinbarung mit dem Kunden kann diese bereits während der Entwicklung öffentlich zugänglich sein. Dies ist aber nicht zwingend notwendig. Bedingung ist aber, dass dieses Artfakt vorhanden ist. 
+Die Ergebnisse werden im *Sprint Review* dem Kunden demonstriert. Der Sprint Review dient als Grundlage für weitere Diskussionen und Entscheidungen mit dem Kunden. Wenn das Team sich zum Beispiel nicht sicher ist, welche Idee für die Umsetzung einer Anforderung passend ist, kann es während des Sprints mehrere Ideen umsetzen und die Ergebnisse dem Kunden präsentieren. Das Team kann dann zusammen mit dem Kunden diskutieren und abwägen, welches Idee passend ist und wie weiter vorgegangen werden soll. Während des Gesprächs mit dem Kunden im *Sprint Review* ist es Möglich, dass sich neue Anforderungen herausstellen. Diese werden im *Film Backlog* festgehalten. 
+
+Ergebnisse, mit denen der Kunde zufrieden ist, werden im Artefakt *wachsender Film* integriert. Der *wachsende Film* ist eine publikationsreife Version des Imagefilms im momentanen Stand. Je nach Vereinbarung mit dem Kunden kann diese bereits während der Entwicklung öffentlich zugänglich sein. Dies ist aber nicht zwingend notwendig. Bedingung ist aber, dass dieses Artfakt vorhanden ist. Es dient der Transparenz gegenüber dem Kunden und ist wesentlicher Bestandteil der Kommunikation mit dem Kunden.
+
+Nach dem Sprint Review trifft sich das Team intern zur *Retrospektive*. Hier über die Zusammenarbeit im Team reflektiert. Es wird Feedback über die Ergebnisse des Sprints gegeben und über Maßnahmen entschieden, wie die Arbeit im nächsten Sprint verbessert werden kann.
 
 ## Projekt Abschluss
 
-Das Projekt der 
+Das Projekt endet mit dem Sprint Review, in dem die letzten Anforderungen des Kunden vollständig abgearbeitet wurden
 
 # Artefakte
 
