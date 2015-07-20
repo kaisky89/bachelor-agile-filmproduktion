@@ -79,7 +79,7 @@ Die Ergebnisse der Recherche werden in der *Film Vision* festgehalten. Mithilfe 
 
 ## Sprint
 
-Sobald die *Projekt Initialisierung* abgeschlossen ist, beginnt das Team seine Arbeit. Die gesamte Entwicklung und Produktion des Films geschieht in Form von Sprints. Ziel eines Sprints ist immer ein oder mehrere Videos zu produzieren, die die getane Arbeit des Sprints demonstrieren. Der Sprint ist aufgeteilt in drei Phasen:
+Sobald die *Projekt Initialisierung* abgeschlossen ist, beginnt das Team seine Arbeit. Die gesamte Entwicklung und Produktion des Films geschieht in Form von Sprints. Ziel eines Sprints ist immer ein oder mehrere Videos zu produzieren, die die getane Arbeit des Sprints demonstrieren. Die Aktivität *Sprint Planning* findet zu Anfang jeden Sprints statt. Wird entschieden, welche Anforderungen aus dem Der Sprint ist in drei Phasen aufgeteilt:
 
 #### Pioneer Phase
 
@@ -97,11 +97,18 @@ Mithilfe der Ergebnis der *Produktions Phase* werden in der *Post Phase* Videocl
 
 #### Sprint Review / Retrospektive
 
-Die Ergebnisse werden im *Sprint Review* dem Kunden demonstriert. Der Sprint Review dient als Grundlage für weitere Diskussionen und Entscheidungen mit dem Kunden. Wenn das Team sich zum Beispiel 
+Die Ergebnisse werden im *Sprint Review* dem Kunden demonstriert. Der Sprint Review dient als Grundlage für weitere Diskussionen und Entscheidungen mit dem Kunden. Wenn das Team sich zum Beispiel nicht sicher ist, welche Idee für die Umsetzung einer Anforderung passend ist, kann es während des Sprints mehrere Ideen umsetzen und die Ergebnisse dem Kunden präsentieren. Das Team kann dann zusammen mit dem Kunden diskutieren und abwägen, 
 
 
 
 ## Projekt Abschluss
+
+# Artefakte
+
+## Film Statements
+
+- verschiedene Stati: Billig produziert, gut Produziert.
+
 
 # Techniken
 
