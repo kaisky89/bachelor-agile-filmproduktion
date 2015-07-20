@@ -52,7 +52,16 @@ Für gutes Feedback ist es wesentlich, so früh wie möglich dem Kunden schon er
 Bei allen Bemühungen um Ideen und gestalterischen Feinheiten kann schnell die zentrale Botschaft des Kunden, die er mit dem Film kommunizieren möchte, in den Hintergrund treten. Diese Botschaft ist aber die Grundmotivation des Kunden für die Produktion des Imagefilms und wesentliches Kriterium für die Qualität des Films und für den Erfolg des Projekts. Der wirtschaftliche Mehrwert des Imagfilms lässt sich für den Kunden nicht direkt in konkreten Zahlen ausdrücken, es geht ja, wie der Name schon sagt, um das Image, also um einen indirektes Werbeanliegen, das sich nicht direkt auf die wirtschaftlichen Umsatz des Unternehmens auswirkt, sondern indirekt einen längerfristigen Nutzen bringt. Die agile Software Entwicklung setzt daran an, Funktionalität für den Kunden zu entwickeln und diese Funktionalität zum Zentrum des Gesprächs mit dem Kunden zu machen. In dem Kontext von Imagefilm Produktion ist die Funktionalität zu ersetzen mit der zentralen Botschaft, die der Kunde mit dem Imagefilm darstellen will. Entscheidungen und Handlungen in der Entwicklung und Produktion müssen also diesem Ziel dienen: die intendierte Botschaft des Kundens zu unterstützen. Aufgabe des Vorgehensmodells ist es, dieses Kriterium immer wieder vor Augen zu führen und eine Entwicklung zu unterstützen, die die Botschaft des Kunden im Fokus behält und sich daran orientiert.
 
 
+# Prinzipien
+
+- Iterationen / kurze Releases
+
 
 # Ablauf
 
-Der Ablauf des Vorgehensmodells richtet sich stark nach dem von Scrum (siehe Kapitel \ref{problemfeld-scrum}). Da Scrum sich um 
+Der Ablauf des Vorgehensmodells richtet sich stark nach dem von Scrum (siehe Kapitel \ref{problemfeld-scrum}). Da Scrum sich weniger um die konkreten Techniken der Software Entwicklung dreht sondern eher ein Meta Modell ist, lässt sich das Modell leicht für andere Domänen übernehmen. 
+
+Die Abbildung \ref{Grober Überblick des Ablaufs} zeigt einen groben Überblick zu dem Ablauf des Vorgehens.
+
+![Grober Überblick des Ablaufs](https://www.lucidchart.com/publicSegments/view/55ad0773-1da0-4c48-b1d2-35f10a00800d/image.png)
+
