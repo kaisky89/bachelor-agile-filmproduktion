@@ -44,7 +44,7 @@ Der Cutter ist meistens bei dem Dreh nicht dabei gewesen. Dies hat sowohl Vor- a
 
 Ähnlich wie der Cutter das Material vom Kameramann bearbeitet, bearbeitet der Tonmeister das Material des Tonmanns. Hierbei sorgt er dafür, dass Musik, Geräusche und Sprache auf den richtigen Pegel gebracht werden. Er sorgt also dafür, dass die Sprache immer verständlich ist, die Musik nicht zu sehr im Vordergrund ist, und Geräusche im richtigen Moment wichtige Ereignisse unterstreichen. Auch hier ist wieder Absprache mit dem Autor wichtig, denn gerade der Ton hat einen wesentlichen Einfluss auf die Gefühlswelt des Betrachters und somit kann der richtige Mix und der richtige Einsatz von Musik und Geräuschen die gewünschten Emotionen unterstreichen.
 
-## Zusammenarbeit als Team {#
+## Zusammenarbeit als Team {#zusammenarbeit-als-team}
 
 Der Autor hat die Verantwortung des Filmprojekts, er entscheidet, was inhaltlich im Film passiert, und wie welche Botschaft übermittelt werden soll. Allerdings kennt sich der Autor in den Gewerken nicht so gut aus und kann also die detaillierteren Entscheidungen für z. B. Auswahl der Technik nicht so gut treffen, wie die Spezialisten der einzelnen Gewerke. Es entsteht hier also die Notwendigkeit, dass der Autor stark mit seinem Team zusammen arbeitet, um das Know-How seiner Teammitglieder bestmöglich zu nutzen. Schließlich sind diese in ihrem Fachgebiet Spezialisten und haben meist viel Erfahrung. \cite{jacobs2015prozess} schreibt, dass es empfehlenswert für den Autor ist, nur seine Absicht klarzustellen. Die Gewerke werden dann selbstständig für diese Absicht arbeiten.
 
