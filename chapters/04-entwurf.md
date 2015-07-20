@@ -107,7 +107,7 @@ Nach dem Sprint Review trifft sich das Team intern zur *Retrospektive*. Hier üb
 
 ## Projekt Abschluss
 
-Das Projekt endet mit dem Sprint Review, in dem die letzten Anforderungen des Kunden vollständig abgearbeitet wurden. Der *wachsende Film* stellt nun die finale Version des Films dar. Der Film wird im Sprint Review präsentiert und
+Das Projekt endet mit dem Sprint Review, in dem die letzten Anforderungen des Kunden vollständig abgearbeitet wurden. Der *wachsende Film* stellt nun die finale Version des Films dar. Der Film wird im Sprint Review präsentiert und das Projekt wird offiziell abgeschlossen.
 
 # Artefakte
 
