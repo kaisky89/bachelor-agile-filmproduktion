@@ -680,13 +680,16 @@ http://www.it-agile.de/wissen/methoden/kanban/kanban-comic/
 
 Scrum wurde von Ken Schwaber und Jeff Sutherland in den 90er Jahren entwickelt und zählt mittlerweile zu den "etabliertesten agilen Managamentmethoden" \cite{wirdemann2014scrum}. Scrum ist eine Projekt*management*methode, das zentrale Thema ist der Ablauf des Projekts, nicht die konkreten Techniken, die benutzt werden. Dies macht einen Transfer der Methode auf andere Domänen einfach.
 
-Ken Schwaber und Jeff Sutherland beschreiben in dem Scrum Guide \cite{scrumguide} die wesentlichen Merkmale von Scrum. Sie definieren dabei die Rollen, den Prozessablauf, die Aktivitäten und die Artefakte, die Scrum ausmachen. Im Folgenden soll auf diese Beschreibung augebaut werden. Dabei wurden auch Erklärungen von \cite{hanser} benutzt.
+Ken Schwaber und Jeff Sutherland beschreiben in dem Scrum Guide \cite{scrumguide} die wesentlichen Merkmale von Scrum. Sie definieren dabei die Rollen, den Prozessablauf, die Aktivitäten und die Artefakte, die Scrum ausmachen. Im Folgenden soll auf diese Beschreibung augebaut werden. Dabei wurde auch auf Erläuterungen von \cite{hanser} und \cite{wirdemann2014scrum} zurückgegriffen.
 
-- Projekt**management**methode - Zentrales Thema: Ablauf des Projekts
-- Kein "Projektmanager"
-- Wesentliches Merkmal: Sprints
 
 ## Projektrollen
+
+Scrum definiert drei verschiedene Rollen: den *Product Owner*, das *Team* und der *Scrum Master*. Diese Rollen definieren verschiedene Verantwortlichkeiten, die der Inhaber der Rolle zu übernehmen hat.
+
+### Product Owner
+
+Der Product Owner repräsentiert die Sichtweise des Kunden. Im besten Fall ist es der Kunde selbst, wenn nicht, so sollte es zumindest jemand sein, der in direktem und häufigen Kontakt mit dem Kunden steht. Der Product Owner hat die Verantwortung, das Product Backlog zu pflegen und Backlog Items zu priorisieren. Dadurch übernimmt er die Verantwortung für eine sinnvolle und 
 
 - Product Owner
 	- Übernimmt Sichtweise des Kunden
@@ -694,10 +697,12 @@ Ken Schwaber und Jeff Sutherland beschreiben in dem Scrum Guide \cite{scrumguide
 	- Releasemanagement: Planung von Funktionalität, Kosten und Termine
 	- Kommunikation: Team - Stakeholder
 	- Product Owner braucht Vollmachten und Zeit (Vollzeit Job)
+
 - Team
 	- Selbstorganisiert und klein: Kein Teamleiter, Vollzeitmitgliedschaft der Mitglieder
 	- Gemeinsames Büro: *osmotische* Kommunikation
 	- Multidisziplinär / Autonom: Alle benötigten Fähigkeiten sollten vorhanden sein, aber nicht auf "traditionelle Projektrollen" beharren
+
 - ScrumMaster
 	- Prozessverantwortlicher: Freund / Coach des Teams
 	- Sorgt dafür, dass Prinzipien von Scrum funktionieren. (Korrektheit des Prozesses)
