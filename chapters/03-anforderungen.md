@@ -74,14 +74,20 @@ Auf Seiten des Kunden gibt es drei für das Vorgehensmodell relevante Stakeholde
 
 Die Geschäftsführung des Kunden ist an der Wirtschaftlichkeit des Projektes für den Kunden interessiert. Ein Imagefilm hat keinen direkten - in Zahlen messbaren - wirtschaftlichen Mehrwert für das Unternehmen. Daher wird die Geschäftsführung vor allem daran interessiert sein, die Kosten für den Film so gering wie möglich zu halten. Außerdem hat sie ein Interesse daran, dass die Kosten kalkulierbar sind. Je klarer ist, wie teuer das Erstellen des Imagefilms kosten wird, desto besser für die Geschäftsführung.
 
-Die Geschäftsführung hat das Entscheidungsgewalt, ob das Projekt umgesetzt wird oder nicht. Aus diesem Grund hat sie einen großen Einfluss auf den Projekterfolg, allerdings kommt sie nicht so stark mit dem Vorgehensmodell als solches in Berührung, da sie nicht direkt in ständigem Kontakt mit dem Auftragnehmer steht.
+Die Geschäftsführung hat die Entscheidungsgewalt, ob das Projekt umgesetzt wird oder nicht. Aus diesem Grund hat sie einen großen Einfluss auf den Projekterfolg, allerdings kommt sie nicht so stark mit dem Vorgehensmodell als solches in Berührung, da sie nicht direkt in ständigem Kontakt mit dem Auftragnehmer steht.
 
-#### Marketingleitung des Kunden
+#### Marketing des Kunden
 
+Das Marketing des Kunden ist dafür verantwortlich, zu steuern, wie der Kunde mit der Außenwelt kommuniziert. Der Imagefilm ist ein wesentlicher Teil der Kommunikation nach außen. Deshalb hat das Marketing einen Anspruch darauf, den Imagefilm insoweit mitgestalten zu können, dass er in das Gesamtkonzept der Kommunikation nach außen passt. 
 
+Je nach Projekt Situation ist das Marketing des Kunden mehr oder weniger in das Projektgeschehen involviert. Es liegt aber auf jeden Fall irgendwo zwischen Geschäftsführung und Ansprechpartner: Es ist mehr involviert als die Geschäftsleitung und weniger als der Ansprechpartner. 
 
-- Kunde: Marketingleitung
-	- Ergebnis soll sich in die Marketingstrategie des Kunden integrieren
+Das Marketing hat durch seinen Anspruch an der Mitgestaltung aber auf jeden Fall einen wesentlichen Einfluss auf den Projekterfolg. Ein Imagefilm, der nicht in das Gesamtkonzept des Kunden passt wird wohl nur sehr schlecht zu einer klaren und konformen Kommunikation des Unternehmens nach außen beitragen. Aus diesem Grund ist das Marketing bei der Gestaltung eines Imagefilms ein wichtiger Stakeholder.
+
+#### Ansprechpartner des Kunden
+
+Der Ansprechpartner des Kunden ist derjenige, auf Kundenseite für das Projekt verantwortlich ist und erster Ansprechpa
+
 - Kunde: Ansprechpartner
 	- präzise und klare Kommunikation über Stand des Projekts und nächste Schritte
 	- 
