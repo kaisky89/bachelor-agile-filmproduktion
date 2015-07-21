@@ -2,21 +2,18 @@
 title: Anforderungen an ein agiles Vorgehensmodell
 ---
 
-# Stakeholder Analyse
+# Stakeholderanalyse
 
 
-
+Der erste Schritt, um die Anforderungen an das Vorgehensmodell auszuarbeiten, soll eine Stakeholderanalyse sein. Der Begriff *Stakeholder* ist wie folgt definiert:
 
 > 2.11 **Stakeholder**  
-> Einzelperson oder Organisation, die ein Anrecht, einen Anteil, einen Anspruch oder ein Interesse auf ein bzw. an einem System oder an dessen Merkmalen hat, die ihren Erfordernissen und Erwartungen entsprechen
+> "Einzelperson oder Organisation, die ein Anrecht, einen Anteil, einen Anspruch oder ein Interesse auf ein bzw. an einem System oder an dessen Merkmalen hat, die ihren Erfordernissen und Erwartungen entsprechen." \cite{iso9241210}
 
-\cite{iso9241210}
-
+Aus der DIN stammt folgende Definition für eine *Stakeholderanalyse*:
 
 > 3.102 **Stakeholderanalyse** *(en: stakeholder analysis)*
-> Analyse der Projektbeteiligten hinsichtlich deren Einfluss auf das Projekt und deren Einstellung (positiv oder negativ) zum Projekt
-
-\cite{din699015}
+> "Analyse der Projektbeteiligten hinsichtlich deren Einfluss auf das Projekt und deren Einstellung (positiv oder negativ) zum Projekt." \cite{din699015}
 
 In dem Kontext der Entwicklung eines Vorgehensmodells sind alle diejenigen Stakeholder, die mit dem Vorgehensmodell in Berührung kommen. Stakeholder Analysen sind normalerweise für die Umsetzung eines konkreten Projekts gedacht. Da die sich die Entwicklung eines Vorgehensmodells auf einem anderen Abstraktionsniveau befindet kann hier nicht von konkreten Menschen und deren Haltung gegenüber dem Projekt gesprochen werden. Das Vorgehensmodell wird nicht für eine bestimmte, konkrete Situation entwickelt sondern verfolgt das Ziel, für viele verschiedene Projekte zu funktionieren. Daher befindet sich der Ansatz in einer gewissen Weise auf einer Meta Ebene. Das Feld der möglichen Projekte und der möglichen Konstellationen von Stakeholdern ist wahrscheinlich unendlich groß. Diese Stakeholder Analyse dient also auch dazu, das Feld der möglichen Projektkonstellationen weiter einzugrenzen.
 
@@ -42,7 +39,7 @@ In **Größe** ist die Rede von *Projekterfolg*. Dieser Begriff sei in dem Konte
 > - die Wirtschaftlichkeit des Projekts für das auszuführende Unternehmen gegeben ist, und
 > - alle Beteiligten eine positive Haltung gegenüber dem Projekt haben
 
-Aus dieser Defininition ergeben sich die wesentlichen Stakeholder, die ein Imagefilm Projekt ausmachen und somit relevant für das Vorgehensmodell sind. Abbildung <!--TODO Referenz auf Grafik--> zeigt diese Stakeholder in der vorher beschriebenen Darstellungsform.
+Aus dieser Defininition ergeben sich die wesentlichen Stakeholder, die ein Imagefilm Projekt ausmachen und somit relevant für das Vorgehensmodell sind. Abbildung \ref{Identifizierung der Stakeholder Teil 1} zeigt diese Stakeholder in der vorher beschriebenen Darstellungsform.
 
 ![Identifizierung der Stakeholder Teil 1](https://www.lucidchart.com/publicSegments/view/559d02ad-b1a4-4316-8dc0-2a7c0a00cdd1/image.png)
 
@@ -59,16 +56,17 @@ Der Kunde ist der Auftraggeber des Projektes. Er hat auf den Projekterfolg Einfl
 #### Betrachter
 Der Betrachter ist das intendierte Zielpublikum des Imagefilms. Er ist für den Projekterfolg wichtig, da seine Reaktion eine wesentliche Rolle spielt. Der Betrachter hat nichts bis sehr wenig mit dem Vorgehensmodell zu tun.
 
-Die Parteien *Filmproduktionsunternehmen* und *Kunde* können noch genauer untergliedert werden. Dies wird in Abbildung <!--TODO Referenz auf Grafik --> dargestellt.
+Die Parteien *Filmproduktionsunternehmen* und *Kunde* können noch genauer untergliedert werden. Dies wird in Abbildung \ref{Identifizierung der Stakeholder Teil 2} dargestellt.
 
-![](https://www.lucidchart.com/publicSegments/view/559fe2b9-e6c0-4fa0-9940-1bc40a0098d2/image.png)
+![Identifizierung der Stakeholder Teil 2](https://www.lucidchart.com/publicSegments/view/559fe2b9-e6c0-4fa0-9940-1bc40a0098d2/image.png)
 
 <!-- Lucid Chart Link https://www.lucidchart.com/documents/edit/825981a5-8360-4f46-bfec-7e1b53c4a9d5 -->
 
 Auf Seiten des Kunden gibt es drei für das Vorgehensmodell relevante Stakeholder:
 
 #### Geschäftsführung
-Die Geschäftsführung des Kunden ist an der Wirtschaftlichkeit des Projektes für den Kunden interessiert
+
+Die Geschäftsführung des Kunden ist an der Wirtschaftlichkeit des Projektes für den Kunden interessiert. 
 
 
 
