@@ -39,7 +39,9 @@ In **Größe** ist die Rede von *Projekterfolg*. Dieser Begriff sei in dem Konte
 > - die Wirtschaftlichkeit des Projekts für das auszuführende Unternehmen gegeben ist, und
 > - alle Beteiligten eine positive Haltung gegenüber dem Projekt haben
 
-Aus dieser Defininition ergeben sich die wesentlichen Stakeholder, die ein Imagefilm Projekt ausmachen und somit relevant für das Vorgehensmodell sind. Abbildung \ref{Identifizierung der Stakeholder Teil 1} zeigt diese Stakeholder in der vorher beschriebenen Darstellungsform.
+### Grobe Analyse der Stakeholder
+
+Aus der Defininition des Projekterfolgs ergeben sich die wesentlichen Stakeholder, die ein Imagefilm Projekt ausmachen und somit relevant für das Vorgehensmodell sind. Abbildung \ref{Identifizierung der Stakeholder Teil 1} zeigt diese Stakeholder in der vorher beschriebenen Darstellungsform.
 
 ![Identifizierung der Stakeholder Teil 1](https://www.lucidchart.com/publicSegments/view/559d02ad-b1a4-4316-8dc0-2a7c0a00cdd1/image.png)
 
@@ -56,24 +58,28 @@ Der Kunde ist der Auftraggeber des Projektes. Er hat auf den Projekterfolg Einfl
 #### Betrachter
 Der Betrachter ist das intendierte Zielpublikum des Imagefilms. Er ist für den Projekterfolg wichtig, da seine Reaktion eine wesentliche Rolle spielt. Der Betrachter hat nichts bis sehr wenig mit dem Vorgehensmodell zu tun.
 
+### Feine Einteilung der Stakeholder
+
 Die Parteien *Filmproduktionsunternehmen* und *Kunde* können noch genauer untergliedert werden. Dies wird in Abbildung \ref{Identifizierung der Stakeholder Teil 2} dargestellt.
 
 ![Identifizierung der Stakeholder Teil 2](https://www.lucidchart.com/publicSegments/view/559fe2b9-e6c0-4fa0-9940-1bc40a0098d2/image.png)
 
 <!-- Lucid Chart Link https://www.lucidchart.com/documents/edit/825981a5-8360-4f46-bfec-7e1b53c4a9d5 -->
 
+
+
 Auf Seiten des Kunden gibt es drei für das Vorgehensmodell relevante Stakeholder:
 
-#### Geschäftsführung
+#### Geschäftsführung des Kunden
 
-Die Geschäftsführung des Kunden ist an der Wirtschaftlichkeit des Projektes für den Kunden interessiert. 
+Die Geschäftsführung des Kunden ist an der Wirtschaftlichkeit des Projektes für den Kunden interessiert. Ein Imagefilm hat keinen direkten - in Zahlen messbaren - wirtschaftlichen Mehrwert für das Unternehmen. Daher wird die Geschäftsführung vor allem daran interessiert sein, die Kosten für den Film so gering wie möglich zu halten. Außerdem hat sie ein Interesse daran, dass die Kosten kalkulierbar sind. Je klarer ist, wie teuer das Erstellen des Imagefilms kosten wird, desto besser für die Geschäftsführung.
+
+Die Geschäftsführung hat das Entscheidungsgewalt, ob das Projekt umgesetzt wird oder nicht. Aus diesem Grund hat sie einen großen Einfluss auf den Projekterfolg, allerdings kommt sie nicht so stark mit dem Vorgehensmodell als solches in Berührung, da sie nicht direkt in ständigem Kontakt mit dem Auftragnehmer steht.
+
+#### Marketingleitung des Kunden
 
 
 
-
-- Kunde: Geschäftsleitung
-	- Wirtschaftlicher Mehrwert des Filmprojekts
-	- Kalkulierbare Kosten
 - Kunde: Marketingleitung
 	- Ergebnis soll sich in die Marketingstrategie des Kunden integrieren
 - Kunde: Ansprechpartner
