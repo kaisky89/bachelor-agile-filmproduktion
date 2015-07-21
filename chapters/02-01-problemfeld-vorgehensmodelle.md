@@ -676,16 +676,11 @@ http://www.it-agile.de/wissen/methoden/kanban/kanban-comic/
 
 # Scrum {#problemfeld-scrum}
 
-\cite{}
+<!-- \cite{wirdemann2014scrum} \cite{hanser} \cite{scrumguide} -->
 
-\cite{hanser}
-
-\cite{scrumguide}
-
-
+Scrum wurde von Ken Schwaber und Jeff Sutherland in den 90er Jahren entwickelt und zählt mittlerweile zu den "etabliertesten agilen Managamentmethoden" \cite{wirdemann2014scrum}. Scrum ist eine Projekt*management*methode, das zentrale Thema ist der Ablauf des Projekts, nicht die konkreten Techniken, die benutzt werden. Dies macht einen Transfer der Methode auf andere
 
 - Projekt**management**methode - Zentrales Thema: Ablauf des Projekts
-- Gründer: Ken Schwaber, Jeff Sutherland
 - Kein "Projektmanager"
 - Wesentliches Merkmal: Sprints
 
