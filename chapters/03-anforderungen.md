@@ -57,7 +57,7 @@ Das Filmproduktionsunternehmen ist für die Umsetzung aller Aktivitäten zur Ers
 Der Kunde ist der Auftraggeber des Projektes. Er hat auf den Projekterfolg Einfluss, da er bewertet, welcher finanzielle und zeitliche Rahmen für das Projekt angemessen ist. Der Kunde ist an der Umsetzung des Vorgehensmodells nicht direkt beteiligt, allerdings hat das Vorgehensmodell Einfluss auf die Art und Weise, wie der Kunde mit dem Filmproduktionsunternehmen kommuniziert. Der Kunde kommt also in einem geringen Maße mit dem Vorgehensmodell in Berührung.
 
 #### Betrachter
-Der Betrachter ist das intendierte Zielpublikum des Imagefilms. Er ist für den Projekterfolg wichtig, da die Reaktion eine wesentliche Rolle spielt. Der Betrachter hat nichts bis sehr wenig mit dem Vorgehensmodell zu tun.
+Der Betrachter ist das intendierte Zielpublikum des Imagefilms. Er ist für den Projekterfolg wichtig, da seine Reaktion eine wesentliche Rolle spielt. Der Betrachter hat nichts bis sehr wenig mit dem Vorgehensmodell zu tun.
 
 Die Parteien *Filmproduktionsunternehmen* und *Kunde* können noch genauer untergliedert werden. Dies wird in Abbildung <!--TODO Referenz auf Grafik --> dargestellt.
 
