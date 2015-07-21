@@ -555,11 +555,6 @@ Waste ist:
 - aktueller Status wird kommuniziert
 - blockierte Aufgaben werden angesprochen
 
-### Retrospektiven
-
-- Außerdem: Retrospektiven Treffs, um Arbeitsprozess zu reflektieren
-
-### User Stories
 
 ### Planungspoker
 
@@ -681,7 +676,13 @@ http://www.it-agile.de/wissen/methoden/kanban/kanban-comic/
 
 # Scrum {#problemfeld-scrum}
 
-(aus: Hanser)
+\cite{}
+
+\cite{hanser}
+
+\cite{scrumguide}
+
+
 
 - Projekt**management**methode - Zentrales Thema: Ablauf des Projekts
 - Gründer: Ken Schwaber, Jeff Sutherland
