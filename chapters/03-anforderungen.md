@@ -120,13 +120,9 @@ Anders ist es, wenn es sich bei den Schauspielern um Laiendarsteller handelt. Di
 
 Außerdem brauchen die Laiendarsteller nicht in die Entwicklung und in das weitere Vorgehen für den Imagefilm einbezogen werden: Ihnen wird im besten Fall die geplante Szene kurz beschrieben, und nach einer prägnanten Anweisung, was sie tun sollen, werden sie aufgenommen. Ein größeres Involvement in das Vorgehen ist zu vermeiden, weil dies unnötig Zeit des Laiendarstellers beansprucht.
 
+Der Darsteller spielt für den Projekterfolg eher eine untergeordnete Rolle. Sicher kann die Qualität an einer schlechten Darstellung der Schauspieler leiden, das liegt dann eher an der Auswahl der Schauspieler, also in der Verantwortlichkeit des Teams.
 
-- (Laien-) Darsteller
-	- möglichst wenig unnötige Involvement in das Projekt
-	- entspannte Aufnahme Situation
-	- 
-
-
+Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen Bildmaterial von ihnen geschieht und wo und in welcher Form sie in der Öffentlichkeit zu sehen werden. Außerdem haben sie ein Interesse daran, das man mit ihnen die zu darstellende Leistung in angemessenen Umfang bespricht. 
 
 
 
