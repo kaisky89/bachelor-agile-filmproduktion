@@ -138,7 +138,7 @@ Die Film Vision wird während der Projektinitialisierung mit dem Team, dem Kunde
 
 ## Film Backlog
 
-Der Film Backlog wird während der Projekt Initialisierung von allen Beteiligten des Treffens erstellt. Er ist ein dynamisches Artefakt, das sich während der Entwicklung des Projektes ständig ändert. Der Film Backlog enthält alle Anforderungen an den Film. Diese werden vom Product Owner priorisiert. Nur der Product Owner darf die Priorisierung bestimmen, er tut dies aber in Absprache mit den sonstigen Stakeholdern, insbesondere mit dem Kunden. Die Einträge des Film Backlogs werden Film Backlog Items genannt. Die Technik *Film Statements* (siehe Abschnitt \ref{<!--TODO-->}) beschreibt eine Technik, für die Formulierung von Backlog Items.
+Der Film Backlog wird während der Projekt Initialisierung von allen Beteiligten des Treffens erstellt. Er ist ein dynamisches Artefakt, das sich während der Entwicklung des Projektes ständig ändert. Der Film Backlog enthält alle Anforderungen an den Film. Diese werden vom Product Owner priorisiert. Nur der Product Owner darf die Priorisierung bestimmen, er tut dies aber in Absprache mit den sonstigen Stakeholdern, insbesondere mit dem Kunden. Die Einträge des Film Backlogs werden Film Backlog Items genannt. Die Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}) beschreibt eine Technik, für die Formulierung von Backlog Items.
 
 Der Backlog wird bei jedem Sprint Planning betrachtet, um Elemente für den nächsten Sprint zu identifizieren. Nur beim Sprint Planning können Backlog Items in das Sprint Backlog überführt werden.
 
@@ -150,7 +150,7 @@ Das Sprint Backlog wird während des Sprint Planning für den jeweiligen Sprint 
 
 Zu dem Sprint Backlog darf nur während des Sprint Planning Elemente hinzugefügt werden. Während des Sprints dürfen keine Elemente hinzugefügt werden. Nur das Team verwaltet das Sprint Backlog und bestimmt selbstständig wann welche Anforderung wie umgesetzt wird. Dies sorgt dafür, dass sich das Team während eines Sprints auf die vorhandenen Aufgaben konzentrieren kann, ohne durch Änderungen und Einflüsse gestört zu werden.
 
-Während des Sprints benutzt das Team während aller Phasen die Einträge aus dem 
+Während des Sprints benutzt das Team während aller Phasen die Einträge aus dem Sprint Backlog. Das Sprint Backlog stellt dabei den aktuellen Status der erledigten Aufgaben dar. Eine gute Technik, um ein Sprint Backlog aufzubauen ist das *Kanban Board* (siehe dazu Abschnitt \ref{techniken-kanban-board})
 
 ## Vorschläge / Iterationsergebnisse
 
@@ -160,7 +160,7 @@ Während des Sprints benutzt das Team während aller Phasen die Einträge aus de
 
 # Techniken
 
-## Film Statements
+## Film Statements {#techniken-film-statements}
 
 - verschiedene Stati: Billig produziert, gut Produziert.
 
@@ -168,4 +168,4 @@ Während des Sprints benutzt das Team während aller Phasen die Einträge aus de
 
 ## Ideen Verwaltung
 
-## Kanban Board
+## Kanban Board {#techniken-kanban-board}
