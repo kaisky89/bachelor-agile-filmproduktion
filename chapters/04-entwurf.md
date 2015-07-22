@@ -146,11 +146,11 @@ Sobald der Film Backlog besteht, können neue Backlog Items hinzugefügt werden.
 
 ## Sprint Backlog
 
-Das Sprint Backlog wird während des Sprint Planning für den jeweiligen Sprint erstellt. Es besteht aus Backlog Items, die zusammen vom Team und dem Product Owner ausgewählt wurden, um im jeweiligen Sprint bearbeitet zu werden.
+Das Sprint Backlog wird während des Sprint Planning für den jeweiligen Sprint erstellt. Es besteht aus Backlog Items, die zusammen vom Team und dem Product Owner ausgewählt wurden, um im jeweiligen Sprint bearbeitet zu werden. Das Sprint Backlog stellt die gesamte Arbeit dar, die das Team während eines Sprint erledigen wird.
 
-Zu dem Sprint Backlog darf nur während des Sprint Planning Elemente hinzugefügt werden. Während des Sprints dürfen keine Elemente hinzugefügt werden. Nur das Team verwaltet das Sprint Backlog und bestimmt selbstständig wann welche Anforderung wie umgesetzt wird.
+Zu dem Sprint Backlog darf nur während des Sprint Planning Elemente hinzugefügt werden. Während des Sprints dürfen keine Elemente hinzugefügt werden. Nur das Team verwaltet das Sprint Backlog und bestimmt selbstständig wann welche Anforderung wie umgesetzt wird. Dies sorgt dafür, dass sich das Team während eines Sprints auf die vorhandenen Aufgaben konzentrieren kann, ohne durch Änderungen und Einflüsse gestört zu werden.
 
-Das 
+Während des Sprints benutzt das Team während aller Phasen die Einträge aus dem 
 
 ## Vorschläge / Iterationsergebnisse
 
