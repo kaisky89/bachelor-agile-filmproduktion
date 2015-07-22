@@ -17,7 +17,7 @@ Aus der DIN stammt folgende Definition für eine *Stakeholderanalyse*:
 
 In dem Kontext der Entwicklung eines Vorgehensmodells sind alle diejenigen Stakeholder, die mit dem Vorgehensmodell in Berührung kommen. Stakeholder Analysen sind normalerweise für die Umsetzung eines konkreten Projekts gedacht. Da die sich die Entwicklung eines Vorgehensmodells auf einem anderen Abstraktionsniveau befindet kann hier nicht von konkreten Menschen und deren Haltung gegenüber dem Projekt gesprochen werden. Das Vorgehensmodell wird nicht für eine bestimmte, konkrete Situation entwickelt sondern verfolgt das Ziel, für viele verschiedene Projekte zu funktionieren. Daher befindet sich der Ansatz in einer gewissen Weise auf einer Meta Ebene. Das Feld der möglichen Projekte und der möglichen Konstellationen von Stakeholdern ist wahrscheinlich unendlich groß. Diese Stakeholder Analyse dient also auch dazu, das Feld der möglichen Projektkonstellationen weiter einzugrenzen.
 
-## Identifizierung der Stakeholder
+## Methodik der Stakeholderanalyse
 
 Für die Identifikation von Stakeholdern wird im Folgenden die Methodik benutzt, die Lobacher für die Einführung von Kanban in Entwicklungsunternehmen vorschlägt \cite{video2brainkanban}. Alle Stakeholder werden kreisförmig auf einer Grafik dargestellt. Lobacher empfiehlt, das Team als zentrales Element in der Mitte der Grafik zu platzieren und mithilfe der folgenden Dimensionen zu veranschaulichen, inwiefern diese Gruppe Einfluss auf die Einführung des neuen Vorgehens hat:
 
@@ -39,7 +39,7 @@ In **Größe** ist die Rede von *Projekterfolg*. Dieser Begriff sei in dem Konte
 > - die Wirtschaftlichkeit des Projekts für das auszuführende Unternehmen gegeben ist, und
 > - alle Beteiligten eine positive Haltung gegenüber dem Projekt haben
 
-### Grobe Analyse der Stakeholder
+## Grobe Analyse der Stakeholder
 
 Aus der Defininition des Projekterfolgs ergeben sich die wesentlichen Stakeholder, die ein Imagefilm Projekt ausmachen und somit relevant für das Vorgehensmodell sind. Abbildung \ref{Identifizierung der Stakeholder Teil 1} zeigt diese Stakeholder in der vorher beschriebenen Darstellungsform.
 
@@ -58,7 +58,7 @@ Der Kunde ist der Auftraggeber des Projektes. Er hat auf den Projekterfolg Einfl
 #### Betrachter
 Der Betrachter ist das intendierte Zielpublikum des Imagefilms. Er ist für den Projekterfolg wichtig, da seine Reaktion eine wesentliche Rolle spielt. Der Betrachter hat nichts bis sehr wenig mit dem Vorgehensmodell zu tun.
 
-### Feine Einteilung der Stakeholder
+## Feine Analyse der Stakeholder
 
 Die Parteien *Filmproduktionsunternehmen* und *Kunde* können noch genauer untergliedert werden. Dies wird in Abbildung \ref{Identifizierung der Stakeholder Teil 2} dargestellt.
 
@@ -66,7 +66,7 @@ Die Parteien *Filmproduktionsunternehmen* und *Kunde* können noch genauer unter
 
 <!-- Lucid Chart Link https://www.lucidchart.com/documents/edit/825981a5-8360-4f46-bfec-7e1b53c4a9d5 -->
 
-
+### Kunde
 
 Auf Seiten des Kunden gibt es drei für das Vorgehensmodell relevante Stakeholder:
 
@@ -86,15 +86,29 @@ Das Marketing hat durch seinen Anspruch an der Mitgestaltung aber auf jeden Fall
 
 #### Ansprechpartner des Kunden
 
-Der Ansprechpartner des Kunden ist derjenige, auf Kundenseite für das Projekt verantwortlich ist und erster Ansprechpa
+Der Ansprechpartner des Kunden ist derjenige, auf Kundenseite für das Projekt verantwortlich ist und erster Anlaufpunkt für die Kommunikation mit dem Team oder dem Vertrieb des Filmproduktionsunternehmen ist.
 
-- Kunde: Ansprechpartner
-	- präzise und klare Kommunikation über Stand des Projekts und nächste Schritte
-	- 
-- Zielpublikum
-	- Unterhaltsames und informatives Endergebnis
-- Unternehmen: Geschäftsleitung
-	- Groben Überblick über den aktuellen Stand des Projekts
+Der Ansprechpartner steht in direkter Verbindung mit dem Team und bekommt somit auch viel von der Arbeitsweise des Teams mit. Er ist so also stärker als die anderen Stakeholder des Kunden in das Vorgehensmodell involviert. Seine Relevanz für den Projekterfolg ist ziemlich groß, ist er doch wichtiger Gesprächspartner für das Team. Mithilfe des Ansprechpartner können Anforderungen formuliert werden und er ist ein möglicher Kandidat für frühes Feedback.
+
+Der Ansprechpartner hat ein Interesse daran, dass er klar und präzise über den aktuellen Stand des Projektes informiert ist, muss er doch innerhalb des Unternehmens des Kunden Rechenschaft für die Aktivitäten und den aktuellen Status des Projekts tragen. Außerdem hat er ein Interesse daran, die nächsten Schritte des Teams zu kennen.
+
+Es besteht die Möglichkeit, dass der Ansprechpartner gewisse Kenntnisse in der Fachdomäne Film hat. Dies ist wahrscheinlich aber eher selten der Fall. Somit ist der Ansprechpartner darauf angewiesen, dass er mit dem Team in Formen und Begriffen kommuniziert, die keine Ausbildung in der Hinsicht benötigen. Beispielsweise wäre dem Ansprechpartner geholfen, statt eines professionellen Drehbuchs für eine Filmidee eher ein schnell produziertes Beispiel Videos zu zeigen. Mit dem Beispiel Video kann er mehr Anfangen, weil er das Medium Drehbuch nicht gewohnt ist und sich in den Details dieses speziellen Mediums nicht auskennt.
+
+### Unternehmen
+
+Auf Seite des Unternehmens, also der Seite des Auftragnehmers kann folgende feinere Einteilung der Stakeholder vorgenommen werden:
+
+#### Geschäftsleitung des Unternehmens
+
+Die Geschäftsleitung ist nicht direkt mit in dem Projekt involviert. Es hat mehr die Wirtschaftlichkeit des Projekts für das Unternehmen auf Auftragnehmerseite im Auge. Die Einnahmen, die durch den Auftrag eingenommen werden, müssen alle Kosten decken, die das Projekt verursacht. Dazu gehört primär die Zeit, die das Team für die Entwicklung und Produktion des Imagefilms benötigt. Aber auch die Materialien und Technik, die das Team benötigt, spielen für die Wirtschaftlichkeit eine Rolle. Natürlich ist die Geschäftsleitung auch an einem Projektergebnis mit hoher Qualität interessiert. Allerdings muss diese Qualität die Kosten rechtfertigen, die sie verursacht.
+
+Die Geschäftsleitung hat ein Anrecht darauf, einen groben Einblick in das Projekt zu haben. Sie ist nicht an allen Details interessiert, aber möchte möglichst kurz und prägnant wissen, wie weit das Projekt ist, wie viel Arbeit und Zeit noch investiert werden muss und daraus resultierend, mit wie vielen Kosten für das Projekt noch zu rechnen ist.
+
+#### Projektteam des Unternehmens
+
+Das Projektteam ist für die eigentliche Arbeit am Imagefilm zuständig: Es sammelt Anforderungen, entwickelt Ideen, kommuniziert mit dem Ansprechpartner des Kundens,^[es ist möglich, dass dies nicht der Fall ist. Dies kann vorkommen, wenn z. B. der Vertrieb des Unternehmens für die Kommunikation mit dem Kunden verantwortlich ist. Auf jeden Fall kann aber davon ausgegangen werden, dass das Team irgendeine Art von Ansprechpartner hat. Sei dies der direkte Ansprechpartner vom Kunden oder ein Mittelsmann im eigenen Unternehmen.] entwickelt Ideen für die Umsetzung des Imagefilms, produziert diesen und kümmert sich um Schnitt und nachträglichen Arbeiten. Es ist durchaus möglich, dass in gewissen Unternehmenssituationen hier gar nicht von einem Team die Rede sein kann: Die verschiedenen Aufgaben können von verschiedenen Abteilungen übernommen werden, oder sogar durch Auslagerung an andere Unternehmen weitergegeben werden. 
+
+
 - Unternehmen: Teamleiter
 	- Detaillierten Überblick über den aktuellen Stand des Projekts
 - Unternehmen: Produktionsteam
