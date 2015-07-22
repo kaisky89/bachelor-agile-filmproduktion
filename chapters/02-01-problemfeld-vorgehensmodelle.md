@@ -716,32 +716,28 @@ Der Prozess wird in Abbildung \ref{Schematische Darstellung des Scrum Prozesses}
 
 ![Schematische Darstellung des Scrum Prozesses](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2012.06.07.png)
 
-Zu des Prozesses erstellt der Product Owner eine Vision des Projekts: er beschreibt das Projekt kurz und schätzt grob den insgesamten Aufwand und legt außerdem mögliche Meilensetine fest. Dies ist keine detaillierte Aufwandschätzung oder ähnliches, nur ein grobes Umreißen des Projekts und seinem groben Ziel. Hilfreich ist auch, das Ziel des Projekts in einem Satz zusammen zu fassen, zum Beispiel:
+Zu Beginn des Prozesses erstellt der Product Owner eine Vision des Projekts: er beschreibt das Projekt kurz und schätzt grob den gesamten Aufwand und legt außerdem mögliche Meilensteine fest. Dies ist keine detaillierte Aufwandschätzung oder ähnliches, nur ein grobes Umreißen des Projekts und seinem groben Ziel. Hilfreich ist auch, das Ziel des Projekts in einem Satz zusammen zu fassen, zum Beispiel:
 
 > "Wir wollen das einzige Job-Portal für High Professionals in Deutschland bauen." \cite{wirdemann2014scrum}
 
+Auf Basis der Vision erstellt der Product Owner das Product Backlog und seine ersten Einträge. Diese Einträge werden dann vom Team in Sprints abgearbeitet. 
 
-
-- Vision des Product Owners
-	- kurze Beschreibung des Produkts
-	- Abschätzung des Aufwands
-	- mögliche Meilensteine
-- ist es Sinnvoll, das Projekt anzugehen?
-- Product Backlog wird vom Product Owner gefüllt
-- Team arbeitet in Sprints den Product Backlog ab
 
 ### Sprint
 
-- Länge max. 30 Tage. Fixe Sprintlänge, nicht variieren.
+Der Sprint ist das Herzstück von Scrum. Ein Sprint ist ein Iterationsdurchlauf in der Entwicklung und als Ergebnis des Sprints steht immer ein Stück lauffähige Software. Die Länge des Sprints ist maximal 30 Tage. Ist die Sprintlänge festgelegt, kann sie sich während eines Sprints nicht mehr ändern. Auch von Änderungen der Sprintlängen innerhalb eines Projektes ist abzusehen, da mithilfe der Sprintlänge eine gewisse Regelmäßigkeit eingeführt wird, die dem Team hilft, bessere Abschätzungen machen zu können, und durch die Regelmäßig eine stetige Leistung bringen zu können.
 
 ### Sprint Planungssitzung
 
-- Sprint Ziel definieren
-- Sprint Backlog wird erstellt (=Anforderungen für das nächste Inkrement) (
-- Elemente des Sprint Backlogs kommen aus dem priorisiertem Product Backlog
-- Ergebnis: Realistisches Sprint Backlog. Team, das sich zu dessen Realisierung verpflichtet hat.
+Jeder Sprint beginnt mit einer Sprint Planungssitzung. In dieser wird ein Sprint Ziel definiert, das in einer kurzen Formulierung wiedergibt, was in diesem Sprint vom Team erreicht werden soll.
+
+In der Planungssitzung wird das Sprint Backlog erstellt, welches alle Anforderungen für das nächste Inkrement (also das Ergebnis des Sprints) enthält. Die Elemente des Sprint Backlogs werden aus dem priorisiertem Product Backlog entnommen. 
+
+Das Ergebnis der Sprint Planungssitzung ist ein realistisches Sprint Backlog, sowie ein Team, dass sich zu dessen Realisierung verpflichtet hat.
 
 ### Daily Scrum
+
+
 
 - täglich, gleicher Ort, gleiche Zeit. 
 - Kurze Sitzung (Timebox: 15 Minuten). 
