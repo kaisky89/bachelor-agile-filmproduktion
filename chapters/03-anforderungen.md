@@ -122,7 +122,7 @@ Außerdem brauchen die Laiendarsteller nicht in die Entwicklung und in das weite
 
 Der Darsteller spielt für den Projekterfolg eher eine untergeordnete Rolle. Sicher kann die Qualität an einer schlechten Darstellung der Schauspieler leiden, das liegt dann eher an der Auswahl der Schauspieler, also in der Verantwortlichkeit des Teams.
 
-Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen Bildmaterial von ihnen geschieht und wo und in welcher Form sie in der Öffentlichkeit zu sehen werden. Außerdem haben sie ein Interesse daran, das man mit ihnen die zu darstellende Leistung in angemessenen Umfang bespricht. 
+Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen Bildmaterial von ihnen geschieht und wo und in welcher Form sie in der Öffentlichkeit zu sehen werden. Außerdem haben sie ein Interesse daran, das man mit ihnen die zu darstellende Leistung in angemessenen Umfang bespricht und dass sie eine entspannte Aufnahmesituation vorfinden und die Aufnahme möglichst wenig Zeit in Anspruch nimmt.
 
 
 
