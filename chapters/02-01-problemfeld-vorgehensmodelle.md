@@ -763,43 +763,33 @@ In Scrum gibt es keine Vorgaben, wie das Team zu entwickeln hat. Einzige Bedingu
 
 ### Sprint Review
 
-Der Sprint Review 
+Im Sprint Review präsentiert das Team dem Product Owner das Ergebnis des Sprints in Form von lauffähigen Software. Diese muss vollständig und fehlerfrei sein. Der Sprint Review hat eine maximale Länge von vier Stunden.
 
-- Präsentation und Abnahme des Software Inkrements (Vollständig und fehlerfrei) vor dem Product Owner
-- Timebox: 4 Stunden
-- Live Demo / Product Owner führt selbst Tests an der Software durch
-- Product Owner entscheidet, ob das Ergebnis zufriedenstellend ist.
+Bei dem Sprint Review wird ausschließlich lauffähige Software präsentiert: keine PowerPoint Präsentationen oder ähnliches. Das Team bereitet sich auf den Sprint Review nicht gesondert vor. So kann sichergestellt werden, dass der Product Owner den echten Projekt Status sieht.
+
+Der Product Owner führt selbst Tests an der Software durch und  entscheidet abschließend, ob das Ergebnis des Sprints zufriedenstellend ist.
 
 ### Sprint Retrospektive
 
-- Timebox: 3 Stunden
-- Interne Reflektion zum Sprint. Bewertung der Zusammenarbeit des Teams. Verbesserungsmaßnahmen.
-- Auswahl und Entscheidung über die Verwendung agiler Praktiken.
-- Teilnehmer: Team, Scrum Master (soll). Product Owner (kann)
-- Ziel: Optimierung des Prozesses
+Die Sprint Retrospektive ist eine Interne Reflektion des Teams zum Sprint. Sie dauert 3 Stunden und Teilnehmer sind das Team und der Scrum Master. Der Product Owner optional auch teilnehmen.
+
+In der Sprint Retrospektive wird die Zusammenarbeit des Teams bewertet und Verbesserungsmaßnahmen zu einem effektiverem Teamwork entwickelt. Es wird darüber diskutiert, welche agile Praktiken für das Entwickeln gut funktionieren, und welche besser ausgetauscht werden. Das Ziel der Retrospektive ist die Optimierung des Prozesses. 
+
 
 ## Artefakte
 
+In Scrum werden einige Artefakte festgelegt. Diese Artefakte dienen dazu, eine große Transparenz gegenüber den allen Teilnehmern zu schaffen. 
+
 ### Product Backlog
 
-- zentrales Dokument zum Erfassen und Verwalten von Anforderungen
-- 1 Item = Funktionalität
-- evtl. User Storys für die Anforderungsspezifikation
-- Priorisierung. Detailierung. Aufwandsschätzung
+Das Product Backlog ist das zentrale Dokument zum Erfassen und Verwalten der Anforderungen, die das Projekt innehält. Die Einträge im Product Backlog werden Backlog Items genannt. Dabei entspricht ein Backlog Item einer Funktionalität, die für den Benutzer relevant ist. Hilfreich für die Anforderungsspezifikation im Product Backlog ist die Praktik der *User Storys* (siehe Abschnitt \ref{planung-user-stories}).
+
+Der Product Owner ist für die für die Pflege, die Verwaltung und den Zugriff auf das Product Backlog zuständig. Er priorisiert die vorhandenen Einträge nach der Wichtigkeit für den Kunden und detailliert die Einträge im weiteren Projektverlauf. Mithilfe einer gemeinsamen Aufwandschätzung mit dem Team können so während der Sprint Planungssitzung die Backlog Items ausgewählt werden, die in das jeweilige Sprint Backlog übertragen werden.
 
 ### Sprint Backlog
 
- - Backlog, dass die Aufgaben des aktuellen Sprints auflistet
- - mithilfe dieser Aufgaben kann das Sprint Ziel erreicht werden
- - entsteht in der Sprint Planungssitzung
- - Aufwand ist abgeschätzt ( <= 16 Stunden )
- - Stellt den momentanen Status der Entwicklungsarbeit dar
+Das Sprint Backlog ist ein Backlog, das die Aufgaben des aktuellen Sprints auflistet. Mithilfe dieser Aufgaben kann das Team während eines Sprints das Sprint Ziel erreichen. Es entsteht während der Sprint Planungssitzung, indem der der Product Owner zusammen mit dem Team die priorisierte Liste des Product Backlogs betrachtet und mit einer gemeinsamen Aufwandschätzung ein Paket zusammenstellt, von dem das Team behauptet, dass es dieses Paket zum Ende des Sprints abarbeiten kann. Der Aufwand jedes einzelnen Items im Sprint Backlog ist abgeschätzt und beträgt weniger als 16 Stunden. Bei größeren Items muss das Item in kleinere Arbeitspakete aufgeteilt werden. Das Sprint Backlog stellt den momentanen Status der Entwicklungsarbeit dar.
 
-### Releaseplan
+### Inkrement
 
- - etwas umstritten: Prinzip des "Moving Targets": Ergebnis und Ziel lässt sich nicht 100% voraussagen
- - daher: Releaseplan kann sich zwischen den Sprints ändern
-
-### Burndown Chart
-
-![Burndown Chart](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2014.33.50.png)
+Das Inkrement ist das Ergebnis des Sprints, also das Arbeitsergebnis des Teams nach dem Ablauf des Sprints. Das Inkrement muss vollständig und fehlerfrei sein, das bedeutet, alle Anforderungen, die im Sprint Backlog festgehalten wurden, müssen in dem Inkrement umgesetzt worden sein und dürfen keine Fehler enthalten. Das Inkrement dient dem Team dazu, während der Sprint Reviews dem Product Owner die getane Arbeit des letzten Sprint zu präsentieren. Anhand des Inkrements überprüft der Product Owner die Leistung des Teams.
