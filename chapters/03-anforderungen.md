@@ -112,7 +112,13 @@ Das Projektteam hat den Anspruch an das Vorgehensmodell, dass es mit seiner Hilf
 
 Da das Team der Hauptakteur des Projektes ist, ist es natürlich sehr stark an der Umsetzung des Vorgehensmodells beteiligt. Seine Nähe zum Vorgehensmodell ist also sehr groß. Auch sein Einfluss auf den Projekterfolg ist groß: ohne gute Arbeit vom Team ist ein schlechtes Ergebnis zu erwarten. Ein schlechtes Ergebnis ist gefährdend für den Projekterfolg.
 
-####
+#### Darsteller
+
+Eine besondere Rolle spielen die Darsteller im Imagefilm. Je nachdem, was die Vorstellungen, Anforderungen und die Vereinbarung des Teams mit dem Kunden ist, können die Darsteller professionelle Darsteller sein, die extern gebucht werden. Es ist auch möglich, dass das Filmproduktionsunternehmen hausinterne Darsteller hat. In beiden Fällen handelt es sich dann um professionelle Schauspieler, denen das klassische Vorgehen der Filmproduktion bekannt ist.
+
+Anders ist es, wenn es sich bei den Schauspielern um Laiendarsteller handelt. Dies ist im Rahmen eines Imagefilms gut möglich: will man beispielsweise die Authentizität des Imagefilms dadurch fördern, dass echte Mitarbeiter des Kunden im Imagefilm vorkommen^[Auch andere Situationen sind denkbar: Es können Testimonials (also Empfehlungsbotschaften) von Kunden oder Partnern des Kunden vorkommen.]. Dadurch bekommt der Imagefilm einen weniger werbenden Eindruck und stärker den Charakter einer Dokumentation. Die Zusammenarbeit mit Laiendarstellern sieht aber anders aus: Es benötigt eine entspannte Aufnahmesituation, um die Nervosität der Darsteller nicht noch unnötig zu fördern. 
+
+Außerdem brauchen die Laiendarsteller nicht in die Entwicklung und in das weitere Vorgehen für den Imagefilm einbezogen werden: Ihnen wird im besten Fall die geplante Szene kurz beschrieben, und nach einer prägnanten Anweisung, was sie tun sollen, 
 
 
 - (Laien-) Darsteller
