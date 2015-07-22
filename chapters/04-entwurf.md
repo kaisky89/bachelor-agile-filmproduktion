@@ -146,13 +146,19 @@ Sobald der Film Backlog besteht, können neue Backlog Items hinzugefügt werden.
 
 ## Sprint Backlog
 
-Das Sprint Backlog wird während des Sprint Planning für den jeweiligen Sprint erstellt. Es besteht aus Backlog Items, die zusammen vom Team und dem Product Owner ausgewählt wurden, um im jeweiligen Sprint bearbeitet zu werden. Das Sprint Backlog stellt die gesamte Arbeit dar, die das Team während eines Sprint erledigen wird.
+Das Sprint Backlog wird während des Sprint Planning für den jeweiligen Sprint erstellt. Es besteht aus Backlog Items, die zusammen vom Team und dem Product Owner ausgewählt wurden, um im jeweiligen Sprint bearbeitet zu werden. Die Einträge des Sprint Backlogs heißen Sprint Backlog Items. Die Summer der Sprint Backlog Items stellt die gesamte Arbeit dar, die das Team während eines Sprint erledigen wird.
 
 Zu dem Sprint Backlog darf nur während des Sprint Planning Elemente hinzugefügt werden. Während des Sprints dürfen keine Elemente hinzugefügt werden. Nur das Team verwaltet das Sprint Backlog und bestimmt selbstständig wann welche Anforderung wie umgesetzt wird. Dies sorgt dafür, dass sich das Team während eines Sprints auf die vorhandenen Aufgaben konzentrieren kann, ohne durch Änderungen und Einflüsse gestört zu werden.
 
-Während des Sprints benutzt das Team während aller Phasen die Einträge aus dem Sprint Backlog. Das Sprint Backlog stellt dabei den aktuellen Status der erledigten Aufgaben dar. Eine gute Technik, um ein Sprint Backlog aufzubauen ist das *Kanban Board* (siehe dazu Abschnitt \ref{techniken-kanban-board})
+Während des Sprints benutzt das Team während aller Phasen die Einträge aus dem Sprint Backlog. Das Sprint Backlog stellt dabei den aktuellen Status der erledigten Aufgaben dar. Eine gute Technik, um ein Sprint Backlog aufzubauen ist das *Kanban Board* (siehe dazu Abschnitt \ref{techniken-kanban-board}).
 
-## Vorschläge / Iterationsergebnisse
+Das Team benutzt die Sprint Backlog Items im Sprint Review als Leitfaden, um mit dem Product Owner und dem Kunden über die Ergebnisse des Sprints zu diskutieren und diese zu präsentieren. 
+
+## Sprintergebnisse
+
+Die Sprintergebnisse sind mehrere fertig produzierte Video Beispiele von den Arbeiten, die das Team im letzten Sprint gemacht hat. Je nach Projekt Status können das Videos in unterschiedlicher Form und Qualität sein. Das einzige Kriterium ist, dass es ein Video ist, das die Arbeit und die Ideen des Teams der jeweiligen Anforderung zeigt. Es ist möglich, dass für eine Anforderung mehrere Videos existieren. Dies kann beispielsweise vorkommen, wenn das Team sich bei der Umsetzung zwischen mehreren Ideen nicht entscheiden konnte und so mehrere Ideen während des Sprints umgesetzt hat. Diese Ideen werden dann während des Sprint Reviews mit allen Beteiligten diskutiert.
+
+Die Sprintergebnisse werden vom Team erstellt und von diesem auch während des Sprint Reviews präsentiert.
 
 ## Wachsender Film
 
