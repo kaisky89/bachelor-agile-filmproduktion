@@ -699,7 +699,7 @@ Das Team ist selbstorganisiert und klein: es gibt keinen Teamleiter und alle Mit
 
 Das Team arbeitet in einem gemeinsamen Büro: Es gibt keine Abteilungen oder sontige räumliche Trennungen zwischen den Teammitgliedern. Dies sorgt für eine osmotische Kommunikation (siehe Abschnitt \ref{xp-praktiken-arbeitsumgebung}).
 
-Das Team ist Multisiziplinär und Autonom. Alle benötigten Fähigkeiten für das Projekt sind im Team 
+Das Team ist Multidisziplinär und Autonom. Alle benötigten Fähigkeiten für das Projekt sind im Team vorhanden, sodass das Team während des Sprints nicht auf fachliche Hilfe von angewiesen ist. Dies sorgt für eine möglichst schnelle Bearbeitung der Aufgaben. Es muss auf keine Arbeit von außen gewartet werden, was zu unnötigen und unvorhergesehenen Verzögerungen des Sprintfortschritts führen könnte. Obwohl jedes Teammitglied seine Spezialisierung hat, wird im Team nicht in Abteilungen gedacht: Das Team sieht sich als eine Einheit, und alle Teammitglieder sind gleichberechtigt, Entscheidungen zu treffen. Es g
 
 - Team
 	- Selbstorganisiert und klein: Kein Teamleiter, Vollzeitmitgliedschaft der Mitglieder
