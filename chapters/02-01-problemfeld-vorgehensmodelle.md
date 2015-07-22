@@ -217,7 +217,7 @@ In vielen Bereichen der Entwicklung mit XP ist Mut nötig. Es braucht Mut, ein R
 Software Entwicklung ist eine Arbeit mit Menschen. Ob im Team oder in der Kommunikation mit dem Auftraggeber, es handelt sich um Menschen, deren Ehre respektiert werden möchte. Respekt ist für jede Art der Zusammenarbeit zwischen Menschen erforderlich, um langfristig Vertrauen und eine positive Haltung zum Gegenüber zu entwickeln.
 
 
-## Die Praktiken
+## Die Praktiken {#xp-praktiken}
 
 Auf Basis der vorgestellten Werte führt XP viele Praktiken und Regeln ein, die konkret beschreiben, wie ein agiles Handeln möglich gemacht werden kann. Diese Praktiken sind im Folgenden aufgeführt. Hierbei sei erwähnt, dass nicht alle Praktiken nur XP typisch sind. Viele Praktiken wurden übernommen. Speziell an XP ist die Zusammenstellung dieser Praktiken und das konsequente und strukturierte Benutzen dieser. 
 
@@ -751,22 +751,19 @@ Der Scrum Master und der Product Owner sind für die Beseitigung der Probleme, d
 
 Es ist wichtig, das Zeitlimit von 15 Minuten einzuhalten, da diese Sitzung täglich stattfindet und eine regelmäßige Überschreitung des Zeitlimits zu viel Arbeitszeit kostet. Ein Daily Scrum ist auch nicht dazu da, um in gemeinsamen Sitzung alle Probleme und Fragen zu klären, die auftauchen, sondern will nur dafür sensibel machen. Das Team kann sich dann im Nachhinein in kleineren Gruppen treffen, um detailliert über die Problemstellung und mögliche Lösungsansätze zu diskutieren. So wird von Unbeteiligten nicht unnötige Arbeitszeit in Anspruch genommen.
 
-Eine häufige Empfehlung ist die Durchführung des Daily Scrum im Stehen (dem sogenannten *Standup Meeting*). Durch die Tatsache, dass Beteiligten 
+Eine häufige Empfehlung ist die Durchführung des Daily Scrum im Stehen (dem sogenannten *Standup Meeting*). Durch die Tatsache, dass die Beteiligten stehen, entstehen keine langen Diskussionen und die "Sitzungen" im Stehen bleiben in der Regel kurz.
 
-
-
-
-
-
-- Scrum Master und Product Owner sorgen für die Beseitigung der Probleme
-- Häufige Empfehlung: *Standup Meetings*.
 
 ### Entwicklung im Sprint
 
-- Team entwickelt ohne Störung von außen und ohne Veränderung der Anforderungen
-- Scrum: Keine Vorgaben für Entwicklungspraktiken: empfehlenswert sind agile Methoden wie z. B. aus XP
+Die Entwicklung innerhalb des Sprints geschieht ohne Störung von außen. Während eines Sprints dürfen die Anforderungen, wie sie im Sprint Backlog festgelegt wurden, nicht verändert werden. Somit kann sich das Team voll auf diese Anforderungen konzentrieren, ohne das es eine kurzfristige Änderung befürchten muss.
+
+In Scrum gibt es keine Vorgaben, wie das Team zu entwickeln hat. Einzige Bedingung ist, dass es selbstorganisiert arbeitet. Häufig werden Praktiken aus XP angewandt (siehe Abschnitt \ref{xp-praktiken}).
+
 
 ### Sprint Review
+
+Der Sprint Review 
 
 - Präsentation und Abnahme des Software Inkrements (Vollständig und fehlerfrei) vor dem Product Owner
 - Timebox: 4 Stunden
