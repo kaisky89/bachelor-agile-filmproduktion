@@ -108,16 +108,13 @@ Die Geschäftsleitung hat ein Anrecht darauf, einen groben Einblick in das Proje
 
 Das Projektteam ist für die eigentliche Arbeit am Imagefilm zuständig: Es sammelt Anforderungen, entwickelt Ideen, kommuniziert mit dem Ansprechpartner des Kundens,^[es ist möglich, dass dies nicht der Fall ist. Dies kann vorkommen, wenn z. B. der Vertrieb des Unternehmens für die Kommunikation mit dem Kunden verantwortlich ist. Auf jeden Fall kann aber davon ausgegangen werden, dass das Team irgendeine Art von Ansprechpartner hat. Sei dies der direkte Ansprechpartner vom Kunden oder ein Mittelsmann im eigenen Unternehmen.] entwickelt Ideen für die Umsetzung des Imagefilms, produziert diesen und kümmert sich um Schnitt und nachträglichen Arbeiten. Es ist durchaus möglich, dass in gewissen Unternehmenssituationen hier gar nicht von einem Team die Rede sein kann: Die verschiedenen Aufgaben können von verschiedenen Abteilungen übernommen werden, oder sogar durch Auslagerung an andere Unternehmen weitergegeben werden. Es soll hier trotzdem von einem Team ausgegangen werden, im späteren Verlauf dieser Arbeit wird dies noch genauer erklärt.
 
-Das Projektteam hat einen Anspruch an das Vorgehensmodell, dass es mit seiner Hilfe effektiv und effizient arbeiten kann. Dabei soll der nötige Aufwand für die Verwaltung des Vorgehens möglichst gering sein, um einen maximalen Nutzen und eine maximale Produktivität zu erreichen.
+Das Projektteam hat den Anspruch an das Vorgehensmodell, dass es mit seiner Hilfe effektiv und effizient arbeiten kann. Dabei soll der nötige Aufwand für die Verwaltung des Vorgehens möglichst gering sein, um einen maximalen Nutzen und eine maximale Produktivität zu erreichen. Das Team möchte Werkzeuge für das Anforderungsmanagement haben und diese Anforderungen in konkrete Schritte umwandeln können. Es hat Interesse daran, in einem geregelten Umfeld zu arbeiten. Das Team besteht aus mehreren Mitgliedern, die jeweils eigene Spezialisierungen haben: es gibt einen Kameramann, einen Cutter, einen Tonmann, einen Regisseur und so weiter. Je mehr die Möglichkeit für jeden Einzelnen besteht, sein spezielles Fachwissen in das Projekt mit ein zu bringen, desto höher ist die Wahrscheinlichkeit, dass die Qualität des Projektergebnisses zunimmt. Außerdem ist Wissenstransfer ein wichtiges Kriterium für die Zusammenarbeit: Die Produktion eines Imagefilms ist Teamarbeit, so kann ein Experte nur dann effektiv arbeiten, wenn er weiß, welche Elemente des Films welche Wirkung haben sollen. Erst das gemeinsame Verständnis des Teams über die Aussage und Intention des Films, gebündelt mit den Fachkenntnissen jedes Einzelnen führt zu einem optimalen Ergebnis.
+
+Da das Team der Hauptakteur des Projektes ist, ist es natürlich sehr stark an der Umsetzung des Vorgehensmodells beteiligt. Seine Nähe zum Vorgehensmodell ist also sehr groß. Auch sein Einfluss auf den Projekterfolg ist groß: ohne gute Arbeit vom Team ist ein schlechtes Ergebnis zu erwarten. Ein schlechtes Ergebnis ist gefährdend für den Projekterfolg.
+
+####
 
 
-- Unternehmen: Teamleiter
-	- Detaillierten Überblick über den aktuellen Stand des Projekts
-- Unternehmen: Produktionsteam
-	- Klares Wissen über die zu drehenden Szenen
-	- Freiheit, eigenes Fachwissen einzubringen
-- Unternehmen: Postproduktionsteam
-	- Klares Wissen über das Ziel und die Vorstellung des Filmprojekts
 - (Laien-) Darsteller
 	- möglichst wenig unnötige Involvement in das Projekt
 	- entspannte Aufnahme Situation
