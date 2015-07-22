@@ -253,7 +253,7 @@ Mithilfe der User Stories und deren geschätzten Aufwand, die innerhalb einer It
 
 Die Phase "Managen" findet sich so nicht im Wasserfallmodell wieder. Es handelt sich hierbei auch nicht um einer zusätzliche explizite Phase, sondern eher um Rahmenbedingungen für die gesamte Entwicklungsarbeit. Die Praktiken, die hier beschrieben werden, können nicht einer bestimmten Phase zugeordnet werden. Sie bestimmen die Faktoren, die unabhängig von den Arbeitsphasen gleich bleiben.
 
-### Offene Arbeitsumgebung
+### Offene Arbeitsumgebung {#xp-praktiken-arbeitsumgebung}
 
 Kommunikation ist - wie schon weiter oben erwähnt - eins der Kernwerte von XP. Aus diesem Grund soll das Team nicht räumlich getrennt sein, sondern zusammen in einem informativen und offenen Raum arbeiten. So ergeben sich viele Möglichkeiten, Probleme auf möglichst schnellem Wege zu klären. Wenn ein Entwickler an einer bestimmten Stelle nicht weiterkommt, kann er direkt einen Kollegen fragen. Die Möglichkeit, direkt zu fragen, vermindert den Aufwand der Formalität von email oder den Wegen, zwischen Büroräumen zu wechseln. Außerdem ermöglicht es allen Mitgliedern des Entwicklerteams zu wissen, mit welchen Angelegenheiten sich die Kollegen gerade beschäftigen. Falls es ein Gespräch über ein Thema ist, das man als Entwickler gerade auch bearbeitet, gibt es unkompliziert die Möglichkeit, sich im Gespräch zu beteiligen. Alistair Cockburn nennt diesen Effekt "osmotische Kommunikation" \cite{cockburn} (zitiert nach \cite{krsteski}).
 
@@ -689,14 +689,17 @@ Scrum definiert drei verschiedene Rollen: den *Product Owner*, das *Team* und de
 
 ### Product Owner
 
-Der Product Owner repräsentiert die Sichtweise des Kunden. Im besten Fall ist es der Kunde selbst, wenn nicht, so sollte es zumindest jemand sein, der in direktem und häufigen Kontakt mit dem Kunden steht. Der Product Owner hat die Verantwortung, das Product Backlog zu pflegen und Backlog Items zu priorisieren. Dadurch übernimmt er die Verantwortung für eine sinnvolle und 
+Der Product Owner repräsentiert die Sichtweise des Kunden. Im besten Fall ist es der Kunde selbst, wenn nicht, so sollte es zumindest jemand sein, der in direktem und häufigen Kontakt mit dem Kunden steht. Der Product Owner hat die Verantwortung, das Product Backlog zu pflegen und Backlog Items zu priorisieren. Somit übernimmt er die Verantwortung, was wann vom Team entwickelt werden soll. Der Product Owner hat keinen Einfluss darauf, wie sich das Team innerhalb eines Sprints organisiert, oder wie die Aufgaben während eines Sprints abgearbeitet werden. Dies entscheidet allein das Team. Der Product Owner ist nur dafür verantwortlich, zu entscheiden, *was* innerhalb des Sprints bearbeitet wird.
 
-- Product Owner
-	- Übernimmt Sichtweise des Kunden
-	- Anforderungsmanagement: Pflege von *Produktkonzept* und *Product Backlog*
-	- Releasemanagement: Planung von Funktionalität, Kosten und Termine
-	- Kommunikation: Team - Stakeholder
-	- Product Owner braucht Vollmachten und Zeit (Vollzeit Job)
+Der Product Owner ist das Bindeglied zwischen Team und Stakeholder: Alle Fragen, die das Team an die Stakeholder hat, stellt es dem Product Owner. Der weiß entweder selbst die Antwort oder kümmert sich um schnellstmögliche Antworten, indem er sich mit den Stakeholdern in Verbindung setzt. Und auch für neue Anforderungen oder Änderungswünsche, die die Stakeholder an das Team hat, ist der Product Owner der Ansprechpartner. Somit sorgt der Product Owner für die Kommunikation zwischen Team und Stakeholder.
+
+### Team
+
+Das Team ist selbstorganisiert und klein: es gibt keinen Teamleiter und alle Mitglieder sind Vollzeitmitglieder in dem Projekt. Es gibt keine Teilzeit Mitglieder, die noch in anderen Projekten arbeiten. Dies sorgt dafür, dass zu jederzeit das vollständige Team verfügbar ist, dass sich das Team als eine Einheit sieht und gemeinsam Verantwortung für das Projekt übernehmen kann. 
+
+Das Team arbeitet in einem gemeinsamen Büro: Es gibt keine Abteilungen oder sontige räumliche Trennungen zwischen den Teammitgliedern. Dies sorgt für eine osmotische Kommunikation (siehe Abschnitt \ref{xp-praktiken-arbeitsumgebung}).
+
+Das Team ist Multisiziplinär und Autonom. Alle benötigten Fähigkeiten für das Projekt sind im Team 
 
 - Team
 	- Selbstorganisiert und klein: Kein Teamleiter, Vollzeitmitgliedschaft der Mitglieder
