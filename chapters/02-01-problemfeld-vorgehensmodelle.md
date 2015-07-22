@@ -701,19 +701,26 @@ Das Team arbeitet in einem gemeinsamen Büro: Es gibt keine Abteilungen oder son
 
 Das Team ist Multidisziplinär und Autonom. Alle benötigten Fähigkeiten für das Projekt sind im Team vorhanden, sodass das Team während des Sprints nicht auf fachliche Hilfe von angewiesen ist. Dies sorgt für eine möglichst schnelle Bearbeitung der Aufgaben. Es muss auf keine Arbeit von außen gewartet werden, was zu unnötigen und unvorhergesehenen Verzögerungen des Sprintfortschritts führen könnte. Obwohl jedes Teammitglied seine Spezialisierung hat, wird im Team nicht in Abteilungen gedacht: Das Team sieht sich als eine Einheit, und alle Teammitglieder sind gleichberechtigt, Entscheidungen zu treffen. Es gibt keinen Teamleiter.
 
-### 
+### ScrumMaster
 
-- ScrumMaster
-	- Prozessverantwortlicher: Freund / Coach des Teams
-	- Sorgt dafür, dass Prinzipien von Scrum funktionieren. (Korrektheit des Prozesses)
-	- Ziel: Team kann ich Ruhe arbeiten
-	- Unterstützt den Product Owner und die Kommunikation mit dem Team (und schützt vor Einflüsse des Product Owners während eines Sprints)
-	- Hindernisse beseitigen: Teampsychologie, falsch verstandene Teamrollen, ungeeigneter Product Owner.
-	- Dem Team dienen: Kollegialer Führungsstil
+Der Scrum Master ist verantwortlich dafür, das der Prozess von Scrum und seine Regeln eingehalten wird. Er ist der "Freund" oder "Coach" des Teams. Sein Ziel ist es, dass das Team in Ruhe arbeiten kann,  und er schützt das Team vor Einflüssen vom Product Owner oder anderen Stakeholdern während eines Sprints.
+
+Der ScrumMaster unterstützt außerdem den Product Owner in der Kommunikation mit dem Team. Er hilft sowohl Team als auch Product Owner die Prinzipien von Scrum zu verstehen.
+
+Gibt es Hindernisse, die ein effizientes Arbeiten des Teams gefährden, so kümmert sich der ScrumMaster um die Beseitigung dieser. Dies können nicht nur falsche Einflüsse von Stakeholder und Product Owner sein, sondern auch falsch verstandene Teamrollen, ein ungeeigneter Product Owner, oder ganz praktische Probleme, wie ein defekter Rechner eines Teammitglieds. Für die Beseitigung vieler dieser Hindernisse ist ein gewisses Feingefühl des ScrumMasters gefragt, er muss sich auf teampsychologische Aspekte einlassen und in einem kollegialen Führungsstil das Team in die Richtlinien von Scrum leiten.
+
 
 ## Der Prozess
 
+Der Prozess wird in Abbildung \ref{Schematische Darstellung des Scrum Prozesses} dargestellt.
+
 ![Schematische Darstellung des Scrum Prozesses](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2012.06.07.png)
+
+Zu des Prozesses erstellt der Product Owner eine Vision des Projekts: er beschreibt das Projekt kurz und schätzt grob den insgesamten Aufwand und legt außerdem mögliche Meilensetine fest. Dies ist keine detaillierte Aufwandschätzung oder ähnliches, nur ein grobes Umreißen des Projekts und seinem groben Ziel. Hilfreich ist auch, das Ziel des Projekts in einem Satz zusammen zu fassen, zum Beispiel:
+
+> "Wir wollen das einzige Job-Portal für High Professionals in Deutschland bauen." \cite{wirdemann2014scrum}
+
+
 
 - Vision des Product Owners
 	- kurze Beschreibung des Produkts
