@@ -118,7 +118,7 @@ Eine besondere Rolle spielen die Darsteller im Imagefilm. Je nachdem, was die Vo
 
 Anders ist es, wenn es sich bei den Schauspielern um Laiendarsteller handelt. Dies ist im Rahmen eines Imagefilms gut möglich: will man beispielsweise die Authentizität des Imagefilms dadurch fördern, dass echte Mitarbeiter des Kunden im Imagefilm vorkommen^[Auch andere Situationen sind denkbar: Es können Testimonials (also Empfehlungsbotschaften) von Kunden oder Partnern des Kunden vorkommen.]. Dadurch bekommt der Imagefilm einen weniger werbenden Eindruck und stärker den Charakter einer Dokumentation. Die Zusammenarbeit mit Laiendarstellern sieht aber anders aus: Es benötigt eine entspannte Aufnahmesituation, um die Nervosität der Darsteller nicht noch unnötig zu fördern. 
 
-Außerdem brauchen die Laiendarsteller nicht in die Entwicklung und in das weitere Vorgehen für den Imagefilm einbezogen werden: Ihnen wird im besten Fall die geplante Szene kurz beschrieben, und nach einer prägnanten Anweisung, was sie tun sollen, 
+Außerdem brauchen die Laiendarsteller nicht in die Entwicklung und in das weitere Vorgehen für den Imagefilm einbezogen werden: Ihnen wird im besten Fall die geplante Szene kurz beschrieben, und nach einer prägnanten Anweisung, was sie tun sollen, werden sie aufgenommen. Ein größeres Involvement in das Vorgehen ist zu vermeiden, weil dies die Arbeit
 
 
 - (Laien-) Darsteller
