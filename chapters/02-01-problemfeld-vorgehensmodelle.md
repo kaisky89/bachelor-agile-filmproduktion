@@ -701,13 +701,13 @@ Das Team arbeitet in einem gemeinsamen Büro: Es gibt keine Abteilungen oder son
 
 Das Team ist Multidisziplinär und Autonom. Alle benötigten Fähigkeiten für das Projekt sind im Team vorhanden, sodass das Team während des Sprints nicht auf fachliche Hilfe von angewiesen ist. Dies sorgt für eine möglichst schnelle Bearbeitung der Aufgaben. Es muss auf keine Arbeit von außen gewartet werden, was zu unnötigen und unvorhergesehenen Verzögerungen des Sprintfortschritts führen könnte. Obwohl jedes Teammitglied seine Spezialisierung hat, wird im Team nicht in Abteilungen gedacht: Das Team sieht sich als eine Einheit, und alle Teammitglieder sind gleichberechtigt, Entscheidungen zu treffen. Es gibt keinen Teamleiter.
 
-### ScrumMaster
+### Scrum Master
 
 Der Scrum Master ist verantwortlich dafür, das der Prozess von Scrum und seine Regeln eingehalten wird. Er ist der "Freund" oder "Coach" des Teams. Sein Ziel ist es, dass das Team in Ruhe arbeiten kann,  und er schützt das Team vor Einflüssen vom Product Owner oder anderen Stakeholdern während eines Sprints.
 
-Der ScrumMaster unterstützt außerdem den Product Owner in der Kommunikation mit dem Team. Er hilft sowohl Team als auch Product Owner die Prinzipien von Scrum zu verstehen.
+Der Scrum Master unterstützt außerdem den Product Owner in der Kommunikation mit dem Team. Er hilft sowohl Team als auch Product Owner die Prinzipien von Scrum zu verstehen.
 
-Gibt es Hindernisse, die ein effizientes Arbeiten des Teams gefährden, so kümmert sich der ScrumMaster um die Beseitigung dieser. Dies können nicht nur falsche Einflüsse von Stakeholder und Product Owner sein, sondern auch falsch verstandene Teamrollen, ein ungeeigneter Product Owner, oder ganz praktische Probleme, wie ein defekter Rechner eines Teammitglieds. Für die Beseitigung vieler dieser Hindernisse ist ein gewisses Feingefühl des ScrumMasters gefragt, er muss sich auf teampsychologische Aspekte einlassen und in einem kollegialen Führungsstil das Team in die Richtlinien von Scrum leiten.
+Gibt es Hindernisse, die ein effizientes Arbeiten des Teams gefährden, so kümmert sich der Scrum Master um die Beseitigung dieser. Dies können nicht nur falsche Einflüsse von Stakeholder und Product Owner sein, sondern auch falsch verstandene Teamrollen, ein ungeeigneter Product Owner, oder ganz praktische Probleme, wie ein defekter Rechner eines Teammitglieds. Für die Beseitigung vieler dieser Hindernisse ist ein gewisses Feingefühl des Scrum Masters gefragt, er muss sich auf teampsychologische Aspekte einlassen und in einem kollegialen Führungsstil das Team in die Richtlinien von Scrum leiten.
 
 
 ## Der Prozess
@@ -737,18 +737,28 @@ Das Ergebnis der Sprint Planungssitzung ist ein realistisches Sprint Backlog, so
 
 ### Daily Scrum
 
+Daily Scrum ist eine tägliche Sitzung innerhalb des Sprints, um das gesamte Team über den momentanen Stand des Sprints zu synchronisieren und anstehende und vergangene Aufgaben zu besprechen. Das Daily Scrum wird täglich am gleichen Ort und zur selben Zeit durchgeführt. Scrum schreibt eine Timebox (also ein Zeitlimit) von 15 Minuten vor. 
+
+Als Teilnehmer *muss* das gesamte Team anwesend sein, sowie der Scrum Master. Der Product Owner *sollte* für evtl. Rückfragen zu Anforderungen anwesend sein. Es können auch weitere Stakeholder anwesend sein, nur übernehmen sie keine aktive Rolle sondern sind nur passive Zuhörer.
+
+Zentraler Inhalt der Sitzung ist, dass alle Teammitglieder drei Fragen beantworten:
+
+- Was habe ich seit dem letzten Daily Scrum für das Projekt getan?
+- Wass will ich bis zum nächsten Daily Scrum für das Projekt tun?
+- Was hindert mich daran, so effektiv wie möglich zu arbeiten?
+
+Der Scrum Master und der Product Owner sind für die Beseitigung der Probleme, die in der dritten Frage von den Teammitgliedern angesprochen werden, verantwortlich.
+
+Es ist wichtig, das Zeitlimit von 15 Minuten einzuhalten, da diese Sitzung täglich stattfindet und eine regelmäßige Überschreitung des Zeitlimits zu viel Arbeitszeit kostet. Ein Daily Scrum ist auch nicht dazu da, um in gemeinsamen Sitzung alle Probleme und Fragen zu klären, die auftauchen, sondern will nur dafür sensibel machen. Das Team kann sich dann im Nachhinein in kleineren Gruppen treffen, um detailliert über die Problemstellung und mögliche Lösungsansätze zu diskutieren. So wird von Unbeteiligten nicht unnötige Arbeitszeit in Anspruch genommen.
+
+Eine häufige Empfehlung ist die Durchführung des Daily Scrum im Stehen (dem sogenannten *Standup Meeting*). Durch die Tatsache, dass Beteiligten 
 
 
-- täglich, gleicher Ort, gleiche Zeit. 
-- Kurze Sitzung (Timebox: 15 Minuten). 
-- Team und ScrumMaster müssen anwesend sein. 
-- Product Owner sollte anwesend sein. 
-- Status und Probleme ansprechen und Aufgaben besprechen.
-- Jeder aus dem *Team* beantwortet folgende 3 Fragen:
-	- Was habe ich seit dem letzten Daily Scrum für das Projekt getan?
-	- Wass will ich bis zum nächsten Daily Scrum für das Projekt tun?
-	- Was hindert mich daran, so effektiv wie möglich zu arbeiten?
-- ScrumMaster und Product Owner sorgen für die Beseitigung der Probleme
+
+
+
+
+- Scrum Master und Product Owner sorgen für die Beseitigung der Probleme
 - Häufige Empfehlung: *Standup Meetings*.
 
 ### Entwicklung im Sprint
@@ -768,7 +778,7 @@ Das Ergebnis der Sprint Planungssitzung ist ein realistisches Sprint Backlog, so
 - Timebox: 3 Stunden
 - Interne Reflektion zum Sprint. Bewertung der Zusammenarbeit des Teams. Verbesserungsmaßnahmen.
 - Auswahl und Entscheidung über die Verwendung agiler Praktiken.
-- Teilnehmer: Team, ScrumMaster (soll). Product Owner (kann)
+- Teilnehmer: Team, Scrum Master (soll). Product Owner (kann)
 - Ziel: Optimierung des Prozesses
 
 ## Artefakte
