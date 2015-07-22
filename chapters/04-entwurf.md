@@ -68,6 +68,8 @@ Bei allen Bemühungen um Ideen und gestalterischen Feinheiten kann schnell die z
 
 ## Team
 
+In dem Kontext einer großen Kino- oder Spielfilmproduktion hat beispielsweise der Kameramann nichts bis sehr wenig mit der Planung und der Inhalte zu tun. Es gibt für jede Phase ein eigenes Team mit den jeweiligen Spezialisten. Es ist allerdings verkehrt, diese klare Einteilung in den Unternehmenskontext von Imagefilmen zu übertragen: Hier sind Kosten, Personal und Zeit ein wesentlich höherer Faktor. Wenn also durch die Zusammenarbeit eines Teams Personal gespart werden kann, ist dies im Sinne der Wirtschaftlichkeit ein großer Vorteil.
+
 ## Kunde
 
 
