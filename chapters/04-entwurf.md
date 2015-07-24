@@ -54,9 +54,9 @@ Für gutes Feedback ist es wesentlich, so früh wie möglich dem Kunden schon er
 Bei allen Bemühungen um Ideen und gestalterischen Feinheiten kann schnell die zentrale Botschaft des Kunden, die er mit dem Film kommunizieren möchte, in den Hintergrund treten. Diese Botschaft ist aber die Grundmotivation des Kunden für die Produktion des Imagefilms und wesentliches Kriterium für die Qualität des Films und für den Erfolg des Projekts. Der wirtschaftliche Mehrwert des Imagfilms lässt sich für den Kunden nicht direkt in konkreten Zahlen ausdrücken, es geht ja, wie der Name schon sagt, um das Image, also um einen indirektes Werbeanliegen, das sich nicht direkt auf die wirtschaftlichen Umsatz des Unternehmens auswirkt, sondern indirekt einen längerfristigen Nutzen bringt. Die agile Software Entwicklung setzt daran an, Funktionalität für den Kunden zu entwickeln und diese Funktionalität zum Zentrum des Gesprächs mit dem Kunden zu machen. In dem Kontext von Imagefilm Produktion ist die Funktionalität zu ersetzen mit der zentralen Botschaft, die der Kunde mit dem Imagefilm darstellen will. Entscheidungen und Handlungen in der Entwicklung und Produktion müssen also diesem Ziel dienen: die intendierte Botschaft des Kundens zu unterstützen. Aufgabe des Vorgehensmodells ist es, dieses Kriterium immer wieder vor Augen zu führen und eine Entwicklung zu unterstützen, die die Botschaft des Kunden im Fokus behält und sich daran orientiert.
 
 
-# Prinzipien
+<!-- # Prinzipien -->
 
-- Iterationen / kurze Releases
+<!-- Iterationen / kurze Releases -->
 
 # Rollen
 
@@ -67,6 +67,8 @@ Bei allen Bemühungen um Ideen und gestalterischen Feinheiten kann schnell die z
 <!-- ?? -->
 
 ## Team
+
+In dem Kontext einer großen Kino- oder Spielfilmproduktion hat beispielsweise der Kameramann nichts bis sehr wenig mit der Planung und der Inhalte zu tun. Es gibt für jede Phase ein eigenes Team mit den jeweiligen Spezialisten. Es ist allerdings verkehrt, diese klare Einteilung in den Unternehmenskontext von Imagefilmen zu übertragen: Hier sind Kosten, Personal und Zeit ein wesentlich höherer Faktor. Wenn also durch die Zusammenarbeit eines Teams Personal gespart werden kann, ist dies im Sinne der Wirtschaftlichkeit ein großer Vorteil.
 
 ## Kunde
 
@@ -123,17 +125,54 @@ Das Projekt endet mit dem Sprint Review, in dem die letzten Anforderungen des Ku
 
 # Artefakte
 
-## Film Statements
+Das Vorgehensmodell schreibt die Existenz von einigen Artefakten vor. Diese sollen hier genauer beschrieben werden. Dabei wird hervorgehoben, *wer* für die Erstellung des Artefakts verantwortlich ist und *wann* (bei welcher Aktivität) das Artefakt eine Rolle spielt.
 
-- verschiedene Stati: Billig produziert, gut Produziert.
+## Film Vision
+
+Die Film Vision wird während der initialen Recherche vom Product Owner erstellt. Sie enthält alle wichtigen Rahmenbedingungen des Projekts, sowie eine grobe Zusammenfassung der Aussage, die zentral für den Imagefilm ist.
+
+Es wird nicht festgelegt, in welcher Form die Film Vision an die beteiligten Personen kommuniziert wird. Es muss kein auführlich ausgeschriebenes Dokument sein. Die Form ist vom Product Owner zu entscheiden.
+
+Die Film Vision wird während der Projektinitialisierung mit dem Team, dem Kunden und den weiteren Stakeholdern besprochen und dient als Grundlage für das ersten Einträge des Film Backlogs, die während der Projekt Initialisierung erstellt werden.
+
+
+## Film Backlog
+
+Der Film Backlog wird während der Projekt Initialisierung von allen Beteiligten des Treffens erstellt. Er ist ein dynamisches Artefakt, das sich während der Entwicklung des Projektes ständig ändert. Der Film Backlog enthält alle Anforderungen an den Film. Diese werden vom Product Owner priorisiert. Nur der Product Owner darf die Priorisierung bestimmen, er tut dies aber in Absprache mit den sonstigen Stakeholdern, insbesondere mit dem Kunden. Die Einträge des Film Backlogs werden Film Backlog Items genannt. Die Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}) beschreibt eine Technik, für die Formulierung von Backlog Items.
+
+Der Backlog wird bei jedem Sprint Planning betrachtet, um Elemente für den nächsten Sprint zu identifizieren. Nur beim Sprint Planning können Backlog Items in das Sprint Backlog überführt werden.
+
+Sobald der Film Backlog besteht, können neue Backlog Items hinzugefügt werden. Hauptsächlich geschieht dies während des Sprint Reviews des Sprint Reviews, in Zusammenarbeit von Kunden, Product Owner und Team. Es ist dem Team aber auch möglich, während des Sprints neue Backlog Items zu erstellen.
+
+## Sprint Backlog
+
+Das Sprint Backlog wird während des Sprint Planning für den jeweiligen Sprint erstellt. Es besteht aus Backlog Items, die zusammen vom Team und dem Product Owner ausgewählt wurden, um im jeweiligen Sprint bearbeitet zu werden. Die Einträge des Sprint Backlogs heißen Sprint Backlog Items. Die Summer der Sprint Backlog Items stellt die gesamte Arbeit dar, die das Team während eines Sprint erledigen wird.
+
+Zu dem Sprint Backlog darf nur während des Sprint Planning Elemente hinzugefügt werden. Während des Sprints dürfen keine Elemente hinzugefügt werden. Nur das Team verwaltet das Sprint Backlog und bestimmt selbstständig wann welche Anforderung wie umgesetzt wird. Dies sorgt dafür, dass sich das Team während eines Sprints auf die vorhandenen Aufgaben konzentrieren kann, ohne durch Änderungen und Einflüsse gestört zu werden.
+
+Während des Sprints benutzt das Team während aller Phasen die Einträge aus dem Sprint Backlog. Das Sprint Backlog stellt dabei den aktuellen Status der erledigten Aufgaben dar. Eine gute Technik, um ein Sprint Backlog aufzubauen ist das *Kanban Board* (siehe dazu Abschnitt \ref{techniken-kanban-board}).
+
+Das Team benutzt die Sprint Backlog Items im Sprint Review als Leitfaden, um mit dem Product Owner und dem Kunden über die Ergebnisse des Sprints zu diskutieren und diese zu präsentieren. 
+
+## Sprintergebnisse
+
+Die Sprintergebnisse sind mehrere fertig produzierte Video Beispiele von den Arbeiten, die das Team im letzten Sprint gemacht hat. Je nach Projekt Status können das Videos in unterschiedlicher Form und Qualität sein. Das einzige Kriterium ist, dass es ein Video ist, das die Arbeit und die Ideen des Teams der jeweiligen Anforderung zeigt. Es ist möglich, dass für eine Anforderung mehrere Videos existieren. Dies kann beispielsweise vorkommen, wenn das Team sich bei der Umsetzung zwischen mehreren Ideen nicht entscheiden konnte und so mehrere Ideen während des Sprints umgesetzt hat. Diese Ideen werden dann während des Sprint Reviews mit allen Beteiligten diskutiert.
+
+Die Sprintergebnisse werden vom Team erstellt und von diesem auch während des Sprint Reviews präsentiert.
+
+## Wachsender Film
+
+Der Wachsende Film repräsentiert die momentane Version des Imagefilms. Er ist ein in sich schlüssiger Film, der alle Arbeiten des Teams bis zum letzten Sprint Review zeigt. Er wird vom Team nach dem Sprint Review erstellt^["erstellt" bedeutet in diesem Kontext, dass aus den Sprintergebnissen und der vorherigen Version des Wachsenden Films eine neue Sequenz zusammengestellt wird.]. Der wachsende Film muss nicht veröffentlicht werden, kann es aber. Im Sinne der Transparenz gegenüber aller Stakeholder ist er aber ein obligatorisches Artefakt. Alle Stakeholder müssen Zugriff auf dieses Artefakt haben. 
 
 
 # Techniken
 
-## Cheap Production
+## Film Statements {#techniken-film-statements}
 
-## Film Statements
+- verschiedene Stati: Billig produziert, gut Produziert.
+
+## Cheap Production
 
 ## Ideen Verwaltung
 
-## Kanban Board
+## Kanban Board {#techniken-kanban-board}

@@ -217,7 +217,7 @@ In vielen Bereichen der Entwicklung mit XP ist Mut nötig. Es braucht Mut, ein R
 Software Entwicklung ist eine Arbeit mit Menschen. Ob im Team oder in der Kommunikation mit dem Auftraggeber, es handelt sich um Menschen, deren Ehre respektiert werden möchte. Respekt ist für jede Art der Zusammenarbeit zwischen Menschen erforderlich, um langfristig Vertrauen und eine positive Haltung zum Gegenüber zu entwickeln.
 
 
-## Die Praktiken
+## Die Praktiken {#xp-praktiken}
 
 Auf Basis der vorgestellten Werte führt XP viele Praktiken und Regeln ein, die konkret beschreiben, wie ein agiles Handeln möglich gemacht werden kann. Diese Praktiken sind im Folgenden aufgeführt. Hierbei sei erwähnt, dass nicht alle Praktiken nur XP typisch sind. Viele Praktiken wurden übernommen. Speziell an XP ist die Zusammenstellung dieser Praktiken und das konsequente und strukturierte Benutzen dieser. 
 
@@ -253,7 +253,7 @@ Mithilfe der User Stories und deren geschätzten Aufwand, die innerhalb einer It
 
 Die Phase "Managen" findet sich so nicht im Wasserfallmodell wieder. Es handelt sich hierbei auch nicht um einer zusätzliche explizite Phase, sondern eher um Rahmenbedingungen für die gesamte Entwicklungsarbeit. Die Praktiken, die hier beschrieben werden, können nicht einer bestimmten Phase zugeordnet werden. Sie bestimmen die Faktoren, die unabhängig von den Arbeitsphasen gleich bleiben.
 
-### Offene Arbeitsumgebung
+### Offene Arbeitsumgebung {#xp-praktiken-arbeitsumgebung}
 
 Kommunikation ist - wie schon weiter oben erwähnt - eins der Kernwerte von XP. Aus diesem Grund soll das Team nicht räumlich getrennt sein, sondern zusammen in einem informativen und offenen Raum arbeiten. So ergeben sich viele Möglichkeiten, Probleme auf möglichst schnellem Wege zu klären. Wenn ein Entwickler an einer bestimmten Stelle nicht weiterkommt, kann er direkt einen Kollegen fragen. Die Möglichkeit, direkt zu fragen, vermindert den Aufwand der Formalität von email oder den Wegen, zwischen Büroräumen zu wechseln. Außerdem ermöglicht es allen Mitgliedern des Entwicklerteams zu wissen, mit welchen Angelegenheiten sich die Kollegen gerade beschäftigen. Falls es ein Gespräch über ein Thema ist, das man als Entwickler gerade auch bearbeitet, gibt es unkompliziert die Möglichkeit, sich im Gespräch zu beteiligen. Alistair Cockburn nennt diesen Effekt "osmotische Kommunikation" \cite{cockburn} (zitiert nach \cite{krsteski}).
 
@@ -406,11 +406,9 @@ Der japanische Automobilhersteller Toyota entwickelte Produktions-Kanban, um ein
 
 Ein einfaches Beispiel, um die Technik der Signalkarte im Produktions-Kanban zu veranschaulichen, ist die Burger Produktion in einem Fast-Food Restaurant, wie sie auch in \cite{video2brainkanban} beschrieben wird. 
 
-Dazu wird folgende Situation angenommen, wie sie in Abbildung \ref{Beispiel Burgerproduktion Teil 1} (Grafik nach \cite{video2brainkanban}) abgebildet ist.
+Dazu wird folgende Situation angenommen, wie sie in Abbildung \ref{Beispiel Burgerproduktion Teil 1} (Grafik aus \cite{video2brainkanban}) abgebildet ist.
 
 ![Beispiel Burgerproduktion Teil 1](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.50.52.png)
-
-<!--TODO Grafik selber malen-->
 
 Es existieren die Abteilungen *Küche* und *Verkauf*. In diesem vereinfachten Beispiel wird davon ausgegangen, dass das Restaurant nur eine Sorte von Burgern verkauft. Die *Küche* ist dafür zuständig, Burger zu produzieren. Der Verkauf nimmt Burger von der Küche und verkauft diese an die Restaurant Gäste. Die Burger werden von der Küche an den Verkauf über eine Rutsche transportiert, die auch gleichzeitig als Zwischenlager der Burger zwischen den beiden Stationen Küche und Verkauf dient. Auf der Rutsche liegen fünf Burger und eine Signalkarte (grüne Markierung). Die Signalkarte teilt die Warteschlange der Burger so ein, dass drei Burger vor und zwei Burger nach der Signalkarte liegen.
 
@@ -426,7 +424,7 @@ Die Küche produziert nun drei neue Burger und stellt diese mit der Signalkarte 
 
 Aus dem Beispiel lässt sich die grundlegende Idee der Technik der Signalkarte aus dem Produktions-Kanban entnehmen. Neben dem Mechanismus der Signalisierung zeigt das Beispiel aber noch ein weiteren Aspekt auf: Die Anzahl der Burger, die die Küche bei Signalisierung produziert, wurde hier willkürlich festgelegt. Genau so auch die Anzahl der Burger, die nach einer Signalkarte als Zwischenpuffer dienen, um die Zeit der Produktion in der Küche zu überbrücken. Diese Faktoren können nun angepasst werden und so in kleinen Schritten der Verbesserung optimiert werden.
 
-Hier kann man sehen, dass hinter der Technik der Signalkarte im Produktions-Kanban das Prinzip der kontinuierlichen Veränderung <!--TODO Referenz--> steckt: die Faktoren *Anzahl der Burger, die bei Signal produziert werden* und *Anzahl der Burger, die hinter der Signalkarte sind* lassen sich auf die jeweilige Situation so anpassen, dass sich eine optimale Lagergröße ergibt.
+Hier kann man sehen, dass hinter der Technik der Signalkarte im Produktions-Kanban das Prinzip der kontinuierlichen Veränderung (siehe Abschnitt \ref{kanban-prinzip-kontinuierliche-verbesserungen}) steckt: die Faktoren *Anzahl der Burger, die bei Signal produziert werden* und *Anzahl der Burger, die hinter der Signalkarte sind* lassen sich auf die jeweilige Situation so anpassen, dass sich eine optimale Lagergröße ergibt.
 
 
 ### Transfer in die Software Welt
@@ -442,16 +440,15 @@ Die Werte von Kanban unterscheiden sich von den anderen beiden in dieser Arbeit 
 
 > "Value first, then flow, then waste reduction/elimination." \cite{anderson} (zitiert nach \cite{epping})
 
-Hier kommen die drei 
-- Value
-- Flow
+Hier kommen drei wesentliche Werte vor, die für Kanban eine Rolle spielen (Erläuterungen nach \cite{epping}):
+
+- **Value** beschreibt den Geschäftswert aus der Sicht des Kunden. Jede Arbeit -> Geschäftswert
+- Flow (gleichmäßiger Arbeitsfortschritt. wichtig, aber muss dem Geschäftswert untergeordnet sein)
 - Waste
 
 
 
-### Little's Law
 
-![Gleichung von "Little's Law"](http://download.heart-co.de/Bildschirmfoto%202015-07-03%20um%2015.34.44.png)
 
 ### Schlanke Softwareentwicklung
 
@@ -533,13 +530,15 @@ Waste ist:
 - Pull bedeutet VERTRAUEN. Dass Mitarbeiter nicht im Internet surfen, oder Kaffee trinken, sondern selbst Verantwortung übernehmen, motiviert sind, und ihr Bestes geben
 - Was mit Deadlines? Serviceklassen. Aber: Wenn Tickets beschleunigt werden, ist das System nicht mehr so gut vorhersagbar.
 
-### Evolutionäres Change Management
+
+### Kontinuierliche Verbesserungen {#kanban-prinzip-kontinuierliche-verbesserungen}
+
+(Evolutionäres Change Management)
 
 - David Anderson
 - Ausgangspunkt: Ist Zustand
 - Änderungen in kleinen Schritten
 
-### Kontinuierliche Verbesserungen
 
 - auch "Kaizen" genannt
 - kleine Verbesserungen: viel Geduld
@@ -676,118 +675,120 @@ http://www.it-agile.de/wissen/methoden/kanban/kanban-comic/
 
 # Scrum {#problemfeld-scrum}
 
-\cite{}
+<!-- \cite{wirdemann2014scrum} \cite{hanser} \cite{scrumguide} -->
 
-\cite{hanser}
+Scrum wurde von Ken Schwaber und Jeff Sutherland in den 90er Jahren entwickelt und zählt mittlerweile zu den "etabliertesten agilen Managamentmethoden" \cite{wirdemann2014scrum}. Scrum ist eine Projekt*management*methode, das zentrale Thema ist der Ablauf des Projekts, nicht die konkreten Techniken, die benutzt werden. Dies macht einen Transfer der Methode auf andere Domänen einfach.
 
-\cite{scrumguide}
+Ken Schwaber und Jeff Sutherland beschreiben in dem Scrum Guide \cite{scrumguide} die wesentlichen Merkmale von Scrum. Sie definieren dabei die Rollen, den Prozessablauf, die Aktivitäten und die Artefakte, die Scrum ausmachen. Im Folgenden soll auf diese Beschreibung augebaut werden. Dabei wurde auch auf Erläuterungen von \cite{hanser} und \cite{wirdemann2014scrum} zurückgegriffen.
 
-
-
-- Projekt**management**methode - Zentrales Thema: Ablauf des Projekts
-- Gründer: Ken Schwaber, Jeff Sutherland
-- Kein "Projektmanager"
-- Wesentliches Merkmal: Sprints
 
 ## Projektrollen
 
-- Product Owner
-	- Übernimmt Sichtweise des Kunden
-	- Anforderungsmanagement: Pflege von *Produktkonzept* und *Product Backlog*
-	- Releasemanagement: Planung von Funktionalität, Kosten und Termine
-	- Kommunikation: Team - Stakeholder
-	- Product Owner braucht Vollmachten und Zeit (Vollzeit Job)
-- Team
-	- Selbstorganisiert und klein: Kein Teamleiter, Vollzeitmitgliedschaft der Mitglieder
-	- Gemeinsames Büro: *osmotische* Kommunikation
-	- Multidisziplinär / Autonom: Alle benötigten Fähigkeiten sollten vorhanden sein, aber nicht auf "traditionelle Projektrollen" beharren
-- ScrumMaster
-	- Prozessverantwortlicher: Freund / Coach des Teams
-	- Sorgt dafür, dass Prinzipien von Scrum funktionieren. (Korrektheit des Prozesses)
-	- Ziel: Team kann ich Ruhe arbeiten
-	- Unterstützt den Product Owner und die Kommunikation mit dem Team (und schützt vor Einflüsse des Product Owners während eines Sprints)
-	- Hindernisse beseitigen: Teampsychologie, falsch verstandene Teamrollen, ungeeigneter Product Owner.
-	- Dem Team dienen: Kollegialer Führungsstil
+Scrum definiert drei verschiedene Rollen: den *Product Owner*, das *Team* und der *Scrum Master*. Diese Rollen definieren verschiedene Verantwortlichkeiten, die der Inhaber der Rolle zu übernehmen hat.
+
+### Product Owner
+
+Der Product Owner repräsentiert die Sichtweise des Kunden. Im besten Fall ist es der Kunde selbst, wenn nicht, so sollte es zumindest jemand sein, der in direktem und häufigen Kontakt mit dem Kunden steht. Der Product Owner hat die Verantwortung, das Product Backlog zu pflegen und Backlog Items zu priorisieren. Somit übernimmt er die Verantwortung, was wann vom Team entwickelt werden soll. Der Product Owner hat keinen Einfluss darauf, wie sich das Team innerhalb eines Sprints organisiert, oder wie die Aufgaben während eines Sprints abgearbeitet werden. Dies entscheidet allein das Team. Der Product Owner ist nur dafür verantwortlich, zu entscheiden, *was* innerhalb des Sprints bearbeitet wird.
+
+Der Product Owner ist das Bindeglied zwischen Team und Stakeholder: Alle Fragen, die das Team an die Stakeholder hat, stellt es dem Product Owner. Der weiß entweder selbst die Antwort oder kümmert sich um schnellstmögliche Antworten, indem er sich mit den Stakeholdern in Verbindung setzt. Und auch für neue Anforderungen oder Änderungswünsche, die die Stakeholder an das Team hat, ist der Product Owner der Ansprechpartner. Somit sorgt der Product Owner für die Kommunikation zwischen Team und Stakeholder.
+
+### Team
+
+Das Team ist selbstorganisiert und klein: es gibt keinen Teamleiter und alle Mitglieder sind Vollzeitmitglieder in dem Projekt. Es gibt keine Teilzeit Mitglieder, die noch in anderen Projekten arbeiten. Dies sorgt dafür, dass zu jederzeit das vollständige Team verfügbar ist, dass sich das Team als eine Einheit sieht und gemeinsam Verantwortung für das Projekt übernehmen kann. 
+
+Das Team arbeitet in einem gemeinsamen Büro: Es gibt keine Abteilungen oder sontige räumliche Trennungen zwischen den Teammitgliedern. Dies sorgt für eine osmotische Kommunikation (siehe Abschnitt \ref{xp-praktiken-arbeitsumgebung}).
+
+Das Team ist Multidisziplinär und Autonom. Alle benötigten Fähigkeiten für das Projekt sind im Team vorhanden, sodass das Team während des Sprints nicht auf fachliche Hilfe von angewiesen ist. Dies sorgt für eine möglichst schnelle Bearbeitung der Aufgaben. Es muss auf keine Arbeit von außen gewartet werden, was zu unnötigen und unvorhergesehenen Verzögerungen des Sprintfortschritts führen könnte. Obwohl jedes Teammitglied seine Spezialisierung hat, wird im Team nicht in Abteilungen gedacht: Das Team sieht sich als eine Einheit, und alle Teammitglieder sind gleichberechtigt, Entscheidungen zu treffen. Es gibt keinen Teamleiter.
+
+### Scrum Master
+
+Der Scrum Master ist verantwortlich dafür, das der Prozess von Scrum und seine Regeln eingehalten wird. Er ist der "Freund" oder "Coach" des Teams. Sein Ziel ist es, dass das Team in Ruhe arbeiten kann,  und er schützt das Team vor Einflüssen vom Product Owner oder anderen Stakeholdern während eines Sprints.
+
+Der Scrum Master unterstützt außerdem den Product Owner in der Kommunikation mit dem Team. Er hilft sowohl Team als auch Product Owner die Prinzipien von Scrum zu verstehen.
+
+Gibt es Hindernisse, die ein effizientes Arbeiten des Teams gefährden, so kümmert sich der Scrum Master um die Beseitigung dieser. Dies können nicht nur falsche Einflüsse von Stakeholder und Product Owner sein, sondern auch falsch verstandene Teamrollen, ein ungeeigneter Product Owner, oder ganz praktische Probleme, wie ein defekter Rechner eines Teammitglieds. Für die Beseitigung vieler dieser Hindernisse ist ein gewisses Feingefühl des Scrum Masters gefragt, er muss sich auf teampsychologische Aspekte einlassen und in einem kollegialen Führungsstil das Team in die Richtlinien von Scrum leiten.
+
 
 ## Der Prozess
 
+Der Prozess wird in Abbildung \ref{Schematische Darstellung des Scrum Prozesses} dargestellt.
+
 ![Schematische Darstellung des Scrum Prozesses](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2012.06.07.png)
 
-- Vision des Product Owners
-	- kurze Beschreibung des Produkts
-	- Abschätzung des Aufwands
-	- mögliche Meilensteine
-- ist es Sinnvoll, das Projekt anzugehen?
-- Product Backlog wird vom Product Owner gefüllt
-- Team arbeitet in Sprints den Product Backlog ab
+Zu Beginn des Prozesses erstellt der Product Owner eine Vision des Projekts: er beschreibt das Projekt kurz und schätzt grob den gesamten Aufwand und legt außerdem mögliche Meilensteine fest. Dies ist keine detaillierte Aufwandschätzung oder ähnliches, nur ein grobes Umreißen des Projekts und seinem groben Ziel. Hilfreich ist auch, das Ziel des Projekts in einem Satz zusammen zu fassen, zum Beispiel:
+
+> "Wir wollen das einzige Job-Portal für High Professionals in Deutschland bauen." \cite{wirdemann2014scrum}
+
+Auf Basis der Vision erstellt der Product Owner das Product Backlog und seine ersten Einträge. Diese Einträge werden dann vom Team in Sprints abgearbeitet. 
+
 
 ### Sprint
 
-- Länge max. 30 Tage. Fixe Sprintlänge, nicht variieren.
+Der Sprint ist das Herzstück von Scrum. Ein Sprint ist ein Iterationsdurchlauf in der Entwicklung und als Ergebnis des Sprints steht immer ein Stück lauffähige Software. Die Länge des Sprints ist maximal 30 Tage. Ist die Sprintlänge festgelegt, kann sie sich während eines Sprints nicht mehr ändern. Auch von Änderungen der Sprintlängen innerhalb eines Projektes ist abzusehen, da mithilfe der Sprintlänge eine gewisse Regelmäßigkeit eingeführt wird, die dem Team hilft, bessere Abschätzungen machen zu können, und durch die Regelmäßig eine stetige Leistung bringen zu können.
 
 ### Sprint Planungssitzung
 
-- Sprint Ziel definieren
-- Sprint Backlog wird erstellt (=Anforderungen für das nächste Inkrement) (
-- Elemente des Sprint Backlogs kommen aus dem priorisiertem Product Backlog
-- Ergebnis: Realistisches Sprint Backlog. Team, das sich zu dessen Realisierung verpflichtet hat.
+Jeder Sprint beginnt mit einer Sprint Planungssitzung. In dieser wird ein Sprint Ziel definiert, das in einer kurzen Formulierung wiedergibt, was in diesem Sprint vom Team erreicht werden soll.
+
+In der Planungssitzung wird das Sprint Backlog erstellt, welches alle Anforderungen für das nächste Inkrement (also das Ergebnis des Sprints) enthält. Die Elemente des Sprint Backlogs werden aus dem priorisiertem Product Backlog entnommen. 
+
+Das Ergebnis der Sprint Planungssitzung ist ein realistisches Sprint Backlog, sowie ein Team, dass sich zu dessen Realisierung verpflichtet hat.
 
 ### Daily Scrum
 
-- täglich, gleicher Ort, gleiche Zeit. 
-- Kurze Sitzung (Timebox: 15 Minuten). 
-- Team und ScrumMaster müssen anwesend sein. 
-- Product Owner sollte anwesend sein. 
-- Status und Probleme ansprechen und Aufgaben besprechen.
-- Jeder aus dem *Team* beantwortet folgende 3 Fragen:
-	- Was habe ich seit dem letzten Daily Scrum für das Projekt getan?
-	- Wass will ich bis zum nächsten Daily Scrum für das Projekt tun?
-	- Was hindert mich daran, so effektiv wie möglich zu arbeiten?
-- ScrumMaster und Product Owner sorgen für die Beseitigung der Probleme
-- Häufige Empfehlung: *Standup Meetings*.
+Daily Scrum ist eine tägliche Sitzung innerhalb des Sprints, um das gesamte Team über den momentanen Stand des Sprints zu synchronisieren und anstehende und vergangene Aufgaben zu besprechen. Das Daily Scrum wird täglich am gleichen Ort und zur selben Zeit durchgeführt. Scrum schreibt eine Timebox (also ein Zeitlimit) von 15 Minuten vor. 
+
+Als Teilnehmer *muss* das gesamte Team anwesend sein, sowie der Scrum Master. Der Product Owner *sollte* für evtl. Rückfragen zu Anforderungen anwesend sein. Es können auch weitere Stakeholder anwesend sein, nur übernehmen sie keine aktive Rolle sondern sind nur passive Zuhörer.
+
+Zentraler Inhalt der Sitzung ist, dass alle Teammitglieder drei Fragen beantworten:
+
+- Was habe ich seit dem letzten Daily Scrum für das Projekt getan?
+- Wass will ich bis zum nächsten Daily Scrum für das Projekt tun?
+- Was hindert mich daran, so effektiv wie möglich zu arbeiten?
+
+Der Scrum Master und der Product Owner sind für die Beseitigung der Probleme, die in der dritten Frage von den Teammitgliedern angesprochen werden, verantwortlich.
+
+Es ist wichtig, das Zeitlimit von 15 Minuten einzuhalten, da diese Sitzung täglich stattfindet und eine regelmäßige Überschreitung des Zeitlimits zu viel Arbeitszeit kostet. Ein Daily Scrum ist auch nicht dazu da, um in gemeinsamen Sitzung alle Probleme und Fragen zu klären, die auftauchen, sondern will nur dafür sensibel machen. Das Team kann sich dann im Nachhinein in kleineren Gruppen treffen, um detailliert über die Problemstellung und mögliche Lösungsansätze zu diskutieren. So wird von Unbeteiligten nicht unnötige Arbeitszeit in Anspruch genommen.
+
+Eine häufige Empfehlung ist die Durchführung des Daily Scrum im Stehen (dem sogenannten *Standup Meeting*). Durch die Tatsache, dass die Beteiligten stehen, entstehen keine langen Diskussionen und die "Sitzungen" im Stehen bleiben in der Regel kurz.
+
 
 ### Entwicklung im Sprint
 
-- Team entwickelt ohne Störung von außen und ohne Veränderung der Anforderungen
-- Scrum: Keine Vorgaben für Entwicklungspraktiken: empfehlenswert sind agile Methoden wie z. B. aus XP
+Die Entwicklung innerhalb des Sprints geschieht ohne Störung von außen. Während eines Sprints dürfen die Anforderungen, wie sie im Sprint Backlog festgelegt wurden, nicht verändert werden. Somit kann sich das Team voll auf diese Anforderungen konzentrieren, ohne das es eine kurzfristige Änderung befürchten muss.
+
+In Scrum gibt es keine Vorgaben, wie das Team zu entwickeln hat. Einzige Bedingung ist, dass es selbstorganisiert arbeitet. Häufig werden Praktiken aus XP angewandt (siehe Abschnitt \ref{xp-praktiken}).
+
 
 ### Sprint Review
 
-- Präsentation und Abnahme des Software Inkrements (Vollständig und fehlerfrei) vor dem Product Owner
-- Timebox: 4 Stunden
-- Live Demo / Product Owner führt selbst Tests an der Software durch
-- Product Owner entscheidet, ob das Ergebnis zufriedenstellend ist.
+Im Sprint Review präsentiert das Team dem Product Owner das Ergebnis des Sprints in Form von lauffähigen Software. Diese muss vollständig und fehlerfrei sein. Der Sprint Review hat eine maximale Länge von vier Stunden.
+
+Bei dem Sprint Review wird ausschließlich lauffähige Software präsentiert: keine PowerPoint Präsentationen oder ähnliches. Das Team bereitet sich auf den Sprint Review nicht gesondert vor. So kann sichergestellt werden, dass der Product Owner den echten Projekt Status sieht.
+
+Der Product Owner führt selbst Tests an der Software durch und  entscheidet abschließend, ob das Ergebnis des Sprints zufriedenstellend ist.
 
 ### Sprint Retrospektive
 
-- Timebox: 3 Stunden
-- Interne Reflektion zum Sprint. Bewertung der Zusammenarbeit des Teams. Verbesserungsmaßnahmen.
-- Auswahl und Entscheidung über die Verwendung agiler Praktiken.
-- Teilnehmer: Team, ScrumMaster (soll). Product Owner (kann)
-- Ziel: Optimierung des Prozesses
+Die Sprint Retrospektive ist eine Interne Reflektion des Teams zum Sprint. Sie dauert 3 Stunden und Teilnehmer sind das Team und der Scrum Master. Der Product Owner optional auch teilnehmen.
+
+In der Sprint Retrospektive wird die Zusammenarbeit des Teams bewertet und Verbesserungsmaßnahmen zu einem effektiverem Teamwork entwickelt. Es wird darüber diskutiert, welche agile Praktiken für das Entwickeln gut funktionieren, und welche besser ausgetauscht werden. Das Ziel der Retrospektive ist die Optimierung des Prozesses. 
+
 
 ## Artefakte
 
+In Scrum werden einige Artefakte festgelegt. Diese Artefakte dienen dazu, eine große Transparenz gegenüber den allen Teilnehmern zu schaffen. 
+
 ### Product Backlog
 
-- zentrales Dokument zum Erfassen und Verwalten von Anforderungen
-- 1 Item = Funktionalität
-- evtl. User Storys für die Anforderungsspezifikation
-- Priorisierung. Detailierung. Aufwandsschätzung
+Das Product Backlog ist das zentrale Dokument zum Erfassen und Verwalten der Anforderungen, die das Projekt innehält. Die Einträge im Product Backlog werden Backlog Items genannt. Dabei entspricht ein Backlog Item einer Funktionalität, die für den Benutzer relevant ist. Hilfreich für die Anforderungsspezifikation im Product Backlog ist die Praktik der *User Storys* (siehe Abschnitt \ref{planung-user-stories}).
+
+Der Product Owner ist für die für die Pflege, die Verwaltung und den Zugriff auf das Product Backlog zuständig. Er priorisiert die vorhandenen Einträge nach der Wichtigkeit für den Kunden und detailliert die Einträge im weiteren Projektverlauf. Mithilfe einer gemeinsamen Aufwandschätzung mit dem Team können so während der Sprint Planungssitzung die Backlog Items ausgewählt werden, die in das jeweilige Sprint Backlog übertragen werden.
 
 ### Sprint Backlog
 
- - Backlog, dass die Aufgaben des aktuellen Sprints auflistet
- - mithilfe dieser Aufgaben kann das Sprint Ziel erreicht werden
- - entsteht in der Sprint Planungssitzung
- - Aufwand ist abgeschätzt ( <= 16 Stunden )
- - Stellt den momentanen Status der Entwicklungsarbeit dar
+Das Sprint Backlog ist ein Backlog, das die Aufgaben des aktuellen Sprints auflistet. Mithilfe dieser Aufgaben kann das Team während eines Sprints das Sprint Ziel erreichen. Es entsteht während der Sprint Planungssitzung, indem der der Product Owner zusammen mit dem Team die priorisierte Liste des Product Backlogs betrachtet und mit einer gemeinsamen Aufwandschätzung ein Paket zusammenstellt, von dem das Team behauptet, dass es dieses Paket zum Ende des Sprints abarbeiten kann. Der Aufwand jedes einzelnen Items im Sprint Backlog ist abgeschätzt und beträgt weniger als 16 Stunden. Bei größeren Items muss das Item in kleinere Arbeitspakete aufgeteilt werden. Das Sprint Backlog stellt den momentanen Status der Entwicklungsarbeit dar.
 
-### Releaseplan
+### Inkrement
 
- - etwas umstritten: Prinzip des "Moving Targets": Ergebnis und Ziel lässt sich nicht 100% voraussagen
- - daher: Releaseplan kann sich zwischen den Sprints ändern
-
-### Burndown Chart
-
-![Burndown Chart](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2014.33.50.png)
+Das Inkrement ist das Ergebnis des Sprints, also das Arbeitsergebnis des Teams nach dem Ablauf des Sprints. Das Inkrement muss vollständig und fehlerfrei sein, das bedeutet, alle Anforderungen, die im Sprint Backlog festgehalten wurden, müssen in dem Inkrement umgesetzt worden sein und dürfen keine Fehler enthalten. Das Inkrement dient dem Team dazu, während der Sprint Reviews dem Product Owner die getane Arbeit des letzten Sprint zu präsentieren. Anhand des Inkrements überprüft der Product Owner die Leistung des Teams.
