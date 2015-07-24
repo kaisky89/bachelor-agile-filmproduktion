@@ -449,12 +449,12 @@ Hier kommen drei wesentliche Werte vor, die für Kanban eine Rolle spielen (Erl�
 
 ### Schlanke Softwareentwicklung
 
-Die *schlanke Softwareentwicklung* hat keine explizit formulierten Werte. \cite[epping] formuliert aber mit Bezugname zu \cite{poppendieck2003lean} 
+Die *schlanke Softwareentwicklung* hat keine explizit formulierten Werte. \cite[epping] stellt aber mit Bezugname zu \cite{poppendieck2003lean} 7 Werte vor, die im Folgenden aufgeführt und kurz erklärt werden.
 
-- keine explizite Wert Formulierung
-- Aber: Epping stellt 7 Werte vor
 
 #### Eliminate Waste {#eliminate-waste}
+
+
 
 Waste ist:
 
