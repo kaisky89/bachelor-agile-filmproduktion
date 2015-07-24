@@ -442,20 +442,19 @@ Die Werte von Kanban unterscheiden sich von den anderen beiden in dieser Arbeit 
 
 Hier kommen drei wesentliche Werte vor, die für Kanban eine Rolle spielen (Erläuterungen nach \cite{epping}):
 
-- **Value** beschreibt den Geschäftswert aus der Sicht des Kunden. Jede Arbeit -> Geschäftswert
-- Flow (gleichmäßiger Arbeitsfortschritt. wichtig, aber muss dem Geschäftswert untergeordnet sein)
-- Waste
-
-
-
+- **Value** beschreibt den Geschäftswert aus der Sicht des Kunden. Dies ist der zentrale Wert von Kanban. Jede Arbeit, die getan wird, muss dem Kunden einen Geschäftswert bringen.
+- **Flow** beschreibt den gleichmäßigen Arbeitsfortschritt. Dieser ist wichtig, muss aber dem Geschäftswert untergeordnet sein. In Kanban wird aber davon ausgegangen, dass ein gleichmäßiger Arbeitsfortschritt dem Geschäftswert zugute kommt.
+- **Waste** stellt den Ballast dar, der den gleichmäßigen Arbeitsfortschritt behindert. Für die verschiedene Typen von Ballast, siehe \ref{eliminate-waste}.
 
 
 ### Schlanke Softwareentwicklung
 
+Die *schlanke Softwareentwicklung* hat keine explizit formulierten Werte. \cite[epping] formuliert aber mit Bezugname zu \cite{poppendieck2003lean} 
+
 - keine explizite Wert Formulierung
 - Aber: Epping stellt 7 Werte vor
 
-#### Eliminate Waste
+#### Eliminate Waste {#eliminate-waste}
 
 Waste ist:
 
