@@ -468,7 +468,7 @@ Ballast beschreibt also alles das, was keinen Wert für den Kunden darstellt. \c
 - **Aufgaben Wechsel** benötigen kognitive Ressourcen, um sich gedanklich auf den Kontext der neuen Aufgabe einzustimmen. Häufige Aufgabenwechsel führen also dazu, dass Mitarbeiter mit der gleichen Leistung weniger Ergebnisse mit Wert erzielen. 
 - **Wartezeiten** sind Ballast, da mit jeder Verzögerung der Kunde auf die Umsetzung seiner Anforderung warten muss. Wenn er allerdings schnell auf Anforderungen hin Ergebnisse sieht, bekommt er schnell - das heißt ohne große Investition der Ressource *Zeit* - Wert zu sehen. Somit ist alles, was an unnötiger Wartezeit zwischen *Eingang einer Anforderung* und *Lieferung der Funktion* liegt, Ballast.
 - **Bewegung** beschreibt unnötige Änderungen im Arbeitssystem. Dies ist zum Beispiel die Bewegung eines Mitarbeiters zwischen mehreren Aufgaben (siehe auch *Aufgaben Wechsel*) oder auch die Bewegung wichtiger Artefakte, wodurch ein Zugriff von Mitarbeiter auf das Artefakt erschwert wird. Außerdem wird der Aufwand, den ein Teammitglied für das Beschaffen von nötigen Informationen braucht, auch als *Bewegung* gedeutet.
-- **Defects**
+- **Korrekturen und Fehler** sind unnötige Arbeit: wenn Funktionen gleich *richtig* entwickelt werden, muss nicht doppelt daran gearbeitet werden. Aber nicht nur die Arbeit an sich ist Ballast, sondern auch die Zeit, in der ein Fehler unentdeckt bleibt: je länger ein Fehler unentdeckt ist, desto mehr Zeit und Arbeit ist nötig, ihn zu finden: ein großer Systemfehler, der innerhalb weniger Minuten entdeckt wird, stellt weniger Ballast dar, als ein unscheinbarer Fehler, der monatelang unentdeckt im System verweilt.
 
 #### Amplify Learning
 
