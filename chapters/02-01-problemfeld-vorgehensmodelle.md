@@ -132,7 +132,7 @@ Mithilfe des Spiralmodells kann auf die Problemstellung des "Moving Targets" bes
 Ein weiterer Vorteil des Spiralmodells ist die Möglichkeit, dem Kunden schon früh funktionierende Software zeigen zu können. Zwar sind dies zu Anfang der Entwicklung nur kleine Teilaspekte von funktionierender Software, aber der Auftraggeber bekommt schnell einen Eindruck, wie die Software später aussehen und funktionieren wird. Dies ermöglicht dem Auftragnehmer, klarer zu kommunizieren, was entwickelt wird. Durch die Präsentation bereits funktionierender Software kann der Auftraggeber außerdem sehen, welche Funktionen noch fehlen. 
 
 
-# Schwergewichtige Vorgehensmodelle
+# Schwergewichtige Vorgehensmodelle {#schwergewichtige-vorgehensmodelle}
 
 Man unterscheidet zwischen schwergewichtige und leichtgewichtige Vorgehensmodelle \cite{hanser}.  
 
@@ -460,12 +460,12 @@ Mary und Tom Poppendieck beschreiben *Ballast* wie folgt:
 
 > "Waste is anything that does not add value to a product, value as perceived by the customer." \cite{poppendieck2003lean} (zitiert nach \cite{epping})
 
-Ballast beschreibt also alles das, was keinen Wert für den Kunden darstellt. \cite{epping} beschreibt sieben Kategorien von Ballast:
+Ballast beschreibt also alles das, was keinen Wert für den Kunden darstellt. \cite{epping} und \cite{poppendieck2003lean} beschreiben sieben Kategorien von Ballast:
 
 - **Teilweise getane Arbeit** hat für den Kunden noch kein Wert. In der Softwareentwicklung tendiert nicht fertig entwickelte Funktionalität außerdem dazu, mit der Zeit obsolet zu werden. Angefangene und nicht zu Ende geführte Aufgaben sind somit Ballast: Es ist Arbeit, die dem Kunden kein Wert bietet.
-- Extra Processes
-- Extra Features
-- Task Switching
+- **Überflüssige Arbeit** Viele Vorgehensmodelle in der Softwareentwicklung sind stark dokumentenlastig (siehe Abschnitt \ref{schwergewichtige-vorgehensmodelle}). Dokumentation ist aber häufig unnötige zusätzliche Arbeit, von die eigentlich keiner profitiert, weil sie wahrscheinlich von niemanden wirklich gelesen wird. Zu dokumentenlastiges Vorgehen ist also ein Beispiel für überflüssige Arbeit, die keinen Wert für den Kunden schafft.
+- **Überflüssige Funktionen** sind Ballast, da jede Zeile Code in der Software Entwicklung mit einem Aufwand von Wartung verbunden ist. Funktionen, die nicht benötigt werden, sollten also nicht im System auftauchen, da sie unnötig Aufmerksamkeit, Arbeit und Zeit für sich beanspruchen.
+- **Aufgaben Wechsel** benötigen kognitive Ressourcen, um sich gedanklich auf den Kontext der neuen Aufgabe einzustimmen. Häufige Aufgabenwechsel führen also dazu, dass Mitarbeiter mit der gleichen Leistung weniger Ergebnisse mit Wert erzielen, da unnötiger  
 - Waiting
 - Motion
 - Defects
