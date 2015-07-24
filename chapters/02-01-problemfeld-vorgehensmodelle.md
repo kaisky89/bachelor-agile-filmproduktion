@@ -465,10 +465,10 @@ Ballast beschreibt also alles das, was keinen Wert für den Kunden darstellt. \c
 - **Teilweise getane Arbeit** hat für den Kunden noch kein Wert. In der Softwareentwicklung tendiert nicht fertig entwickelte Funktionalität außerdem dazu, mit der Zeit obsolet zu werden. Angefangene und nicht zu Ende geführte Aufgaben sind somit Ballast: Es ist Arbeit, die dem Kunden kein Wert bietet.
 - **Überflüssige Arbeit** Viele Vorgehensmodelle in der Softwareentwicklung sind stark dokumentenlastig (siehe Abschnitt \ref{schwergewichtige-vorgehensmodelle}). Dokumentation ist aber häufig unnötige zusätzliche Arbeit, von die eigentlich keiner profitiert, weil sie wahrscheinlich von niemanden wirklich gelesen wird. Zu dokumentenlastiges Vorgehen ist also ein Beispiel für überflüssige Arbeit, die keinen Wert für den Kunden schafft.
 - **Überflüssige Funktionen** sind Ballast, da jede Zeile Code in der Software Entwicklung mit einem Aufwand von Wartung verbunden ist. Funktionen, die nicht benötigt werden, sollten also nicht im System auftauchen, da sie unnötig Aufmerksamkeit, Arbeit und Zeit für sich beanspruchen.
-- **Aufgaben Wechsel** benötigen kognitive Ressourcen, um sich gedanklich auf den Kontext der neuen Aufgabe einzustimmen. Häufige Aufgabenwechsel führen also dazu, dass Mitarbeiter mit der gleichen Leistung weniger Ergebnisse mit Wert erzielen, da unnötiger  
-- Waiting
-- Motion
-- Defects
+- **Aufgaben Wechsel** benötigen kognitive Ressourcen, um sich gedanklich auf den Kontext der neuen Aufgabe einzustimmen. Häufige Aufgabenwechsel führen also dazu, dass Mitarbeiter mit der gleichen Leistung weniger Ergebnisse mit Wert erzielen. 
+- **Wartezeiten** sind Ballast, da mit jeder Verzögerung der Kunde auf die Umsetzung seiner Anforderung warten muss. Wenn er allerdings schnell auf Anforderungen hin Ergebnisse sieht, bekommt er schnell - das heißt ohne große Investition der Ressource *Zeit* - Wert zu sehen. Somit ist alles, was an unnötiger Wartezeit zwischen *Eingang einer Anforderung* und *Lieferung der Funktion* liegt, Ballast.
+- **Bewegung** beschreibt unnötige Änderungen im Arbeitssystem. Dies ist zum Beispiel die Bewegung eines Mitarbeiters zwischen mehreren Aufgaben (siehe auch *Aufgaben Wechsel*) oder auch die Bewegung wichtiger Artefakte, wodurch ein Zugriff von Mitarbeiter auf das Artefakt erschwert wird. Außerdem wird der Aufwand, den ein Teammitglied für das Beschaffen von nötigen Informationen braucht, auch als *Bewegung* gedeutet.
+- **Defects**
 
 #### Amplify Learning
 
