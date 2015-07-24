@@ -454,11 +454,15 @@ Die *schlanke Softwareentwicklung* hat keine explizit formulierten Werte. \cite[
 
 #### Eliminate Waste {#eliminate-waste}
 
+*Waste* bedeutet *Ballast*. Das Eliminieren von Ballast nimmt in der schlanken Softwareentwicklungentwicklung eine zentrale Rolle ein^[Deswegen auch der Begriff "schlank": Etwas, das von unnötigen Ballast befreit ist, ist schlank. Ein Mensch, der nach einer Diät abgenommen hat und somit sein Körpergewicht reduziert hat, ist "schlank"; er hat seinen Körper von unnötigen Ballast (in diesem Fall unnötige Fettreserven) befreit]. 
 
+Mary und Tom Poppendieck beschreiben *Ballast* wie folgt:
 
-Waste ist:
+> "Waste is anything that does not add value to a product, value as perceived by the customer." \cite{poppendieck2003lean} (zitiert nach \cite{epping})
 
-- Partially Done Work
+Ballast beschreibt also alles das, was keinen Wert für den Kunden darstellt. \cite{epping} beschreibt sieben Kategorien von Ballast:
+
+- **Teilweise getane Arbeit** hat für den Kunden noch kein Wert. In der Softwareentwicklung tendiert nicht fertig entwickelte Funktionalität außerdem dazu, mit der Zeit obsolet zu werden. Angefangene und nicht zu Ende geführte Aufgaben sind somit Ballast: Es ist Arbeit, die dem Kunden kein Wert bietet.
 - Extra Processes
 - Extra Features
 - Task Switching
