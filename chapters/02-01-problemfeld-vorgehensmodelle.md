@@ -406,11 +406,9 @@ Der japanische Automobilhersteller Toyota entwickelte Produktions-Kanban, um ein
 
 Ein einfaches Beispiel, um die Technik der Signalkarte im Produktions-Kanban zu veranschaulichen, ist die Burger Produktion in einem Fast-Food Restaurant, wie sie auch in \cite{video2brainkanban} beschrieben wird. 
 
-Dazu wird folgende Situation angenommen, wie sie in Abbildung \ref{Beispiel Burgerproduktion Teil 1} (Grafik nach \cite{video2brainkanban}) abgebildet ist.
+Dazu wird folgende Situation angenommen, wie sie in Abbildung \ref{Beispiel Burgerproduktion Teil 1} (Grafik aus \cite{video2brainkanban}) abgebildet ist.
 
 ![Beispiel Burgerproduktion Teil 1](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.50.52.png)
-
-<!--TODO Grafik selber malen-->
 
 Es existieren die Abteilungen *Küche* und *Verkauf*. In diesem vereinfachten Beispiel wird davon ausgegangen, dass das Restaurant nur eine Sorte von Burgern verkauft. Die *Küche* ist dafür zuständig, Burger zu produzieren. Der Verkauf nimmt Burger von der Küche und verkauft diese an die Restaurant Gäste. Die Burger werden von der Küche an den Verkauf über eine Rutsche transportiert, die auch gleichzeitig als Zwischenlager der Burger zwischen den beiden Stationen Küche und Verkauf dient. Auf der Rutsche liegen fünf Burger und eine Signalkarte (grüne Markierung). Die Signalkarte teilt die Warteschlange der Burger so ein, dass drei Burger vor und zwei Burger nach der Signalkarte liegen.
 
@@ -426,7 +424,7 @@ Die Küche produziert nun drei neue Burger und stellt diese mit der Signalkarte 
 
 Aus dem Beispiel lässt sich die grundlegende Idee der Technik der Signalkarte aus dem Produktions-Kanban entnehmen. Neben dem Mechanismus der Signalisierung zeigt das Beispiel aber noch ein weiteren Aspekt auf: Die Anzahl der Burger, die die Küche bei Signalisierung produziert, wurde hier willkürlich festgelegt. Genau so auch die Anzahl der Burger, die nach einer Signalkarte als Zwischenpuffer dienen, um die Zeit der Produktion in der Küche zu überbrücken. Diese Faktoren können nun angepasst werden und so in kleinen Schritten der Verbesserung optimiert werden.
 
-Hier kann man sehen, dass hinter der Technik der Signalkarte im Produktions-Kanban das Prinzip der kontinuierlichen Veränderung <!--TODO Referenz--> steckt: die Faktoren *Anzahl der Burger, die bei Signal produziert werden* und *Anzahl der Burger, die hinter der Signalkarte sind* lassen sich auf die jeweilige Situation so anpassen, dass sich eine optimale Lagergröße ergibt.
+Hier kann man sehen, dass hinter der Technik der Signalkarte im Produktions-Kanban das Prinzip der kontinuierlichen Veränderung (siehe Abschnitt \ref{kanban-prinzip-kontinuierliche-verbesserungen}) steckt: die Faktoren *Anzahl der Burger, die bei Signal produziert werden* und *Anzahl der Burger, die hinter der Signalkarte sind* lassen sich auf die jeweilige Situation so anpassen, dass sich eine optimale Lagergröße ergibt.
 
 
 ### Transfer in die Software Welt
@@ -442,16 +440,15 @@ Die Werte von Kanban unterscheiden sich von den anderen beiden in dieser Arbeit 
 
 > "Value first, then flow, then waste reduction/elimination." \cite{anderson} (zitiert nach \cite{epping})
 
-Hier kommen die drei 
-- Value
-- Flow
+Hier kommen drei wesentliche Werte vor, die für Kanban eine Rolle spielen (Erläuterungen nach \cite{epping}):
+
+- **Value** beschreibt den Geschäftswert aus der Sicht des Kunden. Jede Arbeit -> Geschäftswert
+- Flow (gleichmäßiger Arbeitsfortschritt. wichtig, aber muss dem Geschäftswert untergeordnet sein)
 - Waste
 
 
 
-### Little's Law
 
-![Gleichung von "Little's Law"](http://download.heart-co.de/Bildschirmfoto%202015-07-03%20um%2015.34.44.png)
 
 ### Schlanke Softwareentwicklung
 
@@ -533,13 +530,15 @@ Waste ist:
 - Pull bedeutet VERTRAUEN. Dass Mitarbeiter nicht im Internet surfen, oder Kaffee trinken, sondern selbst Verantwortung übernehmen, motiviert sind, und ihr Bestes geben
 - Was mit Deadlines? Serviceklassen. Aber: Wenn Tickets beschleunigt werden, ist das System nicht mehr so gut vorhersagbar.
 
-### Evolutionäres Change Management
+
+### Kontinuierliche Verbesserungen {#kanban-prinzip-kontinuierliche-verbesserungen}
+
+(Evolutionäres Change Management)
 
 - David Anderson
 - Ausgangspunkt: Ist Zustand
 - Änderungen in kleinen Schritten
 
-### Kontinuierliche Verbesserungen
 
 - auch "Kaizen" genannt
 - kleine Verbesserungen: viel Geduld
