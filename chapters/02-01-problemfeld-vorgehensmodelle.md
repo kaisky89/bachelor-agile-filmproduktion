@@ -486,7 +486,7 @@ Dies ist kein Appell, sich gar nicht zu Entscheiden. Entscheidungen sind wichtig
 
 #### Deliver as Fast as Possible
 
-Wenn die Zeit zwischen Eingang einer Aufgabe und deren Erledigung gering ist, ist es möglich, sehr schnell für seine getane Arbeit Feedback zu bekommen. Auf der anderen Seite ist es den Stakeholdern, die die Entscheidung der Anforderungen stellen möglich, schnell eine Reaktion auf ihr Anforderung zu sehen. Ein Entwicklungsprozess besteht immer aus der iterativen Bewegung von *Entwicklung*, *Feedback*, *Verbesserung*. Je kürzer die Zeit, die für die Entwicklung gebraucht wird, desto eher kann mit dem Feedback genau das entwickelt w
+Wenn die Zeit zwischen Eingang einer Aufgabe und deren Erledigung gering ist, ist es möglich, sehr schnell für seine getane Arbeit Feedback zu bekommen. Auf der anderen Seite ist es den Stakeholdern, die die Entscheidung der Anforderungen stellen möglich, schnell eine Reaktion auf ihr Anforderung zu sehen. Ein Entwicklungsprozess besteht immer aus der iterativen Bewegung von *Entwicklung*, *Feedback*, *Verbesserung*. Je kürzer die Zeit, die für die Entwicklung gebraucht wird, desto mehr kann gele eher kann mit dem Feedback genau das entwickelt werden, was benötigt wird. Und das für Anforderungen
 
 - wenig parallele Arbeit, Konzentration auf die 1 Aufgabe
 - Je schneller die Aufgaben erledigt, desto früher ist Feedback möglich
