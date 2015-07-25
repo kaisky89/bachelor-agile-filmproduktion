@@ -497,16 +497,24 @@ Das Team braucht die Möglichkeit, selbst entscheiden zu können. Niemand verste
 
 ## Prinzipien von Kanban
 
-Auf den Werten der schlanken Softwareentwicklung basieren die Prinzipien^[Epping \cite{epping} nennt die Prinzipien "Elemente". Der Autor bevorzugt aber den Begriff "Prinzip": Das Prinzip als eine "feste Regel, die jemand zur Richtschnur seines Handelns macht" \cite{duden2015prinzip} steht in dem Level der Abstraktion zwischen dem abstrakten Wert und der konkreten Technik. Das Wort "Element" ist dem Autor hier zu mehrdeutig.] von Kanban. Viele dieser Prinzipien werden von der Technik des Kanban Boards (siehe Abschnitt \ref{kanban-technik-board}) umgesetzt, sind aber nicht daran gebunden. Die Prinzipien sollen im Folgenden vorgestellt werden. 
+Auf den Werten der schlanken Softwareentwicklung basieren die Prinzipien^[Epping \cite{epping} nennt die Prinzipien "Elemente". Der Autor bevorzugt aber den Begriff "Prinzip": Das Prinzip als eine "feste Regel, die jemand zur Richtschnur seines Handelns macht" \cite{duden2015prinzip} steht in dem Level der Abstraktion zwischen dem abstrakten Wert und der konkreten Technik. Das Wort "Element" ist dem Autor hier zu mehrdeutig.] von Kanban. Viele dieser Prinzipien werden von der Technik des Kanban Boards (siehe Abschnitt \ref{kanban-technik-board}) umgesetzt, sind aber nicht daran gebunden. Die Prinzipien sollen im Folgenden vorgestellt werden. Dabei wurden als Quellen vorwiegend \cite{epping} und \cite{agilespmkanban} benutzt.
 
 
 ### Systemisches Denken
 
-Kanban motiviert dazu, dass Optimierungen an dem Vorgehen auf Basis einer ganzheitlichen Systemsicht durchgeführt werden. Teammitglieder, die nur versuchen,  
+Kanban motiviert dazu, dass Optimierungen an dem Vorgehen auf Basis einer ganzheitlichen Systemsicht durchgeführt werden. Das Problem bei lokalen Optimierungen eines Systems ist oft, dass dadurch die gesamte Leistung eines Systems leidet. Ein Beispiel für die negativen Seiten einer lokalen Optimierung ist, 
 
-- Problem: Lokale Optimierungen führen nicht zur Verbesserung des Systems. Wenn man als Mitarbeiter nur seine lokale Umgebung sieht, dann kann man nicht über Optimierung des Systems nachdenken. Die Motivation der einzelnen Mitarbeiter wird nur in den lokalen Optimierungen liegen, und so bilden sich eher Fronten zwischen den einzelnen Prozessschritten, als das sich das Systems in seiner Gesamtheit verbessert.
-- Lösung: Mitarbeiter müssen motiviert werden, ihre Arbeit im Gesamt System zu sehen. Hauptmotivation: "Wie schaffen wir es als Gesamt-System, unseren Kunden möglichst oft Ergebnisse mit möglichst viel Wert auszuliefern?"
-- Grenzen aufweichen
+> "wenn die Entwicklungsabteilung ihre lokale Durchlaufzeit dadurch verbessert, dass sie Code in schlechterer Qualität abliefert. Dies verschlechtert mittelfristig die Leistung des Gesamtsystems, weil immer mehr Nacharbeiten notwendig sind." \cite{agilespmkanban}
+
+Wenn hingegen die Teammitglieder dazu motiviert werden, nicht nur ihre eigene Arbeit zu sehen, sondern das ganze System und Optimierungen auf Basis dieser Sicht gemacht werden, kann die Durchlaufzeit des Gesamtsystems wirklich verbessert werden. Eine solche Sicht hilft auch, Fronten zwischen den Mitarbeitern einzelner Prozessschritte aufzulösen, sich als ein Team zu sehen und zu einer besseren Zusammenarbeit zu finden.
+
+Das Kanban Board als Technik (siehe Abschnitt \ref{kanban-technik-board}) hilft, dieses Prinzip umzusetzen, indem es dem gesamten Team Transparenz über die den gesamten Prozess mit all seinen Schritten verschafft. So kann jedes Teammitglied sehen, wie sich seine Arbeit in dem Gesamtsystem des Prozesses auswirkt.
+
+Teamleiter bekommen in so einem Arbeitsumfeld eine neue Aufgabe: 
+
+
+
+
 - Manager bestimmen nicht über Mitarbeiter, sondern verbessern das System, "sodass Teams optimale Leistung bringen [...]"
 - Systemisches Denken
 	- Entscheidende Größe: Durchsatz
