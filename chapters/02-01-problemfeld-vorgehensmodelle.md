@@ -514,33 +514,22 @@ Die Entscheidende Größe ist hierbei immer der Durchsatz: Wie viele Anforderung
 
 ### WIP Limit
 
-WIP steht für Work in Progress. Durch die Limitierung des WIP wird dafür gesorgt, dass parallele Arbeit vermieden wird. Wenn in dem Gesamtsystem des Arbeitsprozesses nur eine bestimmte Anzahl von Aufgaben vorhanden sein darf, wird dafür gesorgt, dass diese Aufgaben sehr schnell erledigt werden, da es keine anderen Aufgaben gibt. Dies hilft auch, Überlastung oder Engpässe zu vermeiden. Außerdem werden Probleme sehr schnell sichtbar: Wenn die Arbeit an einer Stelle in der Produktionskette ins Stocken gerät, weil es ein Problem gibt (beispielsweise kann das Testing einer Funktion nicht durchgeführt werden), können aufgrund des WIP Limits andere Teammitglieder keine weiteren, anderen Aufgaben erledigen. Dies erscheint zuerst kontraproduktiv, man überlege sich aber, dass dadurch Ressourcen frei werden, um das Problem in der Produktionskette zu lösen (beispielsweise ist das Entwicklerteam nun frei, um das Testing Team zu unterstützen). Dies hilft zu schlussendlich, um die Durchlaufzeit möglichst
+WIP steht für Work in Progress. Durch die Limitierung des WIP wird dafür gesorgt, dass parallele Arbeit vermieden wird. Wenn in dem Gesamtsystem des Arbeitsprozesses nur eine bestimmte Anzahl von Aufgaben vorhanden sein darf, wird dafür gesorgt, dass diese Aufgaben sehr schnell erledigt werden, da es keine anderen Aufgaben gibt. Dies hilft auch, Überlastung oder Engpässe zu vermeiden. Außerdem werden Probleme sehr schnell sichtbar: Wenn die Arbeit an einer Stelle in der Produktionskette ins Stocken gerät, weil es ein Problem gibt (beispielsweise kann das Testing einer Funktion nicht durchgeführt werden), können aufgrund des WIP Limits andere Teammitglieder keine weiteren, anderen Aufgaben erledigen. Dies erscheint zuerst kontraproduktiv, man überlege sich aber, dass dadurch Ressourcen frei werden, um das Problem in der Produktionskette zu lösen (beispielsweise ist das Entwicklerteam nun frei, um das Testing Team zu unterstützen). Dies hilft zu schlussendlich, die Durchlaufzeit möglichst gering zu halten. 
 
-- Gewinn von Geschwindigkeit durch kleine WIP Limits (Little's Law)
-- Kontextwechsel vermeiden
-- Qualität: Multitasking führt zu Fehlern
-- Überlastung vermeiden
-- Engpässe vermeiden
+<!--
 - Leerlaufzeiten
 	- Durch Leerlaufzeiten können Mitarbeiter sinnvolle Tätigkeiten machen, die schon länger auf der Strecke geblieben sind: Automatisierungen, neue Dinge lernen, liegengebliebene Aufgaben aufgreifen
 	- Durchsatz bleibt gleich, aber Mitarbeiter haben Zeit für Qualität und sonstiges
 	- Konflikt: Klassisches Management: Auslastung einzelner Mitarbeiter optimieren. Lean Thinking: Durchlaufzeiten für einzelne Aufgaben optimieren.
 	- Leerlaufzeit = Verbesserungspotenzial
-
-- Arbeit limitieren
-	- Spalten haben jeweils ein Limit, wieviele Karten sie beinhalten dürfen
-	- Limit: Zahl an der Spaltenüberschrift
-	- WIP = Work in Progress
-
+-->
 
 ### Pull Prinzip
 
-- Push: Zuweisung durch den Vorgesetzten
-- Manager bestimmen nicht über Mitarbeiter, sondern verbessern das System, "sodass Teams optimale Leistung bringen [...]"
-- Pull: Mitarbeiter "zieht" sich neue Aufgaben, wenn ausreichend Kapazität vorhanden ist
-- Pull bedeutet VERTRAUEN. Dass Mitarbeiter nicht im Internet surfen, oder Kaffee trinken, sondern selbst Verantwortung übernehmen, motiviert sind, und ihr Bestes geben
-- Was mit Deadlines? Serviceklassen. Aber: Wenn Tickets beschleunigt werden, ist das System nicht mehr so gut vorhersagbar.
-- Aufgaben werden nicht zugewiesen, sondern eigenverantwortlich "gezogen"
+Das Pull Prinzip steht dem klassischen Push Vorgehen entgegen. Im Push Vorgehen werden Aufgaben durch einen Vorgesetzten den Teammitglieder zugewiesen. Bei dem Pull Prinzip entscheiden die Teammitglieder selbst, welche Aufgabe sie erledigen. Die Aufgaben werden gezogen. Dies verhindert eine Überlastung der einzelnen Teammitglieder. Jedes Teammitglied zieht sich genau dann eine neue Aufgabe, wenn es ausreichend Kapazität dafür hat. Das sorgt dafür, dass das Team selbstorganisiert handeln kann und es vermeidet unnötiges Multitasking und den damit verbundenen Ballast von Aufgaben Wechsel. Teammitglieder ziehen sich erst dann eine neue Aufgabe, wenn sie mit der vorherigen fertig sind.
+
+Führungskräfte eines Teams bekommen im Zuge des Pull Prinzips eine neue Rolle: sie bestimmen nicht mehr darüber, welches Teammitglied welche Aufgabe zu erledigen hat, sondern kümmern sich darum, dass das System 
+
 - Keine Zeitlimits
 - Vertrauen der Führungskräfte in ihre Mitarbeiter
 - Nachhaltige Entwicklungsgeschwindigkeit (mit WIP Limits)
@@ -565,6 +554,11 @@ WIP steht für Work in Progress. Durch die Limitierung des WIP wird dafür gesor
 	- Spalte: Arbeitsschritt
 	- Karte: Aufgabe
 	- wichtig: IST-Zustand, nicht Soll Zustand
+
+- Arbeit limitieren
+	- Spalten haben jeweils ein Limit, wieviele Karten sie beinhalten dürfen
+	- Limit: Zahl an der Spaltenüberschrift
+	- WIP = Work in Progress
 
 
 ### Messungen
