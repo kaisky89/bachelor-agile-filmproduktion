@@ -472,16 +472,30 @@ Ballast beschreibt also alles das, was keinen Wert für den Kunden darstellt. \c
 
 #### Amplify Learning
 
-- lernen aus Fehlern
-- neue Fachgebiete kennen lernen
+Lernen und Verbessern ist in Kanban ein zentrales Thema. Es wird davon ausgegangen, das nichts perfekt ist, weder das Vorgehen, noch die Menschen. Alles kann sich also immer noch verbessern. Teammitgliedern sollte die Möglichkeit geboten werden, aus Fehlern zu lernen. Dafür ist es notwendig, dass eine Arbeitsatmosphäre existiert, die es den beteiligten Mitarbeitern ermöglicht, Fehler zuzugeben. Nur wenn mit der Tatsache gerechnet wird, dass Menschen Fehler machen, und man mit dieser Tatsache ehrlich umgehen kann, gibt dies den Menschen die Möglichkeit, aus diesen Fehlern zu lernen. Fehler sind zwar unvermeidbar, aber sie sind reduzierbar. Durch einen ehrlichen Umgang mit Fehlern steigt die Wahrscheinlichkeit, dass wiederholende Fehler vermieden werden können.
+
+Es geht beim Lernen aber nicht nur um Fehler, sondern auch um neue Fachgebiete. Jedem Mitarbeiter sollte die Möglichkeit gegeben werden, neue Fachgebiete zu erlernen. Dies braucht einerseits die nötigen Ressourcen für die Mitarbeiter (Zeit, Material), andererseits aber auch eine gewisse Atmosphäre des Lernens. Wichtiger Motivationsfaktor für Lernen ist Neugier. Neugier kann nur dann entstehen, wenn Wissen nicht für selbstverständlich gehalten wird. Die Freiheit, Unwissen zugeben zu können, ohne negative Konsequenzen befürchten zu müssen, bevollmächtigt jeden Mitarbeiter dazu, neue Wissens- und Fachgebiete zu entdecken, die für seine Arbeit relevant sein können.
 
 #### Decide as Late as Possible
 
+Je später ein Entscheidung getroffen wird, desto mehr Information ist vorhanden. Je mehr Information vorhanden ist, desto weniger muss auf Spekulation gebaut werden. Je weniger auf Spekulation gebaut wird, desto weniger Fehlentscheidungen gibt es. Je weniger Fehlentscheidungen es gibt, desto weniger unnötige Arbeit muss vom Team getan werden. 
+
+Ein spätes Entscheiden führt also zu einem effektiveren und ballastfreieren Arbeiten des Teams. Außerdem erledigen sich manchmal Probleme von selbst. Mit der Zeit ändern sich Umstände, oder neues Wissen lässt eine Entscheidung aus einer anderen Perspektive zu.
+
+Dies ist kein Appell, sich gar nicht zu Entscheiden. Entscheidungen sind wichtig. Allerdings sollen Entscheidungen vermieden werden, die zu früh getroffen werden.
+
 #### Deliver as Fast as Possible
+
+Wenn die Zeit zwischen Eingang einer Aufgabe und deren Erledigung gering ist, ist es möglich, sehr schnell für seine getane Arbeit Feedback zu bekommen. Auf der anderen Seite ist es den Stakeholdern, die die Entscheidung der Anforderungen stellen möglich, schnell eine Reaktion auf ihr Anforderung zu sehen. Ein Entwicklungsprozess besteht immer aus der iterativen Bewegung von *Entwicklung*, *Feedback*, *Verbesserung*. Je kürzer die Zeit, die für die Entwicklung gebraucht wird, desto eher kann mit dem Feedback genau das entwickelt w
+
+- wenig parallele Arbeit, Konzentration auf die 1 Aufgabe
+- Je schneller die Aufgaben erledigt, desto früher ist Feedback möglich
 
 #### Empower the Team
 
-#### Build Integrity in
+- niemand versteht die Details der Arbeit so gut, wie die, die sie tun
+- Entscheidungen können dann getroffen werden, wenn sie gebraucht werden
+- niemand muss vorher entscheiden
 
 #### See the Whole
 
