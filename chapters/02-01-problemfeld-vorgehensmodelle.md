@@ -492,12 +492,12 @@ Durch den Fokus darauf, genau eine Aufgabe so schnell wie möglich zu erledigen,
 
 #### Empower the Team
 
-Das Team braucht die Möglichkeit, selbst entscheiden zu können. Niemand versteht die Details der Arbeit an dem System so gut, wie diejenigen, die die Arbeit tun. So sollten alle wichtigen Entscheidungen, was die technischen Details und deren Umsetzung angeht, auch von ihnen kommen. Das ermöglicht außerdem, möglichst spät zu entscheiden: erst wenn bei dem Team eine Aufgabe ansteht, entscheidet das Team, wie vorgegangen werden soll. Wenn es einen Chefarchitekten gibt, der vorher Entscheidungen über bestimmte Aspekte des Systems trifft, hat dies mehrere Nachteile: einerseits wird die Entscheidung früher getroffen als notwendig (siehe *Decide as Late as Possible), andererseits wird sie von jemanden getroffen, der nicht über das Wissen des Teams verfügt. Dies sind gleich zwei Faktoren, die die Wahrscheinlich von Fehlentscheidungen erhöhen.
+Das Team braucht die Möglichkeit, selbst entscheiden zu können. Niemand versteht die Details der Arbeit an dem System so gut, wie diejenigen, die die Arbeit tun. So sollten alle wichtigen Entscheidungen, was die technischen Details und deren Umsetzung angeht, auch von ihnen kommen. Das ermöglicht außerdem, möglichst spät zu entscheiden: erst wenn bei dem Team eine Aufgabe ansteht, entscheidet das Team, wie vorgegangen werden soll. Wenn es einen beispielsweise Chefarchitekten gibt, der vorher Entscheidungen über bestimmte Aspekte des Systems trifft, hat dies mehrere Nachteile: einerseits wird die Entscheidung früher getroffen als notwendig (siehe *Decide as Late as Possible*), andererseits wird sie von jemanden getroffen, der nicht über das Wissen des Teams verfügt. Dies sind zwei Faktoren, die die Wahrscheinlich von Fehlentscheidungen erhöhen.
 
 
 ## Prinzipien von Kanban
 
-Auf Basis der Werte von Kanban 
+Auf Basis der Werte von Kanban basieren die Prinzipien^[Epping \cite{epping} nennt die Prinzipien "Elemente". Der Autor bevorzugt aber den Begriff "Prinzip": Das Prinzip als eine "feste Regel, die jemand zur Richtschnur seines Handelns macht" \cite{duden2015prinzip} steht in dem Level der Abstraktion zwischen dem abstrakten Wert und der konkreten Technik. ]
 
 - Kanban Board: IST-Zustand Visualisieren
 	- einfach, gut sichtbar
