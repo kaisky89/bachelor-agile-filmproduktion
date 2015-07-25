@@ -497,17 +497,13 @@ Das Team braucht die Möglichkeit, selbst entscheiden zu können. Niemand verste
 
 ## Prinzipien von Kanban
 
-Auf Basis der Werte von Kanban basieren die Prinzipien^[Epping \cite{epping} nennt die Prinzipien "Elemente". Der Autor bevorzugt aber den Begriff "Prinzip": Das Prinzip als eine "feste Regel, die jemand zur Richtschnur seines Handelns macht" \cite{duden2015prinzip} steht in dem Level der Abstraktion zwischen dem abstrakten Wert und der konkreten Technik. Das Wort "Element" ist dem Autor hier zu m]
+Auf den Werten der schlanken Softwareentwicklung basieren die Prinzipien^[Epping \cite{epping} nennt die Prinzipien "Elemente". Der Autor bevorzugt aber den Begriff "Prinzip": Das Prinzip als eine "feste Regel, die jemand zur Richtschnur seines Handelns macht" \cite{duden2015prinzip} steht in dem Level der Abstraktion zwischen dem abstrakten Wert und der konkreten Technik. Das Wort "Element" ist dem Autor hier zu mehrdeutig.] von Kanban. Viele dieser Prinzipien werden von der Technik des Kanban Boards (siehe Abschnitt \ref{kanban-technik-board}) umgesetzt, sind aber nicht daran gebunden. Die Prinzipien sollen im Folgenden vorgestellt werden. 
 
 - Kanban Board: IST-Zustand Visualisieren
 	- einfach, gut sichtbar
 	- Spalte: Arbeitsschritt
 	- Karte: Aufgabe
 	- wichtig: IST-Zustand, nicht Soll Zustand
-- Arbeit limitieren
-	- Spalten haben jeweils ein Limit, wieviele Karten sie beinhalten dürfen
-	- Limit: Zahl an der Spaltenüberschrift
-	- WIP = Work in Progess
 
 
 ### Systemisches Denken
@@ -534,6 +530,12 @@ Auf Basis der Werte von Kanban basieren die Prinzipien^[Epping \cite{epping} nen
 	- Konflikt: Klassisches Management: Auslastung einzelner Mitarbeiter optimieren. Lean Thinking: Durchlaufzeiten für einzelne Aufgaben optimieren.
 	- Leerlaufzeit = Verbesserungspotenzial
 
+- Arbeit limitieren
+	- Spalten haben jeweils ein Limit, wieviele Karten sie beinhalten dürfen
+	- Limit: Zahl an der Spaltenüberschrift
+	- WIP = Work in Progess
+
+
 ### Pull Prinzip
 
 - Push: Zuweisung durch den Vorgesetzten
@@ -558,7 +560,7 @@ Auf Basis der Werte von Kanban basieren die Prinzipien^[Epping \cite{epping} nen
 
 ## Techniken von Kanban
 
-### Kanban-Board
+### Kanban-Board {#kanban-technik-board}
 
 ### Stand-Ups
 
