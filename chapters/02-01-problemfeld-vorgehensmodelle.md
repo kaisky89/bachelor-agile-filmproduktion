@@ -510,12 +510,7 @@ Wenn hingegen die Teammitglieder dazu motiviert werden, nicht nur ihre eigene Ar
 
 Das Kanban Board als Technik (siehe Abschnitt \ref{kanban-technik-board}) hilft, dieses Prinzip umzusetzen, indem es dem gesamten Team Transparenz über die den gesamten Prozess mit all seinen Schritten verschafft. So kann jedes Teammitglied sehen, wie sich seine Arbeit in dem Gesamtsystem des Prozesses auswirkt.
 
-Teamleiter bekommen in so einem Arbeitsumfeld eine neue Aufgabe: 
 
-
-
-
-- Manager bestimmen nicht über Mitarbeiter, sondern verbessern das System, "sodass Teams optimale Leistung bringen [...]"
 - Systemisches Denken
 	- Entscheidende Größe: Durchsatz
 	- Gesamtes System muss im Auge behalten werden
@@ -543,6 +538,7 @@ Teamleiter bekommen in so einem Arbeitsumfeld eine neue Aufgabe:
 ### Pull Prinzip
 
 - Push: Zuweisung durch den Vorgesetzten
+- Manager bestimmen nicht über Mitarbeiter, sondern verbessern das System, "sodass Teams optimale Leistung bringen [...]"
 - Pull: Mitarbeiter "zieht" sich neue Aufgaben, wenn ausreichend Kapazität vorhanden ist
 - Pull bedeutet VERTRAUEN. Dass Mitarbeiter nicht im Internet surfen, oder Kaffee trinken, sondern selbst Verantwortung übernehmen, motiviert sind, und ihr Bestes geben
 - Was mit Deadlines? Serviceklassen. Aber: Wenn Tickets beschleunigt werden, ist das System nicht mehr so gut vorhersagbar.
