@@ -486,14 +486,14 @@ Dies ist kein Appell, sich gar nicht zu Entscheiden. Entscheidungen sind wichtig
 
 #### Deliver as Fast as Possible
 
-Wenn die Zeit zwischen Eingang einer Aufgabe und deren Erledigung gering ist, ist es möglich, sehr schnell für seine getane Arbeit Feedback zu bekommen. Auf der anderen Seite ist es den Stakeholdern, die die Entscheidung der Anforderungen stellen möglich, schnell eine Reaktion auf ihr Anforderung zu sehen. Ein Entwicklungsprozess besteht immer aus der iterativen Bewegung von *Entwicklung*, *Feedback*, *Verbesserung*. Je kürzer die Zeit, die für die Entwicklung gebraucht wird, desto mehr kann gele eher kann mit dem Feedback genau das entwickelt werden, was benötigt wird. Und das für Anforderungen
+Wenn die Zeit zwischen Eingang einer Aufgabe und deren Erledigung gering ist, ist es möglich, sehr schnell für seine getane Arbeit Feedback zu bekommen. Auf der anderen Seite ist es den Stakeholdern, die die Entscheidung der Anforderungen stellen möglich, schnell eine Reaktion auf ihr Anforderung zu sehen. Ein Entwicklungsprozess besteht immer aus der iterativen Bewegung von *Entwicklung*, *Feedback*, *Verbesserung*. Je kürzer die Zeit, die für die Entwicklung gebraucht wird, desto mehr kann gelernt werden, und desto eher kann mit dem Feedback genau das entwickelt werden, was benötigt wird.
 
-- wenig parallele Arbeit, Konzentration auf die 1 Aufgabe
-- Je schneller die Aufgaben erledigt, desto früher ist Feedback möglich
+Durch den Fokus darauf, genau eine Aufgabe so schnell wie möglich zu erledigen, wird parallele Arbeit vermieden (somit also auch der Ballast *Aufgaben Wechsel*). Insgesamt ist dadurch ein effizienteres Arbeiten möglich.
 
 #### Empower the Team
 
-- niemand versteht die Details der Arbeit so gut, wie die, die sie tun
+Das Team braucht die Möglichkeit, selbst zu Entscheiden. Niemand versteht die Details der Arbeit an dem System so gut, wie diejenigen, die die Arbeit tun.
+
 - Entscheidungen können dann getroffen werden, wenn sie gebraucht werden
 - niemand muss vorher entscheiden
 
