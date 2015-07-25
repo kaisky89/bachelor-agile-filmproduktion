@@ -497,7 +497,7 @@ Das Team braucht die Möglichkeit, selbst entscheiden zu können. Niemand verste
 
 ## Prinzipien von Kanban
 
-Auf Basis der Werte von Kanban basieren die Prinzipien^[Epping \cite{epping} nennt die Prinzipien "Elemente". Der Autor bevorzugt aber den Begriff "Prinzip": Das Prinzip als eine "feste Regel, die jemand zur Richtschnur seines Handelns macht" \cite{duden2015prinzip} steht in dem Level der Abstraktion zwischen dem abstrakten Wert und der konkreten Technik. ]
+Auf Basis der Werte von Kanban basieren die Prinzipien^[Epping \cite{epping} nennt die Prinzipien "Elemente". Der Autor bevorzugt aber den Begriff "Prinzip": Das Prinzip als eine "feste Regel, die jemand zur Richtschnur seines Handelns macht" \cite{duden2015prinzip} steht in dem Level der Abstraktion zwischen dem abstrakten Wert und der konkreten Technik. Das Wort "Element" ist dem Autor hier zu m]
 
 - Kanban Board: IST-Zustand Visualisieren
 	- einfach, gut sichtbar
