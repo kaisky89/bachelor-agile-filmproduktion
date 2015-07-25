@@ -449,7 +449,7 @@ Hier kommen drei wesentliche Werte vor, die für Kanban eine Rolle spielen (Erl�
 
 ### Schlanke Softwareentwicklung
 
-Die schlanke Softwareentwicklung hat keine explizit formulierten Werte. \cite[epping] stellt aber mit Bezugname zu \cite{poppendieck2003lean} 7 Werte vor, die das Wertesystem der schlanken Softwareentwicklung repräsentieren. Auf einige dieser Werte soll im Folgenden näher eingegangen werden.
+Die schlanke Softwareentwicklung hat keine explizit formulierten Werte. \cite[epping] stellt aber mit Bezugname zu \cite{poppendieck2003lean} eine Reihe von Werten vor, die das Wertesystem der schlanken Softwareentwicklung repräsentieren. Auf einige dieser Werte soll im Folgenden näher eingegangen werden.
 
 
 #### Eliminate Waste {#eliminate-waste}
@@ -492,15 +492,12 @@ Durch den Fokus darauf, genau eine Aufgabe so schnell wie möglich zu erledigen,
 
 #### Empower the Team
 
-Das Team braucht die Möglichkeit, selbst zu Entscheiden. Niemand versteht die Details der Arbeit an dem System so gut, wie diejenigen, die die Arbeit tun.
-
-- Entscheidungen können dann getroffen werden, wenn sie gebraucht werden
-- niemand muss vorher entscheiden
-
-#### See the Whole
+Das Team braucht die Möglichkeit, selbst entscheiden zu können. Niemand versteht die Details der Arbeit an dem System so gut, wie diejenigen, die die Arbeit tun. So sollten alle wichtigen Entscheidungen, was die technischen Details und deren Umsetzung angeht, auch von ihnen kommen. Das ermöglicht außerdem, möglichst spät zu entscheiden: erst wenn bei dem Team eine Aufgabe ansteht, entscheidet das Team, wie vorgegangen werden soll. Wenn es einen Chefarchitekten gibt, der vorher Entscheidungen über bestimmte Aspekte des Systems trifft, hat dies mehrere Nachteile: einerseits wird die Entscheidung früher getroffen als notwendig (siehe *Decide as Late as Possible), andererseits wird sie von jemanden getroffen, der nicht über das Wissen des Teams verfügt. Dies sind gleich zwei Faktoren, die die Wahrscheinlich von Fehlentscheidungen erhöhen.
 
 
 ## Prinzipien von Kanban
+
+Auf Basis der Werte von Kanban 
 
 - Kanban Board: IST-Zustand Visualisieren
 	- einfach, gut sichtbar
@@ -511,15 +508,7 @@ Das Team braucht die Möglichkeit, selbst zu Entscheiden. Niemand versteht die D
 	- Spalten haben jeweils ein Limit, wieviele Karten sie beinhalten dürfen
 	- Limit: Zahl an der Spaltenüberschrift
 	- WIP = Work in Progess
-- Pull System
-	- Aufgaben werden nicht zugewiesen, sondern eigenverantwortlich "gezogen"
-	- Keine Zeitlimits
-	- Vertrauen der Führungskräfte in ihre Mitarbeiter
-	- Nachhaltige Entwicklungsgeschwindigkeit (mit WIP Limits)
-- Systemisches Denken
-	- Entscheidende Größe: Durchsatz
-	- Gesamtes System muss im Auge behalten werden
-	- Beispiel: Qualitative Entwicklung nimmt vielleicht viel Zeit für die Entwicklung ein, dafür ist Testing und Ausliefern viel schneller. Qualität kann, obwohl im lokalen Kontext die Entwicklung vielleicht länger dauert, im ganzen System dafür sorgen, dass der Durchsatz erhöht wird.
+
 
 ### Systemisches Denken
 
@@ -527,6 +516,10 @@ Das Team braucht die Möglichkeit, selbst zu Entscheiden. Niemand versteht die D
 - Lösung: Mitarbeiter müssen motiviert werden, ihre Arbeit im Gesamt System zu sehen. Hauptmotivation: "Wie schaffen wir es als Gesamt-System, unseren Kunden möglichst oft Ergebnisse mit möglichst viel Wert auszuliefern?"
 - Grenzen aufweichen
 - Manager bestimmen nicht über Mitarbeiter, sondern verbessern das System, "sodass Teams optimale Leistung bringen [...]"
+- Systemisches Denken
+	- Entscheidende Größe: Durchsatz
+	- Gesamtes System muss im Auge behalten werden
+	- Beispiel: Qualitative Entwicklung nimmt vielleicht viel Zeit für die Entwicklung ein, dafür ist Testing und Ausliefern viel schneller. Qualität kann, obwohl im lokalen Kontext die Entwicklung vielleicht länger dauert, im ganzen System dafür sorgen, dass der Durchsatz erhöht wird.
 
 ### WIP Limit
 
@@ -535,13 +528,11 @@ Das Team braucht die Möglichkeit, selbst zu Entscheiden. Niemand versteht die D
 - Qualität: Multitasking führt zu Fehlern
 - Überlastung vermeiden
 - Engpässe vermeiden
-
-### Leerlaufzeiten
-
-- Durch Leerlaufzeiten können Mitarbeiter sinnvolle Tätigkeiten machen, die schon länger auf der Strecke geblieben sind: Automatisierungen, neue Dinge lernen, liegengebliebene Aufgaben aufgreifen
-- Durchsatz bleibt gleich, aber Mitarbeiter haben Zeit für Qualität und sonstiges
-- Konflikt: Klassisches Management: Auslastung einzelner Mitarbeiter optimieren. Lean Thinking: Durchlaufzeiten für einzelne Aufgaben optimieren.
-- Leerlaufzeit = Verbesserungspotenzial
+- Leerlaufzeiten
+	- Durch Leerlaufzeiten können Mitarbeiter sinnvolle Tätigkeiten machen, die schon länger auf der Strecke geblieben sind: Automatisierungen, neue Dinge lernen, liegengebliebene Aufgaben aufgreifen
+	- Durchsatz bleibt gleich, aber Mitarbeiter haben Zeit für Qualität und sonstiges
+	- Konflikt: Klassisches Management: Auslastung einzelner Mitarbeiter optimieren. Lean Thinking: Durchlaufzeiten für einzelne Aufgaben optimieren.
+	- Leerlaufzeit = Verbesserungspotenzial
 
 ### Pull Prinzip
 
@@ -549,7 +540,10 @@ Das Team braucht die Möglichkeit, selbst zu Entscheiden. Niemand versteht die D
 - Pull: Mitarbeiter "zieht" sich neue Aufgaben, wenn ausreichend Kapazität vorhanden ist
 - Pull bedeutet VERTRAUEN. Dass Mitarbeiter nicht im Internet surfen, oder Kaffee trinken, sondern selbst Verantwortung übernehmen, motiviert sind, und ihr Bestes geben
 - Was mit Deadlines? Serviceklassen. Aber: Wenn Tickets beschleunigt werden, ist das System nicht mehr so gut vorhersagbar.
-
+- Aufgaben werden nicht zugewiesen, sondern eigenverantwortlich "gezogen"
+- Keine Zeitlimits
+- Vertrauen der Führungskräfte in ihre Mitarbeiter
+- Nachhaltige Entwicklungsgeschwindigkeit (mit WIP Limits)
 
 ### Kontinuierliche Verbesserungen {#kanban-prinzip-kontinuierliche-verbesserungen}
 
@@ -558,8 +552,6 @@ Das Team braucht die Möglichkeit, selbst zu Entscheiden. Niemand versteht die D
 - David Anderson
 - Ausgangspunkt: Ist Zustand
 - Änderungen in kleinen Schritten
-
-
 - auch "Kaizen" genannt
 - kleine Verbesserungen: viel Geduld
 - es gibt immer Verbesserungen: Software Entwicklung ist ein flexibles Umfeld und benötig immer wieder Veränderung
@@ -575,14 +567,6 @@ Das Team braucht die Möglichkeit, selbst zu Entscheiden. Niemand versteht die D
 - blockierte Aufgaben werden angesprochen
 
 
-### Planungspoker
-
-### Code Reviews 
-
-### Continuous Integration
-
-### Abnahmekriterien
-
 ### Messungen
 
 - Wichtigstes Maß: Durchlaufzeit einer Arbeitsaufgabe
@@ -591,10 +575,6 @@ Das Team braucht die Möglichkeit, selbst zu Entscheiden. Niemand versteht die D
 - Weitere Kennzahlen: Menge an WIP, Fehlerrate, Termintreue, Anzahl der Blockaden.
 - Nur das messen, was Erkenntnisgewinn verspricht.
 - Ergebnisse für jeden gut zugänglich!
-
-### Entwicklungsgeschwindigkeit
-
-### Durchlaufzeit
 
 
 ## Vorteile von Kanban
