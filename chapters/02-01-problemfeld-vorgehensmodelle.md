@@ -449,12 +449,12 @@ Hier kommen drei wesentliche Werte vor, die für Kanban eine Rolle spielen (Erl�
 
 ### Schlanke Softwareentwicklung
 
-Die *schlanke Softwareentwicklung* hat keine explizit formulierten Werte. \cite[epping] stellt aber mit Bezugname zu \cite{poppendieck2003lean} 7 Werte vor, die im Folgenden aufgeführt und kurz erklärt werden.
+Die schlanke Softwareentwicklung hat keine explizit formulierten Werte. \cite[epping] stellt aber mit Bezugname zu \cite{poppendieck2003lean} 7 Werte vor, die das Wertesystem der schlanken Softwareentwicklung repräsentieren. Auf einige dieser Werte soll im Folgenden näher eingegangen werden.
 
 
 #### Eliminate Waste {#eliminate-waste}
 
-*Waste* bedeutet *Ballast*. Das Eliminieren von Ballast nimmt in der schlanken Softwareentwicklungentwicklung eine zentrale Rolle ein^[Deswegen auch der Begriff "schlank": Etwas, das von unnötigen Ballast befreit ist, ist schlank. Ein Mensch, der nach einer Diät abgenommen hat und somit sein Körpergewicht reduziert hat, ist "schlank"; er hat seinen Körper von unnötigen Ballast (in diesem Fall unnötige Fettreserven) befreit]. 
+*Waste* bedeutet *Ballast*. Das Eliminieren von Ballast nimmt in der schlanken Softwareentwicklung eine zentrale Rolle ein^[Deswegen auch der Begriff "schlank": Etwas, das von unnötigen Ballast befreit ist, ist schlank. Ein Mensch, der nach einer Diät abgenommen hat und somit sein Körpergewicht reduziert hat, ist "schlank"; er hat seinen Körper von unnötigen Ballast (in diesem Fall unnötige Fettreserven) befreit]. 
 
 Mary und Tom Poppendieck beschreiben *Ballast* wie folgt:
 
@@ -467,10 +467,13 @@ Ballast beschreibt also alles das, was keinen Wert für den Kunden darstellt. \c
 - **Überflüssige Funktionen** sind Ballast, da jede Zeile Code in der Software Entwicklung mit einem Aufwand von Wartung verbunden ist. Funktionen, die nicht benötigt werden, sollten also nicht im System auftauchen, da sie unnötig Aufmerksamkeit, Arbeit und Zeit für sich beanspruchen.
 - **Aufgaben Wechsel** benötigen kognitive Ressourcen, um sich gedanklich auf den Kontext der neuen Aufgabe einzustimmen. Häufige Aufgabenwechsel führen also dazu, dass Mitarbeiter mit der gleichen Leistung weniger Ergebnisse mit Wert erzielen. 
 - **Wartezeiten** sind Ballast, da mit jeder Verzögerung der Kunde auf die Umsetzung seiner Anforderung warten muss. Wenn er allerdings schnell auf Anforderungen hin Ergebnisse sieht, bekommt er schnell - das heißt ohne große Investition der Ressource *Zeit* - Wert zu sehen. Somit ist alles, was an unnötiger Wartezeit zwischen *Eingang einer Anforderung* und *Lieferung der Funktion* liegt, Ballast.
-- **Bewegung** beschreibt unnötige Änderungen im Arbeitssystem. Dies ist zum Beispiel die Bewegung eines Mitarbeiters zwischen mehreren Aufgaben (siehe auch *Aufgaben Wechsel*) oder auch die Bewegung wichtiger Artefakte, wodurch ein Zugriff von Mitarbeiter auf das Artefakt erschwert wird. Außerdem wird der Aufwand, den ein Teammitglied für das Beschaffen von nötigen Informationen braucht, auch als *Bewegung* gedeutet.
+- **Bewegung** beschreibt unnötige Änderungen im Arbeitssystem. Dies ist zum Beispiel die Bewegung eines Mitarbeiters zwischen mehreren Aufgaben (siehe auch *Aufgaben Wechsel*) oder auch die Bewegung wichtiger Artefakte, wodurch ein Zugriff von Mitarbeiter auf das Artefakt erschwert wird. Außerdem wird der Aufwand, den ein Teammitglied für das Beschaffen von nötigen Informationen braucht, auch als Bewegung gedeutet.
 - **Korrekturen und Fehler** sind unnötige Arbeit: wenn Funktionen gleich *richtig* entwickelt werden, muss nicht doppelt daran gearbeitet werden. Aber nicht nur die Arbeit an sich ist Ballast, sondern auch die Zeit, in der ein Fehler unentdeckt bleibt: je länger ein Fehler unentdeckt ist, desto mehr Zeit und Arbeit ist nötig, ihn zu finden: ein großer Systemfehler, der innerhalb weniger Minuten entdeckt wird, stellt weniger Ballast dar, als ein unscheinbarer Fehler, der monatelang unentdeckt im System verweilt.
 
 #### Amplify Learning
+
+- lernen aus Fehlern
+- neue Fachgebiete kennen lernen
 
 #### Decide as Late as Possible
 
