@@ -510,13 +510,11 @@ Wenn hingegen die Teammitglieder dazu motiviert werden, nicht nur ihre eigene Ar
 
 Das Kanban Board als Technik (siehe Abschnitt \ref{kanban-technik-board}) hilft, dieses Prinzip umzusetzen, indem es dem gesamten Team Transparenz über die den gesamten Prozess mit all seinen Schritten verschafft. So kann jedes Teammitglied sehen, wie sich seine Arbeit in dem Gesamtsystem des Prozesses auswirkt.
 
-
-- Systemisches Denken
-	- Entscheidende Größe: Durchsatz
-	- Gesamtes System muss im Auge behalten werden
-	- Beispiel: Qualitative Entwicklung nimmt vielleicht viel Zeit für die Entwicklung ein, dafür ist Testing und Ausliefern viel schneller. Qualität kann, obwohl im lokalen Kontext die Entwicklung vielleicht länger dauert, im ganzen System dafür sorgen, dass der Durchsatz erhöht wird.
+Die Entscheidende Größe ist hierbei immer der Durchsatz: Wie viele Anforderungen des Kunden konnten wie schnell erledigt werden? Dieses Messkriterium gilt es zu optimieren und zwar in Hiblick auf das Gesamtsystem. Dies kann durchaus dazu führen, dass es lokal zu mehr Aufwand führt. Um das Beispiel von oben noch einmal aufzugreifen: Eine qualitative Entwicklung nimmt mehr Zeit für die Entwicklung ein, dafür ist das Testing und das Ausliefern schneller. Qualität kann, obwohl im lokalen Kontext die Entwicklung länger dauert, im ganzen System dafür sorgen, dass der Durchsatz erhöht wird. \cite{agilespmkanban}
 
 ### WIP Limit
+
+WIP steht für Work in Progress. Durch die Limitierung des WIP wird dafür gesorgt, dass parallele Arbeit vermieden wird. Wenn in dem Gesamtsystem des Arbeitsprozesses nur eine bestimmte Anzahl von Aufgaben vorhanden sein darf, wird dafür gesorgt, dass diese Aufgaben sehr schnell erledigt werden, da es keine anderen Aufgaben gibt. Dies hilft auch, Überlastung oder Engpässe zu vermeiden. Außerdem werden Probleme sehr schnell sichtbar: Wenn die Arbeit an einer Stelle in der Produktionskette ins Stocken gerät, weil es ein Problem gibt (beispielsweise kann das Testing einer Funktion nicht durchgeführt werden), können aufgrund des WIP Limits andere Teammitglieder keine weiteren, anderen Aufgaben erledigen. Dies erscheint zuerst kontraproduktiv, man überlege sich aber, dass dadurch Ressourcen frei werden, um das Problem in der Produktionskette zu lösen (beispielsweise ist das Entwicklerteam nun frei, um das Testing Team zu unterstützen). Dies hilft zu schlussendlich, um die Durchlaufzeit möglichst
 
 - Gewinn von Geschwindigkeit durch kleine WIP Limits (Little's Law)
 - Kontextwechsel vermeiden
