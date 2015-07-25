@@ -504,7 +504,7 @@ Auf den Werten der schlanken Softwareentwicklung basieren die Prinzipien^[Epping
 
 Kanban motiviert dazu, dass Optimierungen an dem Vorgehen auf Basis einer ganzheitlichen Systemsicht durchgeführt werden. Das Problem bei lokalen Optimierungen eines Systems ist oft, dass dadurch die gesamte Leistung eines Systems leidet. Ein Beispiel für die negativen Seiten einer lokalen Optimierung ist, 
 
-> "wenn die Entwicklungsabteilung ihre lokale Durchlaufzeit dadurch verbessert, dass sie Code in schlechterer Qualität abliefert. Dies verschlechtert mittelfristig die Leistung des Gesamtsystems, weil immer mehr Nacharbeiten notwendig sind." \cite{agilespmkanban}
+> "wenn die Entwicklungsabteilung ihre lokale Durchlaufzeit dadurch verbessert, dass sie Code in schlechterer Qualität abliefert. Dies verschlechtert mittelfristig die Leistung des Gesamtsystems, weil immer mehr Nacharbeiten notwendig sind." \cite{agilespmkanban}
 
 Wenn hingegen die Teammitglieder dazu motiviert werden, nicht nur ihre eigene Arbeit zu sehen, sondern das ganze System und Optimierungen auf Basis dieser Sicht gemacht werden, kann die Durchlaufzeit des Gesamtsystems wirklich verbessert werden. Eine solche Sicht hilft auch, Fronten zwischen den Mitarbeitern einzelner Prozessschritte aufzulösen, sich als ein Team zu sehen und zu einer besseren Zusammenarbeit zu finden.
 
