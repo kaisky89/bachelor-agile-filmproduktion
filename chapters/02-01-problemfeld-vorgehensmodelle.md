@@ -482,7 +482,7 @@ Je später ein Entscheidung getroffen wird, desto mehr Information ist vorhanden
 
 Ein spätes Entscheiden führt also zu einem effektiveren und ballastfreieren Arbeiten des Teams. Außerdem erledigen sich manchmal Probleme von selbst. Mit der Zeit ändern sich Umstände, oder neues Wissen lässt eine Entscheidung aus einer anderen Perspektive zu.
 
-Dies ist kein Appell, sich gar nicht zu Entscheiden. Entscheidungen sind wichtig. Allerdings sollen Entscheidungen vermieden werden, die zu früh getroffen werden.
+Dies ist kein Appell, sich nicht zu Entscheiden. Entscheidungen sind wichtig. Allerdings sollen Entscheidungen vermieden werden, die zu früh getroffen werden.
 
 #### Deliver as Fast as Possible
 
@@ -499,14 +499,10 @@ Das Team braucht die Möglichkeit, selbst entscheiden zu können. Niemand verste
 
 Auf den Werten der schlanken Softwareentwicklung basieren die Prinzipien^[Epping \cite{epping} nennt die Prinzipien "Elemente". Der Autor bevorzugt aber den Begriff "Prinzip": Das Prinzip als eine "feste Regel, die jemand zur Richtschnur seines Handelns macht" \cite{duden2015prinzip} steht in dem Level der Abstraktion zwischen dem abstrakten Wert und der konkreten Technik. Das Wort "Element" ist dem Autor hier zu mehrdeutig.] von Kanban. Viele dieser Prinzipien werden von der Technik des Kanban Boards (siehe Abschnitt \ref{kanban-technik-board}) umgesetzt, sind aber nicht daran gebunden. Die Prinzipien sollen im Folgenden vorgestellt werden. 
 
-- Kanban Board: IST-Zustand Visualisieren
-	- einfach, gut sichtbar
-	- Spalte: Arbeitsschritt
-	- Karte: Aufgabe
-	- wichtig: IST-Zustand, nicht Soll Zustand
-
 
 ### Systemisches Denken
+
+Kanban motiviert dazu, dass Optimierungen an dem Vorgehen auf Basis einer ganzheitlichen Systemsicht durchgeführt werden. Teammitglieder, die nur versuchen,  
 
 - Problem: Lokale Optimierungen führen nicht zur Verbesserung des Systems. Wenn man als Mitarbeiter nur seine lokale Umgebung sieht, dann kann man nicht über Optimierung des Systems nachdenken. Die Motivation der einzelnen Mitarbeiter wird nur in den lokalen Optimierungen liegen, und so bilden sich eher Fronten zwischen den einzelnen Prozessschritten, als das sich das Systems in seiner Gesamtheit verbessert.
 - Lösung: Mitarbeiter müssen motiviert werden, ihre Arbeit im Gesamt System zu sehen. Hauptmotivation: "Wie schaffen wir es als Gesamt-System, unseren Kunden möglichst oft Ergebnisse mit möglichst viel Wert auszuliefern?"
@@ -533,7 +529,7 @@ Auf den Werten der schlanken Softwareentwicklung basieren die Prinzipien^[Epping
 - Arbeit limitieren
 	- Spalten haben jeweils ein Limit, wieviele Karten sie beinhalten dürfen
 	- Limit: Zahl an der Spaltenüberschrift
-	- WIP = Work in Progess
+	- WIP = Work in Progress
 
 
 ### Pull Prinzip
@@ -562,11 +558,11 @@ Auf den Werten der schlanken Softwareentwicklung basieren die Prinzipien^[Epping
 
 ### Kanban-Board {#kanban-technik-board}
 
-### Stand-Ups
-
-- Tägliches Standup Meeting vor dem Board
-- aktueller Status wird kommuniziert
-- blockierte Aufgaben werden angesprochen
+- Kanban Board: IST-Zustand Visualisieren
+	- einfach, gut sichtbar
+	- Spalte: Arbeitsschritt
+	- Karte: Aufgabe
+	- wichtig: IST-Zustand, nicht Soll Zustand
 
 
 ### Messungen
@@ -579,99 +575,6 @@ Auf den Werten der schlanken Softwareentwicklung basieren die Prinzipien^[Epping
 - Ergebnisse für jeden gut zugänglich!
 
 
-## Vorteile von Kanban
-
-- Macht Probleme im Arbeitsablauf schnell sichtbar, regt zur Diskussion an
-- Durchlaufzeiten verkürzen
-- Engpässe erkennen
-- Überlastung von Mitarbeitern abbauen
-- Prozesse vorhersagbar machen
-- Akzeptanz der Beteiligten für Änderungen am Prozess erhöhen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Literatur Kanban Roock
-
-
-
-- Regelmäßige Meetings / Fokus auf Durchlaufzeiten: Diskussionen / verbesserte Zusammenarbeit im Gesamtsystem
-- nachhaltige Geschwindigkeit
-
-### Illustration
-
-http://www.it-agile.de/wissen/methoden/kanban/kanban-comic/
-
-
-
-### Häufige Fehler
-
-- Kriterien für Kanban
-	- Wiederkehrende Prozessschritte 
-	- Bereitschaft der Beteiligten
-	- Zeit für langsame Veränderungen
-- Kaizen darf nicht vernachlässigt werden
-- Tooleritis: Kein elektronisches Board!
-
-### Kanban ist kein Wundermittel
-
-- zeigt Probleme, das Team muss sie lösen
-- zeigt kontinuierlich die Probleme im System und sorgt somit für immer wieder kleine aber stetige Verbesserungen
-- Kanban selbst muss eingeführt werden. Ein Board an der Wand macht Mitarbeiter nicht zu selbstständige und Eigenverantwortliche Menschen.
-
-### Kanban verändert die Arbeit
-
-- Vorgesetzter kann nicht sofort neue Aufgaben zuweisen
-- Vorgesetzter muss sich um Probleme "nicht technischer Natur" kümmern. (Bildschirme, Möbel besorgen)
-- Aber: Es geht darum, dass das Team produktiv sein kann. Durchsatz!
-- Kennzahlen für die Kommunikation an das Management leicht erfassbar (Durchschnittliche Durchlaufzeit, Gesamt-Durchsatz)
-- Anhand der Durchlaufzeit können Verbesserungen vorgenommen
-
-
-
-## Literatur Kanban Epping
-
-### Begriffe
-
-#### Wert
-
-> Ein Wert ist ein abstraktes Ziel, das mit einem nicht verhandelbaren Nutzen verbunden ist.
-> Akzeptiert eine Person einen Wert, so erkennt diese Person den Nutzen des Werts kompromisslos an. Erkennt umgekehrt eine Person den Nutzen eines Werts nicht kompromisslos an, so akzeptiert diese Person den Wert nicht.
-
-- Werte haben fundamentalen Charakter
-- schwierig, wenn Werte im Privatleben nicht mit Werten des Projektes übereinstimmen
-
-#### Element
-
-> Ein Element ist ein allgemeines Vorgehen, das durch einen abstrakten Wert motiviert ist und den Nutzen des Werts (oder kurz: den Wert) realisieren soll.
-> Ein Wert kann durch mehrere, verschiedene Elemente realisiert werden; umgekehrt kann ein Element mehrere, verschiedene Werte realisieren.
-
-#### Technik
-
-> Eine Technik ist eine konkrete Umsetzung eines allgemeinen Elements.
-> Ein Element kann durch mehrere, verschiedene Techniken umgesetzt werden; umgekehrt kann eine Technik mehrere, verschiedene Elemente umsetzen.
-
-#### Vorgehensmodell
-
-> Ein Vorgehensmodell ist eine Zusammenstellung von Elementen, die auf einem oder mehreren Werten basieren und von denen jedes durch eine oder mehrere Techniken umgesetzt wird.
-
-<!-- -->
-
-> Ein Vorgehensmodell ist also durch die Menge seiner Elemente charakterisiert. Aus der daraus resultierenden Menge von Werten ergibt sich für jedes Softwareentwicklungsprojekt eine projektindividuelle Kultur. In dieser sind die abstrakten Bestandteile (Werte) deutlich bestimmend, aber wenig sichtbar und die konkreten Bestandteile (Techniken) wenig bestimmend, aber deutlich sichtbar.
 
 
 
