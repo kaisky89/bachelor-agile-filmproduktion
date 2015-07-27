@@ -528,7 +528,11 @@ WIP steht für Work in Progress. Durch die Limitierung des WIP wird dafür gesor
 
 Das Pull Prinzip steht dem klassischen Push Vorgehen entgegen. Im Push Vorgehen werden Aufgaben durch einen Vorgesetzten den Teammitglieder zugewiesen. Bei dem Pull Prinzip entscheiden die Teammitglieder selbst, welche Aufgabe sie erledigen. Die Aufgaben werden gezogen. Dies verhindert eine Überlastung der einzelnen Teammitglieder. Jedes Teammitglied zieht sich genau dann eine neue Aufgabe, wenn es ausreichend Kapazität dafür hat. Das sorgt dafür, dass das Team selbstorganisiert handeln kann und es vermeidet unnötiges Multitasking und den damit verbundenen Ballast von Aufgaben Wechsel. Teammitglieder ziehen sich erst dann eine neue Aufgabe, wenn sie mit der vorherigen fertig sind.
 
-Führungskräfte eines Teams bekommen im Zuge des Pull Prinzips eine neue Rolle: sie bestimmen nicht mehr darüber, welches Teammitglied welche Aufgabe zu erledigen hat, sondern kümmern sich darum, dass das System 
+Führungskräfte eines Teams bekommen im Zuge des Pull Prinzips eine neue Rolle: sie bestimmen nicht mehr darüber, welches Teammitglied welche Aufgabe zu erledigen hat, sondern kümmern sich darum, dass die Rahmenbedingungen des Teams stimmen, sodass das Team eine gute Leistung bringen kann, ohne von unnötigem Ballast aufgehalten zu werden.
+
+Insgesamt fordert das Pull Prinzip Vertrauen von den Führungskräfte in die Teammitglieder. Sie müssen darauf vertrauen können, dass die Teammitglieder wirklich an den Aufgaben arbeiten und nicht ihre Zeit mit sinnlosen Beschäftigungen verschwenden.
+
+Durch das Pull Prinzip wird letztendlich für eine Nachhaltige Entwicklungsgeschwindigkeit gesorgt: Wenn jeder Entwickler selbst entscheiden kann, wann eine Aufgabe ab
 
 - Keine Zeitlimits
 - Vertrauen der Führungskräfte in ihre Mitarbeiter
