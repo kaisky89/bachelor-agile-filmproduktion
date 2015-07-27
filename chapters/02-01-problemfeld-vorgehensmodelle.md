@@ -544,6 +544,8 @@ Der Weg der kleinen Veränderungen verlangt viel Geduld: Um nachweislich effizie
 
 ## Techniken von Kanban
 
+Die 
+
 ### Kanban-Board {#kanban-technik-board}
 
 - Kanban Board: IST-Zustand Visualisieren
