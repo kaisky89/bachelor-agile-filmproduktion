@@ -539,16 +539,8 @@ Das Prinzip der Kontinuierlichen Verbesserung wird auch "Kaizen" genannt. Vorgeh
 
 Kanban geht also den Weg der kleinen Veränderungen. Mithilfe der Mittel von Kanban, lassen sich Probleme erkennen und Messungen durchführen. Wichtigstes Maß in Kanban ist die Durchlaufzeit einer Arbeitsaufgabe \cite{agilespmkanban}. Mithilfe von kleinen Anpassungen am Prozess kann nun festgestellt werden, wie Durchlaufzeit optimiert werden kann. Wichtig ist hierbei, nur eine Veränderung auf einmal durchzuführen, damit sich einzelne Veränderungen in ihrer Wirkung nicht gegenseitig aufheben. Veränderungen kann z. B. die Veränderung eines WIP Limits an einer bestimmten Stelle des Prozesses sein. So wird mit kleinen Schritten ein Optimum gesucht, damit eine nachhaltige Entwicklungsgeschwindigkeit garantiert werden kann.
 
-Der Weg der kleinen Veränderungen verlangt viel Geduld: Um nachweislich effektiver Arbeiten zu können, benötigt es immer wieder Zeit, 
+Der Weg der kleinen Veränderungen verlangt viel Geduld: Um nachweislich effizienter Arbeiten zu können, benötigt es immer wieder Zeit, die vorgeschlagenen Veränderungen auf ihre Effektivität hin zu überprüfen. 
 
-(Evolutionäres Change Management)
-
-- David Anderson
-- Ausgangspunkt: Ist Zustand
-- Änderungen in kleinen Schritten
-- auch "Kaizen" genannt
-- kleine Verbesserungen: viel Geduld
-- es gibt immer Verbesserungen: Software Entwicklung ist ein flexibles Umfeld und benötig immer wieder Veränderung
 
 ## Techniken von Kanban
 
