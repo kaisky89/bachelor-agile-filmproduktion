@@ -574,7 +574,9 @@ Mithilfe des Kanban Boards lassen sich viele der Prinzipien von Kanban umsetzen:
 
 ### Messungen
 
-Messungen bilden die Grundlage für die kontinuierliche Verbesserung in Kanban. Durch kleine Schritte und ständigem Feedback durch die Messungen kann festgestellt werden, welche
+Messungen bilden die Grundlage für die kontinuierliche Verbesserung in Kanban. Durch kleine Schritte und ständigem Feedback durch die Messungen kann festgestellt werden, welche Faktoren für ein gutes Arbeitsergebnis und eine gute Leistung des Teams sorgen. Wichtigstes Maß dabei ist die Durchlaufzeit einer Arbeitsaufgabe. Man fragt sich also: "Wie viel Zeit benötigt eine Karte im Durchschnitt, um von der Spalte ganz links in die Spalte ganz rechts zu gelangen?". Diese Zeit soll verringert werden.
+
+Viele, wenn nicht sogar alle Probleme eines Prozesses wirken sich 
 
 - Wichtigstes Maß: Durchlaufzeit einer Arbeitsaufgabe
 - Ziel: Durchlaufzeit verringern
