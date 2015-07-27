@@ -557,11 +557,13 @@ Das Kanban Board ist die zentrale Technik von Kanban. Es visualisiert den Ist-Zu
 - Test
 - Done
 
-sein \cite{video2brainkanban}.
+sein \cite{video2brainkanban}. Die Listen werden der Reihenfolge nach von Links nach Rechts auf dem Board notiert.
 
-Die einzelnen Arbeitsaufgaben werden durch Karten repräsentiert, die den einzelnen Spalten zugeordnet werden können.
+Die einzelnen Arbeitsaufgaben werden durch Karten repräsentiert, die den einzelnen Listen zugeordnet werden. Je nach Status der Aufgabe wandern die Karten auf dem Board in den Listen von Links nach Rechts. Ein solches Kanban Board zeigt die Abbildung \ref{Exemplarisches schematisches Kanban Board} (Quelle: \cite{leankit2015kanbanboard}).
 
-![](http://download.heart-co.de/simple-physical-board-w-card-types-e87dbe30.png)
+![Exemplarisches schematisches Kanban Board](http://download.heart-co.de/simple-physical-board-w-card-types-e87dbe30.png)
+
+
 
 - Kanban Board: IST-Zustand Visualisieren
 	- einfach, gut sichtbar
