@@ -544,11 +544,13 @@ Der Weg der kleinen Veränderungen verlangt viel Geduld: Um nachweislich effizie
 
 ## Techniken von Kanban
 
-Die 
+Kanban selbst schreibt nicht viele Techniken vor. Teams, die Kanban benutzen, bedienen sich häufig der agilen Praktiken von XP (siehe Abschnitt \ref{xp-praktiken}). \cite{epping} schlägt einige Techniken zur Benutzung mit Kanban vor und führt auf, inwiefern diese die Prinzipien von Kanban umsetzen. Viele dieser Techniken sind allerdings deckungsgleich mit Praktiken aus XP oder sind für den weiteren Verlauf dieser Arbeit nicht relevant.
+
+Aus diesem Grund wird im Folgenden nur auf die zentralen Techniken von Kanban eingegangen. Das Kanban-Board ist die zentrale Technik in Kanban, mithilfe dieses Boards können auch alle relevanten Messungen durchgeführt, die eine Verbesserung des Prozesses möglich machen.
 
 ### Kanban-Board {#kanban-technik-board}
 
-Das Kanban Board ist die zentrale Technik von Kanban. Es visualisiert den Ist-Zustand und hilft, einen schnellen Überblick über den momentanen Status des Projekts mit all seinen Aufgaben zu bekommen. Das Kanban Board besteht aus Listen, die horizontal nebeneinander angeordnet sind. Die Listen repräsentieren die einzelnen Stationen, die ein Arbeitspaket des Teams durchläuft, wenn es bearbeitet wird. Im Rahmen von Softwareentwicklung können dies z. B. die Listen
+Das Kanban-Board ist die zentrale Technik von Kanban. Es visualisiert den Ist-Zustand und hilft, einen schnellen Überblick über den momentanen Status des Projekts mit all seinen Aufgaben zu bekommen. Das Kanban Board besteht aus Listen (oder auch "Spalten" genannt), die horizontal nebeneinander angeordnet sind. Die Listen repräsentieren die einzelnen Stationen, die ein Arbeitspaket des Teams durchläuft, wenn es bearbeitet wird. Im Rahmen von Softwareentwicklung können dies z. B. die Listen
 
 - Backlog
 - ToDo
@@ -563,21 +565,16 @@ Die einzelnen Arbeitsaufgaben werden durch Karten repräsentiert, die den einzel
 
 ![Exemplarisches schematisches Kanban Board](http://download.heart-co.de/simple-physical-board-w-card-types-e87dbe30.png)
 
+Mithilfe des Kanban Boards lassen sich viele der Prinzipien von Kanban umsetzen: 
 
-
-- Kanban Board: IST-Zustand Visualisieren
-	- einfach, gut sichtbar
-	- Spalte: Arbeitsschritt
-	- Karte: Aufgabe
-	- wichtig: IST-Zustand, nicht Soll Zustand
-
-- Arbeit limitieren
-	- Spalten haben jeweils ein Limit, wieviele Karten sie beinhalten dürfen
-	- Limit: Zahl an der Spaltenüberschrift
-	- WIP = Work in Progress
+- Das Prinzip des WIP Limits wird umgesetzt, indem die einzelnen Spalten eine limitierte Anzahl an Karten beinhalten dürfen. Dabei wird für jede Spalte festgelegt, wie viele Karten sie maximal enthalten darf. 
+- Das Pull Prinzip wird realisiert, indem jeder Mitarbeiter sich selbst seine Karten "zieht": sobald er mit seiner Aufgabe fertig ist, kann er dies auf dem Board kenntlich machen. Außerdem kann er zugleich sehen, welche Aufgaben für ihn noch zur Bearbeitung zur Verfügung stehen. Somit müssen Aufgaben dem Mitarbeiter nicht zugewiesen werden, sondern er kann selbst entscheiden, welche Aufgabe er als nächstes ansteht.
+- Außerdem unterstützt das Kanban Board das systemische Denken, indem es jedem Mitarbeiter den ganzen Prozess des Vorgehens visualisiert. Wenn Diskussionen für Optimierungen auf Basis dieser Visualisierung durchgeführt werden, ist für jeden Beteiligten sichtbar, was diese Optimierungen im gesamten Prozess bewirken. Somit werden lokale Optimierungen, die im Gesamtprozess kontraproduktiv sind, vermieden.
 
 
 ### Messungen
+
+Messungen bilden die Grundlage für die kontinuierliche Verbesserung in Kanban. Durch kleine Schritte und ständigem Feedback durch die Messungen kann festgestellt werden, welche
 
 - Wichtigstes Maß: Durchlaufzeit einer Arbeitsaufgabe
 - Ziel: Durchlaufzeit verringern
@@ -585,7 +582,6 @@ Die einzelnen Arbeitsaufgaben werden durch Karten repräsentiert, die den einzel
 - Weitere Kennzahlen: Menge an WIP, Fehlerrate, Termintreue, Anzahl der Blockaden.
 - Nur das messen, was Erkenntnisgewinn verspricht.
 - Ergebnisse für jeden gut zugänglich!
-
 
 
 
