@@ -561,7 +561,7 @@ sein \cite{video2brainkanban}.
 
 Die einzelnen Arbeitsaufgaben werden durch Karten repräsentiert, die den einzelnen Spalten zugeordnet werden können.
 
-!
+![](http://download.heart-co.de/simple-physical-board-w-card-types-e87dbe30.png)
 
 - Kanban Board: IST-Zustand Visualisieren
 	- einfach, gut sichtbar
