@@ -548,6 +548,21 @@ Die
 
 ### Kanban-Board {#kanban-technik-board}
 
+Das Kanban Board ist die zentrale Technik von Kanban. Es visualisiert den Ist-Zustand und hilft, einen schnellen Überblick über den momentanen Status des Projekts mit all seinen Aufgaben zu bekommen. Das Kanban Board besteht aus Listen, die horizontal nebeneinander angeordnet sind. Die Listen repräsentieren die einzelnen Stationen, die ein Arbeitspaket des Teams durchläuft, wenn es bearbeitet wird. Im Rahmen von Softwareentwicklung können dies z. B. die Listen
+
+- Backlog
+- ToDo
+- Analyse
+- Entwicklung
+- Test
+- Done
+
+sein \cite{video2brainkanban}.
+
+Die einzelnen Arbeitsaufgaben werden durch Karten repräsentiert, die den einzelnen Spalten zugeordnet werden können.
+
+!
+
 - Kanban Board: IST-Zustand Visualisieren
 	- einfach, gut sichtbar
 	- Spalte: Arbeitsschritt
