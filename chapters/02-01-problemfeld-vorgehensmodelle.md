@@ -535,6 +535,12 @@ Insgesamt fordert das Pull Prinzip Vertrauen von den Führungskräfte in die Tea
 
 ### Kontinuierliche Verbesserungen {#kanban-prinzip-kontinuierliche-verbesserungen}
 
+Das Prinzip der Kontinuierlichen Verbesserung wird auch "Kaizen" genannt. Vorgehensmodelle wie Scrum verfolgen einen revolutionären Ansatz: Das bisherige Vorgehen wird nicht mehr beachtet, ein vollständiges neues Vorgehen wird übernommen. Aber große Veränderungen treffen bei Menschen nicht immer auf Akzeptanz. Kanban geht hier einen anderen Weg: Es arbeitet genau mir dem Vorgehen, was bereits vorhanden ist. Kanban geht davon aus, dass das bereits vorhandene Vorgehen nicht ohne Grund genau so ist: Viele Menschen werden sich bereits Gedanken gemacht haben, viel Zeit, Wissen und Arbeit ist evtl. schon in die Optimierung bestimmter Abläufe investiert worden. Kanban baut genau auf die vorhandene Situation auf. Es kann also sowohl für klassische Wasserfalmmodellartige Vorgehen benutzt, als auch für moderne iterative Ansätze. Kanban lässt sich auf jedes Vorgehen adaptieren und hilft dabei, den vorhandenen Prozess besser zu verstehen und Probleme zu erkennen.
+
+Kanban geht also den Weg der kleinen Veränderungen. Mithilfe der Mittel von Kanban, lassen sich Probleme erkennen und Messungen durchführen. Wichtigstes Maß in Kanban ist die Durchlaufzeit einer Arbeitsaufgabe \cite{agilespmkanban}. Mithilfe von kleinen Anpassungen am Prozess kann nun festgestellt werden, wie Durchlaufzeit optimiert werden kann. Wichtig ist hierbei, nur eine Veränderung auf einmal durchzuführen, damit sich einzelne Veränderungen in ihrer Wirkung nicht gegenseitig aufheben. Veränderungen kann z. B. die Veränderung eines WIP Limits an einer bestimmten Stelle des Prozesses sein. So wird mit kleinen Schritten ein Optimum gesucht, damit eine nachhaltige Entwicklungsgeschwindigkeit garantiert werden kann.
+
+Der Weg der kleinen Veränderungen verlangt viel Geduld: Um nachweislich effektiver Arbeiten zu können, benötigt es immer wieder Zeit, 
+
 (Evolutionäres Change Management)
 
 - David Anderson
