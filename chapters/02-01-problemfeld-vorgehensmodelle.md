@@ -532,11 +532,6 @@ Führungskräfte eines Teams bekommen im Zuge des Pull Prinzips eine neue Rolle:
 
 Insgesamt fordert das Pull Prinzip Vertrauen von den Führungskräfte in die Teammitglieder. Sie müssen darauf vertrauen können, dass die Teammitglieder wirklich an den Aufgaben arbeiten und nicht ihre Zeit mit sinnlosen Beschäftigungen verschwenden.
 
-Durch das Pull Prinzip wird letztendlich für eine Nachhaltige Entwicklungsgeschwindigkeit gesorgt: Wenn jeder Entwickler selbst entscheiden kann, wann eine Aufgabe ab
-
-- Keine Zeitlimits
-- Vertrauen der Führungskräfte in ihre Mitarbeiter
-- Nachhaltige Entwicklungsgeschwindigkeit (mit WIP Limits)
 
 ### Kontinuierliche Verbesserungen {#kanban-prinzip-kontinuierliche-verbesserungen}
 
