@@ -100,9 +100,12 @@ Der Product Owner vertritt die Interesse
 - kleines Team (nicht zu Vergleichen mit Kinoproduktion)
 - Spezialisten, die auch in über den Telerrand gucken können (wissen, wie die anderen Arbeiten)
 - so entsteht auch eine gute Möglichkeit zu planen: die jenigen, die umsetzen, sind auch bei der Planung beteiligt
-- jeder kann währen
+- jeder kann während der Planung schon auf die Details seiner Spezialisierung eingehen
+
 
 In dem Kontext einer großen Kino- oder Spielfilmproduktion hat beispielsweise der Kameramann nichts bis sehr wenig mit der Planung und den Inhalten zu tun. Es gibt für jede Phase ein eigenes Team mit den jeweiligen Spezialisten. Es ist allerdings verkehrt, diese klare Einteilung in den Unternehmenskontext von Imagefilmen zu übertragen: Hier sind Kosten, Personal und Zeit ein wesentlich höherer Faktor. Wenn also durch die Zusammenarbeit eines Teams Personal gespart werden kann, ist dies im Sinne der Wirtschaftlichkeit ein großer Vorteil.
+
+- Verantwortlichkeit: im Sprint Entwickeln und Produzieren
 
 
 # Ablauf
