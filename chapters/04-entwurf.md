@@ -64,7 +64,13 @@ Das Vorgehensmodell definiert verschiedene Rollen, die für ein Projekt gewisse 
 
 ## Product Owner
 
-Der Product Owner vertritt die Interesse
+Der Product Owner vertritt die Interessen der Stakeholder gegenüber dem Team. Im Optimalfall ist es ein Vertreter des Kunden selbst. Es kann aber auch ein Mitarbeiter aus dem Produktions Unternehmen sein. Voraussetzung für diese Rolle ist eine kommunikative Persönlichkeit von Vorteil. Außerdem sollte der Product Owner gut selbst entscheiden können, was momentan wichtig und was weniger wichtig ist.
+
+Der Product Owner ist für die Pflege und die Priorisierung des Film Backlogs verantwortlich. Er allein darf neue Items in das Film Backlog aufnehmen und Veränderungen in der Priorisierung vornehmen. Dies tut er in Absprache mit den Stakeholdern. 
+
+Das Projekt wird vom Product Owner initialisiert: Er ist Verantwortlich für die initialen Aktivitäten *Recherche* und *Projekt Initialisierung*. Der Product Owner erstellt dabei das Artefakt *Film Vision* und befüllt das *Film Backlog* mit den ersten Items. Dies tut er in Absprache mit den Stakeholdern, um sicherzugehen, die richtigen Anforderungen zu definieren und in Absprache mit dem Team, um einschätzen zu können, wie viel Aufwand mit der jeweiligen Anforderung verbunden ist.
+
+Der Product Owner bespricht während des Sprint Planning mit dem Team, welche Anforderungen für den nächsten Sprint umgesetzt werden. Grundlage dafür ist der Film Backlog. Nachdem sich der Product Owner im Sprint Planning mit dem Team auf ein Sprint Backlog geeinigt hat, hat er bis zum Ende des Sprints keinen Einfluss mehr auf das Sprint Backlog
 
 - vertritt Interessen des Auftraggebers Kunden Stakeholder
 - Optimalfall: Kunde selbst
