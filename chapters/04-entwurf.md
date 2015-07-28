@@ -76,22 +76,24 @@ Das Projekt wird vom Product Owner initialisiert: Er ist Verantwortlich für die
 
 Der Product Owner bespricht während des Sprint Planning mit dem Team, welche Anforderungen für den nächsten Sprint umgesetzt werden. Grundlage dafür ist der Film Backlog. Nachdem sich der Product Owner im Sprint Planning mit dem Team auf ein Sprint Backlog geeinigt hat, hat er bis zum Ende des Sprints keinen Einfluss mehr auf das Sprint Backlog.
 
-Während des Sprints ist der Product Owner für das Team ständig erreichbar. Da es keine ausführliche Anforderungsermittlung gibt und Filmsequenzen nicht nicht durch ein gesondertes redaktionelles Team oder ähnliches geplant werden, ist es nötig, dass der Product Owner erreichbar ist, um möglichst früh verifizieren zu können, dass das, was gerade entwickelt oder produziert wird, wirklich den Anforderungen des Kunden entspricht. Außerdem kann so bei unklarheiten oder Fragen schnell auf jemanden zurückgegriffen werden, der detailliertere Auskunft geben kann.
+Während des Sprints ist der Product Owner für das Team ständig erreichbar. Da es keine ausführliche Anforderungsermittlung gibt und Filmsequenzen nicht nicht durch ein gesondertes redaktionelles Team oder ähnliches geplant werden, ist es nötig, dass der Product Owner erreichbar ist, um möglichst früh verifizieren zu können, dass das, was gerade entwickelt oder produziert wird, wirklich den Anforderungen des Kunden entspricht. Außerdem kann so bei Unklarheiten oder Fragen schnell auf jemanden zurückgegriffen werden, der detailliertere Auskunft geben kann.
 
-Der Product Owner bildet also in seiner Funktion die Schnittstelle zwischen Team und Stakholder: 
+Der Product Owner ist während des Sprint Reviews dafür verantwortlich, zu prüfen, ob die Stakeholder mit den Entwicklungen und Produktionen des letzten Sprints zufrieden sind. Wenn Stakeholder beim Sprint Review anwesend sind, übernimmt er eine moderierende Rolle, wenn es sich um ein kleines Sprint Review ohne Kunden Anwesenheit handelt, übernimmt er die Rolle des Kunden und bewertet selbst die Ergebnisse.
 
-- vertritt Interessen des Auftraggebers Kunden Stakeholder
-- Optimalfall: Kunde selbst
+Der Product Owner bildet also in seiner Funktion die Schnittstelle zwischen Team und Stakeholder: 
 
-- Ist Verantwortlich für die Pflege und Priorisierung des Film Backlogs
-- Erstellt Film Vision
-
-- Ständig für das Team erreichbar (wandelnde Spezifikation)
-
-- Schnittstelle: Team - Stakeholder
-
+- Die Interessen der Stakeholder kommuniziert er über die Pflege und Priorisierung des Film Backlogs und durch seine Verfügbarkeit für Fragen und Feedback.
+- Die Fragen und Einwände des Teams kommuniziert er durch direktes Gespräch mit dem Team und mit den Stakeholdern.
 
 ## Kunde
+
+Die Rolle des Kunden ist als solche in Scrum nicht definiert. Es ergibt aber Sinn, diese hier expliziet aufzuführen:
+
+Die Rolle des Kunden steht stellvertretend für die Summe aller Stakeholder des Projektes, die mit dem Product Owner kommunizieren. Wenn also vom Kunden die Rede ist, so ist in der Regel keine einzelne Person gemeint, sondern die Gruppe von Menschen, die ein Anrecht, einen Anspruch, einen Anteil oder ein Interesse \cite{iso9241210} an dem Imagefilm oder an dessen Gestaltung haben.
+
+In der Gestaltung eines Imagefilms spielen viele Faktoren eine Rolle, die der Product Owner als einzelne Person nicht vollständig selbst entscheiden kann. Ein Film hat immer auch viel mit Ästhetik, mit Geschmack und mit konnotativen Botschaften zu tun, die häufig sehr subjektiv wahrgenommen werden und daher von Mensch zu Mensch unterschiedlich sein können. Um also sicherzugehen, dass der Imagefilm in seiner Gestaltung den Geschmack der Stakeholder trifft, muss explizit gefordert werden, dass diese in regelmäßigen Abständen informiert werden und ihr eigenes Feedback geben können. Dies sollte direkt geschehen, ohne Vertretung des Product Owners.
+
+
 
 - Rolle so in Scrum nicht definiert
 - steht für die Summe aller Stakeholder, die mit dem Product Owner kommunizieren
