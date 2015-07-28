@@ -215,6 +215,12 @@ Die Sprintergebnisse werden vom Team erstellt und von diesem auch während des S
 
 Der Wachsende Film repräsentiert die momentane Version des Imagefilms. Er ist ein in sich schlüssiger Film, der alle Arbeiten des Teams bis zum letzten Sprint Review zeigt. Er wird vom Team nach dem Sprint Review erstellt^["erstellt" bedeutet in diesem Kontext, dass aus den Sprintergebnissen und der vorherigen Version des Wachsenden Films eine neue Sequenz zusammengestellt wird.]. Der wachsende Film muss nicht veröffentlicht werden, kann es aber. Im Sinne der Transparenz gegenüber aller Stakeholder ist er aber ein obligatorisches Artefakt. Alle Stakeholder müssen Zugriff auf dieses Artefakt haben. 
 
+# Aktivitäten
+
+## Sprint Review
+
+- Großer Sprint Review / kleiner Sprint Review
+
 
 # Techniken
 
