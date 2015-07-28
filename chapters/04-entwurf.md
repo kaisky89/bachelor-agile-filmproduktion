@@ -58,6 +58,10 @@ Bei allen Bemühungen um Ideen und gestalterischen Feinheiten kann schnell die z
 
 <!-- Iterationen / kurze Releases -->
 
+<!-- EIN Team. Kein gesondertes Planungs oder Postproduktionsteam, alle Projektbeteiligten sind von anfang integriert -->
+
+
+
 # Rollen
 
 Das Vorgehensmodell definiert verschiedene Rollen, die für ein Projekt gewisse Verantwortlichkeiten, Pflichten, erforderliche Aktivitäten aber auch Rechte haben. Die Rollendefinitionen lehnen sich stark an die Rollen von Scrum an (siehe Abschnitt \ref{scrum-projektrollen}).
@@ -70,7 +74,11 @@ Der Product Owner ist für die Pflege und die Priorisierung des Film Backlogs ve
 
 Das Projekt wird vom Product Owner initialisiert: Er ist Verantwortlich für die initialen Aktivitäten *Recherche* und *Projekt Initialisierung*. Der Product Owner erstellt dabei das Artefakt *Film Vision* und befüllt das *Film Backlog* mit den ersten Items. Dies tut er in Absprache mit den Stakeholdern, um sicherzugehen, die richtigen Anforderungen zu definieren und in Absprache mit dem Team, um einschätzen zu können, wie viel Aufwand mit der jeweiligen Anforderung verbunden ist.
 
-Der Product Owner bespricht während des Sprint Planning mit dem Team, welche Anforderungen für den nächsten Sprint umgesetzt werden. Grundlage dafür ist der Film Backlog. Nachdem sich der Product Owner im Sprint Planning mit dem Team auf ein Sprint Backlog geeinigt hat, hat er bis zum Ende des Sprints keinen Einfluss mehr auf das Sprint Backlog
+Der Product Owner bespricht während des Sprint Planning mit dem Team, welche Anforderungen für den nächsten Sprint umgesetzt werden. Grundlage dafür ist der Film Backlog. Nachdem sich der Product Owner im Sprint Planning mit dem Team auf ein Sprint Backlog geeinigt hat, hat er bis zum Ende des Sprints keinen Einfluss mehr auf das Sprint Backlog.
+
+Während des Sprints ist der Product Owner für das Team ständig erreichbar. Da es keine ausführliche Anforderungsermittlung gibt und Filmsequenzen nicht nicht durch ein gesondertes redaktionelles Team oder ähnliches geplant werden, ist es nötig, dass der Product Owner erreichbar ist, um möglichst früh verifizieren zu können, dass das, was gerade entwickelt oder produziert wird, wirklich den Anforderungen des Kunden entspricht. Außerdem kann so bei unklarheiten oder Fragen schnell auf jemanden zurückgegriffen werden, der detailliertere Auskunft geben kann.
+
+Der Product Owner bildet also in seiner Funktion die Schnittstelle zwischen Team und Stakholder: 
 
 - vertritt Interessen des Auftraggebers Kunden Stakeholder
 - Optimalfall: Kunde selbst
