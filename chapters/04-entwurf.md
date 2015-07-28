@@ -97,28 +97,36 @@ Der Kunde arbeitet während der Aktivität *Recherche* mit dem Product Owner zus
 
 Er nimmt auch bei der Projekt Initialisierung teil, um Fragen des Teams und des Product Owners zu klären und die weiteren Rahmenbedingungen des Projekts zu klären.
 
-Es gehört zu den Pflichten des Kunden, an den Sprint Reviews teilzunehmen. Dabei ist es nicht zwingend notwendig, bei allen Sprint Reviews teilzunehmen. Bei der Projekt Initialisierung kann festgelegt werden, in welchen Abständen es große Sprint Reviews^["Große Sprint Reviews" sind Sprint Reviews mit Anwesenheit des Kunden. Sprint Reviews ohne Anwesenheit des Kunden werden konsequenter weise "kleine Sprint Reviews" genannt. Siehe auch Abschnitt \ref{entwurf-aktivitaten-sprint-review}] geben soll. Die Regelmäßigkeit für große Sprint Reviews kann bei Bedarf geändert werden.
+Es gehört zu den Pflichten des Kunden, an den Sprint Reviews teilzunehmen. Dabei ist es nicht zwingend notwendig, bei allen Sprint Reviews teilzunehmen. Bei der Projekt Initialisierung kann festgelegt werden, in welchen Abständen es große Sprint Reviews^["Große Sprint Reviews" sind Sprint Reviews mit Anwesenheit des Kunden. Sprint Reviews ohne Anwesenheit des Kunden werden konsequenterweise "kleine Sprint Reviews" genannt. Siehe auch Abschnitt \ref{entwurf-aktivitaten-sprint-review}] geben soll. Die Regelmäßigkeit für große Sprint Reviews kann bei Bedarf geändert werden.
 
 
 ## Teamleiter
 
-- in Scrum: ScrumMaster
-- hier etwas andere Rolle: behält die künstlerische Verantwortlichkeit des Films (Regisseur)
-- Ziel: durch effektive Teamarbeit möglichst viel aus dem Können, Erfahrung und Wissen der Teamleute herausholen.
-- durch klare High Level Anweisung, Richtung geben, mithilfe die Teammitglieder arbeiten können
+Der Teamleiter ersetzt die Rolle des ScrumMasters in Scrum. Er bekommt in dem Kontext von Imagefilm Produktion allerdings noch eine etwas andere Rolle. 
 
-- Team unterstützen, indem er für die Einhaltung der Regeln sorgt
-- Team von falschen Einflüssen von außen schützen
+Scrum Teams der Softwareentwicklung agieren vollständig selbstständig und eigenverantwortlich. Scrum Master übernehmen in keiner Weise die klassische Führungsaufgabe sondern fungieren nur als Berater und Unterstützer. Dies funktioniert, da es sich in der Aufgabenstellung des Projekts um Software handelt: Die Entwicklung von Software ist zwar ein kreativer und komplexer Prozess, er lässt sich aber gut von einem Team, das bereits genügend Erfahrung hat, meistern, ohne dass es zwingend einen Chefarchitekten gibt.
+
+In der Produktion von Imagefilmen sieht dies anders aus: Hier steht die Ästhetik und die Komposition der Inhalte im Vordergrund, es gibt keinerlei messbare Funktion, die entwickelt werden muss. Für die Entwicklung von innovativen Filmideen ist einerseits auch sehr viel Kreativität gefragt, andererseits ist es hier wichtig und förderlich, wenn es jemanden gibt, der die künstlerische Verantwortung des Projekts übernimmt und klar vorgeben kann, in welche Richtung sich der Film entwickeln soll und welche Aspekte wichtig sind.^[Der Autor weiß aus eigener Erfahrung: Wenn es in der Entwicklung und Planung eines Films keine leitende Rolle in Form eines Regisseurs gibt, kann es zu nicht endenden Diskussionen über Ideen und Inhalte kommen.]
+
+Andererseits ist es trotzdem wichtig, die Kompetenzen der einzelnen Teammitglieder wertzuschätzen und effektiv zu nutzen: der Teamleiter bestimmt also nicht jedes Detail des Imagefilms, sondern gibt nur die grobe Richtung an. Er gibt so weit eine Vorgaben, damit das Team möglichst viel aus dem Können, der Erfahrung und dem Wissen jedes einzelnen Teammitglieds profitieren kann. 
+
+Zusätzlich zu der künstlerischen Leitung des Teams übernimmt der Teamleiter die Aufgaben des klassischen Scrum Masters: Er sorgt dafür, dass die Regeln und Abläufe des Vorgehens eingehalten werden, dass das Team lernt, mithilfe des Vorgehens effizient zu arbeiten, und das Hindernisse während des Sprints aus dem Weg geschafft werden. Hindernisse können auch unerlaubte Einflüsse des Prduct Owners oder des Kunden auf das Team sein.
+
+Der Teamleiter ist Teil des Teams. Wenn von dem Team die Rede ist, ist damit immer auch der Teamleiter gemeint.
+
+Der Teamleiter ist also eine Mischung aus dem *Autor*, wie er in Abschnitt \ref{filmproduktion-gewerke-autor} beschrieben wird und dem *Scrum Master*, wie er in Abschnitt \ref{vorgehensmodelle-scrum-master} beschrieben wird.
 
 ## Team
 
-- kleines Team (nicht zu Vergleichen mit Kinoproduktion)
-- Spezialisten, die auch in über den Telerrand gucken können (wissen, wie die anderen Arbeiten)
-- so entsteht auch eine gute Möglichkeit zu planen: die jenigen, die umsetzen, sind auch bei der Planung beteiligt
-- jeder kann während der Planung schon auf die Details seiner Spezialisierung eingehen
+Im Vergleich zu der Anzahl von Menschen, die in einer Kinoproduktion involviert sind, ist das Team für die Entwicklung und Produktion eines Imagefilm eher klein. Dies hat unter anderem wirtschaftliche Gründe. Teams für die Produktion von Imagefilmen sind hocheffizient, das bedeutet, sie erbringen mit wenig Ressourcen hohe Leistung.
 
+Während in großen Produktionen jeder Beteiligte für genau eine Aufgabe spezialisiert ist, werden in kleinen Teams von Imagefilmen eher Multitalente, oder zumindest Menschen mit einem eher breiter gefächertem Fachwissen benötigt. In dem Kontext einer großen Kino- oder Spielfilmproduktion hat beispielsweise der Kameramann nichts bis sehr wenig mit der Planung und den Inhalten zu tun. Es gibt für jede Phase ein eigenes Team mit den jeweiligen Spezialisten. Es ist allerdings verkehrt, diese klare Einteilung in den Unternehmenskontext von Imagefilmen zu übertragen: Hier sind Kosten, Personal und Zeit ein wesentlich höherer Faktor. Wenn also durch die Zusammenarbeit eines Teams Personal gespart werden kann, ist dies im Sinne der Wirtschaftlichkeit ein großer Vorteil. Ein Kameramann, der auch schon während der Planung seinen Beitrag zu einer guten Gestaltung des Films beitragen kann, ist ein wertvolle Beitrag für die Effizienz des Teams.
 
-In dem Kontext einer großen Kino- oder Spielfilmproduktion hat beispielsweise der Kameramann nichts bis sehr wenig mit der Planung und den Inhalten zu tun. Es gibt für jede Phase ein eigenes Team mit den jeweiligen Spezialisten. Es ist allerdings verkehrt, diese klare Einteilung in den Unternehmenskontext von Imagefilmen zu übertragen: Hier sind Kosten, Personal und Zeit ein wesentlich höherer Faktor. Wenn also durch die Zusammenarbeit eines Teams Personal gespart werden kann, ist dies im Sinne der Wirtschaftlichkeit ein großer Vorteil.
+Das Team besteht also aus Spezialisten, die eine bestimmten Teilbereich sehr gut beherrschen, allerdings durch ein zusätzliches breiteres Fachwissen auch einen guten Beitrag außerhalb ihrer Spezialisierung bringen.
+
+Wichtiges Kriterium des Teams ist, dass es autark ist: Alle Kompetenzen, die für die Entwicklung und Produktion des Imagefilms notwendig sind, sollten auch im Team vertreten sein.
+
+Die Hauptverantworlichkeit des Teams ist, in den Sprints die Entwicklung des Imagefilms  
 
 - Verantwortlichkeit: im Sprint Entwickeln und Produzieren
 
