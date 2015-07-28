@@ -20,7 +20,7 @@ Im Folgenden sollen die typischen Gewerke vorgestellt werden, die in der Produkt
 -->
 
 
-## Autor
+## Autor {#filmproduktion-gewerke-autor}
 
 Der Autor^[\cite{jacobs2015prozess} nennt ihn "Autor", da es sich bei ihm um hauptsächlich journalistische Filme handelt. In anderen Branchen sind Bezeichnungen wie "Regisseur" denkbar.] hat die führende Rolle im Filmprojekt. Er ist verantwortlich für den Inhalt des Films und für das Filmprojekt als Ganzes. Er übernimmt häufig die Aufgaben der Recherche und der Regie. Das bedeutet, dass er alle nötigen technischen Details mit den anderen Gewerken bespricht. Dabei gibt der Autor an, was in dem Film kommuniziert werden soll. Wie das dann technisch genau umgesetzt wird, darum kümmert sich jedes Gewerk bestenfalls selbstständig.
 
