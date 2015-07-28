@@ -610,7 +610,7 @@ Das Team arbeitet in einem gemeinsamen Büro: Es gibt keine Abteilungen oder son
 
 Das Team ist Multidisziplinär und Autonom. Alle benötigten Fähigkeiten für das Projekt sind im Team vorhanden, sodass das Team während des Sprints nicht auf fachliche Hilfe von angewiesen ist. Dies sorgt für eine möglichst schnelle Bearbeitung der Aufgaben. Es muss auf keine Arbeit von außen gewartet werden, was zu unnötigen und unvorhergesehenen Verzögerungen des Sprintfortschritts führen könnte. Obwohl jedes Teammitglied seine Spezialisierung hat, wird im Team nicht in Abteilungen gedacht: Das Team sieht sich als eine Einheit, und alle Teammitglieder sind gleichberechtigt, Entscheidungen zu treffen. Es gibt keinen Teamleiter.
 
-### Scrum Master
+### Scrum Master {#vorgehensmodelle-scrum-master}
 
 Der Scrum Master ist verantwortlich dafür, das der Prozess von Scrum und seine Regeln eingehalten wird. Er ist der "Freund" oder "Coach" des Teams. Sein Ziel ist es, dass das Team in Ruhe arbeiten kann,  und er schützt das Team vor Einflüssen vom Product Owner oder anderen Stakeholdern während eines Sprints.
 
