@@ -621,7 +621,7 @@ Gibt es Hindernisse, die ein effizientes Arbeiten des Teams gefährden, so kümm
 
 ## Der Prozess
 
-Der Prozess wird in Abbildung \ref{Schematische Darstellung des Scrum Prozesses} dargestellt.
+Der Prozess wird in Abbildung \ref{Schematische Darstellung des Scrum Prozesses} dargestellt. (Grafik aus \cite{hanser})
 
 ![Schematische Darstellung des Scrum Prozesses](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2012.06.07.png)
 
