@@ -10,7 +10,7 @@ Das Vorgehensmodell bezieht sich auf die Werte von der *agilen Softwareentwicklu
 
 ## Kommunikation
 
-Genau so wie in der Software Welt geht es in der Produktion von einem Imagefilm darum, eine abstrakte Vorstellung, die zu Anfang nur in den Köpfen der Beteiligten vorhanden ist, Realität werden zu lassen. Ein wesentliches Kriterium, um erfolgreich im Team und mit dem Kunden zusammenarbeiten zu können ist also auch in der Filmwelt eine passende, effektive und effiziente Kommunikation. Kommunikation findet hauptsächlich in zwei Kontexten statt:
+Genau so wie in der Software Welt geht es in der Produktion von einem Imagefilm darum, eine abstrakte Vorstellung, die zu Anfang nur in den Köpfen der Beteiligten vorhanden ist, Realität werden zu lassen. Ein wesentliches Kriterium, um erfolgreich im Team und mit dem Kunden zusammenarbeiten zu können ist also auch in der Filmwelt eine passende, effektive und effiziente Kommunikation, damit diese abstrakte Vorstellung in den Köpfen aller beteiligten gleich - oder zumindest ähnlich - ist. Kommunikation findet hauptsächlich in zwei Kontexten statt:
 
 ### Kommunikation im Team
 
@@ -46,7 +46,7 @@ Es muss der Tatsache ins Auge gesehen werden, dass Anforderungen und Vorstellung
 
 <!-- Umbenennen in "Transparenz"?? -->
 
-Für gutes Feedback ist es wesentlich, so früh wie möglich dem Kunden schon erste Ergebnisse zeigen zu können. Ergebnisse, die dem Kunden müssen nicht perfekt sein, sollen aber dem Kunden die wesentlichen Merkmale zeigen, um die es momentan geht. Je früher der Kunde einen ersten Eindruck in Form eines Films über die geplanten Inhalte bekommt, desto früher kann er auch Feedback geben und verstehen, worum es geht und wie geplante filmische Aspekte wirken. Außerdem hilft es dem Team, durch frühe beispielhafte Produktionen selbst ein Gefühl dafür zu bekommen, welcher Aufwand mit bestimmten Techniken verbunden ist, oder welche Herausforderungen eine gewisse filmische Methode beinhaltet. Gerade bei neuen Ideen und innovativen und kreativen Ansätzen ist dies eine hilfreiche Möglichkeit, den eigenen Aufwand einzuschätzen.
+Für gutes Feedback ist es wesentlich, so früh wie möglich dem Kunden schon erste Ergebnisse zeigen zu können. Ergebnisse, die dem Kunden präsentiert werden, müssen nicht perfekt sein, sollen dem Kunden aber die wesentlichen Merkmale zeigen, um die es momentan geht. Je früher der Kunde einen ersten Eindruck in Form eines Films über die geplanten Inhalte bekommt, desto früher kann er auch Feedback geben und verstehen, worum es dem Team geht und wie geplante filmische Aspekte wirken. Außerdem hilft es dem Team, durch frühe beispielhafte Produktionen selbst ein Gefühl dafür zu bekommen, welcher Aufwand mit bestimmten Techniken verbunden ist, oder welche Herausforderungen eine gewisse filmische Methode beinhaltet. Gerade bei neuen Ideen und innovativen und kreativen Ansätzen ist dies eine hilfreiche Möglichkeit, den eigenen Aufwand einzuschätzen.
 
 
 ## Botschaft als zentrales Ziel
@@ -60,17 +60,49 @@ Bei allen Bemühungen um Ideen und gestalterischen Feinheiten kann schnell die z
 
 # Rollen
 
+Das Vorgehensmodell definiert verschiedene Rollen, die für ein Projekt gewisse Verantwortlichkeiten, Pflichten, erforderliche Aktivitäten aber auch Rechte haben. Die Rollendefinitionen lehnen sich stark an die Rollen von Scrum an (siehe Abschnitt \ref{scrum-projektrollen}).
+
 ## Product Owner
+
+Der Product Owner vertritt die Interesse
+
+- vertritt Interessen des Auftraggebers Kunden Stakeholder
+- Optimalfall: Kunde selbst
+
+- Ist Verantwortlich für die Pflege und Priorisierung des Film Backlogs
+- Erstellt Film Vision
+
+- Ständig für das Team erreichbar (wandelnde Spezifikation)
+
+- Schnittstelle: Team - Stakeholder
+
+
+## Kunde
+
+- Rolle so in Scrum nicht definiert
+- steht für die Summe aller Stakeholder, die mit dem Product Owner kommunizieren
+- Nimmt bei den regelmäßigen Sprint Reviews teil
+
+
 
 ## Teamleiter
 
-<!-- ?? -->
+- in Scrum: ScrumMaster
+- hier etwas andere Rolle: behält die künstlerische Verantwortlichkeit des Films (Regisseur)
+- Ziel: durch effektive Teamarbeit möglichst viel aus dem Können, Erfahrung und Wissen der Teamleute herausholen.
+- durch klare High Level Anweisung, Richtung geben, mithilfe die Teammitglieder arbeiten können
+
+- Team unterstützen, indem er für die Einhaltung der Regeln sorgt
+- Team von falschen Einflüssen von außen schützen
 
 ## Team
 
-In dem Kontext einer großen Kino- oder Spielfilmproduktion hat beispielsweise der Kameramann nichts bis sehr wenig mit der Planung und der Inhalte zu tun. Es gibt für jede Phase ein eigenes Team mit den jeweiligen Spezialisten. Es ist allerdings verkehrt, diese klare Einteilung in den Unternehmenskontext von Imagefilmen zu übertragen: Hier sind Kosten, Personal und Zeit ein wesentlich höherer Faktor. Wenn also durch die Zusammenarbeit eines Teams Personal gespart werden kann, ist dies im Sinne der Wirtschaftlichkeit ein großer Vorteil.
+- kleines Team (nicht zu Vergleichen mit Kinoproduktion)
+- Spezialisten, die auch in über den Telerrand gucken können (wissen, wie die anderen Arbeiten)
+- so entsteht auch eine gute Möglichkeit zu planen: die jenigen, die umsetzen, sind auch bei der Planung beteiligt
+- jeder kann währen
 
-## Kunde
+In dem Kontext einer großen Kino- oder Spielfilmproduktion hat beispielsweise der Kameramann nichts bis sehr wenig mit der Planung und den Inhalten zu tun. Es gibt für jede Phase ein eigenes Team mit den jeweiligen Spezialisten. Es ist allerdings verkehrt, diese klare Einteilung in den Unternehmenskontext von Imagefilmen zu übertragen: Hier sind Kosten, Personal und Zeit ein wesentlich höherer Faktor. Wenn also durch die Zusammenarbeit eines Teams Personal gespart werden kann, ist dies im Sinne der Wirtschaftlichkeit ein großer Vorteil.
 
 
 # Ablauf
@@ -95,7 +127,7 @@ Die Ergebnisse der Recherche werden in der *Film Vision* festgehalten. Mithilfe 
 
 ## Sprint
 
-Sobald die *Projekt Initialisierung* abgeschlossen ist, beginnt das Team seine Arbeit. Die gesamte Entwicklung und Produktion des Films geschieht in Form von Sprints. Ziel eines Sprints ist immer ein oder mehrere Videos zu produzieren, die die getane Arbeit des Sprints demonstrieren. Die Aktivität *Sprint Planning* findet zu Anfang jeden Sprints statt. Wird entschieden, welche Anforderungen aus dem Der Sprint ist in drei Phasen aufgeteilt:
+Sobald die *Projekt Initialisierung* abgeschlossen ist, beginnt das Team seine Arbeit. Die gesamte Entwicklung und Produktion des Films geschieht in Form von Sprints. Ziel eines Sprints ist immer ein oder mehrere Videos zu produzieren, die die getane Arbeit des Sprints demonstrieren. Die Aktivität *Sprint Planning* findet zu Anfang jeden Sprints statt. Es wird entschieden, welche Anforderungen aus dem Film Backlog in dem folgenden Sprint bearbeitet werden. Der Sprint ist in drei Phasen aufgeteilt:
 
 #### Pioneer Phase
 
@@ -113,11 +145,11 @@ Mithilfe der Ergebnis der *Produktions Phase* werden in der *Post Phase* Videocl
 
 #### Sprint Review / Retrospektive
 
-Die Ergebnisse werden im *Sprint Review* dem Kunden demonstriert. Der Sprint Review dient als Grundlage für weitere Diskussionen und Entscheidungen mit dem Kunden. Wenn das Team sich zum Beispiel nicht sicher ist, welche Idee für die Umsetzung einer Anforderung passend ist, kann es während des Sprints mehrere Ideen umsetzen und die Ergebnisse dem Kunden präsentieren. Das Team kann dann zusammen mit dem Kunden diskutieren und abwägen, welches Idee passend ist und wie weiter vorgegangen werden soll. Während des Gesprächs mit dem Kunden im *Sprint Review* ist es Möglich, dass sich neue Anforderungen herausstellen. Diese werden im *Film Backlog* festgehalten. 
+Die Ergebnisse werden im *Sprint Review* dem Kunden demonstriert. Der Sprint Review dient als Grundlage für weitere Diskussionen und Entscheidungen mit dem Kunden. Wenn das Team sich zum Beispiel nicht sicher ist, welche Idee für die Umsetzung einer Anforderung passend ist, kann es während des Sprints mehrere Ideen umsetzen und die Ergebnisse dem Kunden präsentieren. Das Team kann dann zusammen mit dem Kunden diskutieren und abwägen, welche Idee passend ist und wie weiter vorgegangen werden soll. Während des Gesprächs mit dem Kunden im *Sprint Review* ist es möglich, dass sich neue Anforderungen herausstellen. Diese werden im *Film Backlog* festgehalten. 
 
-Ergebnisse, mit denen der Kunde zufrieden ist, werden im Artefakt *wachsender Film* integriert. Der *wachsende Film* ist eine publikationsreife Version des Imagefilms im momentanen Stand. Je nach Vereinbarung mit dem Kunden kann diese bereits während der Entwicklung öffentlich zugänglich sein. Dies ist aber nicht zwingend notwendig. Bedingung ist aber, dass dieses Artfakt vorhanden ist. Es dient der Transparenz gegenüber dem Kunden und ist wesentlicher Bestandteil der Kommunikation mit dem Kunden.
+Ergebnisse, mit denen der Kunde zufrieden ist, werden im Artefakt *wachsender Film* integriert. Der *wachsende Film* ist eine publikationsreife Version des Imagefilms im momentanen Stand. Je nach Vereinbarung mit dem Kunden kann diese bereits während der Entwicklung öffentlich zugänglich sein. Dies ist aber nicht zwingend notwendig. Bedingung ist nur, dass dieses Artfakt vorhanden ist. Es dient der Transparenz gegenüber dem Kunden und ist wesentlicher Bestandteil der Kommunikation mit dem Kunden.
 
-Nach dem Sprint Review trifft sich das Team intern zur *Retrospektive*. Hier über die Zusammenarbeit im Team reflektiert. Es wird Feedback über die Ergebnisse des Sprints gegeben und über Maßnahmen entschieden, wie die Arbeit im nächsten Sprint verbessert werden kann.
+Nach dem Sprint Review trifft sich das Team intern zur *Retrospektive*. Hier wird über die Zusammenarbeit im Team reflektiert. Es wird Feedback über die Ergebnisse des Sprints gegeben und über Maßnahmen entschieden, wie die Arbeit im nächsten Sprint verbessert werden kann.
 
 ## Projekt Abschluss
 
