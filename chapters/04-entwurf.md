@@ -91,14 +91,13 @@ Die Rolle des Kunden ist als solche in Scrum nicht definiert. Es ergibt aber Sin
 
 Die Rolle des Kunden steht stellvertretend für die Summe aller Stakeholder des Projektes, die mit dem Product Owner kommunizieren. Wenn also vom Kunden die Rede ist, so ist in der Regel keine einzelne Person gemeint, sondern die Gruppe von Menschen, die ein Anrecht, einen Anspruch, einen Anteil oder ein Interesse \cite{iso9241210} an dem Imagefilm oder an dessen Gestaltung haben.
 
-In der Gestaltung eines Imagefilms spielen viele Faktoren eine Rolle, die der Product Owner als einzelne Person nicht vollständig selbst entscheiden kann. Ein Film hat immer auch viel mit Ästhetik, mit Geschmack und mit konnotativen Botschaften zu tun, die häufig sehr subjektiv wahrgenommen werden und daher von Mensch zu Mensch unterschiedlich sein können. Um also sicherzugehen, dass der Imagefilm in seiner Gestaltung den Geschmack der Stakeholder trifft, muss explizit gefordert werden, dass diese in regelmäßigen Abständen informiert werden und ihr eigenes Feedback geben können. Dies sollte direkt geschehen, ohne Vertretung des Product Owners.
+In der Gestaltung eines Imagefilms spielen viele Faktoren eine Rolle, die der Product Owner als einzelne Person nicht vollständig selbst entscheiden kann. Ein Film hat immer auch viel mit Ästhetik, mit Geschmack und mit konnotativen Botschaften zu tun, die häufig sehr subjektiv wahrgenommen werden und daher von Mensch zu Mensch unterschiedlich sein können. Um sicherzugehen, dass der Imagefilm in seiner Gestaltung den Geschmack der Stakeholder trifft, muss explizit gefordert werden, dass diese in regelmäßigen Abständen informiert werden und ihr eigenes Feedback geben können.
 
+Der Kunde arbeitet während der Aktivität *Recherche* mit dem Product Owner zusammen, um die Film Vision zu entwickeln. Er stellt dabei alle wichtigen Informationen zur Verfügung, die der Product Owner braucht, um eine grobe Idee des Films entwickeln zu können.
 
+Er nimmt auch bei der Projekt Initialisierung teil, um Fragen des Teams und des Product Owners zu klären und die weiteren Rahmenbedingungen des Projekts zu klären.
 
-- Rolle so in Scrum nicht definiert
-- steht für die Summe aller Stakeholder, die mit dem Product Owner kommunizieren
-- Nimmt bei den regelmäßigen Sprint Reviews teil
-
+Es gehört zu den Pflichten des Kunden, an den Sprint Reviews teilzunehmen. Dabei ist es nicht zwingend notwendig, bei allen Sprint Reviews teilzunehmen. Bei der Projekt Initialisierung kann festgelegt werden, in welchen Abständen es große Sprint Reviews^["Große Sprint Reviews" sind Sprint Reviews mit Anwesenheit des Kunden. Sprint Reviews ohne Anwesenheit des Kunden werden konsequenter weise "kleine Sprint Reviews" genannt. Siehe auch Abschnitt \ref{entwurf-aktivitaten-sprint-review}] geben soll. Die Regelmäßigkeit für große Sprint Reviews kann bei Bedarf geändert werden.
 
 
 ## Teamleiter
@@ -217,7 +216,7 @@ Der Wachsende Film repräsentiert die momentane Version des Imagefilms. Er ist e
 
 # Aktivitäten
 
-## Sprint Review
+## Sprint Review {#entwurf-aktivitaten-sprint-review}
 
 - Großer Sprint Review / kleiner Sprint Review
 
