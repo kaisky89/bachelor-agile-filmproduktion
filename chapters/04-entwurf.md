@@ -126,9 +126,10 @@ Das Team besteht also aus Spezialisten, die eine bestimmten Teilbereich sehr gut
 
 Wichtiges Kriterium des Teams ist, dass es autark ist: Alle Kompetenzen, die für die Entwicklung und Produktion des Imagefilms notwendig sind, sollten auch im Team vertreten sein.
 
-Die Hauptverantworlichkeit des Teams ist, in den Sprints die Entwicklung des Imagefilms  
+Die Hauptverantwortlichkeit des Teams ist, in den Sprints den Imagefilm auf Basis des jeweiligen Sprint Backlogs zu entwicklen und zu produzieren. 
 
-- Verantwortlichkeit: im Sprint Entwickeln und Produzieren
+Das Team bespricht mit dem Product Owner in dem Sprint Planning die Anforderungen, die in dem anstehenden Sprint anstehen. Während des Sprints kommuniziert es mit dem Product Owner bei Fragen oder fehlenden Informationen. Es präsentiert im Sprint Review dem Product Owner und dem Kunden die Sprint Ergebnisse.
+
 
 
 # Ablauf
@@ -204,7 +205,7 @@ Sobald der Film Backlog besteht, können neue Backlog Items hinzugefügt werden.
 
 ## Sprint Backlog
 
-Das Sprint Backlog wird während des Sprint Planning für den jeweiligen Sprint erstellt. Es besteht aus Backlog Items, die zusammen vom Team und dem Product Owner ausgewählt wurden, um im jeweiligen Sprint bearbeitet zu werden. Die Einträge des Sprint Backlogs heißen Sprint Backlog Items. Die Summer der Sprint Backlog Items stellt die gesamte Arbeit dar, die das Team während eines Sprint erledigen wird.
+Das Sprint Backlog wird während des Sprint Planning für den jeweiligen Sprint erstellt. Es besteht aus Backlog Items, die zusammen vom Team und dem Product Owner ausgewählt wurden, um im jeweiligen Sprint bearbeitet zu werden. Die Einträge des Sprint Backlogs heißen Sprint Backlog Items. Die Summe der Sprint Backlog Items stellt die gesamte Arbeit dar, die das Team während eines Sprint erledigen wird.
 
 Zu dem Sprint Backlog darf nur während des Sprint Planning Elemente hinzugefügt werden. Während des Sprints dürfen keine Elemente hinzugefügt werden. Nur das Team verwaltet das Sprint Backlog und bestimmt selbstständig wann welche Anforderung wie umgesetzt wird. Dies sorgt dafür, dass sich das Team während eines Sprints auf die vorhandenen Aufgaben konzentrieren kann, ohne durch Änderungen und Einflüsse gestört zu werden.
 
