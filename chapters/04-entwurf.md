@@ -225,9 +225,34 @@ Der Wachsende Film repräsentiert die momentane Version des Imagefilms. Er ist e
 
 # Aktivitäten
 
+## Recherche
+
+Die Recherche ist die erste Aktivität des Prozesses. Hier informiert sich der Product Owner 
+
+## Projekt Initialisierung
+
+## Sprint Planning
+
+- Techniken
+	- Kanban Board
+
+## Pioneer Phase
+
+- Techniken
+	- CRC Karten
+
+## Produktions Phase
+
+- Techniken
+	- Cheap Productions
+
+## Post Phase
+
 ## Sprint Review {#entwurf-aktivitaten-sprint-review}
 
 - Großer Sprint Review / kleiner Sprint Review
+
+## Retrospektive
 
 
 # Techniken
