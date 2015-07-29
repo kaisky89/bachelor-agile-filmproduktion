@@ -283,7 +283,10 @@ Ergebnis der Pioneer Phase ist ein Konzept, wie ein oder mehrere Sprint Backlog 
 
 In der Produktionsphase setzt das Team die Ideen aus der Pioneer Phase um. Mithilfe der Technik *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}) muss dies nicht immer eine veröffentlichungsreife Form annehmen. 
 
-Das Team macht sich mit den praktischen Wegen
+Je nach Fortschritt des Projekts nimmt die Produktionsphase eine andere Form an. In den ersten Sprints geht es dem Team vor allem darum, Wege der praktischen Umsetzung der Ideen zu erkunden. Dabei kann es wertvolle Erfahrungen machen. Dies ist vor allem dann hilfreich, wenn es sich bei den umzusetzenden Ideen um innovative Ansätze handelt, oder um Methoden oder Techniken, die dem Team so noch nicht vertraut sind. 
+
+Hierzu ein Beispiel: Das Team hat sich in der Pioneer Phase dazu entschieden, den Ken Burns Effekt (für weitere Details zu diesem Effekt, siehe \cite{wittmann2014praxiprojekt}) für die Visualisierung der Aussage "Wir sind international tätig" zu benutzen, indem 
+Das Team macht sich mit den praktischen Wegen der Umsetzung der Ideen vertraut. Dabei gewinnt es wertvolle Erfahrung, die
 
 
 ## Post Phase
