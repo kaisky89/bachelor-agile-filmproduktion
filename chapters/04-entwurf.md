@@ -319,10 +319,17 @@ Wichtiges Kriterium für die Präsentation im Sprint Review ist, dass das Team n
 
 ## Retrospektive
 
-internes feedback zu Arbeitsweisen, Fehlern
-überdenken des Vorgehens
-überdenken der Methoden / Techniken
+Nach dem Sprint Review trifft sich das Team für die Retrospektive, um über die eigene Arbeit, das Vorgehen und die Methodik zu reflektieren. Teilnehmer ist nur das Team.
 
+Obwohl das Team viele Dinge im Sprint gemeinsam tut, hat jeder einzelne im Team doch seine Spezialisierung und somit einen Schwerpunkt seiner Arbeit. Das Aufgabenprofil des Kameramanns ist - auch wenn er ein breites Fachwissen hat - anders als beispielsweise das des Cutters. Diese Spezialisierungen greifen aber an vielen Punkten ineinander: Der Cutter ist auf die Ergebnisse des Kameramanns angewiesen; er arbeitet mit dem Material, das der Kameramann aufnimmt. Es bilden sich also Schnittstellen zwischen den Gewerken. Diese Schnittstellen geben Möglichkeit, dass schnell Fehler entdeckt werden können. Beispielsweise wird der Cutter, sobald er Material bekommt, das Fehler enthält, die ein weiteres Verarbeiten des Materials nicht möglich machen, dies dem Kameramann melden können.
+
+Diese Form von Feedback kann in der Retrospektive gegeben werden. Dabei ist nicht immer davon auszugehen, dass Fehler dazu führen müssen, dass Material gar nicht mehr verwendet werden kann. Aber es kann sein, dass bestimmte Aspekte in der Arbeitsweise eines Gewerkes das weitere Verarbeiten des Materials von den darauf folgenden Gewerken erschweren. Diese Aspekte können und sollten in der Retrospektive angesprochen werden.
+
+Des weiteren wird das eigene Vorgehen im letzten Sprint hinterfragt. War das Team so effizient wie möglich? War die Menge an paralleler Arbeit angemessen? Benutzt das Team die Technik des Kanban Boards (siehe Abschnitt \ref{techniken-kanban-board}), so können die WIP Limits dementsprechend angepasst werden.
+
+Schlussendlich werden noch die Techniken des letzten Sprints hinterfragt. Welche Techniken wurden erfolgreich umgesetzt, welche waren problematisch? Sollten die problematischen Techniken ausgetauscht werden oder anders benutzt werden? Gibt es sinnvolle Techniken, die im nächsten Sprint eingesetzt werden können?
+
+Ziel der Retrospektive ist, dass Probleme und potenzielle Risiken in der Arbeitsweise des Teams erkannt werden und mit konkreten Entscheidungen dagegen gesteuert werden kann. Da ein Team niemals perfekt sein wird, ist die Retrospektive Teil eines jeden Sprints und ihre Notwendigkeit hört erst mit dem Ende des Projekts auf.
 
 
 # Techniken
