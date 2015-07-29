@@ -92,12 +92,12 @@ Nach dem Kodieren wird die Software getestet, um zu validieren, dass sowohl das 
 
 # Historie der Vorgehensmodelle
 
-Die Disziplin des Informatikers ist, verglichen zu anderen ingenieurischen Tätigkeiten wie z. B. der Architektur noch sehr jung. Während man in der Architektur von Projekten weiß, die bereits mehrere Jahrtausend Jahre her sind, ist die Informatik erst im letzten Jahrhundert entstanden und kann somit noch keine große Historie aufweisen. Das bedeutet einerseits, dass in vielen Bereichen der Informatik Verbesserungspotenzial besteht, andererseits gibt es 
+<!-- Die Disziplin des Informatikers ist, verglichen zu anderen ingenieurischen Tätigkeiten wie z. B. der Architektur noch sehr jung. Während man in der Architektur von Projekten weiß, die bereits mehrere Jahrtausend Jahre her sind, ist die Informatik erst im letzten Jahrhundert entstanden und kann somit noch keine große Historie aufweisen. Das bedeutet einerseits, dass in vielen Bereichen der Informatik Verbesserungspotenzial besteht, andererseits gibt es 
 
 Und genau so wie die Informatik ist auch das Management von Projekten in der Informatik vergleichsweise jung. 
 
 Warum machen wir das?
-Da die Disziplin der Software Entwicklung und somit auch das Projektmanagement von Software Projekten noch relativ jung ist.
+Da die Disziplin der Software Entwicklung und somit auch das Projektmanagement von Software Projekten noch relativ jung ist. -->
 
 ## Wasserfallmodell
 
