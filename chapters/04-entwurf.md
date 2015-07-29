@@ -227,9 +227,26 @@ Der Wachsende Film repräsentiert die momentane Version des Imagefilms. Er ist e
 
 ## Recherche
 
-Die Recherche ist die erste Aktivität des Prozesses. Hier informiert sich der Product Owner 
+Die Recherche ist die erste Aktivität des Prozesses. Hier informiert sich der Product Owner über die Rahmenbedingungen des Projekts. Er tut dies in Zusammenarbeit mit dem Kunden. Die Ergebnisse des Projekts werden in der Film Vision festgehalten. 
+
+Die Recherche stellt keine Anforderungsermittlung dar. Es geht nur grob darum, zu formulieren, was die Ziele des Projekts sind, wer der Kunde ist, wer das Zielpublikum ist und wie der geplante Rahmen ist, in dem der Film präsentiert wird. Empfehlenswert ist hier, die Vision kurz in einem Satz zusammen zu fassen, z. B.:
+
+> "Wir möchten einen Imagefilm für Youtube produzieren, der interessierten Arbeitnehmern zeigt, wie international und innovativ das Unternehmen Müller ist."
+
+Dieser Satz enthält alle wesentlichen Rahmenbedingungen des Projekts:
+
+- Wer ist der Kunde?
+- Wo wird der Imagefilm gezeigt?
+- Wer ist das Zielpublikum?
+- Was ist die zentrale Botschaft?
 
 ## Projekt Initialisierung
+
+In der Projekt Initialisierung t
+
+- Kunde, Product Owner und Team
+- erste Vorstellung des Teams
+
 
 ## Sprint Planning
 
