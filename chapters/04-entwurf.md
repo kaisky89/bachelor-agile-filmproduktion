@@ -258,13 +258,18 @@ Zusätzliche Punkte, die in der Projekt Initialisierung besprochen werden, sind 
 
 Das Sprint Planning wird zu Beginn jedes Sprints durchgeführt. Teilnehmer des Sprint Plannings ist der Product Owner und das Team. Grundlage für das Sprint Planning sind die Items des Film Backlogs, die vom Product Owner nach Geschäftswert priorisiert sind. Wird die Technik *Film Statements* benutzt, sind die Items nach Wichtigkeit der Aussage für den Film sortiert. Das Team bespricht mit dem Product Owner die einzelnen Items und schätzt den Aufwand der Items. Zum Schätzen der Items kann die Technik Planning Poker (siehe Abschnitt \ref{entwurf-techniken-planning-poker}) genutzt werden. 
 
-Nach der Schätzung einigt sich das Team mit dem Product
+Nach der Schätzung einigt sich das Team mit dem Product Owner auf die Menge an Items, die in dem nächsten Sprint bearbeitet werden. Wird die Technik *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}) genutzt, wird außerdem festgelegt, welche Ausbaustufe jedes Item am Ende des Sprints haben soll.
 
-- Techniken
-	- Kanban Board
-	- Planning Poker
+Die Menge der Items, auf die sich das Team mit dem Product Owner geeinigt hat, wird in das Sprint Backlog übetragen. Für die Verwaltung des Sprint Backlogs wird die Technik des Kanban Boards (siehe Abschnitt \ref{techniken-kanban-board}) empfohlen.
+
+Ergebnis des Sprint Plannings ist ein gefülltes Sprint Backlog, und das Versprechen des Teams, am Ende des Sprints mit der Umsetzung des Sprint Backlogs fertig zu sein.
+
 
 ## Pioneer Phase
+
+Die Pioneer Phase ist eine der drei Phasen des Sprints. In dieser Phase sucht das Team für eine bestimmte Anforderung Ideen für die Umsetzung. Hauptsächlich Beteiligte für diese Phase ist - wie für alle Phasen des Sprints - das Team. Es kann aber jederzeit den Product Owner für schnelles Feedback oder weitere Rückfragen konsultieren.
+
+
 
 - Techniken
 	- CRC Karten
@@ -291,10 +296,12 @@ Angelehnt an die Technik der User Stories
 
 - verschiedene Stati: Billig produziert, gut Produziert.
 
-## Cheap Production
+## Cheap Production {#entwurf-techniken-cheap-production}
 
 ## Ideen Verwaltung
 
 ## Kanban Board {#techniken-kanban-board}
 
 ## Planning Poker {#entwurf-techniken-planning-poker}
+
+## Timeline Karten {#entwurf-techniken-timeline-karten}
