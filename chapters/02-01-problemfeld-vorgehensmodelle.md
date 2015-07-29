@@ -231,7 +231,10 @@ Für die Phase der Planung sieht Kent Beck \cite{beck} folgende Techniken vor.
 
 User Stories ist eine Technik für die Anforderungsspezifikation. User Stories stellen ähnlich wie Use Cases die Benutzung des Systems aus der Anwender Sicht dar. Während allerdings Use Cases darauf aus sind, möglichst viele Details zu erfassen, reißt man mit User Stories ein bestimmtes Arbeitspaket nur an. Mithilfe von maximal drei Sätzen wird erklärt, wie eine bestimmte Funktion aus Anwender Sicht funktionieren soll. Dies dient vor allem zur groben Spezifikation der Anforderungen. Mithilfe aller User Stories soll die ganze zu entwickelnde Software beschrieben werden. Gleichzeitig dienen die User Stories auch der Einteilung in Arbeitspakete. Für Iterationen werden bestimmte User Stories ausgewählt, die dann zum nächsten Release fertig gestellt werden müssen. Somit lässt sich der Funktionsumfang des nächsten Releases klar definieren. Alle Details der Anforderungen, die in der User Story nicht verfügbar sind, sollen mit dem Kunden direkt besprochen werden. Dieser ist also die "wandelnde Spezifikation" \cite{beck}. Mithilfe von Unit Tests werden dann die herausgearbeiteten Spezifikationen festgehalten (siehe dazu auch Abschnitt \ref{Testing}).
 
-User Sto
+<!--TODO: Näher auf die User Stories eingehen:
+Epping 6.3.1
+Agiles PM Überblick Seite 69
+-->
 
 ### Releases
 
