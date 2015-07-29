@@ -449,7 +449,7 @@ Hier kommen drei wesentliche Werte vor, die f체r Kanban eine Rolle spielen (Erl�
 
 ### Schlanke Softwareentwicklung
 
-Die schlanke Softwareentwicklung hat keine explizit formulierten Werte. \cite[epping] stellt aber mit Bezugname zu \cite{poppendieck2003lean} eine Reihe von Werten vor, die das Wertesystem der schlanken Softwareentwicklung repr채sentieren. Auf einige dieser Werte soll im Folgenden n채her eingegangen werden.
+Die schlanke Softwareentwicklung hat keine explizit formulierten Werte. \cite{epping} stellt aber mit Bezugname zu \cite{poppendieck2003lean} eine Reihe von Werten vor, die das Wertesystem der schlanken Softwareentwicklung repr채sentieren. Auf einige dieser Werte soll im Folgenden n채her eingegangen werden.
 
 
 #### Eliminate Waste {#eliminate-waste}
