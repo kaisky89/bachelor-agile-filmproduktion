@@ -150,7 +150,7 @@ Jedes Projekt beginnt mit einer *Recherche*. Dabei werden die zentralen Fragen d
 - Wer ist das Zielpublikum?
 - Was ist die Hauptaussage des Films?
 
-Die Ergebnisse der Recherche werden in der *Film Vision* festgehalten. Mithilfe der Filmvision wird die Aktivität das *Projekt initialisiert*. Hierbei trifft sich das gesamte Team zusammen mit dem Kunden und bespricht die Vorstellungen und Kriterien für das Projekt. Zusammen mit dem Kunden arbeitet das Team Elemente für das *Film Backlog* aus.
+Die Ergebnisse der Recherche werden in der *Film Vision* festgehalten. Mithilfe der Filmvision wird das *Projekt initialisiert*. Hierbei trifft sich das gesamte Team zusammen mit dem Kunden und bespricht die Vorstellungen und Kriterien für das Projekt. Zusammen mit dem Kunden arbeitet das Team Elemente für das *Film Backlog* aus.
 
 ## Sprint
 
@@ -197,11 +197,11 @@ Die Film Vision wird während der Projektinitialisierung mit dem Team, dem Kunde
 
 ## Film Backlog
 
-Der Film Backlog wird während der Projekt Initialisierung von allen Beteiligten des Treffens erstellt. Er ist ein dynamisches Artefakt, das sich während der Entwicklung des Projektes ständig ändert. Der Film Backlog enthält alle Anforderungen an den Film. Diese werden vom Product Owner priorisiert. Nur der Product Owner darf die Priorisierung bestimmen, er tut dies aber in Absprache mit den sonstigen Stakeholdern, insbesondere mit dem Kunden. Die Einträge des Film Backlogs werden Film Backlog Items genannt. Die Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}) beschreibt eine Technik, für die Formulierung von Backlog Items.
+Der Film Backlog wird während der Projekt Initialisierung von allen Beteiligten des Treffens erstellt. Er ist ein dynamisches Artefakt, das sich während der Entwicklung des Projektes ständig ändert. Der Film Backlog enthält alle Anforderungen an den Film. Diese werden vom Product Owner priorisiert. Nur der Product Owner darf die Priorisierung bestimmen, er tut dies aber in Absprache mit den sonstigen Stakeholdern, insbesondere mit dem Kunden. Die Einträge des Film Backlogs werden Film Backlog Items genannt. Die Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}) beschreibt eine Technik für die Formulierung von Backlog Items.
 
 Der Backlog wird bei jedem Sprint Planning betrachtet, um Elemente für den nächsten Sprint zu identifizieren. Nur beim Sprint Planning können Backlog Items in das Sprint Backlog überführt werden.
 
-Sobald der Film Backlog besteht, können neue Backlog Items hinzugefügt werden. Hauptsächlich geschieht dies während des Sprint Reviews des Sprint Reviews, in Zusammenarbeit von Kunden, Product Owner und Team. Es ist dem Team aber auch möglich, während des Sprints neue Backlog Items zu erstellen.
+Sobald der Film Backlog besteht, können neue Backlog Items hinzugefügt werden. Hauptsächlich geschieht dies während des Sprint Reviews des Sprint Reviews, in Zusammenarbeit von Kunden, Product Owner und Team. Es ist aber auch möglich, während des Sprints neue Backlog Items zu erstellen. Dies geschieht immer über den Product Owner, der allein für die Verwaltung des Film Backlogs zuständig ist.
 
 ## Sprint Backlog
 
@@ -242,16 +242,27 @@ Dieser Satz enthält alle wesentlichen Rahmenbedingungen des Projekts:
 
 ## Projekt Initialisierung
 
-In der Projekt Initialisierung t
+In der Projekt Initialisierung wird dem Team das Projekt mithilfe der Film Vision vorgestellt. Es sind sowohl Kunde, Product Owner als auch Team anwesend.
 
-- Kunde, Product Owner und Team
-- erste Vorstellung des Teams
+Zuerst wird die Film Vision vorgestellt; dem Team wird die Projekt Idee vorgestellt und alle Rahmenbedingungen werden erläutert. Nachdem das Team die grundlegenden Fakten verstanden hat, wird zusammen mit dem Product Owner das Film Backlog gefüllt. Die ersten Anforderungen werden formuliert und in Form von Film Backlog Items in das Film Backlog eingetragen. Hier kann die Technik der *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}) benutzt werden.
+
+Die Aktivität *Projekt Initialisierung* benutzt das Artefakt *Film Vision*. Ergebnis der Aktivität ist ein inital befülltes *Film Backlog*.
+
+Zusätzliche Punkte, die in der Projekt Initialisierung besprochen werden, sind die Größen der Zyklen:
+
+- Wie lang ist ein Sprint?
+- Wie oft gibt es "große" Sprint Reviews?
 
 
 ## Sprint Planning
 
+Das Sprint Planning wird zu Beginn jedes Sprints durchgeführt. Teilnehmer des Sprint Plannings ist der Product Owner und das Team. Grundlage für das Sprint Planning sind die Items des Film Backlogs, die vom Product Owner nach Geschäftswert priorisiert sind. Wird die Technik *Film Statements* benutzt, sind die Items nach Wichtigkeit der Aussage für den Film sortiert. Das Team bespricht mit dem Product Owner die einzelnen Items und schätzt den Aufwand der Items. Zum Schätzen der Items kann die Technik Planning Poker (siehe Abschnitt \ref{entwurf-techniken-planning-poker}) genutzt werden. 
+
+Nach der Schätzung einigt sich das Team mit dem Product
+
 - Techniken
 	- Kanban Board
+	- Planning Poker
 
 ## Pioneer Phase
 
@@ -276,6 +287,8 @@ In der Projekt Initialisierung t
 
 ## Film Statements {#techniken-film-statements}
 
+Angelehnt an die Technik der User Stories 
+
 - verschiedene Stati: Billig produziert, gut Produziert.
 
 ## Cheap Production
@@ -283,3 +296,5 @@ In der Projekt Initialisierung t
 ## Ideen Verwaltung
 
 ## Kanban Board {#techniken-kanban-board}
+
+## Planning Poker {#entwurf-techniken-planning-poker}
