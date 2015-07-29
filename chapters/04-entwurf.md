@@ -293,11 +293,19 @@ Ergebnis der Produktionsphase - egal ob in frühen oder späten Sprints - ist Fi
 
 ## Post Phase
 
-Die Post Phase
+Die Post Phase bildet die klassische Phase der Postproduktion nach (siehe Abschnitt \ref{filmproduktion-phasen-post} und Abschnitt \ref{filmproduktion-imagefilm-schnitt}). Das Team erstellt in dieser Phase die Sprintergebnisse in Form von Vorschau Clips.
+
+Je nach Projekt Fortschritt hat die Post Phase eine andere Gewichtung. Wichtig ist aber zu erwähnen, dass sie von Anfang an Teil des Sprints ist. Auch schon im ersten Sprint werden Clips produziert, die geschnitten und montiert werden können, sodass der Kunde und der Product Owner im Sprint Review "echtes" Filmmaterial zu Gesicht bekommen. Dies fordert von Anfang an ein Team, dass sowohl Kompetenzen in der Produktion (z. B. Kameramann, Licht, ...) als auch in der Nachbearbeitung (z. B. Cutter, Tonmeister, Visual Effects, ...) hat. Obwohl dies ungewöhnlich scheint, die Kompetenzen der Nachbearbeitung bereits von vornherein im Team zu haben, gibt es eine Reihe von Vorteilen: 
+
+Schon während der Ideenphase können auch innovative Techniken der Post Produktion betrachtet werden
+
+- Die Nachbearbeitungsleute sind von Anfang an mit dabei, sie verstehen das Projekt und die Intentionen und müssen nicht später im Nachhinenin gebrieft werden.
+
 
 ## Sprint Review {#entwurf-aktivitaten-sprint-review}
 
 - Großer Sprint Review / kleiner Sprint Review
+- wichtiges Kriterium für den Sprint Review: Ergebnisse in Form produzierten Video Clips. Keine Folien Präsentation. Kein Storyboard. Kein Drehbuch.
 
 ## Retrospektive
 
