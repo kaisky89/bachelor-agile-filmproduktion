@@ -96,7 +96,7 @@ In der Produktionsphase wird das Filmmaterial aufgenommen. Die gesamte Crew ist 
 - Regie
 - Dreharbeiten
 
-## Post Produktion
+## Post Produktion {#filmproduktion-phasen-post}
 
 Nach der Produktion beginnt die Phase der Post Produktion. Evtl. werden zu Anfang noch einige Szenen noch einmal aufgenommen, um danach dann den Schnitt und die Montage des Films zu tätigen. 
 
@@ -145,6 +145,6 @@ Nachdem die inhaltlichen und gestalterischen Aspekte des Imagefilms klar waren, 
 
 Die Phase der Produktion ging vergleichsweise schnell vorüber, es gab insgesamt 2 Drehtage. Die hauptsächliche Arbeit lag in der Vorbereitung der nötigen Hilfsmittel und in der Konzipierung der Inhalte in Zusammenarbeit mit dem Kunden.
 
-## Schnitt und Montage
+## Schnitt und Montage {#filmproduktion-imagefilm-schnitt}
 
 Direkt nach den Aufnahmen wurde ein Rohschnitt des Films erstellt, der dem Kunden gezeigt werden konnte. Dieser vermittelte einen frühen Eindruck des Films und ermöglichte wertvolles frühes Feedback des Kundens an das Team. Danach wurde mithilfe der Angaben des Kunden, den herausgearbeiteten Anforderungen und dem Konzept die finale Version des Films erstellt. Hierzu gehörten Aktivitäten im Bereich Schnitt, Ton, Musik, visuelle Effekte und Farbkorrektur.
