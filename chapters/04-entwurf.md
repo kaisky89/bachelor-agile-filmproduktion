@@ -253,6 +253,8 @@ Zusätzliche Punkte, die in der Projekt Initialisierung besprochen werden, sind 
 - Wie lang ist ein Sprint?
 - Wie oft gibt es "große" Sprint Reviews?
 
+Die Länge eines Sprints sollte dabei 2 Wochen nicht überschreiten. Ein großer Sprint Review sollte mindestens ein mal in zwei Monaten stattfinden.
+
 
 ## Sprint Planning
 
@@ -269,15 +271,20 @@ Ergebnis des Sprint Plannings ist ein gefülltes Sprint Backlog, und das Verspre
 
 Die Pioneer Phase ist eine der drei Phasen des Sprints. In dieser Phase sucht das Team für eine bestimmte Anforderung Ideen für die Umsetzung. Hauptsächlich Beteiligte für diese Phase ist - wie für alle Phasen des Sprints - das Team. Es kann aber jederzeit den Product Owner für schnelles Feedback oder weitere Rückfragen konsultieren.
 
+Für die Ideenfindung können klassische Kreativitätstechniken genutzt werden. Zusätzlich kann die Technik *Timeline Karten* (siehe Abschnitt \ref{entwurf-techniken-timeline-karten}) angewendet werden.
 
+Es liegt im Ermessen des Teams, in welcher Reihenfolge es die Items des Sprint Backlogs abarbeitet. Auch die Anzahl der Items, die gleichzeitig bearbeitet werden, kann vom Team bestimmt werden. Die Bündelung von Items ist manchmal sinnvoll, da sich daraus Ideen entwickeln lassen können, die mehrere Anforderungen zugleich umsetzen. Allerdings ist hier darauf zu achten, dass nicht zu viele Items gleichzeitig bearbeitet werden.
 
-- Techniken
-	- CRC Karten
+Die Pioneer Phase nimmt zu Beginn des Projektes die Hauptrolle ein. Während des Projektverlauf verliert sie an Bedeutung, da die Ideen für Anforderungen mehr und mehr klar sind. So kann es durchaus sein, dass in den ersten Sprints des Projekts die Pioneer Phase mehr als 50% der Zeit in Anspruch nimmt. In den letzten Sprints vor Abschluss des Projekts hingegen ist es möglich, dass diese Phase vollständig übersprungen wird.
+
+Ergebnis der Pioneer Phase ist ein Konzept, wie ein oder mehrere Sprint Backlog Items umgesetzt werden. Es liegt dem Team frei zu entscheiden, in welcher Form dieses Konzept dokumentiert wird. Wichtig ist, dass es weiß, wie es in der Produktionsphase vorzugehen hat, um die Ideen umzusetzen. Dies ist Teil der Pioneer Phase.
 
 ## Produktions Phase
 
-- Techniken
-	- Cheap Productions
+In der Produktionsphase setzt das Team die Ideen aus der Pioneer Phase um. Mithilfe der Technik *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}) muss dies nicht immer eine veröffentlichungsreife Form annehmen. 
+
+Das Team macht sich mit den praktischen Wegen
+
 
 ## Post Phase
 
@@ -294,7 +301,7 @@ Die Pioneer Phase ist eine der drei Phasen des Sprints. In dieser Phase sucht da
 
 Angelehnt an die Technik der User Stories 
 
-- verschiedene Stati: Billig produziert, gut Produziert.
+- verschiedene Ausbaustufen: Billig produziert, gut Produziert.
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
 
