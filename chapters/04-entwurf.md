@@ -283,13 +283,17 @@ Ergebnis der Pioneer Phase ist ein Konzept, wie ein oder mehrere Sprint Backlog 
 
 In der Produktionsphase setzt das Team die Ideen aus der Pioneer Phase um. Mithilfe der Technik *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}) muss dies nicht immer eine veröffentlichungsreife Form annehmen. 
 
-Je nach Fortschritt des Projekts nimmt die Produktionsphase eine andere Form an. In den ersten Sprints geht es dem Team vor allem darum, Wege der praktischen Umsetzung der Ideen zu erkunden. Dabei kann es wertvolle Erfahrungen machen. Dies ist vor allem dann hilfreich, wenn es sich bei den umzusetzenden Ideen um innovative Ansätze handelt, oder um Methoden oder Techniken, die dem Team so noch nicht vertraut sind. 
+Je nach Fortschritt des Projekts nimmt die Produktionsphase eine andere Form an. In den ersten Sprints geht es dem Team vor allem darum, Wege der praktischen Umsetzung der Ideen zu erkunden. Dabei kann es wertvolle Erfahrungen machen. Dies ist vor allem dann hilfreich, wenn es sich bei den umzusetzenden Ideen um innovative Ansätze handelt, oder um Methoden oder Techniken, die dem Team so noch nicht vertraut sind. Die Ergebnisse der Produktion der ersten Sprints sind noch nicht so ausgereift, dass sie der finalen Version entsprechen, aber es kann trotzdem schon wertvolles Feedback vom Kunden und vom Product Owner eingeholt werden.
 
-Hierzu ein Beispiel: Das Team hat sich in der Pioneer Phase dazu entschieden, den Ken Burns Effekt (für weitere Details zu diesem Effekt, siehe \cite{wittmann2014praxiprojekt}) für die Visualisierung der Aussage "Wir sind international tätig" zu benutzen, indem 
-Das Team macht sich mit den praktischen Wegen der Umsetzung der Ideen vertraut. Dabei gewinnt es wertvolle Erfahrung, die
+In den späteren Iterationen bekommt die Produktionsphase eine andere Gewichtung. Es gibt keine neuen Ideen, dessen Umsetzung unbekannt sind. Während die Pioneer Phase nur kurz in dem Sprint angegangen wird, oder sogar übersprungen wird, bekommt die Produktions Phase eine größere Gewichtung. Nun wird auf den Erfahrungen und dem Feedback der vorherigen Sprints aufgebaut und eine Version produziert, die veröffentlichungsreifes Material enthält.
 
+Gegen Ende des Projekts nimmt auch die Gewichtung der Produktionsphase ab: Wenn alles Material produziert ist, ist eine Produktion nicht weiter nötig. Hier kann also auch die Produktionsphase übersprungen werden, sodass Sprints denkbar sind, die nur aus der Post Phase bestehen.
+
+Ergebnis der Produktionsphase - egal ob in frühen oder späten Sprints - ist Filmmaterial, das die Umsetzung der Ideen aus der Pioneer Phase enthält und in der Post Phase dafür genutzt werden kann, einen oder mehrere Vorschau Clips zu generieren.
 
 ## Post Phase
+
+Die Post Phase
 
 ## Sprint Review {#entwurf-aktivitaten-sprint-review}
 
@@ -315,3 +319,7 @@ Angelehnt an die Technik der User Stories
 ## Planning Poker {#entwurf-techniken-planning-poker}
 
 ## Timeline Karten {#entwurf-techniken-timeline-karten}
+
+## Partieller Schnitt
+<!--??--> Viele kleine Untersequenzen
+
