@@ -356,17 +356,17 @@ Nachdem sich alle Beteiligten auf die Zielgruppen geeinigt haben, können die er
 
 Beispiel für ein Film Statements können folgende Sätze sein:
 
-- "Als *potenzieller neuer Mitarbeiter* erfahre ich, dass *das Unternehmen Müller Home Office Arbeitsplätze anbietet*, sodass ich *mir sicher sein kann, dass ich meine Arbeit dort flexibel gestalten kann.*"
-- "Als *potenzieller Geschäftspartner* erfahre ich, dass *das Unternehmen Müller schon seit über 50 Jahren existiert*, sodass ich *mich auf die Zuverlässigkeit des Unternehmens verlassen kann*."
+- "Als *potenzieller neuer Mitarbeiter* erfahre ich, dass *das Unternehmen Home Office Arbeitsplätze anbietet*, sodass ich *mir sicher sein kann, dass ich meine Arbeit dort flexibel gestalten kann.*"
+- "Als *potenzieller Geschäftspartner* erfahre ich, dass *das Unternehmen schon seit über 50 Jahren existiert*, sodass ich *mich auf die Zuverlässigkeit des Unternehmens verlassen kann*."
 - "Als *langjähriger Mitarbeiter* erfahre ich, dass *das Unternehmen seit mehreren Jahren ein kontinuierliches wirtschaftliches Wachstum verzeichnet*, sodass ich *mich freue, Teil dieses Erfolges miterleben zu können*."
 - "Als *interessierter Endverbraucher* erfahre ich, dass *die Produkte strengen Qualitätskontrollen unterzogen werden*, sodass ich *weiterhin viele Produkte des Unternehmens kaufe*."
 
 Diese Karten können als Film Backlog Items in das Film Backlog aufgenommen werden. Sie sind also eine Technik, mithilfe das gesamte Film Backlog und somit auch das Sprint Backlog strukturiert werden können. Alle weiteren Anforderungen, die im Verlauf des Projekts entstehen, werden auch als Film Statement formuliert.
 
-Die Technik der Film Statements bietet zwei 
+Die Technik der Film Statements bietet zwei Vorteile:
 
-- Konzentration auf das wesentliche: Der Kunde macht sich Gedanken die Botschaft, die Zielgruppe und die Wirkung des Films
-- Das Team behält die Freiheit, inhaltliche und gestalterische Aspekte selbst bestimmen zu können. 
+- Sie hilft dem Kunden, sich auf das wesentliche zu konzentrieren: Der Kunde ist meist mit der Fachdomäne Filmproduktion nicht vertraut. Die einfach zu verstehende Struktur der Film Statements hilft ihm, sich Gedanken über die Botschaft, die Zielgruppe und die Wirkung des Films zu machen. So wird verhindert, dass er sich in den Details der inhaltlichen und gestalterischen Aspekten verirrt.
+- Sie gibt dem Team die Freiheit, inhaltliche und gestalterische Aspekte selbst bestimmen zu können. Typische Anforderungen des Kunden wie z. B. "Es muss unbedingt unsere neue Lagerhalle gezeigt werden", die dem Team die Freiheit rauben, auf kreative Art und Weise eine Botschaft für den Film zu entwickeln, werden vermieden.
 
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
