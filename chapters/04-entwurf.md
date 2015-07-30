@@ -315,6 +315,8 @@ Es gibt zwei Versionen des Sprint Reviews:
 - Bei dem **kleinen Sprint Review** nimmt der Kunde nicht teil. Teilnehmer sind folglich nur Team und Product Owner. Das Team präsentiert dem Product Owner die Sprint Ergebnisse, diese werden von ihm bewertet.
 - Bei dem **großen Sprint Review** ist zusätzlich der Kunde Teilnehmer. Der Product Owner übernimmt hier die moderierende Rolle zwischen Team und Kunden. Das Team präsentiert dem Kunden die Sprintergebnisse, diese werden vom Kunden bewertet.
 
+Es ist zu erwarten, dass in dem Gespräch mit dem Kunden oder dem Product Owner neue Anforderungen klar werden. Sei dies durch das bessere Verständnis des Teams für die wirklichen Absichten des Kunden oder durch geänderte Umstände auf Seiten des Kunden. Diese neuen Anforderungen werden vom Product Owner in das Product Backlog mit aufgenommen und priorisiert.
+
 Nach dem Sprint Review überarbeitet das Team das Artefakt *Wachsender Film* auf die aktuelle Version. Basis für die Aktualisierung des wachsenden Films sind die Sprintergebnisse und das Feedback des Kunden / des Product Owners zu diesen.
 
 Wichtiges Kriterium für die Präsentation im Sprint Review ist, dass das Team nur die Printergebnisse als Material für ihre Präsentation benutzen darf. Es dürfen keine Drehbücher, Storyboards, Dokumentationen oder PowerPoint Präsentationen benutzt werden. Dies unterstützt die Transparenz gegenüber dem Kunden und dem Product Owner. Außerdem muss so nicht unnötig zusätzliche Arbeit vom Team geleistet werden, indem vor jedem Sprint Review noch zusätzlich Präsentationen oder Dokumentationen erstellt werden.
@@ -346,20 +348,25 @@ Film Statements nutzen die gleiche Technik. In einem Imagefilm geht es aber nich
 
 Wie genau verfährt nun das Team, wenn es Film Statements benutzen möchte? 
 
-Während der Aktivität *Projekt Initialisierung* erarbeitet der Product Owner zusammen mit dem Kunden und dem Team alle Zielgruppen, die der Imagefilm ansprechen soll. Dies können Gruppen wie "langjähriger Geschäftspartner", "potenzieller Mitarbeiter", "Presse" oder auch "Interessierter Endverbraucher" sein. Bereits hier gibt es schon genügend Möglichkeit, mit dem Kunden ins Gespräch zu kommen, und die eine oder andere Zielgruppe zu hinterfragen. Generell ist es sinnvoll, eine stark heterogene Zielgruppe zu vermeiden.
+Während der Aktivität *Projekt Initialisierung* erarbeitet der Product Owner zusammen mit dem Kunden und dem Team alle Zielgruppen, die der Imagefilm ansprechen soll. Dies können Gruppen wie "langjähriger Geschäftspartner", "potenzieller Mitarbeiter", "Presse" oder auch "Interessierter Endverbraucher" sein. Bereits hier gibt es genügend Möglichkeit, mit dem Kunden ins Gespräch zu kommen, und die eine oder andere Zielgruppe zu hinterfragen. Generell ist es sinnvoll, eine stark heterogene Zielgruppe zu vermeiden.
 
 Nachdem sich alle Beteiligten auf die Zielgruppen geeinigt haben, können die ersten Film Statement Karten erstellt werden. Analog zu den User Stories bestehen Film Statements aus Karten, auf denen ein Satz steht. Dieser Satz ist wie folgt aufgebaut:
 
 > Als [Zielgruppe] erfahre ich, dass [Botschaft], sodass ich [intendierte Emotion, Haltung oder Aktion].
 
-Beispiel für ein Filmstatement können folgende Sätze sein:
+Beispiel für ein Film Statements können folgende Sätze sein:
 
 - "Als *potenzieller neuer Mitarbeiter* erfahre ich, dass *das Unternehmen Müller Home Office Arbeitsplätze anbietet*, sodass ich *mir sicher sein kann, dass ich meine Arbeit dort flexibel gestalten kann.*"
 - "Als *potenzieller Geschäftspartner* erfahre ich, dass *das Unternehmen Müller schon seit über 50 Jahren existiert*, sodass ich *mich auf die Zuverlässigkeit des Unternehmens verlassen kann*."
 - "Als *langjähriger Mitarbeiter* erfahre ich, dass *das Unternehmen seit mehreren Jahren ein kontinuierliches wirtschaftliches Wachstum verzeichnet*, sodass ich *mich freue, Teil dieses Erfolges miterleben zu können*."
 - "Als *interessierter Endverbraucher* erfahre ich, dass *die Produkte strengen Qualitätskontrollen unterzogen werden*, sodass ich *weiterhin viele Produkte des Unternehmens kaufe*."
 
+Diese Karten können als Film Backlog Items in das Film Backlog aufgenommen werden. Sie sind also eine Technik, mithilfe das gesamte Film Backlog und somit auch das Sprint Backlog strukturiert werden können. Alle weiteren Anforderungen, die im Verlauf des Projekts entstehen, werden auch als Film Statement formuliert.
 
+Die Technik der Film Statements bietet zwei 
+
+- Konzentration auf das wesentliche: Der Kunde macht sich Gedanken die Botschaft, die Zielgruppe und die Wirkung des Films
+- Das Team behält die Freiheit, inhaltliche und gestalterische Aspekte selbst bestimmen zu können. 
 
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
