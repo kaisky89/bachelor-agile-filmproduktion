@@ -370,10 +370,27 @@ Die Technik der Film Statements bietet zwei Vorteile:
 
 ## Kanban Board {#techniken-kanban-board}
 
+Die Umsetzung der Prinzipien vom Vorgehensmodell Kanban kann in dieser Arbeit nur bedingt diskutiert werden. Insgesamt lässt sich sagen, dass sich das Vorgehensmodell eher an Scrum orientiert als an Kanban. Ein tieferes Eingehen das Pull Prinzip und die WIP Limits ist hier durchaus denkbar, da es in keiner Weise mit dem vorhandenen Vorgehen in Konflikt steht, würde aber den Rahmen dieser Arbeit sprengen.
+
+Das Kanban Board wird also in diesem Zusammenhang als ein Werkzeug zum Visualisieren des momentanen Sprint Status benutzt. Die Abbildung \ref{Entwurf eines Kanban Boards für den Sprint} zeigt den Entwurf eines Kanban Boards, so wie es für den Sprint innerhalb des Boards denkbar ist.
+
+![Entwurf eines Kanban Boards für den Sprint](http://download.heart-co.de/film-kanban.png)
+
+Das Board besteht aus insgesamt 4 Spalten: dem Sprint Backlog als die Ansammlung der Anforderungen, die noch nicht bearbeitet wurden, sowie den drei Spalten, die genau so heißen, wie die Phasen des Sprints. Die Karten auf dem Board stellen die einzelnen Anforderungen des Kunden in Form von Film Statements dar. Diese werden, je nachdem, in welcher Phase sie sich gerade befinden von Spalte zu Spalte verschoben.
+
+Dies gibt dem Team die Möglichkeit, auf einem Blick zu sehen, wie der momentan Stand des Sprints ist. Das Kanban bildet eine gute Grundlage für das *Daily-Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}). Außerdem kann hier 
 
 
-![Entwurf eines Film Kanban Boards](http://download.heart-co.de/film-kanban.png)
 
+- Messung: Wie ist die Arbeitsgeschwindigkeit des Teams?
+- Synchronisation: Wer macht was? Wo gibt es Komplikationen?
+
+## Daily Standup {#entwurf-techniken-daily-standup}
+
+- tägliche Synchronisation der Teammitglieder
+- Vorgehen bleibt dem der 
+
+## Burndown Chart
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
 
