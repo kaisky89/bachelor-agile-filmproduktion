@@ -344,14 +344,22 @@ Ein zentrales Element der User Story ist der Fokus auf die Funktionalität für 
 
 Film Statements nutzen die gleiche Technik. In einem Imagefilm geht es aber nicht um Funktionalität, die aus Sicht eines Benutzers beschrieben werden muss, sondern um Botschaften, die von einem Betrachter erfahren^[Das Wort "erfahren" meint hier sowohl die Perzeption, das Verstehen und das Behalten der inhaltlichen Botschaft, als auch bestenfalls das emotionale Miterleben Botschaft. Durch die Erfahrung der Botschaft auf emotionaler Ebene kann ein weitaus tieferer Eindruck im Betrachter erschaffen werden.] werden sollen. Daher bietet sich hier das Formulieren von Teilaussagen des Films (=Film Statements), die die Hauptaussage des Films in kleinere Aspekte gliedern und etwas detaillierter modellieren, was Inhalt des Films sein soll. Bei den Film Statements bleibt die Botschaft bei der Anforderungsermittlung und der Umsetzung im Fokus, mithilfe dieser Technik wird also der Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}) umgesetzt.
 
-Wie genau verfährt nun das Team, wenn es Film Statements benutzen möchte? Analog zu den User Stories bestehen Film Statements aus Karten, auf denen ein Satz steht. Dieser Satz ist wie folgt aufgebaut:
+Wie genau verfährt nun das Team, wenn es Film Statements benutzen möchte? 
 
-> Als [Zielgruppe] erfahre ich, dass [Botschaft], sodass ich [intendierte Emotion, Haltung oder Aktion]
+Während der Aktivität *Projekt Initialisierung* erarbeitet der Product Owner zusammen mit dem Kunden und dem Team alle Zielgruppen, die der Imagefilm ansprechen soll. Dies können Gruppen wie "langjähriger Geschäftspartner", "potenzieller Mitarbeiter", "Presse" oder auch "Interessierter Endverbraucher" sein. Bereits hier gibt es schon genügend Möglichkeit, mit dem Kunden ins Gespräch zu kommen, und die eine oder andere Zielgruppe zu hinterfragen. Generell ist es sinnvoll, eine stark heterogene Zielgruppe zu vermeiden.
+
+Nachdem sich alle Beteiligten auf die Zielgruppen geeinigt haben, können die ersten Film Statement Karten erstellt werden. Analog zu den User Stories bestehen Film Statements aus Karten, auf denen ein Satz steht. Dieser Satz ist wie folgt aufgebaut:
+
+> Als [Zielgruppe] erfahre ich, dass [Botschaft], sodass ich [intendierte Emotion, Haltung oder Aktion].
 
 Beispiel für ein Filmstatement können folgende Sätze sein:
 
 - "Als *potenzieller neuer Mitarbeiter* erfahre ich, dass *das Unternehmen Müller Home Office Arbeitsplätze anbietet*, sodass ich *mir sicher sein kann, dass ich meine Arbeit dort flexibel gestalten kann.*"
-- "Als *potenzieller Geschäftspartner* erfahre ich, dass *das Unternehmen Müller schon seit über 50 Jahren existiert*, sodass ich *mich auf die Zuverlässigkeit des Unterneh*
+- "Als *potenzieller Geschäftspartner* erfahre ich, dass *das Unternehmen Müller schon seit über 50 Jahren existiert*, sodass ich *mich auf die Zuverlässigkeit des Unternehmens verlassen kann*."
+- "Als *langjähriger Mitarbeiter* erfahre ich, dass *das Unternehmen seit mehreren Jahren ein kontinuierliches wirtschaftliches Wachstum verzeichnet*, sodass ich *mich freue, Teil dieses Erfolges miterleben zu können*."
+- "Als *interessierter Endverbraucher* erfahre ich, dass *die Produkte strengen Qualitätskontrollen unterzogen werden*, sodass ich *weiterhin viele Produkte des Unternehmens kaufe*."
+
+
 
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
