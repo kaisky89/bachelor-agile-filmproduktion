@@ -378,30 +378,61 @@ Das Kanban Board wird also in diesem Zusammenhang als ein Werkzeug zum Visualisi
 
 Das Board besteht aus insgesamt 4 Spalten: dem Sprint Backlog als die Ansammlung der Anforderungen, die noch nicht bearbeitet wurden, sowie den drei Spalten, die genau so heißen, wie die Phasen des Sprints. Die Karten auf dem Board stellen die einzelnen Anforderungen des Kunden in Form von Film Statements dar. Diese werden, je nachdem, in welcher Phase sie sich gerade befinden von Spalte zu Spalte verschoben.
 
-Dies gibt dem Team die Möglichkeit, auf einem Blick zu sehen, wie der momentan Stand des Sprints ist. Das Kanban bildet eine gute Grundlage für das *Daily-Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}). Außerdem kann hier 
+Dies gibt dem Team die Möglichkeit, auf einem Blick zu sehen, wie der momentan Stand des Sprints ist. Das Kanban bildet eine gute Grundlage für das *Daily-Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}). Außerdem kann mithilfe der Position der Karten der Projektfortschritt gemessen werden. *Burndown Charts* (siehe Abschnitt \ref{entwurf-techniken-burndown-chart}) bieten eine gute Möglichkeit, den Sprintfortschritt zu visualisieren.
 
-
-
-- Messung: Wie ist die Arbeitsgeschwindigkeit des Teams?
-- Synchronisation: Wer macht was? Wo gibt es Komplikationen?
 
 ## Daily Standup {#entwurf-techniken-daily-standup}
 
-- tägliche Synchronisation der Teammitglieder
-- Vorgehen bleibt dem der 
+Das Daily Standup dient der Synchronisation des Teams und der Absprache
 
-## Burndown Chart
+- tägliche Synchronisation der Teammitglieder
+- Vorgehen bleibt dem Vorbild aus ... gleich
+- außer: in Kombination mit dem Kanban Board
+
+## Burndown Chart {#entwurf-techniken-burndown-chart}
+
+- Visualisierung der bisher geleisteten Arbeit
+
+- Gewichtung der Film Statements
+- Gewichtung der Phasen
+- Somit ergibt sich ein Index für die noch zu erledigende Arbeit
+- Der Index wird täglich in das Diagramm eingetragen
+
+[Burndown Chart]
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
 
-- verschiedene Ausbaustufen: Billig produziert, gut Produziert.
+Cheap Production ist ein Entwurf des Autors.
+
+Um schnell vorzeigbare Ergebnisse erreichen zu können, werden günstige und schnelle Beispielproduktionen erstellt.
+
+Es muss beim Sprint Planning vereinbart werden, welche Ausbaustufe verlangt wird: Beispielhafte, günstige Produktion der Inhalte, oder veröffentlichbares Material.
 
 ## Ideen Verwaltung
 
+In Kombination mit dem Kanban Board: Es ist denkbar, dass mehrere Anforderungen mit einer Idee umgesetzt werden, oder dass eine Anforderungen in mehreren Ideen resultiert
+
+zusammenlegen mehrerer Karten übereinander
+
+Ideen als zusätzliche Post Its auf die Rückseite der Film Statements kleben
+
 ## Planning Poker {#entwurf-techniken-planning-poker}
+
+Vorbild aus ...
 
 ## Timeline Karten {#entwurf-techniken-timeline-karten}
 
+Entwurf des Autors
+
+- Vorbild: CRC Karten
+
+- Beispiel Timeline Karten selbst basteln
+
+
+
+
 ## Partieller Schnitt
+
+Entwurf des Autors
 <!--??--> Viele kleine Untersequenzen
 
