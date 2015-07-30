@@ -46,6 +46,8 @@ Es muss der Tatsache ins Auge gesehen werden, dass Anforderungen und Vorstellung
 
 <!-- Umbenennen in "Transparenz"?? -->
 
+<!--TODO Klar machen, dass dieser Begriff von mir stammt. Definieren, was dieser Begriff meint-->
+
 Für gutes Feedback ist es wesentlich, so früh wie möglich dem Kunden schon erste Ergebnisse zeigen zu können. Ergebnisse, die dem Kunden präsentiert werden, müssen nicht perfekt sein, sollen dem Kunden aber die wesentlichen Merkmale zeigen, um die es momentan geht. Je früher der Kunde einen ersten Eindruck in Form eines Films über die geplanten Inhalte bekommt, desto früher kann er auch Feedback geben und verstehen, worum es dem Team geht und wie geplante filmische Aspekte wirken. Außerdem hilft es dem Team, durch frühe beispielhafte Produktionen selbst ein Gefühl dafür zu bekommen, welcher Aufwand mit bestimmten Techniken verbunden ist, oder welche Herausforderungen eine gewisse filmische Methode beinhaltet. Gerade bei neuen Ideen und innovativen und kreativen Ansätzen ist dies eine hilfreiche Möglichkeit, den eigenen Aufwand einzuschätzen.
 
 
@@ -327,7 +329,7 @@ Diese Form von Feedback kann in der Retrospektive gegeben werden. Dabei ist nich
 
 Des weiteren wird das eigene Vorgehen im letzten Sprint hinterfragt. War das Team so effizient wie möglich? War die Menge an paralleler Arbeit angemessen? Benutzt das Team die Technik des Kanban Boards (siehe Abschnitt \ref{techniken-kanban-board}), so können die WIP Limits dementsprechend angepasst werden.
 
-Schlussendlich werden noch die Techniken des letzten Sprints hinterfragt. Welche Techniken wurden erfolgreich umgesetzt, welche waren problematisch? Sollten die problematischen Techniken ausgetauscht werden oder anders benutzt werden? Gibt es sinnvolle Techniken, die im nächsten Sprint eingesetzt werden können?
+Schlussendlich werden noch die Techniken des letzten Sprints hinterfragt. Welche Techniken wurden erfolgreich umgesetzt, welche waren in der Umsetzung problematisch? Sollten die in der Umsetzung problematischen Techniken ausgetauscht werden oder anders benutzt werden? Gibt es sinnvolle Techniken, die im nächsten Sprint eingesetzt werden können?
 
 Ziel der Retrospektive ist, dass Probleme und potenzielle Risiken in der Arbeitsweise des Teams erkannt werden und mit konkreten Entscheidungen dagegen gesteuert werden kann. Da ein Team niemals perfekt sein wird, ist die Retrospektive Teil eines jeden Sprints und ihre Notwendigkeit hört erst mit dem Ende des Projekts auf.
 
@@ -336,11 +338,12 @@ Ziel der Retrospektive ist, dass Probleme und potenzielle Risiken in der Arbeits
 
 ## Film Statements {#techniken-film-statements}
 
-Angelehnt an die Technik der User Stories 
+Die Technik der User Stories (siehe Abschnitt \ref{planung-user-stories}) beschreibt eine effiziente Technik der Anforderungsermittlung und -verwaltung im agilen Kontext. Diese Technik wird gerne in Scrum 
 
-- verschiedene Ausbaustufen: Billig produziert, gut Produziert.
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
+
+- verschiedene Ausbaustufen: Billig produziert, gut Produziert.
 
 ## Ideen Verwaltung
 
