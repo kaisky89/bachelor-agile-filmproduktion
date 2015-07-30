@@ -338,7 +338,7 @@ Ziel der Retrospektive ist, dass Probleme und potenzielle Risiken in der Arbeits
 
 ## Film Statements {#techniken-film-statements}
 
-Die Technik der User Stories (siehe Abschnitt \ref{planung-user-stories}) beschreibt eine effiziente Technik der Anforderungsermittlung und -verwaltung im agilen Kontext. Diese Technik wird gerne in Scrum 
+Die Technik der User Stories (siehe Abschnitt \ref{planung-user-stories}) beschreibt eine effiziente Technik der Anforderungsermittlung und -verwaltung im agilen Kontext. Diese Technik wird in XP, aber auch in Scrum \cite{wirdemann2014userstory} und in Kanban \cite{epping} verwendet. 
 
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
