@@ -346,7 +346,12 @@ Film Statements nutzen die gleiche Technik. In einem Imagefilm geht es aber nich
 
 Wie genau verfährt nun das Team, wenn es Film Statements benutzen möchte? Analog zu den User Stories bestehen Film Statements aus Karten, auf denen ein Satz steht. Dieser Satz ist wie folgt aufgebaut:
 
-> <Zielgruppe>
+> Als [Zielgruppe] erfahre ich, dass [Botschaft], sodass ich [intendierte Emotion, Haltung oder Aktion]
+
+Beispiel für ein Filmstatement können folgende Sätze sein:
+
+- "Als *potenzieller neuer Mitarbeiter* erfahre ich, dass *das Unternehmen Müller Home Office Arbeitsplätze anbietet*, sodass ich *mir sicher sein kann, dass ich meine Arbeit dort flexibel gestalten kann.*"
+- "Als *potenzieller Geschäftspartner* erfahre ich, dass *das Unternehmen Müller schon seit über 50 Jahren existiert*, sodass ich *mich auf die Zuverlässigkeit des Unterneh*
 
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
