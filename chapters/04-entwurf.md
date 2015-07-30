@@ -342,7 +342,7 @@ Die Technik der User Stories (siehe Abschnitt \ref{planung-user-stories}) beschr
 
 Ein zentrales Element der User Story ist der Fokus auf die Funktionalität für den Benutzer. User Story Cards beschreiben in kurzen Sätzen, wie ein Benutzer mit dem geplanten Produkt interagiert und welchen Nutzen er davon hat.
 
-Film Statements nutzen die gleiche Technik. In einem Imagefilm geht es aber nicht um Funktionalität, die aus Sicht eines Benutzers beschrieben werden muss, sondern um Botschaften, die von einem Betrachter perzipiert, verstanden und behalten werden müssen. 
+Film Statements nutzen die gleiche Technik. In einem Imagefilm geht es aber nicht um Funktionalität, die aus Sicht eines Benutzers beschrieben werden muss, sondern um Botschaften, die von einem Betrachter erfahren^[Das Wort "erfahren" meint hier sowohl die Perzeption, das Verstehen und das Behalten der inhaltlichen Botschaft, als auch bestenfalls das emotionale miterleben Botschaft. Durch die Erfahrung der Botschaft auf emotionaler Ebene kann ein weitaus tieferer Eindruck im Betrachter erschaffen werden.] werden.
 
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
