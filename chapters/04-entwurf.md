@@ -368,14 +368,18 @@ Die Technik der Film Statements bietet zwei Vorteile:
 - Sie hilft dem Kunden, sich auf das wesentliche zu konzentrieren: Der Kunde ist meist mit der Fachdomäne Filmproduktion nicht vertraut. Die einfach zu verstehende Struktur der Film Statements hilft ihm, sich Gedanken über die Botschaft, die Zielgruppe und die Wirkung des Films zu machen. So wird verhindert, dass er sich in den Details der inhaltlichen und gestalterischen Aspekten verirrt.
 - Sie gibt dem Team die Freiheit, inhaltliche und gestalterische Aspekte selbst bestimmen zu können. Typische Anforderungen des Kunden wie z. B. "Es muss unbedingt unsere neue Lagerhalle gezeigt werden", die dem Team die Freiheit rauben, auf kreative Art und Weise eine Botschaft für den Film zu entwickeln, werden vermieden.
 
+## Kanban Board {#techniken-kanban-board}
+
+
+
+![Entwurf eines Film Kanban Boards](http://download.heart-co.de/film-kanban.png)
+
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
 
 - verschiedene Ausbaustufen: Billig produziert, gut Produziert.
 
 ## Ideen Verwaltung
-
-## Kanban Board {#techniken-kanban-board}
 
 ## Planning Poker {#entwurf-techniken-planning-poker}
 
