@@ -301,7 +301,7 @@ Je nach Projekt Fortschritt hat die Post Phase eine andere Gewichtung. Wichtig i
 
 Schon während der Pioneer Phase können auch innovative Techniken der Post Produktion betrachtet werden. Dabei ist das nötige Know How der Spezialisten vorhanden und der Aufwand für bestimmte Techniken kann von vornherein gut abgeschätzt werden. Außerdem können die Spezialisten gut absehen, welche Techniken welche Gesamtwirkung auf den Film haben. Somit kann von Anfang an gezielt auch mit den Techniken der Nachbearbeitung gearbeitet werden. Zusätzlich hilft die Erfahrung der Spezialisten, von vornherein Fehler in der Produktion zu vermeiden, indem sie klar kommunizieren, was bei bestimmten Techniken während der Produktion wichtig zu beachten ist.
 
-Aber auch die Spezialisten der Nachbearbeitung selbst profitieren von einem frühen Involvieren in das Projekt. Wenn sie von Anfang an mit dabei sind, verstehen sie die Anforderungen und Ideen an den Imagefilm. Es muss ihnen im Nachhinein nicht erklärt werden, was sie zu tun haben, welche Teile wie geschnitten werden müssen, wie bestimmte Effekte auszusehen haben und ähnliches. Durch die ständige Integration in dem Projekt und in dem Prozess wissen sie genau wie alle anderen Projektbeteiligten, wie bestimmte Effekte und Schnitte sein müssen, damit die Gesamtaussage des Films unterstützt wird. So kann das Risiko von Missverständnissen und groben Fehlern in der Nachbearbeitung minimiert werden.
+Aber auch die Spezialisten der Nachbearbeitung selbst profitieren von einem frühen Involvieren in das Projekt. Wenn sie von Anfang an mit dabei sind, verstehen sie die Anforderungen und Ideen an den Imagefilm. Es muss ihnen im Nachhinein nicht erklärt werden, was sie zu tun haben, welche Teile wie geschnitten werden müssen, wie bestimmte Effekte auszusehen haben und ähnliches. Durch die ständige Integration in dem Projekt und in dem Prozess wissen sie genauso wie alle anderen Projektbeteiligten, wie bestimmte Effekte und Schnitte sein müssen, damit die Gesamtaussage des Films unterstützt wird. So kann das Risiko von Missverständnissen und groben Fehlern in der Nachbearbeitung minimiert werden.
 
 Zum Ende des Projekts gewinnt die Post Phase mehr und mehr an Bedeutung. Zu Anfang muss der Schnitt nur grob gemacht werden, die Effekte müssen nur die Intention andeuten, damit der Kunde und der Product Owner verstehen, wie die Idee auszusehen hat. Gegen Ende wird hier aber Perfektion gefragt: Die Gewichtung des Sprints verlagert sich im Verlauf des Projekts von anfänglich der Pioneer Phase über die Produktions Phase auf die Post Phase. In den letzten Sprints ist ein Überspringen der Pioneer und Produktions Phase denkbar, sodass diese nur aus der Post Phase bestehen.
 
@@ -338,7 +338,11 @@ Ziel der Retrospektive ist, dass Probleme und potenzielle Risiken in der Arbeits
 
 ## Film Statements {#techniken-film-statements}
 
-Die Technik der User Stories (siehe Abschnitt \ref{planung-user-stories}) beschreibt eine effiziente Technik der Anforderungsermittlung und -verwaltung im agilen Kontext. Diese Technik wird in XP, aber auch in Scrum \cite{wirdemann2014userstory} und in Kanban \cite{epping} verwendet. 
+Die Technik der User Stories (siehe Abschnitt \ref{planung-user-stories}) beschreibt eine effiziente Technik der Anforderungsermittlung und -verwaltung im agilen Kontext. Diese Technik wird in XP, aber auch in Scrum \cite{wirdemann2014userstory} und in Kanban \cite{epping} verwendet. *Film Statements* ist eine Adaption der User Stories auf den Kontext der Imagefilmproduktion. Diese Adaption ist Werk des Autors, sie sei deshalb im Folgenden genauer erklärt.
+
+Ein zentrales Element der User Story ist der Fokus auf die Funktionalität für den Benutzer. User Story Cards beschreiben in kurzen Sätzen, wie ein Benutzer mit dem geplanten Produkt interagiert und welchen Nutzen er davon hat.
+
+Film Statements nutzen die gleiche Technik. In einem Imagefilm geht es aber nicht um Funktionalität, die aus Sicht eines Benutzers beschrieben werden muss, sondern um Botschaften, die von einem Betrachter perzipiert, verstanden und behalten werden müssen. 
 
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
