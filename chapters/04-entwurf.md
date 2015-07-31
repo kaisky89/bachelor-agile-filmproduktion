@@ -372,7 +372,7 @@ Die Technik der Film Statements bietet zwei Vorteile:
 
 Die Umsetzung der Prinzipien vom Vorgehensmodell Kanban kann in dieser Arbeit nur bedingt diskutiert werden. Insgesamt lässt sich sagen, dass sich das Vorgehensmodell eher an Scrum orientiert als an Kanban. Ein tieferes Eingehen das Pull Prinzip und die WIP Limits ist hier durchaus denkbar, da es in keiner Weise mit dem vorhandenen Vorgehen in Konflikt steht, würde aber den Rahmen dieser Arbeit sprengen.
 
-Das Kanban Board wird also in erster Linie als ein Werkzeug zum Visualisieren des momentanen Sprint Status benutzt. Die Abbildung \ref{Entwurf eines Kanban Boards für den Sprint} zeigt den Entwurf eines Kanban Boards, so wie es für den Sprint denkbar ist.
+Das Kanban Board wird also in erster Linie als ein Werkzeug zum Visualisieren des momentanen Sprint Status benutzt. Die Abbildung \ref{Entwurf eines Kanban Boards für den Sprint} (Grafik basierend auf \cite{wirdemann2014scrum}) zeigt den Entwurf eines Kanban Boards, so wie es für den Sprint denkbar ist.
 
 ![Entwurf eines Kanban Boards für den Sprint](http://download.heart-co.de/film-kanban.png)
 
