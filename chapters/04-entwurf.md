@@ -380,7 +380,9 @@ Das Board besteht aus insgesamt 4 Spalten: dem Sprint Backlog als die Ansammlung
 
 Dies gibt dem Team die Möglichkeit, auf einem Blick zu sehen, wie der momentane Stand des Sprints ist. Das Kanban Board bildet eine gute Grundlage für das *Daily-Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}), um über anstehende Aufgaben für den Tag zu reden und aufmerksam auf momentane Probleme zu machen. Außerdem kann mithilfe der Position der Karten der Sprintfortschritt gemessen werden. *Burndown Charts* (siehe Abschnitt \ref{entwurf-techniken-burndown-chart}) bieten eine gute Möglichkeit, diesen zu visualisieren.
 
-Für das Messen des Sprintfortschritt ist es nötig, dass die einzelnen Karten des Kanban Boards gewichtet werden. Hier kann auf die Ergebnisse des *Planning Pokers* (siehe Abschnitt \ref{}) aufgebaut werden. Zusätzlich zu der Gewichtung der Karten muss noch eine Gewichtung der Phasen, also der Spalten des Kanban Boards vorgenommen werden: Befindet sich das Projekt in einem frühen Status, wird in den Sprints die Pioneer Phase eine größere Rolle spielen als in den letzten Sprints vor dem Abschluss des Projekts
+Für das Messen des Sprintfortschritt ist es nötig, dass die einzelnen Karten des Kanban Boards gewichtet werden. Hier kann auf die Ergebnisse des *Planning Pokers* (siehe Abschnitt \ref{}) aufgebaut werden. Zusätzlich zu der Gewichtung der Karten muss noch eine Gewichtung der Phasen, also der Spalten des Kanban Boards vorgenommen werden: Befindet sich das Projekt in einem frühen Status, wird in den Sprints die Pioneer Phase eine größere Rolle spielen als in den letzten Sprints vor dem Abschluss des Projekts. Ein Beispiel für eine solche Gewichtung ist in Abbildung \ref{Kanban Board mit Spalten Gewichtung} dargestellt.
+
+![Kanban Board mit Spalten Gewichtung](http://download.heart-co.de/film-kanban-spaltengewichtung.png)
 
 
 ## Daily Standup {#entwurf-techniken-daily-standup}
