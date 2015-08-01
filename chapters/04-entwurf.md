@@ -423,6 +423,16 @@ Alle sonstigen Vorgaben des Daily Standups bleiben dem des Daily Scrum in Abschn
 
 Cheap Production ist der Entwurf einer neuen Technik des Autors. Sie setzt den Wert *Frühe Produktion* (siehe Abschnitt \ref{entwurf-werte-fruehe-produktion}) um. Mithilfe von Cheap Production soll es möglich sein, günstige und schnelle Beispielproduktionen zu erstellen, damit Kunde und Product Owner möglichst früh einen ersten Eindruck der geplanten Inhalte und der Gestaltung gewinnen.
 
+Die Idee der Cheap Production basiert auf dir des Dimension Planning, die ein Backlog Item haben kann \cite{koschek2012ponyhof}. Eine Backlog Item besitzt so nicht nur die Dimensionen Zeit, Ressourcen und Umfang, Koen Van Exem und Walter Hesius führen eine weitere Dimension ein: die Tiefe \cite{exem2015dimensional} (zitiert nach \cite{gartner2015dimensional}). Es werden verschiedene Ausbaustufen für eine Aufgabe benutzt. Als Metapher wird dafür der Straßenbau benutzt. Eine Straße kann in verschiedenen Stufen ausgebaut sein \cite{koschek2012ponyhof}:
+
+- Trampelpfad
+- Feldweg
+- asphaltierte Straße
+- Autobahn
+
+
+
+
 
 Es muss beim Sprint Planning vereinbart werden, welche Ausbaustufe verlangt wird: Beispielhafte, günstige Produktion der Inhalte, oder veröffentlichbares Material.
 
