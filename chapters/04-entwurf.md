@@ -403,7 +403,11 @@ Für die Berechnung der Arbeit, die momentan noch erledigt werden muss, muss die
 - $P_i$ ist die Position der Karte, also die Spalte, in der sich die Karte gerade befindet
 - $S_j$ ist die Gewichtung der jeweiligen Spalte
 
-Für die Berechnung der Arbeit einer einzelnen Karte sei hier noch ein Beispiel aufgeführt. 
+Für die Berechnung der Arbeit einer einzelnen Karte sei noch ein Beispiel aufgeführt. Man betrachte hierfür die Abbildung \ref{Berechnung der übrigen Arbeit einer einzelnen Karte auf dem Kanban Board}. Die Karte selbst hat eine Gewichtung von $3$. Die Gewichtungen der Spalten, die für diese Karte noch abgearbeitet werden, betragen $3$ (Produktions Phase) und $2$ (Post Phase). Die übrige Arbeit dieser Karte beträgt also $3 \cdot (3 + 2) = 15$.
+
+Für die Berechnung der gesamten übrigen Arbeit
+
+![Berechnung der übrigen Arbeit einer einzelnen Karte auf dem Kanban Board](http://download.heart-co.de/film-kanban-beispiel-burndown-einzelne-karte.png)
 
 - Visualisierung der bisher geleisteten Arbeit
 
