@@ -421,16 +421,18 @@ Alle sonstigen Vorgaben des Daily Standups bleiben dem des Daily Scrum in Abschn
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
 
-Cheap Production ist der Entwurf einer neuen Technik des Autors. Sie setzt den Wert *Frühe Produktion* (siehe Abschnitt \ref{entwurf-werte-fruehe-produktion}) um. Mithilfe von Cheap Production soll es möglich sein, günstige und schnelle Beispielproduktionen zu erstellen, damit Kunde und Product Owner möglichst früh einen ersten Eindruck der geplanten Inhalte und der Gestaltung gewinnen.
+Cheap Production ist der Entwurf einer neuen Technik des Autors. Sie setzt den Wert *Frühe Produktion* (siehe Abschnitt \ref{entwurf-werte-fruehe-produktion}) um. Mithilfe von Cheap Production soll es möglich sein, günstige und schnelle Beispielproduktionen zu erstellen, damit Kunde und Product Owner möglichst früh einen ersten Eindruck der geplanten Inhalte und der Gestaltung gewinnen. Außerdem gewinnt das Team so möglichst früh wertvolle Erfahrung, was die praktische Umsetzung der geplanten Techniken angeht.
 
-Die Idee der Cheap Production basiert auf dir des Dimension Planning, die ein Backlog Item haben kann \cite{koschek2012ponyhof}. Eine Backlog Item besitzt so nicht nur die Dimensionen Zeit, Ressourcen und Umfang, Koen Van Exem und Walter Hesius führen eine weitere Dimension ein: die Tiefe \cite{exem2015dimensional} (zitiert nach \cite{gartner2015dimensional}). Es werden verschiedene Ausbaustufen für eine Aufgabe benutzt. Als Metapher wird dafür der Straßenbau benutzt. Eine Straße kann in verschiedenen Stufen ausgebaut sein \cite{koschek2012ponyhof}:
+Die Idee der Cheap Production basiert auf die des Dimension Planning \cite{koschek2012ponyhof}. Eine Backlog Item besitzt so nicht nur die Dimensionen Zeit, Ressourcen und Umfang, Koen Van Exem und Walter Hesius führen eine weitere Dimension ein: die Tiefe \cite{exem2015dimensional} (zitiert nach \cite{gartner2015dimensional}). Es werden verschiedene Ausbaustufen für eine Aufgabe benutzt. Als Metapher wird dafür der Straßenbau benutzt. Eine Straße kann in verschiedenen Stufen ausgebaut sein \cite{koschek2012ponyhof}:
 
 - Trampelpfad
 - Feldweg
 - asphaltierte Straße
 - Autobahn
 
+Diese Symbolik wird im Dimensional Planning auf die Backlog Items angewendet. Im Kontext des in dieser Arbeit vorgestellten Vorgehensmodells, wird also im Sprint Planning definiert, zu welcher Ausbaustufe ein Film Statement bis zum Ende des Sprints fertiggestellt sein soll. Der Trampelpfad steht hier symbolisch für eine sehr einfache Lösung der Aufgabe, die Autobahn ist die wirklich gute, saubere und vollständig Umsetzung der Aufgabe.
 
+Dies soll anhand eines Beispiels erläutert werden. Das Team einigt sich während des Sprint Plannings mit dem Product Owner darauf, dass es im nächsten Sprint das Film Statement "Als *langjähriger Mitarbeiter* erfahre ich, dass *das Unternehmen seit mehreren Jahren ein kontinuierliches wirtschaftliches Wachstum verzeichnet*, sodass ich *mich freue, Teil dieses Erfolges miterleben zu können*." umsetzen möchte. Es hat sich in den vorherigen Sprints noch keine Gedanken über diese Aussage gemacht, also noch keine Szenen oder ähnliches dazu geplant. Daher einigen sich Product Owner und Team darauf, zum Ende des Sprints die Ausbaustufe *Feldweg* zu erreichen. Das Team entscheidet sich in der Pioneer Phase, diese Aussage umzusetzen, indem es einen Mitarbeiter am Fließband filmt, der gerade seine Arbeit macht. Dabei macht die Kamera eine Dollyfahrt und es fliegt ein Diagramm ein, dass den wirtschaftlichen Wachstum der letzten fünf Jahre zeigt. Cheap Production bedeutet nun, dass das Team diese Inhalte während der Produktionsphase nicht sofort in dem Unternehmen des Kunden umverbundenen Aufwand 
 
 
 
