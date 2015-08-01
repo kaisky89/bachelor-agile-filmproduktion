@@ -441,9 +441,7 @@ Ziel der Cheap Production ist es immer, den Kerngedanken einer Idee zu transport
 
 ## Planning Poker {#entwurf-techniken-planning-poker}
 
-Planning Poker wird im Sprint Planning benutzt, um die einzelnen Film Statements zu gewichten und abzuschätzen, wieviel Arbeit damit verbunden ist.
-
-Mike Cohn stellt Planning Poker wie folgt vor:
+Planning Poker wird im Sprint Planning benutzt, um die einzelnen Film Statements zu gewichten und abzuschätzen, wieviel Arbeit damit verbunden ist. Mike Cohn stellt Planning Poker wie folgt vor:
 
 > "At the start of planning poker, each estimator ist given a deck of cards. Each card has written on it one of the valid estimates. [...]
 > For each user story or theme to be estimated, a moderator reads the description. The moderator is usually the product owner or an analyst. [...] The product owner answers any questions that the estimators have. [...] The goal in planning poker is not to derive an estimate that will withstand all future scrutiny. [...]
@@ -452,8 +450,10 @@ Mike Cohn stellt Planning Poker wie folgt vor:
 
 > \cite{cohn2005agile} (zitiert nach \cite{epping})
 
+Das Team benutzt also Karten mit Zahlen darauf, um die einzelnen User Stories des Backlogs zu bewerten. Statt der User Stories werden in dem Vorgehensmodell dieser Arbeit die Film Statements benutzt. Eine Aufwandschätzung auf Basis von Film Statements ist nicht unbedingt eine leichte Angelegenheit. Man kann davon ausgehen, dass gerade für unerfahrene Teams in den ersten Planning Poker Sitzungen nicht mit Sicherheit sagen können, wie lange sie für einzelne Aussagen brauchen werden. Allerdings hilft das regelmäßige Schätzen den Mitgliedern des Teams, einen ausgeprägten Sinn dafür zu entwickeln, welche Anforderungen viel Aufwand in Anspruch nehmen und welche wenig.
 
-Dabei ist es nicht leicht, von einer Aussage zu einer Aufwandschätzung zu kommen. Von daher
+Die Zahlen der Karten können für Arbeitstage oder Stunden stehen, der Autor empfiehlt aber hier, die Zahlen für eine reine Gewichtung ohne Bezug zu einer realen Größe zu benutzen. Die Karten werden also nur relativ zueinander gewichtet: Eine Karte die mit $8$ eingeschätzt wird, hat doppelt so viel Aufwand wie eine Karte mit $4$. Dies nimmt den Teammitgliedern die Angst, sich in den konkreten Zahlen (so wie Arbeitsstunden oder -tage) zu verschätzen, gibt aber trotzdem ein gute Grundlage für das Einschätzen des Umfangs einer Karte.
+
 
 ## Timeline Karten {#entwurf-techniken-timeline-karten}
 
@@ -462,12 +462,3 @@ Entwurf des Autors
 - Vorbild: CRC Karten
 
 - Beispiel Timeline Karten selbst basteln
-
-
-
-
-## Partieller Schnitt
-
-Entwurf des Autors
-<!--??--> Viele kleine Untersequenzen
-
