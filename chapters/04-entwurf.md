@@ -42,7 +42,7 @@ Es muss der Tatsache ins Auge gesehen werden, dass Anforderungen und Vorstellung
 
 > "Je mehr Du nach Plan arbeitest, um so mehr bekommst Du das, was Du geplant hast, aber nicht das, was Du brauchst." \cite{muller2008agile}
 
-## Frühe Produktion
+## Frühe Produktion {#entwurf-werte-fruehe-produktion}
 
 <!-- Umbenennen in "Transparenz"?? -->
 
@@ -415,19 +415,14 @@ Die Berechnung der noch nötigen Arbeit über Gewichtung der Karten und Spalten 
 
 ## Daily Standup {#entwurf-techniken-daily-standup}
 
-Das Daily Standup dient der Synchronisation des Teams und der Absprache der nächsten Schritte. Es gibt bei dieser Technik nicht viel Änderung zu dem in Abschnitt \ref{scrum-daily-srcum} beschriebenen Verfahren. Allerdings kann hier das Kanban Board noch zu einer effektiveren Kommunikation beitragen. Das Daily Standup wird also jeden Tag vor dem Kanban Board gehalten^[Dies wird auch von \cite{epping} vorgeschlagen.]. Bei den Fragen, die jeder 
+Das Daily Standup dient der Synchronisation des Teams und der Absprache der nächsten Schritte. Es gibt bei dieser Technik nicht viel Änderung zu dem in Abschnitt \ref{scrum-daily-srcum} beschriebenen Verfahren. Allerdings kann hier das Kanban Board noch zu einer effektiveren Kommunikation beitragen. Das Daily Standup wird also jeden Tag vor dem Kanban Board gehalten^[Dies wird auch von \cite{epping} vorgeschlagen.]. Bei den Fragen, die jeder Teilnehmer des Daily Standups beantwortet, kann er während des Gesprächs immer wieder auf die entsprechenden Karten verweisen, mit denen er gearbeitet hat, oder mit denen er arbeiten wird.
 
-- tägliche Synchronisation der Teammitglieder
-- Vorgehen bleibt dem Vorbild aus ... gleich
-- außer: in Kombination mit dem Kanban Board
-
-
+Alle sonstigen Vorgaben des Daily Standups bleiben dem des Daily Scrum in Abschnitt \ref{scrum-daily-srcum} gleich.
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
 
-Cheap Production ist ein Entwurf des Autors.
+Cheap Production ist der Entwurf einer neuen Technik des Autors. Sie setzt den Wert *Frühe Produktion* (siehe Abschnitt \ref{entwurf-werte-fruehe-produktion}) um. Mithilfe von Cheap Production soll es möglich sein, günstige und schnelle Beispielproduktionen zu erstellen, damit Kunde und Product Owner möglichst früh einen ersten Eindruck der geplanten Inhalte und der Gestaltung gewinnen.
 
-Um schnell vorzeigbare Ergebnisse erreichen zu können, werden günstige und schnelle Beispielproduktionen erstellt.
 
 Es muss beim Sprint Planning vereinbart werden, welche Ausbaustufe verlangt wird: Beispielhafte, günstige Produktion der Inhalte, oder veröffentlichbares Material.
 
