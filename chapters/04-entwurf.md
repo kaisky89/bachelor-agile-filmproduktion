@@ -443,7 +443,7 @@ Ziel der Cheap Production ist es immer, den Kerngedanken einer Idee zu transport
 
 Planning Poker wird im Sprint Planning benutzt, um die einzelnen Film Statements zu gewichten und abzuschätzen, wieviel Arbeit damit verbunden ist. Mike Cohn stellt Planning Poker wie folgt vor:
 
-> "At the start of planning poker, each estimator ist given a deck of cards. Each card has written on it one of the valid estimates. [...]
+> "At the start of planning poker, each estimator is given a deck of cards. Each card has written on it one of the valid estimates. [...]
 > For each user story or theme to be estimated, a moderator reads the description. The moderator is usually the product owner or an analyst. [...] The product owner answers any questions that the estimators have. [...] The goal in planning poker is not to derive an estimate that will withstand all future scrutiny. [...]
 > After all questions are answered, each estimator privately selects a card representing his or her estimate. Cards are not shown until each estimator has made a selection. At that time, all cards are simultaneously turned over and shown so that all participants can see each estimate.
 > It is very likely at this point that the estimates will differ significantly. This is actually good news. If estimates differ, the high and low estimators explain their estimates. [...]"
@@ -452,7 +452,7 @@ Planning Poker wird im Sprint Planning benutzt, um die einzelnen Film Statements
 
 Das Team benutzt also Karten mit Zahlen darauf, um die einzelnen User Stories des Backlogs zu bewerten. Statt der User Stories werden in dem Vorgehensmodell dieser Arbeit die Film Statements benutzt. Eine Aufwandschätzung auf Basis von Film Statements ist nicht unbedingt eine leichte Angelegenheit. Man kann davon ausgehen, dass gerade für unerfahrene Teams in den ersten Planning Poker Sitzungen nicht mit Sicherheit sagen können, wie lange sie für einzelne Aussagen brauchen werden. Allerdings hilft das regelmäßige Schätzen den Mitgliedern des Teams, einen ausgeprägten Sinn dafür zu entwickeln, welche Anforderungen viel Aufwand in Anspruch nehmen und welche wenig.
 
-Die Zahlen der Karten können für Arbeitstage oder Stunden stehen, der Autor empfiehlt aber hier, die Zahlen für eine reine Gewichtung ohne Bezug zu einer realen Größe zu benutzen. Die Karten werden also nur relativ zueinander gewichtet: Eine Karte die mit $8$ eingeschätzt wird, hat doppelt so viel Aufwand wie eine Karte mit $4$. Dies nimmt den Teammitgliedern die Angst, sich in den konkreten Zahlen (so wie Arbeitsstunden oder -tage) zu verschätzen, gibt aber trotzdem ein gute Grundlage für das Einschätzen des Umfangs einer Karte.
+Die Zahlen der Karten können für Arbeitstage oder Stunden stehen, der Autor empfiehlt aber hier, die Zahlen für eine reine Gewichtung ohne Bezug zu einer realen Größe zu benutzen. Die Film Statements werden also nur relativ zueinander gewichtet: Eine Film Statement, das mit $8$ eingeschätzt wird, hat doppelt so viel Aufwand wie eine Film Statement mit $4$. Dies nimmt den Teammitgliedern die Angst, sich in den konkreten Zahlen (so wie Arbeitsstunden oder -tage) zu verschätzen, gibt aber trotzdem ein gute Grundlage für das Einschätzen des Umfangs einer Karte.
 
 
 ## Timeline Karten {#entwurf-techniken-timeline-karten}
