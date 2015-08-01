@@ -649,7 +649,7 @@ In der Planungssitzung wird das Sprint Backlog erstellt, welches alle Anforderun
 
 Das Ergebnis der Sprint Planungssitzung ist ein realistisches Sprint Backlog, sowie ein Team, dass sich zu dessen Realisierung verpflichtet hat.
 
-### Daily Scrum
+### Daily Scrum {#scrum-daily-srcum}
 
 Daily Scrum ist eine tägliche Sitzung innerhalb des Sprints, um das gesamte Team über den momentanen Stand des Sprints zu synchronisieren und anstehende und vergangene Aufgaben zu besprechen. Das Daily Scrum wird täglich am gleichen Ort und zur selben Zeit durchgeführt. Scrum schreibt eine Timebox (also ein Zeitlimit) von 15 Minuten vor. 
 
