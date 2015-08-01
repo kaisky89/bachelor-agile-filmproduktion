@@ -390,7 +390,13 @@ Die Zahlen stehen oben zwischen den Spalten, direkt über den Linien, die die Sp
 
 Mithilfe der Gewichtung der Karten und der Spalten auf dem Kanban Board, kann einfach sehr einfach die bereits getane Arbeit errechnet werden und mit der noch anstehenden Arbeit verglichen werden. Das Burndown Chart bildet eine gute Möglichkeit, die bisher geleistete Arbeit zu visualisieren.
 
-Das Burndown Chart benutzt dabei einen Index, der anzeigt, wieviel Arbeit in dem momentanen Sprint noch ansteht. Dieser Index muss zum Ende des Sprints gegen 0 laufen, dann hat das Team sämtliche Arbeiten des Sprints erledigt. Ein Beispiel für ein Burndown Chart
+Das Burndown Chart benutzt dabei einen Index, der anzeigt, wieviel Arbeit in dem momentanen Sprint noch ansteht. Dieser Index muss zum Ende des Sprints gegen 0 laufen, dann hat das Team sämtliche Arbeiten des Sprints erledigt. Ein Beispiel für ein Burndown Chart ist in Abbildung \ref{Exemplarisches Burndown Chart} zu sehen.
+
+![Exemplarisches Burndown Chart](http://download.heart-co.de/burndown.png)
+
+Der Gesamtaufwand des Sprints $G$ (also der übrige Aufwand an Tag 0) lässt sich mit der Formel $G = (K_1 + K_2 + ...) \cdot (S_1 + S_2 + ...)$ berechnen, wobei $K_1$ die Gewichtung für die Karte 1 sei, $K_2$ die Gewichtung für die Karte 2 und so weiter. $S_1$ sei die Gewichtung für Spalte 1, $S_2$ die Gewichtung für Spalte 2.
+
+
 
 - Visualisierung der bisher geleisteten Arbeit
 
