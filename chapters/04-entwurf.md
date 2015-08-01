@@ -394,9 +394,9 @@ Das Burndown Chart benutzt dabei einen Index, der anzeigt, wieviel Arbeit in dem
 
 ![Exemplarisches Burndown Chart](http://download.heart-co.de/burndown.png)
 
-Der Gesamtaufwand des Sprints $G$ (also der übrige Aufwand an Tag 0) lässt sich mit der Formel $G = (K_1 + K_2 + ...) \cdot (S_1 + S_2 + ...)$ berechnen, wobei $K_1$ die Gewichtung für die Karte 1 sei, $K_2$ die Gewichtung für die Karte 2 und so weiter. $S_1$ sei die Gewichtung für Spalte 1, $S_2$ die Gewichtung für Spalte 2.
+Der Gesamtaufwand des Sprints $G$ (also der übrige Aufwand an Tag 0) lässt sich mit der Formel $G = (K_1 + K_2 + ...) \cdot (S_1 + S_2 + ...)$ berechnen, wobei $K_1$ die Gewichtung für die Karte 1 sei, $K_2$ die Gewichtung für die Karte 2 und so weiter. Dementsprechend ist $S_1$ die Gewichtung für Spalte 1, $S_2$ die Gewichtung für Spalte 2 und so weiter.
 
-
+Für die Berechnung der Arbeit, die momentan noch erledigt werden muss, muss die Summe über die übrige Arbeit aller Karten berechnet werden. Die übrige Arbeit einer einzelnen 
 
 - Visualisierung der bisher geleisteten Arbeit
 
