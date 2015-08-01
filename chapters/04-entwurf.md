@@ -439,20 +439,14 @@ Dies ist sicherlich nicht professionell umgesetzt, aber es ist der Dimension "Fe
 Ziel der Cheap Production ist es immer, den Kerngedanken einer Idee zu transportieren. Es handelt sich bei dem Ergebnis des Projekts um das Medium Film. Daher ist die beste Möglichkeit, Ideen für dieses Medium zu präsentieren, dies auch in Form von Filmen zu tun.
 
 
-
-Es muss beim Sprint Planning vereinbart werden, welche Ausbaustufe verlangt wird: Beispielhafte, günstige Produktion der Inhalte, oder veröffentlichbares Material.
-
-## Ideen Verwaltung
-
-In Kombination mit dem Kanban Board: Es ist denkbar, dass mehrere Anforderungen mit einer Idee umgesetzt werden, oder dass eine Anforderungen in mehreren Ideen resultiert
-
-zusammenlegen mehrerer Karten übereinander
-
-Ideen als zusätzliche Post Its auf die Rückseite der Film Statements kleben
-
 ## Planning Poker {#entwurf-techniken-planning-poker}
 
-Vorbild aus ...
+Planning Poker wird im Sprint Planning benutzt, um die einzelnen Film Statements zu gewichten und abzuschätzen, wieviel Arbeit damit verbunden ist.
+
+\cite{cohn2005agile} (zitiert nach \cite{epping}) stellt Planning Poker als 
+
+
+Dabei ist es nicht leicht, von einer Aussage zu einer Aufwandschätzung zu kommen. Von daher
 
 ## Timeline Karten {#entwurf-techniken-timeline-karten}
 
