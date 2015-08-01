@@ -376,13 +376,30 @@ Das Kanban Board wird also in erster Linie als ein Werkzeug zum Visualisieren de
 
 ![Entwurf eines Kanban Boards für den Sprint](http://download.heart-co.de/film-kanban.png)
 
-Das Board besteht aus insgesamt 4 Spalten: dem Sprint Backlog als die Ansammlung der Anforderungen, die noch nicht bearbeitet wurden, sowie den drei Spalten, die genauso heißen, wie die Phasen des Sprints. Die Karten auf dem Board stellen die einzelnen Anforderungen des Kunden in Form von Film Statements dar. Diese werden, je nachdem, in welcher Phase sie sich gerade befinden von Spalte zu Spalte verschoben.
+Das Board besteht aus insgesamt 5 Spalten: dem Sprint Backlog als die Ansammlung der Anforderungen, die noch nicht bearbeitet wurden, sowie den drei Spalten, die genauso heißen, wie die Phasen des Sprints. Die Karten auf dem Board stellen die einzelnen Anforderungen des Kunden in Form von Film Statements dar. Diese werden, je nachdem, in welcher Phase sie sich gerade befinden von Spalte zu Spalte verschoben. Wenn die Post Phase der Anforderung abgeschlossen sind, werden sie in die Spalte "Fertig" geschoben.
 
 Dies gibt dem Team die Möglichkeit, auf einem Blick zu sehen, wie der momentane Stand des Sprints ist. Das Kanban Board bildet eine gute Grundlage für das *Daily-Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}), um über anstehende Aufgaben für den Tag zu reden und aufmerksam auf momentane Probleme zu machen. Außerdem kann mithilfe der Position der Karten der Sprintfortschritt gemessen werden. *Burndown Charts* (siehe Abschnitt \ref{entwurf-techniken-burndown-chart}) bieten eine gute Möglichkeit, diesen zu visualisieren.
 
-Für das Messen des Sprintfortschritt ist es nötig, dass die einzelnen Karten des Kanban Boards gewichtet werden. Hier kann auf die Ergebnisse des *Planning Pokers* (siehe Abschnitt \ref{}) aufgebaut werden. Zusätzlich zu der Gewichtung der Karten muss noch eine Gewichtung der Phasen, also der Spalten des Kanban Boards vorgenommen werden: Befindet sich das Projekt in einem frühen Status, wird in den Sprints die Pioneer Phase eine größere Rolle spielen als in den letzten Sprints vor dem Abschluss des Projekts. Ein Beispiel für eine solche Gewichtung ist in Abbildung \ref{Kanban Board mit Spalten Gewichtung} dargestellt.
+Für das Messen des Sprintfortschritt ist es nötig, dass die einzelnen Karten des Kanban Boards gewichtet werden. Hier kann auf die Ergebnisse des *Planning Pokers* (siehe Abschnitt \ref{}) aufgebaut werden. Zusätzlich zu der Gewichtung der Karten muss noch eine Gewichtung der Phasen, also der Spalten des Kanban Boards vorgenommen werden. Die Gewichtung der Spalten kann je nach Status des Projektes unterschiedlich sein: Befindet sich das Projekt in einem frühen Status, wird in den Sprints die Pioneer Phase eine größere Rolle spielen als in den letzten Sprints vor dem Abschluss des Projekts. Ein Beispiel für eine solche Gewichtung ist in Abbildung \ref{Kanban Board mit Spalten Gewichtung} dargestellt.
 
 ![Kanban Board mit Spalten Gewichtung](http://download.heart-co.de/film-kanban-spaltengewichtung.png)
+
+Die Zahlen stehen oben zwischen den Spalten, direkt über den Linien, die die Spalten voneinander trennen. Die Zahlen stellen die Größe der Arbeit dar, die es benötigt, um eine Karte über diese Linie zu verschieben. Bei der angegebenen Gewichtung aus Abbildung \ref{Kanban Board mit Spalten Gewichtung} bedeutet dies also, dass die Pioneer Phase eine Gewichtung von "4" hat: Wenn die Pioneer Phase einer Anforderung abgeschlossen ist und die Karte somit in die Spalte "Produktions Phase" wandert, wird die getane Arbeit mit dem Faktor 4 multipliziert.
+
+## Burndown Chart {#entwurf-techniken-burndown-chart}
+
+Mithilfe der Gewichtung der Karten und der Spalten auf dem Kanban Board, kann einfach sehr einfach die bereits getane Arbeit errechnet werden und mit der noch anstehenden Arbeit verglichen werden. Das Burndown Chart bildet eine gute Möglichkeit, die bisher geleistete Arbeit zu visualisieren.
+
+Das Burndown Chart benutzt dabei einen Index, der anzeigt, wieviel Arbeit in dem momentanen Sprint noch ansteht. Dieser Index muss zum Ende des Sprints gegen 0 laufen, dann hat das Team sämtliche Arbeiten des Sprints erledigt. Ein Beispiel für ein Burndown Chart
+
+- Visualisierung der bisher geleisteten Arbeit
+
+- Gewichtung der Film Statements
+- Gewichtung der Phasen
+- Somit ergibt sich ein Index für die noch zu erledigende Arbeit
+- Der Index wird täglich in das Diagramm eingetragen
+
+[Burndown Chart]
 
 
 ## Daily Standup {#entwurf-techniken-daily-standup}
@@ -393,16 +410,7 @@ Das Daily Standup dient der Synchronisation des Teams und der Absprache
 - Vorgehen bleibt dem Vorbild aus ... gleich
 - außer: in Kombination mit dem Kanban Board
 
-## Burndown Chart {#entwurf-techniken-burndown-chart}
 
-- Visualisierung der bisher geleisteten Arbeit
-
-- Gewichtung der Film Statements
-- Gewichtung der Phasen
-- Somit ergibt sich ein Index für die noch zu erledigende Arbeit
-- Der Index wird täglich in das Diagramm eingetragen
-
-[Burndown Chart]
 
 ## Cheap Production {#entwurf-techniken-cheap-production}
 
