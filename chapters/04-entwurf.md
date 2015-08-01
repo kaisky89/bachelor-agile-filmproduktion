@@ -390,7 +390,7 @@ Die Zahlen stehen oben zwischen den Spalten, direkt über den Linien, die die Sp
 
 Mithilfe der Gewichtung der Karten und der Spalten auf dem Kanban Board, kann einfach sehr einfach die bereits getane Arbeit errechnet werden und mit der noch anstehenden Arbeit verglichen werden. Das Burndown Chart bildet eine gute Möglichkeit, die bisher geleistete Arbeit zu visualisieren.
 
-Das Burndown Chart benutzt dabei einen Index, der anzeigt, wieviel Arbeit in dem momentanen Sprint noch ansteht. Dieser Index muss zum Ende des Sprints gegen 0 laufen, dann hat das Team sämtliche Arbeiten des Sprints erledigt. Ein Beispiel für ein Burndown Chart ist in Abbildung \ref{Exemplarisches Burndown Chart} zu sehen.
+Das Burndown Chart benutzt dabei einen Index, der anzeigt, wieviel Arbeit in dem momentanen Sprint noch ansteht. Dieser Index muss zum Ende des Sprints gegen 0 laufen, dann hat das Team sämtliche Arbeiten des Sprints erledigt. Ein Beispiel für ein Burndown Chart ist in Abbildung \ref{Exemplarisches Burndown Chart} zu sehen. Die X-Achse des Burndown Charts sind die Tage, an denen am Projekt gearbeitet wurde, die Y-Achse stellt einen Index der noch zu erledigen Arbeit dar. Dieser Index ist ein abstrakter Wert, es handelt sich nicht um Arbeitsstunden oder ähnliches. Die Berechnung dieses Werts wird im Folgenden näher betrachtet.
 
 ![Exemplarisches Burndown Chart](http://download.heart-co.de/burndown.png)
 
@@ -405,19 +405,13 @@ Für die Berechnung der Arbeit, die momentan noch erledigt werden muss, muss die
 
 Für die Berechnung der Arbeit einer einzelnen Karte sei noch ein Beispiel aufgeführt. Man betrachte hierfür die Abbildung \ref{Berechnung der übrigen Arbeit einer einzelnen Karte auf dem Kanban Board}. Die Karte selbst hat eine Gewichtung von $3$. Die Gewichtungen der Spalten, die für diese Karte noch abgearbeitet werden, betragen $3$ (Produktions Phase) und $2$ (Post Phase). Die übrige Arbeit dieser Karte beträgt also $3 \cdot (3 + 2) = 15$.
 
-Für die Berechnung der gesamten übrigen Arbeit
+Für die Berechnung der gesamten übrigen Arbeit wird dieses Verfahren bei jeder Karte wiederholt und die Summe über die übrige Arbeit aller Karten gebildet. Diese Summe wird täglich in das Burndown Diagramm eingetragen. Das Burndown Chart wird möglichst sichtbar für das ganze Team am besten direkt an das Kanban Board angebracht.
+
+Die Technik des Burndown Chart zeigt - genauso wie das Kanban Board - den IST Zustand an. Es hilft dem Team, zu sehen, wo es sich gerade befindet, wieviel Arbeit noch ansteht. Es hilft außerdem dabei, eine konstante Geschwindigkeit zu entwicklen und schnell zu bemerken, wenn bestimmte Arbeiten nicht zu der erwarteten Zeit abgeschlossen sind.
+
+Die Berechnung der noch nötigen Arbeit über Gewichtung der Karten und Spalten ist in dieser Form eine Entwicklung des Autors. Normalerweise wird Arbeit erst dann als erledigt gemessen, wenn die Karte das Ende der Wertschöpfungskette (also die Spalte "Fertig") erreicht hat \cite{epping}. Das Berücksichtigen der Zwischenschritte und deren Gewichtung gibt aus der Sicht des Autors allerdings eine präzisere Schätzung der momentan erledigten Arbeit an.
 
 ![Berechnung der übrigen Arbeit einer einzelnen Karte auf dem Kanban Board](http://download.heart-co.de/film-kanban-beispiel-burndown-einzelne-karte.png)
-
-- Visualisierung der bisher geleisteten Arbeit
-
-- Gewichtung der Film Statements
-- Gewichtung der Phasen
-- Somit ergibt sich ein Index für die noch zu erledigende Arbeit
-- Der Index wird täglich in das Diagramm eingetragen
-
-[Burndown Chart]
-
 
 ## Daily Standup {#entwurf-techniken-daily-standup}
 
