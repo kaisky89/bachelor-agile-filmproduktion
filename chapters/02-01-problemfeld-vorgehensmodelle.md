@@ -269,7 +269,7 @@ Die Tatsache, dass alle Teammitglieder in einem Raum sind - wie im Abschnitt \re
 
 Abgesehen davon, dass im schlimmsten Fall mit dem Ausscheiden eines Teammitglied gerechnet wird, wird aber empfohlen, Teams nicht bewusst auseinander zu reißen. XP betont die Dynamik innerhalb eines Teams und ist sich dessen bewusst, dass jede Änderung innerhalb der Teamkonstellation negative Auswirkungen auf den Teamgeist hat. Ausnahme bildet hier die Empfehlung, dass bei wachsender Effektivität des Teams von einer Erhöhung des Workloads abgesehen werden sollte, sondern eher das Team verkleinert werden sollte \cite{hanser}. 
 
-### Stand-Up Meeting
+### Stand-Up Meeting {#xp-techniken-stand-up}
 
 Jeder Arbeitstag in XP beginnt mit einem Stand-Up Meeting. In diesem Treffen wird möglichst präzise, klar und schnell kommuniziert, wie der aktuelle Stand des Projekts ist, woran jedes Team arbeitet und was es für Probleme gibt. Zeiteffizienz spielt hier eine große Rolle, da dieses Treffen jeden Tag stattfindet und eine ineffiziente Arbeitsweise bei diesem Treffen langfristig große Folgen für die Zeiteffektivität des Teams hat. Hierbei hilft die Tatsache, dass diese Treffen - wie der Name schon andeutet - *im Stehen* abgehalten werden. Dies hat den psychologischen Effekt, dass man sich nicht lange an einem Diskussionspunkt aufhält. Man kann bei diesem Treffen also nicht von einer *Sitzung* sprechen, da sich ja keiner *setzt*.
 
