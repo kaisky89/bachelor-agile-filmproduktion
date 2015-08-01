@@ -415,7 +415,7 @@ Die Berechnung der noch nötigen Arbeit über Gewichtung der Karten und Spalten 
 
 ## Daily Standup {#entwurf-techniken-daily-standup}
 
-Das Daily Standup dient der Synchronisation des Teams und der Absprache
+Das Daily Standup dient der Synchronisation des Teams und der Absprache der nächsten Schritte. Es gibt bei dieser Technik nicht viel Änderung zu dem in Abschnitt \ref{scrum-daily-srcum} beschriebenen Verfahren. Allerdings kann hier das Kanban Board noch zu einer effektiveren Kommunikation beitragen. Das Daily Standup wird also jeden Tag vor dem Kanban Board gehalten^[Dies wird auch von \cite{epping} vorgeschlagen.]. Bei den Fragen, die jeder 
 
 - tägliche Synchronisation der Teammitglieder
 - Vorgehen bleibt dem Vorbild aus ... gleich
