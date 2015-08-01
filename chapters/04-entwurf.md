@@ -344,7 +344,7 @@ Die Technik der User Stories (siehe Abschnitt \ref{planung-user-stories}) beschr
 
 Ein zentrales Element der User Story ist der Fokus auf die Funktionalität für den Benutzer. User Story Cards beschreiben in kurzen Sätzen, wie ein Benutzer mit dem geplanten Produkt interagiert und welchen Nutzen er davon hat.
 
-Film Statements nutzen die gleiche Technik. In einem Imagefilm geht es aber nicht um Funktionalität, die aus Sicht eines Benutzers beschrieben werden muss, sondern um Botschaften, die von einem Betrachter erfahren^[Das Wort "erfahren" meint hier sowohl die Perzeption, das Verstehen und das Behalten der inhaltlichen Botschaft, als auch bestenfalls das emotionale Miterleben Botschaft. Durch die Erfahrung der Botschaft auf emotionaler Ebene kann ein weitaus tieferer Eindruck im Betrachter erschaffen werden.] werden sollen. Daher bietet sich hier das Formulieren von Teilaussagen des Films (=Film Statements), die die Hauptaussage des Films in kleinere Aspekte gliedern und etwas detaillierter modellieren, was Inhalt des Films sein soll. Bei den Film Statements bleibt die Botschaft bei der Anforderungsermittlung und der Umsetzung im Fokus, mithilfe dieser Technik wird also der Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}) umgesetzt.
+Film Statements nutzen die gleiche Technik. In einem Imagefilm geht es aber nicht um Funktionalität, die aus Sicht eines Benutzers beschrieben werden muss, sondern um Botschaften, die von einem Betrachter erfahren^[Das Wort "erfahren" meint hier sowohl die Perzeption, das Verstehen und das Behalten der inhaltlichen Botschaft, als auch bestenfalls das emotionale Miterleben der Botschaft. Durch die Erfahrung der Botschaft auf emotionaler Ebene kann ein weitaus tieferer Eindruck im Bewusstsein des Betrachter erschaffen werden.] werden sollen. Daher bietet sich hier das Formulieren von Teilaussagen des Films (=Film Statements), die die Hauptaussage des Films in kleinere Aspekte gliedern und etwas detaillierter modellieren, was Inhalt des Films sein soll. Bei den Film Statements bleibt die Botschaft bei der Anforderungsermittlung und bei der Umsetzung im Fokus, mithilfe dieser Technik wird also der Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}) umgesetzt.
 
 Wie genau verfährt nun das Team, wenn es Film Statements benutzen möchte? 
 
@@ -365,14 +365,14 @@ Diese Karten können als Film Backlog Items in das Film Backlog aufgenommen werd
 
 Die Technik der Film Statements bietet zwei Vorteile:
 
-- Sie hilft dem Kunden, sich auf das wesentliche zu konzentrieren: Der Kunde ist meist mit der Fachdomäne Filmproduktion nicht vertraut. Die einfach zu verstehende Struktur der Film Statements hilft ihm, sich Gedanken über die Botschaft, die Zielgruppe und die Wirkung des Films zu machen. So wird verhindert, dass er sich in den Details der inhaltlichen und gestalterischen Aspekten verirrt.
+- Sie hilft dem Kunden, sich auf das Wesentliche zu konzentrieren: Der Kunde ist meist mit der Fachdomäne Filmproduktion nicht vertraut. Die einfach zu verstehende Struktur der Film Statements hilft ihm, sich Gedanken über die Botschaft, die Zielgruppe und die Wirkung des Films zu machen. So wird verhindert, dass er sich in den Details der inhaltlichen und gestalterischen Aspekten verirrt.
 - Sie gibt dem Team die Freiheit, inhaltliche und gestalterische Aspekte selbst bestimmen zu können. Typische Anforderungen des Kunden wie z. B. "Es muss unbedingt unsere neue Lagerhalle gezeigt werden", die dem Team die Freiheit rauben, auf kreative Art und Weise eine Botschaft für den Film zu entwickeln, werden vermieden.
 
 ## Kanban Board {#techniken-kanban-board}
 
-Die Umsetzung der Prinzipien vom Vorgehensmodell Kanban kann in dieser Arbeit nur bedingt diskutiert werden. Insgesamt lässt sich sagen, dass sich das Vorgehensmodell eher an Scrum orientiert als an Kanban. Ein tieferes Eingehen das Pull Prinzip und die WIP Limits ist hier durchaus denkbar, da es in keiner Weise mit dem vorhandenen Vorgehen in Konflikt steht, würde aber den Rahmen dieser Arbeit sprengen.
+Die Umsetzung der Prinzipien vom Vorgehensmodell Kanban kann in dieser Arbeit nur bedingt diskutiert werden. Insgesamt lässt sich sagen, dass sich das Vorgehensmodell eher an Scrum orientiert als an Kanban. Ein tieferes Eingehen in das Pull Prinzip und die WIP Limits ist hier durchaus denkbar, da es in keiner Weise mit dem vorhandenen Vorgehen in Konflikt steht, würde aber den Rahmen dieser Arbeit sprengen.
 
-Das Kanban Board wird also in erster Linie als ein Werkzeug zum Visualisieren des momentanen Sprint Status benutzt. Die Abbildung \ref{Entwurf eines Kanban Boards für den Sprint} (Grafik basierend auf \cite{wirdemann2014scrum}) zeigt den Entwurf eines Kanban Boards, so wie es für den Sprint denkbar ist.
+Das Kanban Board wird in erster Linie als ein Werkzeug zum Visualisieren des momentanen Sprint Status benutzt. Die Abbildung \ref{Entwurf eines Kanban Boards für den Sprint} (Grafik basierend auf \cite{wirdemann2014scrum}) zeigt den Entwurf eines Kanban Boards, so wie es für den Sprint denkbar ist.
 
 ![Entwurf eines Kanban Boards für den Sprint](http://download.heart-co.de/film-kanban.png)
 
