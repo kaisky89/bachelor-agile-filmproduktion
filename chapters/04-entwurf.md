@@ -443,7 +443,12 @@ Ziel der Cheap Production ist es immer, den Kerngedanken einer Idee zu transport
 
 Planning Poker wird im Sprint Planning benutzt, um die einzelnen Film Statements zu gewichten und abzuschätzen, wieviel Arbeit damit verbunden ist.
 
-\cite{cohn2005agile} (zitiert nach \cite{epping}) stellt Planning Poker als 
+Mike Cohn stellt Planning Poker wie folgt vor:
+
+> "At the start of planning poker, each estimator ist given a deck of cards. Each card has written on it one of the valid estimates. [...]
+> For each user story or theme to be estimated, a moderator reads the description. The moderator is usually the product owner or an analyst. [...] The product owner ans- wers any questions that the estimators have. [...] The goal in planning poker is not to derive an estimate that will withstand all future scrutiny. [...]
+> After all questions are answered, each estimator privately selects a card representing his or her estimate. Cards are not shown until each estimator has made a selection. At that time, all cards are simultaneously turned over and shown so that all participants can see each estimate.
+> It is very likely at this point that the estimates will differ significantly. This is actually good news. If estimates differ, the high and low estimators explain their estimates. [...]" \cite{cohn2005agile} (zitiert nach \cite{epping})
 
 
 Dabei ist es nicht leicht, von einer Aussage zu einer Aufwandschätzung zu kommen. Von daher
