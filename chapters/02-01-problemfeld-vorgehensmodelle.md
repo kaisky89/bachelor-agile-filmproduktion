@@ -255,7 +255,7 @@ Die Phase "Managen" findet sich so nicht im Wasserfallmodell wieder. Es handelt 
 
 ### Offene Arbeitsumgebung {#xp-praktiken-arbeitsumgebung}
 
-Kommunikation ist - wie schon weiter oben erwähnt - eins der Kernwerte von XP. Aus diesem Grund soll das Team nicht räumlich getrennt sein, sondern zusammen in einem informativ gestalteten Raum zu arbeiten. Dies bedeutet, dass die Wände des Raums benutzt werden, um User Stories zu befestigen und Arbeitsergebnisse für alle sichtbar visualisiert werden. 
+Kommunikation ist - wie schon weiter oben erwähnt - eins der Kernwerte von XP. Aus diesem Grund soll das Team nicht räumlich getrennt sein, sondern zusammen in einem informativ gestalteten Raum zu arbeiten. Dies bedeutet, dass die Wände des Raums benutzt werden, um User Stories zu befestigen und Arbeitsergebnisse für alle sichtbar visualisiert werden.
 
 Außerdem sollte das Team in einem offenen Raum arbeiten. So ergeben sich viele Möglichkeiten, Probleme auf möglichst schnellem Wege zu klären. Wenn ein Entwickler an einer bestimmten Stelle nicht weiterkommt, kann er direkt einen Kollegen fragen. Die Möglichkeit, direkt zu fragen, vermindert den Aufwand der Formalität von email oder den Wegen, zwischen Büroräumen zu wechseln. Außerdem ermöglicht es allen Mitgliedern des Entwicklerteams zu wissen, mit welchen Angelegenheiten sich die Kollegen gerade beschäftigen. Falls es ein Gespräch über ein Thema ist, das man als Entwickler gerade auch bearbeitet, gibt es unkompliziert die Möglichkeit, sich im Gespräch zu beteiligen. Alistair Cockburn nennt diesen Effekt "osmotische Kommunikation" \cite{cockburn} (zitiert nach \cite{krsteski}).
 
