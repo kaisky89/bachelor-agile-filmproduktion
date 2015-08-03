@@ -489,6 +489,6 @@ Das Team beginnt danach, noch einmal über die Geschichte von Anja zu diskutiere
 
 Das Beispiel lässt sich nun beliebig fortsetzen. Die Kernaspekte der Technik sollten an dieser Stelle allerdings bereits klar geworden sein:
 
-- **Visualisierung des Entwurfs**: Durch die schnelle und einfache Visualisierung des gesagtem ist es jedem Teammitglied möglich, dem Gesprächsverlauf zu folgen und sicher zu sein, dass alle Teammitglieder über das gleiche reden.
+- **Visualisierung des Entwurfs**: Durch die schnelle und einfache Visualisierung des gesagtem ist es jedem Teammitglied möglich, dem Gesprächsverlauf zu folgen und sicher zu sein, dass alle Teammitglieder über das Gleiche reden.
 - **Schnelle Veränderung und Neugestaltung**: Der Aufwand, einen Satz auf eine Karte zu schreiben, und diese an eine Position zu legen ist sehr gering. Dadurch ist es dem Team möglich, schnell und einfach neue Ideen auszuprobieren, oder diese zu verwerfen, ohne Angst haben zu müssen, bereits zu viel Arbeit in eine Idee investiert zu haben.
 - **Mögliche Anpassung der Technik an die jeweilige Situation**: Je nachdem, was das Team gerade benötigt, kann es neue Elemente für die Visualisierung erfinden (Beispiel STIL Sektion). Es ist auch denkbar, Karten zusammenzulegen, oder zu stapeln, um visualisieren, dass mehrere Alternativen für eine gewisse Idee vorhanden ist. Durch den bewussten Verzicht auf elektronische Mittel kann das Team kreativ mit den vorhandenen Mitteln agieren und auch neue Element der Visualisierung (z. B. verschiedene Farben, Symbole, etc.) einbringen.
