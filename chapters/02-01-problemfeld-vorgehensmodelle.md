@@ -293,7 +293,7 @@ Die Idee hinter Systemmetaphern ist das Benutzen einer Metapher für das System,
 
 Eine System Metapher lässt sich nicht unbedingt leicht finden. Im initialen Projekt, in dem XP zum ersten mal durchgeführt wurde (Das *C3 Projekt*), wurde eine Automobilproduktionslinie als Metapher verwendet, da dieses Projekt in der Branche der Automobilindustrie befand und somit alle Beteiligten die Sprache der Produktionslinie verstanden \cite{hanser}.
 
-### CRC Karten {#vorgehnsmodelle-xp-crc-karten}
+### CRC Karten {#vorgehensmodelle-xp-crc-karten}
 
 CRC Karten (Class, Responsibilities and Collaboration Cards) sind eine einfache Möglichkeit, schnell und zeiteffektiv im Team Systeme zu entwerfen, zu diskutieren und zu revidieren. Es werden ca. DIN A5 große Karten benutzt, die einen Teil der Software repräsentieren. Dies können konkrete Klassen sein, müssen es aber nicht. Auf die Karte wird mit einem Namen versehen ("Class") und es kann in maximal 4 Halbsätzen formuliert werden, was die Klasse leisten soll ("Responsibilities"). Zusätzlich kann noch notiert werden, mit welchen anderen Klassen diese Karte in Wechselwirkung steht ("Collaboration").
 
