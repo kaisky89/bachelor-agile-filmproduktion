@@ -233,29 +233,31 @@ Agiles PM Überblick Seite 69
 
 ### Releases
 
-Releases sind mit dem Auftraggeber, dem Management und dem Entwicklungsteam festgelegte Zeitpunkte, zu denen eine definierte Menge von User Stories fertig gestellt sein sollen. Ein Release wird in XP mithilfe des "Planning-Game" \cite{c2} geplant. Hierbei legt das Entwicklungsteam fest, wie viel Zeit es für jede der verfügbaren User Stories braucht. Mithilfe der geschätzten Zeiten einigen sich dann alle Beteiligten (Management, Kunde und Team) auf einen fixen Termin, an dem eine Auswahl an User Stories fertig gestellt sein muss. Die Menge der User Stories soll so gewählt werden, dass 
+Releases sind mit dem Auftraggeber, dem Management und dem Entwicklungsteam festgelegte Zeitpunkte, zu denen eine definierte Menge von User Stories fertig gestellt sein soll. Dies wird in XP mithilfe des "Planning-Game" \cite{c2} geplant, in welchem das Entwicklungsteam festlegt, wie viel Zeit es für jede einzelne der User Stories braucht. Die Menge der User Stories soll so gewählt werden, dass 
 
 - ein in sich sinnvoller Funktionsumfang der Software erreicht wird, 
 - dieses Release einen möglichst hohen *business value* besitzt und
-- riskante Teile der Software möglichst früh angegangen werden \cite{c2}.
+- riskante Teile der Software möglichst in frühen Releases angegangen werden \cite{c2}.
 
 Es wird empfohlen, Releases in einem zeitlichen Rahmen von 3 Monaten zu planen \cite{beck} (nach \cite{hanser}).
 
 ### Iterationen
 
-Wie in jedem modernen Vorgehensmodell wird in XP angelehnt an das Spiralmodell mit Iterationen gearbeitet. Es wird empfohlen, Iterationen in der Länge einer Woche anzusetzen\cite{beck} (nach \cite{hanser}). Für eine Iteration nimmt sich das Team eine oder mehrere User Stories aus dem vorhandenen Pool, schreibt die nötigen Tests und verbringt den Rest der Woche dann damit, diese User Stories und die damit verbundenen Funktionen zu implementieren. Die Tests helfen dabei, zu messen, wie weit die gewünschte Funktionalität bereits implementiert wurde und bietet somit dem Entwicklungsteam immer wieder auch die Möglichkeit, sich auf die wesentlichen Anforderungen zu fokussieren. 
+Wie in jedem modernen Vorgehensmodell wird in XP - angelehnt an das Spiralmodell - mit Iterationen gearbeitet. Es wird empfohlen, Iterationen in der Länge einer Woche anzusetzen\cite{beck} (nach \cite{hanser}). Für eine Iteration nimmt sich das Team eine oder mehrere User Stories aus dem vorhandenen Pool, schreibt die nötigen Tests und verbringt den Rest der Woche dann damit, diese User Stories und die damit verbundenen Funktionen zu implementieren. Die Tests helfen dabei, zu messen, wie weit die gewünschte Funktionalität bereits implementiert wurde und bieten somit dem Entwicklungsteam immer wieder auch die Möglichkeit, sich auf die wesentlichen Anforderungen zu fokussieren. 
 
 Hier wird deutlich, dass innerhalb einer Iteration die verschiedenen Phasen des Wasserfallmodells durchlaufen werden: Es wird mithilfe der User Stories der Verlauf der nächsten Woche geplant (Phase *Planung*), dann wird zusammen mit dem Kunden die konkreten Anforderungen spezifiziert (Phase *Anforderungsspezifikation*). Diese Spezifikation wird in Unit Tests festgehalten (Phase *Test*), um diese im Verlauf der Woche dann zu entwickeln (Phasen *Design* und *Kodieren*). 
 
-Mithilfe der User Stories und deren geschätzten Aufwand, die innerhalb einer Iteration abgearbeitet wurden, kann die **Projektgeschwindigkeit** gemessen werden. Somit lässt sich schnell der aktuelle Stand des Projektes schätzen, so wie die Geschwindigkeit, mit der in den Iterationen gearbeitet wurde. Es ist normal, dass diese Geschwindigkeit schwankt. Falls aber über Iterationen hinweg eine unerwartete Geschwindigkeit festgestellt wird, empfiehlt sich ein neues Release Planning \cite{extremeprogramming}. 
+Mithilfe der User Stories und deren geschätzten Aufwand, die innerhalb einer Iteration abgearbeitet wurden, kann die **Projektgeschwindigkeit** gemessen werden. Somit lässt sich schnell der aktuelle Stand des Projektes schätzen. Es ist normal, dass diese Geschwindigkeit schwankt. Falls das aber über Iterationen hinweg auftritt, empfiehlt sich ein neues Release Planning \cite{extremeprogramming}. 
 
 ## Praktiken des Managens
 
-Die Phase "Managen" findet sich so nicht im Wasserfallmodell wieder. Es handelt sich hierbei auch nicht um einer zusätzliche explizite Phase, sondern eher um Rahmenbedingungen für die gesamte Entwicklungsarbeit. Die Praktiken, die hier beschrieben werden, können nicht einer bestimmten Phase zugeordnet werden. Sie bestimmen die Faktoren, die unabhängig von den Arbeitsphasen gleich bleiben.
+Die Phase "Managen" findet sich so nicht im Wasserfallmodell wieder. Es handelt sich hierbei auch nicht um eine zusätzliche explizite Phase, sondern eher um Rahmenbedingungen für die gesamte Entwicklungsarbeit. Die Praktiken, die hier beschrieben werden, können nicht einer bestimmten Phase zugeordnet werden. Sie bestimmen die Faktoren, die unabhängig von den Arbeitsphasen gleich bleiben.
 
 ### Offene Arbeitsumgebung {#xp-praktiken-arbeitsumgebung}
 
-Kommunikation ist - wie schon weiter oben erwähnt - eins der Kernwerte von XP. Aus diesem Grund soll das Team nicht räumlich getrennt sein, sondern zusammen in einem informativen und offenen Raum arbeiten. So ergeben sich viele Möglichkeiten, Probleme auf möglichst schnellem Wege zu klären. Wenn ein Entwickler an einer bestimmten Stelle nicht weiterkommt, kann er direkt einen Kollegen fragen. Die Möglichkeit, direkt zu fragen, vermindert den Aufwand der Formalität von email oder den Wegen, zwischen Büroräumen zu wechseln. Außerdem ermöglicht es allen Mitgliedern des Entwicklerteams zu wissen, mit welchen Angelegenheiten sich die Kollegen gerade beschäftigen. Falls es ein Gespräch über ein Thema ist, das man als Entwickler gerade auch bearbeitet, gibt es unkompliziert die Möglichkeit, sich im Gespräch zu beteiligen. Alistair Cockburn nennt diesen Effekt "osmotische Kommunikation" \cite{cockburn} (zitiert nach \cite{krsteski}).
+Kommunikation ist - wie schon weiter oben erwähnt - eins der Kernwerte von XP. Aus diesem Grund soll das Team nicht räumlich getrennt sein, sondern zusammen in einem informativ gestalteten Raum zu arbeiten. Dies bedeutet, dass die Wände des Raums benutzt werden, um User Stories zu befestigen und Arbeitsergebnisse für alle sichtbar visualisiert werden. 
+
+Außerdem sollte das Team in einem offenen Raum arbeiten. So ergeben sich viele Möglichkeiten, Probleme auf möglichst schnellem Wege zu klären. Wenn ein Entwickler an einer bestimmten Stelle nicht weiterkommt, kann er direkt einen Kollegen fragen. Die Möglichkeit, direkt zu fragen, vermindert den Aufwand der Formalität von email oder den Wegen, zwischen Büroräumen zu wechseln. Außerdem ermöglicht es allen Mitgliedern des Entwicklerteams zu wissen, mit welchen Angelegenheiten sich die Kollegen gerade beschäftigen. Falls es ein Gespräch über ein Thema ist, das man als Entwickler gerade auch bearbeitet, gibt es unkompliziert die Möglichkeit, sich im Gespräch zu beteiligen. Alistair Cockburn nennt diesen Effekt "osmotische Kommunikation" \cite{cockburn} (zitiert nach \cite{krsteski}).
 
 
 ### Move people around
