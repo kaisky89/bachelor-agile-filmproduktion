@@ -40,7 +40,7 @@ Der Cutter macht den Videoschnitt, nachdem die Aufnahme des Materials  abgeschlo
 
 Der Cutter ist meistens bei dem Dreh nicht dabei gewesen. Dies hat sowohl Vor- als auch Nachteile: Vorteil ist, dass er mehr "Distanz" zu den Bildern hat. Er kann objektiver betrachten, was für eine Wirkung das Bild auf den Betrachter hat, weil er nur dieses Bild sieht und nicht weiß, was in dieser Situation sonst noch alles passiert ist. Der Cutter ist also weiter entfernt von dem Erlebnis der Aufnahme und somit "näher" am Seheindruck des letztendlichen Betrachter. Allerdings weiß durch das bloße Sichten des Materials nicht, welche Stellen in der Geschichte besonderen Stellenwert haben, wo emotional viel kommuniziert werden soll. Dies muss vom Autor klar kommuniziert werden.
 
-## Tonmeister / Mischung
+## Tonmeister / Tonmischung
 
 Ähnlich wie der Cutter das Material vom Kameramann bearbeitet, bearbeitet der Tonmeister das Material des Tonmanns. Hierbei sorgt er dafür, dass Musik, Geräusche und Sprache auf den richtigen Pegel gebracht werden. Er sorgt also dafür, dass die Sprache immer verständlich ist, die Musik nicht zu sehr im Vordergrund ist, und Geräusche im richtigen Moment wichtige Ereignisse unterstreichen. Auch hier ist wieder Absprache mit dem Autor wichtig, denn gerade der Ton hat einen wesentlichen Einfluss auf die Gefühlswelt des Betrachters und somit kann der richtige Mix und der richtige Einsatz von Musik und Geräuschen die gewünschten Emotionen unterstreichen.
 
