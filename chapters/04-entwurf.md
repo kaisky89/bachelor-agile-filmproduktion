@@ -457,11 +457,15 @@ Die Zahlen der Karten können für Arbeitstage oder Stunden stehen, der Autor em
 
 ## Timeline Karten {#entwurf-techniken-timeline-karten}
 
-Die Technik Timeline Karten ist eine Adaption der Technik CRC Karten (siehe Abschnitt \ref{vorgehensmodelle-xp-crc-karten})
+Die Technik Timeline Karten ist eine Adaption der Technik der CRC Karten aus XP (siehe Abschnitt \ref{vorgehensmodelle-xp-crc-karten}). Sie ist Werk des Autors und wurde - nach Wissen des Autors - so noch nicht verwendet.
 
-Entwurf des Autors
+Timeline Karten übernimmt die Idee der CRC Karten, Inhalte im Team mithilfe von greifbaren Elementen zu diskutieren. Die Technik der CRC Karten legt dabei großen Wert darauf, dass sich Anordnungen und inhalte innerhalb von Sekunden ändern lassen. Und dass dieses mit "analogen Mitteln" - also mit Zetteln - geschieht.
 
-- Vorbild: CRC Karten
+Diese Methodik soll in Timeline Karten übernommen werden. Während in der Informatik Klassen, Funktionen und deren Zusammenhänge Objekt der Diskussion ist, sind es in der Welt des Imagefilms die Inhalte des Films und die gestalterische Umsetzung derselben. Ziel der Timeline Karten ist also eine einfache und schnelle Visualisierung der geplanten Inhalte auf Basis einer Zeitlinie (=Timeline). Es geht hier vor allem darum, dass das Team gemeinsam über Möglichkeiten diskutieren kann und dabei sicher gehen kann, dass alle von demselben reden. In diesem Kontext ist auch die Möglichkeit, schnell Inhalte zu verändern, essentiell. Diese Technik ist weniger dafür geeignet, fertige Entwicklungen zu präsentieren. Sie dient vielmehr, das Team während der Entwicklung der groben und feineren Struktur des Imagefilms zu unterstützen.
+
+Timeline Karten bestehen aus Zetteln unterschiedlicher Größe, die mit einfachen Stichworten geplante Inhalte repräsentieren. Sie können dabei ganze Kapitel darstellen, als auch kleine Schnipsel einer Sequenz. Diese Zettel werden vom Team während der Diskussion immer wieder neu angeordnet, neue Zettel werden erstellt und andere werden verworfen. So entsteht schnell und mit einfachen Mittel ein inhaltlicher Verlauf, das sinnvoll und zusammenhängend durch die geplanten Inhalte des Films führt.
+
+Dies soll anhand eines einfachen Beispiels demonstriert werden. Im Beispiel beginnt das Team mit einem neuen Imagefilm, es ist noch nicht klar, wie es welche Inhalte gestalten werden, aber es weiß schon ungefähr, was in dem Imagefilm vorkommen soll. Es entschließt sich, den Film erst ein mal grob in mehrere Kapitel ein zu teilen: "Einleitung", "Geschäftsbeziehungen", "Unternehmenskultur", "Innovation" und "Abschluss". Anhand der Film Statements des momentanen Sprint Backlog weiß es, das
 
 - Beispiel Timeline Karten selbst basteln
 
