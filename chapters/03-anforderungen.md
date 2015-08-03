@@ -12,7 +12,7 @@ Der erste Schritt, um die Anforderungen an das Vorgehensmodell auszuarbeiten, so
 
 Aus der DIN stammt folgende Definition für eine *Stakeholderanalyse*:
 
-> 3.102 **Stakeholderanalyse** *(en: stakeholder analysis)*
+> 3.102 **Stakeholderanalyse** *(en: stakeholder analysis)*  
 > "Analyse der Projektbeteiligten hinsichtlich deren Einfluss auf das Projekt und deren Einstellung (positiv oder negativ) zum Projekt." \cite{din699015}
 
 In dem Kontext der Entwicklung eines Vorgehensmodells sind alle diejenigen Stakeholder, die mit dem Vorgehensmodell in Berührung kommen. Stakeholder Analysen sind normalerweise für die Umsetzung eines konkreten Projekts gedacht. Da die sich die Entwicklung eines Vorgehensmodells auf einem anderen Abstraktionsniveau befindet kann hier nicht von konkreten Menschen und deren Haltung gegenüber dem Projekt gesprochen werden. Das Vorgehensmodell wird nicht für eine bestimmte, konkrete Situation entwickelt sondern verfolgt das Ziel, für viele verschiedene Projekte zu funktionieren. Daher befindet sich der Ansatz in einer gewissen Weise auf einer Meta Ebene. Das Feld der möglichen Projekte und der möglichen Konstellationen von Stakeholdern ist wahrscheinlich unendlich groß. Diese Stakeholder Analyse dient also auch dazu, das Feld der möglichen Projektkonstellationen weiter einzugrenzen.
