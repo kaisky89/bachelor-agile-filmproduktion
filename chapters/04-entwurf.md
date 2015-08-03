@@ -481,12 +481,14 @@ Das Team hat weitere Ideen: Da das Unternehmen sehr modern und zeitgemäß präs
 
 ![Timeline Karten: Eine STIL Sektion wird eingerichtet](http://download.heart-co.de/IMG_20150803_145554.jpg)
 
-Das Team beginnt danach, noch einmal über die Geschichte von Anja zu diskutieren: Wenn es schon die Möglichkeit gibt, den Betrachter mit einer Person im Film zu identifizieren, warum soll diese Geschichte dann nur auf das Kapitel "Unternehmenskultur" beschränkt sein? Wäre es nicht besser, wenn diese Geschichte den Betrachter durch den Verlauf des ganzen Films führt? Das Team verwirft also die Karte aus "Unternehmenskultur" wieder und erstellt neue Karten, die es zwischen die Kapitel anordnet (siehe Abbildung \ref{Timeline Karten: Die Geschichte von Anja wird als Überleitung im ganzen Film genutzt}). 
+Das Team beginnt danach, noch einmal über die Geschichte von Anja zu diskutieren: Wenn es schon die Möglichkeit gibt, den Betrachter mit einer Person im Film zu identifizieren, warum soll diese Geschichte dann nur auf das Kapitel "Unternehmenskultur" beschränkt sein? Wäre es nicht besser, wenn diese Geschichte den Betrachter durch den Verlauf des ganzen Films führt? Das Team verwirft also die Karte aus "Unternehmenskultur" wieder und erstellt neue Karten, die es zwischen die Kapitel anordnet (siehe Abbildung \ref{Timeline Karten: Die Geschichte von Anja wird als Überleitung im ganzen Film genutzt}). Es möchte also die Geschichte von Anja benutzen, um in ein neues Thema überzuleiten und so immer wieder die Identifikation des Betrachter neu zu wecken (siehe Abbildung \ref{Timeline Karten: Beispiel für die Geschichte von Anja als Überleitung}).
 
 ![Timeline Karten: Die Geschichte von Anja wird als Überleitung im ganzen Film genutzt](http://download.heart-co.de/IMG_20150803_145938.jpg)
 
-![](http://download.heart-co.de/IMG_20150803_145948.jpg)
+![Timeline Karten: Beispiel für die Geschichte von Anja als Überleitung](http://download.heart-co.de/IMG_20150803_145948.jpg)
 
-![](http://download.heart-co.de/IMG_20150803_145956.jpg)
+Das Beispiel lässt sich nun beliebig fortsetzen. Die Kernaspekte der Technik sollten an dieser Stelle allerdings bereits klar geworden sein:
 
-![](http://download.heart-co.de/IMG_20150803_150008.jpg)
+- **Visualisierung des Entwurfs**: Durch die schnelle und einfache Visualisierung des gesagtem ist es jedem Teammitglied möglich, dem Gesprächsverlauf zu folgen und sicher zu sein, dass alle Teammitglieder über das gleiche reden.
+- **Schnelle Veränderung und Neugestaltung**: Der Aufwand, einen Satz auf eine Karte zu schreiben, und diese an eine Position zu legen ist sehr gering. Dadurch ist es dem Team möglich, schnell und einfach neue Ideen auszuprobieren, oder diese zu verwerfen, ohne Angst haben zu müssen, bereits zu viel Arbeit in eine Idee investiert zu haben.
+- **Mögliche Anpassung der Technik an die jeweilige Situation**: Je nachdem, was das Team gerade benötigt, kann es neue Elemente für die Visualisierung erfinden (Beispiel STIL Sektion). Es ist auch denkbar, Karten zusammenzulegen, oder zu stapeln, um visualisieren, dass mehrere Alternativen für eine gewisse Idee vorhanden ist. Durch den bewussten Verzicht auf elektronische Mittel kann das Team kreativ mit den vorhandenen Mitteln agieren und auch neue Element der Visualisierung (z. B. verschiedene Farben, Symbole, etc.) einbringen. Je nachdem, was es benötigt.
