@@ -72,13 +72,13 @@ Für jedes organisierte Handeln braucht es einen Plan, der früher oder später 
 
 ## Spezifikation der Anforderungen
 
-Bei Software-Entwicklungs-Projekten handelt es sich meist um Projekte, die für eine bestimmte Domäne entwickelt werden. Software ist nicht zum Selbstzweck da, sondern dient immer dazu, dem Benutzer in seinem Nutzungskontext bei der Durchführung seiner Aufgabe zu unterstützen. Dabei gilt es bei der Entwicklung der Software, den Nutzungskontext des zu entwickelnden Systems zu verstehen und auf der Grundlage dieses Verständnisses Anforderungen an das System zu formulieren.
+Bei Software-Entwicklungs-Projekten handelt es sich meist um Projekte, die für eine bestimmte Domäne entwickelt werden. Software ist nicht zum Selbstzweck da, sondern dient immer dazu, dem Benutzer in seinem Nutzungskontext bei der Durchführung seiner Aufgabe zu unterstützen. Dabei gilt es diesen Kontext erst zu verstehen und auf dieser Grundlage Anforderungen an das System zu formulieren.
 
 In dieser Phase liegt der Schwerpunkt auf der Frage, **was** entwickelt werden soll.
 
 ## Design
 
-Auf Basis der formulierten Anforderungen wird ein System entworfen. Hier werden die Entscheidungen getroffen, wie und mit welchen Hilfsmitteln das System aufgebaut wird. 
+Auf Basis der formulierten Anforderungen wird ein System entworfen. Hier werden die Entscheidungen getroffen, wie und mit welchen Hilfsmitteln es aufgebaut wird. 
 
 In dieser Phase liegt der Schwerpunkt auf der Frage, **wie** entwickelt werden soll.
 
@@ -88,7 +88,7 @@ Mithilfe der Entscheidungen aus der Design Phase kann nun (endlich) programmiert
 
 ## Testen
 
-Nach dem Kodieren wird die Software getestet, um zu validieren, dass sowohl das *richtige Produkt* entwickelt wurde, als auch das Produkt *richtig* entwickelt wurde. 
+Nach dem Kodieren wird die Software getestet, um zu validieren, dass sowohl das *richtige Produkt*, als auch das Produkt *richtig* entwickelt wurde. 
 
 # Historie der Vorgehensmodelle
 
@@ -101,21 +101,21 @@ Da die Disziplin der Software Entwicklung und somit auch das Projektmanagement v
 
 ## Wasserfallmodell
 
-Das Wasserfallmodell ist der einfachste Ansatz, ein Software Entwicklungsprojekt umzusetzen. Hierfür können die Phasen aus Abschnitt \ref{phasen-in-der-software-entwicklung} betrachtet werden. Das ganze Projekt läuft beim Wasserfallmodell diese Phasen der Reihe nach durch. Jede Phase wird dabei genau ein mal durchgeführt. Jede Phase baut auf den Ergebnissen der vorherigen Phase auf und hat als Ergebnis die Basis für die nächste Phase. Somit herrscht für jede Phase die Bedingung, dass alle vorhergehenden Phasen keine Fehler enthalten und vollständig bearbeitet wurden.
+Das Wasserfallmodell ist der einfachste Ansatz, ein Software Entwicklungsprojekt umzusetzen. Hierfür können die Phasen aus Abschnitt \ref{phasen-in-der-software-entwicklung} betrachtet werden. Das ganze Projekt läuft beim Wasserfallmodell diese Phasen der Reihe nach durch. Jede Phase wird dabei nur ein mal durchgeführt. Jede Phase baut auf den Ergebnissen der vorherigen Phase auf. Somit herrscht für jede Phase die Bedingung, dass alle vorhergehenden Phasen keine Fehler enthalten und vollständig bearbeitet wurden.
 
 Vorteil bei diesem Modell ist die wahrgenommene Einfachheit in seiner Umsetzung. Da die Phasen, die in einem Software Projekt durchlaufen werden, aufeinander aufbauen und dadurch einen gewissen kanonischen Aufbau darstellen, bietet es sich natürlich an, diesen Aufbau genau so auch zu übernehmen.
 
-Allerdings bietet dieses Vorgehensmodell Nachteile, die gerade in Software Entwicklung negative Konsequenzen mit sich tragen. Das Wasserfallmodell geht davon aus, dass jede Phase zu einem definierten Zeitpunkt *abgeschlossen* ist. Das bedeutet, dass es z. B. einen Zeitpunkt gibt, an dem man behaupten kann, die Spezifikation der Anforderungen sei abgeschlossen und die nächste Phase könne nun beginnen. Was geschieht nun aber, wenn in der nächsten Phase deutlich wird, dass gewisse Anforderungen nicht detailliert genug spezifiziert worden sind, oder sogar gar nicht beachtet wurden? Im Wasserfallmodell wird so etwas nicht mit in Betracht gezogen. Gerade in der Software Entwicklung ist es aber häufig der Fall, dass sich Anforderungen ändern, oder dass sie nicht klar genug spezifiziert worden sind. Da das Wasserfallmodell ein Zurück-Gehen in eine vorherige Phase nicht vorsieht, ist es für solche Situationen nicht geeignet.
+Allerdings bietet dieses Vorgehensmodell Nachteile, die gerade in Software Entwicklung negative Konsequenzen mit sich tragen. Das Wasserfallmodell geht davon aus, dass jede Phase zu einem definierten Zeitpunkt *abgeschlossen* ist. Das bedeutet, dass es z. B. einen Zeitpunkt gibt, an dem man behaupten kann, die Spezifikation der Anforderungen sei abgeschlossen und die nächste Phase könne nun beginnen. Was geschieht nun aber, wenn in der nächsten Phase deutlich wird, dass gewisse Anforderungen nicht detailliert genug spezifiziert worden sind, oder sogar gar nicht beachtet wurden? Im Wasserfallmodell wird so etwas nicht mit in Betracht gezogen. Gerade in der Software Entwicklung ist dies aber häufig der Fall. Da das Wasserfallmodell ein Zurück-Gehen in eine vorherige Phase nicht vorsieht, ist es für solche Situationen nicht geeignet.
 
 Ein weiterer Nachteil des Wasserfallmodells ist, dass Probleme *verschleppt* werden, ohne dass dies offensichtlich ist. Grund dafür ist die Tatsache, dass eine Verifikation erst am Ende des Prozesses stattfinden kann; erst, wenn der komplette Prozess der Software Entwicklung abgeschlossen ist, kann der Auftraggeber überprüfen, ob das entwickelte Software Produkt seinen Anforderungen und Erwartungen entspricht. Wenn am Ende der Entwicklung deutlich wird, dass bestimmte Anforderungen oder Funktionen nicht richtig verstanden worden sind, kann darauf nicht mehr eingegangen werden. Das Wasserfallmodell sieht eine Korrektur durch den Auftraggeber so nicht vor. Es wird also deutlich, dass im Wasserfallmodell die Gefahr besteht, durch fehlendes Feedback des Auftraggebers ein Software Produkt zu entwickeln, das nicht den *realen Anforderungen* entspricht.
 
 ## Spiralmodell
 
-Software Entwicklung nach dem Wasserfallmodell sieht aus der Sicht des Auftraggebers wie folgt aus: Nachdem der Auftragnehmer der Ansicht ist, die Anforderungen verstanden zu haben, verschwindet er für einen längeren Zeitraum von der Bildfläche und meldet sich dann nach längerer Zeit wieder mit einem *fertigem* Software Produkt. Leider ist dieses Produkt erwartungsgemäß nicht das, was der Auftraggeber wirklich braucht, und somit ist ein Teil - wenn nicht im schlimmsten Fall sogar die ganze Arbeit - der Entwicklung unbrauchbar.
+Software Entwicklung nach dem Wasserfallmodell sieht aus der Sicht des Auftraggebers wie folgt aus: Nachdem der Auftragnehmer der Ansicht ist, die Anforderungen verstanden zu haben, verschwindet er für einen längeren Zeitraum aus dem Blickfeld des Auftraggebers und meldet sich dann nach längerer Zeit wieder mit einem *fertigem* Software Produkt. Leider ist dieses Produkt erwartungsgemäß nicht das, was der Auftraggeber wirklich braucht, und somit ist ein Teil - wenn nicht im schlimmsten Fall sogar die ganze Arbeit - der Entwicklung unbrauchbar.
 
 Dies liegt vor allem an der Herausforderung des Auftraggebers, die Anforderungen zu identifizieren, spezifizieren und verifizieren zu können. Es gibt hier mehrere Probleme:
 
-- Der Auftragnehmer versteht die Problemstellung des Auftragnehmers nicht richtig
+- Der Auftragnehmer versteht die Problemstellung des Auftraggebers nicht richtig
 - Der Auftraggeber ist sich seiner eigenen Problemstellung nicht vollständig bewusst
 - Die Anforderungen ändern sich
 
@@ -125,7 +125,7 @@ Die Unschärfe, die diese Probleme der Anforderungsanalyse mit sich bringen, kan
 
 <!--TODO selber Zeichnen-->
 
-Barry Boehm \cite{boehm}(zitiert nach \cite{hanser}) schlug in den 1980er Jahren das Spiralmodell vor, dass einen iterativ-inkrementellen Ansatz verfolgte. Inkrementell bedeutet, anstatt das vollständige Produkt der Software auf ein mal zu entwickeln, was meist mehrere Jahre in Anspruch nimmt, wird die Software in kleineren Paketen entwickelt. Die einzelnen Pakete bauen aufeinander auf und erweitern die Software Stück für Stück um die gewünschten Funktionen. Iterativ bedeutet, dass für die Entwicklung jedes Inkrements (Pakets) die einzelnen Phasen der Software Entwicklung durchlaufen werden.
+Barry Boehm \cite{boehm}(zitiert nach \cite{hanser}) schlug in den 80er Jahren des 20. Jahrhunderts das Spiralmodell vor, das einen iterativ-inkrementellen Ansatz verfolgte. Inkrementell bedeutet, anstatt das vollständige Produkt der Software auf einmal zu entwickeln, was meist mehrere Jahre in Anspruch nimmt, wird die Software in kleineren Paketen entwickelt. Die einzelnen Pakete bauen aufeinander auf und erweitern die Software Stück für Stück um die gewünschten Funktionen. Iterativ bedeutet, dass für die Entwicklung jedes Inkrements (Pakets) die einzelnen Phasen der Software Entwicklung durchlaufen werden.
 
 Mithilfe des Spiralmodells kann auf die Problemstellung des "Moving Targets" besser reagiert werden: Die Software wird schrittweise entwickelt und nach jedem Schritt wieder mit den Wünschen und Anforderungen des Auftraggebers oder des Anwenders abgeglichen. So kann sichergestellt werden, dass die Entwicklung der Software den Erwartungen des Auftraggebers entspricht. Bei ändernden Wünschen kann schnell darauf reagiert werden, da diese bereits in die nächste Iteration eingebaut werden können. 
 
@@ -143,20 +143,15 @@ Im Gegensatz dazu stehen die leichtgewichtigen Vorgehensmodelle, die auch als ag
 
 # Agile Vorgehensmodelle
 
-Agil bedeutet "von großer Beweglichkeit zeugend; regsam und wendig" \cite{duden}, betont in dem Kontext von Vorgehensmodellen also die Möglichkeit, auf Änderungen schnell reagieren zu können. Agile Vorgehensmodelle sind die Antwort auf die schwergewichtigen Vorgehensmodelle, die durch ihre formalisierte Struktur und den Anspruch an eine ausführliche Dokumentation als träge und unflexibel gelten. Ein Vorgehensmodell ist agil, wenn es dem *agilen Manifest* entspricht.
+Agil bedeutet "von großer Beweglichkeit zeugend; regsam und wendig" \cite{duden}, betont in dem Kontext von Vorgehensmodellen also die Möglichkeit, schnell auf Änderungen reagieren zu können. Agile Vorgehensmodelle sind die Reaktion auf die Unflexibilität und die Trägheit schwergewichtiger Vorgehensmodelle. Ein Vorgehensmodell ist agil, wenn es dem *agilen Manifest* entspricht.
 
 ## Agiles Manifest
 
-Das Agile Manifest (oder auch das "Manifest für Agile Softwareentwicklung") ist die Erklärung führender Software Entwicklungs Experten, bewusst auf die Schwergewichtigkeit in Vorgehensmodellen zu verzichten und somit ein schnelleres, flexibleres und auf Änderungen reaktionsfähigeres Vorgehen zu entwickeln. Somit entschlossen sie sich im Februar 2001 für die 4 Werte Agilen Manifests \cite{agilemanifesto}:
+Das Agile Manifest (oder auch das "Manifest für Agile Softwareentwicklung") ist die Erklärung führender Software Entwicklungs Experten, bewusst auf die Schwergewichtigkeit in Vorgehensmodellen zu verzichten und somit ein schnelleres, flexibleres und auf Änderungen reaktionsfähigeres Vorgehen zu entwickeln. Somit entschlossen sie sich im Februar 2001 für die 4 Werte Agilen Manifests \cite{agilemanifesto}. Siehe hierfür Abbildung \ref{Das Manifest für Agile Softwareentwicklung}.
 
 ![Das Manifest für Agile Softwareentwicklung](http://download.heart-co.de/Bildschirmfoto%202015-06-29%20um%2014.28.14.png)
 
-- **Individuen und Interaktionen** mehr als *Prozesse und Werkzeuge*
-- **Funktionierende Software** mehr als *umfassende Dokumentation*
-- **Zusammenarbeit mit dem Kunden** mehr als *Vertragsverhandlung*
-- **Reagieren auf Veränderung** mehr als das *Befolgen eines Plans*
-
-Wie auch schon in Abbildung \ref{Das Manifest für Agile Softwareentwicklung} beschrieben bedeutet das, dass die Werte auf der rechten Seite zwar immer noch als wichtig erachtet werden, aber die Werte auf der linken Seite einen höheren Stellenwert haben.
+Wie auch schon in Abbildung \ref{Das Manifest für Agile Softwareentwicklung} beschrieben, bedeutet das, dass die Werte auf der rechten Seite zwar immer noch als wichtig erachtet werden, aber die Werte auf der linken Seite einen höheren Stellenwert haben.
 
 Betrachtet man z. B. den zweiten Satz:
 
@@ -164,9 +159,9 @@ Betrachtet man z. B. den zweiten Satz:
 
 Dies bedeutet eben nicht, dass in agilen Projekten gar nicht mehr dokumentiert wird. Dokumentation hat immer noch seinen Stellenwert. Allerdings hat funktionierende Software einen höheren Stellenwert. Da, wo Dokumentation eingesetzt werden kann, um dem Ziel der funktionierenden Software näher zu kommen, darf und soll sie auch eingesetzt werden.
 
-Diese Interpretation kann genau so auf die anderen Sätze angewendet werden: Die Prozesse und Werkzeuge sollen die individuen und die Interaktionen unterstützen, der Vertrag soll die Zusammenarbeit mit dem Kunden fördern (dies ist meist ein nicht unkompliziertes Unterfangen) und der Plan sollte es möglich machen, auf Veränderungen reagieren zu können. 
+Diese Interpretation kann genau so auf die anderen Sätze angewendet werden: Die Prozesse und Werkzeuge sollen die Individuen und die Interaktionen unterstützen, der Vertrag soll die Zusammenarbeit mit dem Kunden fördern (dies ist meist ein nicht unkompliziertes Unterfangen) und der Plan sollte es möglich machen, auf Veränderungen reagieren zu können. 
 
-Wichtig ist an dieser Stelle dem schnell zu entstehenden Gedanken zu widersprechen, dass agile Softwareentwicklung willkürlich, chaotisch oder gar anarchisch sei. Das stimmt so nicht. Es gibt immer noch Dokumentation, und es gibt immer noch eine Form, sich zu organisieren und einen Plan. Die Betonung liegt nur darauf, dass dieser Plan flexibel ist und Veränderungen reagieren kann.
+Wichtig ist an dieser Stelle dem schnell entstehenden Gedanken zu widersprechen, dass agile Softwareentwicklung willkürlich, chaotisch oder gar anarchisch sei. Das stimmt so nicht. Es gibt immer noch Dokumentation, und es gibt immer noch eine Form, sich zu organisieren und einen Plan. Die Betonung liegt nur darauf, dass dieser Plan flexibel ist und Veränderungen reagieren kann.
 
 Diese Leitsätze bilden ein Wertesystem ab, dass die Grundeinstellung in der agilen Softwareentwicklung erklärt. Für ein konkretes Vorgehen in einem Projekt gibt dies allerdings keine große Hilfestellung \cite{hanser}. Hierfür gibt es die agilen Vorgehensmodelle, die sich dem agilen Manifest verschrieben haben und auf verschiedene Art und Weise die Werte des Manifests umsetzen. Jedes dieser Vorgehensmodelle hat nicht nur andere Ansätze sondern bewegt sich auch auf verschiedenen Abstraktionsgraden. XP beispielsweise ist eher eine Ansammlung von vielen Praktiken und Methoden, wie konkret in den verschiedenen Phasen der Software Entwicklung vorgegangen wird. Hier werden Methoden fest gefordert und es wird behauptet, dass XP ohne diese Methoden nicht mehr XP ist. Scrum hingegen ist ein Meta Vorgehensmodell, welches keine konkreten Praktiken vorschreibt, sondern dem Team die Möglichkeit bietet oder sogar fordert, die Praktiken selbst zu wählen. Der unterschiedliche Ansatz der Vorgehensmodelle macht es schwierig, sie direkt miteinander zu vergleichen. Allerdings bietet sich so auch die Möglichkeiten, die Vorgehensmodelle in vielerlei Hinsicht zu kombinieren, da sie ja auf unterschiedlicher Ebene agieren und sich so nicht widersprechen sondern meist ergänzen. So steht zum Beispiel als Schlussbemerkung im Scrum Guide: 
 
