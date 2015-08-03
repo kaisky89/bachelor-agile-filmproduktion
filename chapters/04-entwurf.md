@@ -457,8 +457,24 @@ Die Zahlen der Karten können für Arbeitstage oder Stunden stehen, der Autor em
 
 ## Timeline Karten {#entwurf-techniken-timeline-karten}
 
+Die Technik Timeline Karten ist eine Adaption der Technik CRC Karten (siehe Abschnitt \ref{vorgehensmodelle-xp-crc-karten})
+
 Entwurf des Autors
 
 - Vorbild: CRC Karten
 
 - Beispiel Timeline Karten selbst basteln
+
+![](http://download.heart-co.de/IMG_20150803_145154.jpg)
+
+![](http://download.heart-co.de/IMG_20150803_145554.jpg)
+
+![](http://download.heart-co.de/IMG_20150803_145601.jpg)
+
+![](http://download.heart-co.de/IMG_20150803_145938.jpg)
+
+![](http://download.heart-co.de/IMG_20150803_145948.jpg)
+
+![](http://download.heart-co.de/IMG_20150803_145956.jpg)
+
+![](http://download.heart-co.de/IMG_20150803_150008.jpg)
