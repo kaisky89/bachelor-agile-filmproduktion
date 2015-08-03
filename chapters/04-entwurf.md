@@ -469,13 +469,21 @@ Dies soll anhand eines einfachen Beispiels demonstriert werden. Im Beispiel begi
 
 ![Timeline Karten: Einteilung des Films in Kapitel](http://download.heart-co.de/IMG_20150803_145154.jpg)
 
-Das Team beginnt, Ideen für die Gestaltung der Inhalte zu sammeln. Man legt fest, dass 
+Das Team beginnt, Ideen für die Gestaltung der Inhalte zu sammeln. Ein Team Mitglied äußert die Idee, die Unternehmenskultur mithilfe einer Geschichte darzustellen: Eine außenstehende Person (das Team einigt sich auf den Namen "Anja") soll durch einen Besuch das Unternehmen kennen lernen, und somit den Betrachter in die Unternehmenskultur einführen. Das Team findet diese Idee gut: Eine Geschichte hilft, den Film spannend und emotional zu gestalten und bietet dem Betrachter die Möglichkeit, sich mit "Anja" zu identifizieren. Das Teammitglied, dass den Vorschlag gemacht hat, nimmt einen Zettel und notiert darauf den Satz:
 
-![](http://download.heart-co.de/IMG_20150803_145554.jpg)
+> "Anja" lernt das Unternehmen kennen
 
-![](http://download.heart-co.de/IMG_20150803_145601.jpg)
+Es legt den Zettel auf das Kapitel "Unternehmenskultur" (siehe Abbidlung \ref{Timeline Karten: Kapitel wird mit Inhalt gefüllt}).
 
-![](http://download.heart-co.de/IMG_20150803_145938.jpg)
+![Timeline Karten: Kapitel wird mit Inhalt gefüllt](http://download.heart-co.de/IMG_20150803_145601.jpg)
+
+Das Team hat weitere Ideen: Da das Unternehmen sehr modern und zeitgemäß präsentiert werden möchte, beschließt es, keine klassischen Bauchbinden zur Einführung von neuen Personen zu verwenden, sondern schwebende Texte mitten im Bild zu platzieren, die sich dann per Motion Tracking zusammen mit der Person bewegen. Bauchbinden - oder in diesem Fall schwebende Texte - werden über den ganzen Film verteilt eingesetzt. Es lässt sich also keine eindeutige Position für eine Karte bestimmen. Das Team entschließt, ein neues DIN A4 Blatt mit dem Titel "STIL" zu beschriften und dieses etwas oberhalb der eigentlichen Zeitlinie anzuordnen. Dieses soll alle gestalterischen Elemente beinhalten, die nicht an einen bestimmten Zeitpunkt gebunden sind, sondern im Film immer wieder auftauchen sollen. Ein weiteres Teammitglied schlägt vor, Jump Cuts zu verwenden. Ein weiteres Element für die "STIL" Sektion (siehe Abbildung \ref{Timeline Karten: Eine STIL Sektion wird eingerichtet}).
+
+![Timeline Karten: Eine STIL Sektion wird eingerichtet](http://download.heart-co.de/IMG_20150803_145554.jpg)
+
+Das Team beginnt danach, noch einmal über die Geschichte von Anja zu diskutieren: Wenn es schon die Möglichkeit gibt, den Betrachter mit einer Person im Film zu identifizieren, warum soll diese Geschichte dann nur auf das Kapitel "Unternehmenskultur" beschränkt sein? Wäre es nicht besser, wenn diese Geschichte den Betrachter durch den Verlauf des ganzen Films führt? Das Team verwirft also die Karte aus "Unternehmenskultur" wieder und erstellt neue Karten, die es zwischen die Kapitel anordnet (siehe Abbildung \ref{Timeline Karten: Die Geschichte von Anja wird als Überleitung im ganzen Film genutzt}). 
+
+![Timeline Karten: Die Geschichte von Anja wird als Überleitung im ganzen Film genutzt](http://download.heart-co.de/IMG_20150803_145938.jpg)
 
 ![](http://download.heart-co.de/IMG_20150803_145948.jpg)
 
