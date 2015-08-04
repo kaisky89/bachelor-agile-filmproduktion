@@ -125,12 +125,21 @@ Der Darsteller spielt für den Projekterfolg eher eine untergeordnete Rolle. Sic
 Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen Bildmaterial von ihnen geschieht und wo und in welcher Form sie in der Öffentlichkeit zu sehen werden. Außerdem haben sie ein Interesse daran, das man mit ihnen die zu darstellende Leistung in angemessenen Umfang bespricht und dass sie eine entspannte Aufnahmesituation vorfinden und die Aufnahme möglichst wenig Zeit in Anspruch nimmt.
 
 
-
-# User Profiles
-
-
-
 # Personae
+
+- Ralf Müller
+	- Werksstudent in einer Medienagentur
+	- 1 Mal in der Woche arbeiten
+	- Schnitt
+	- kleine Imagefilme, Video Botschaften von Unternehmen (Messeeinladungen, etc.)
+	- bekommt abgedrehtes Videomaterial, meistens kurzes Briefing vom Projektleiter
+
+- Thorsten Nadel
+	- Arbeitet als Informatiker
+	- Nebengewerbe: erst Hochzeitsfilme, jetzt auch mehr Richtung kleine Imagefilme
+
+- Robert Bach
+	- 
 
 ## Teamleiter
 
