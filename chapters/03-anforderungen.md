@@ -139,7 +139,8 @@ Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen B
 	- Nebengewerbe: erst Hochzeitsfilme, jetzt auch mehr Richtung kleine Imagefilme
 
 - Robert Bach
-	- Selbstständig, eigene 
+	- seit einigen Jahren Selbstständig, eigene TV Produktionsfirma
+	- kommt aus den 
 
 # Use Cases
 
