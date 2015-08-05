@@ -127,32 +127,29 @@ Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen B
 
 # Personae
 
-## P1: Ralf Müller, Werksstudent einer Medienagentur
+## Ralf Müller, Werksstudent einer Medienagentur
 
 Ralf Müller ist 24 Jahre alt und studiert momentan Medientechnologie an der FH Köln. Vor dem Studium hat er eine Ausbildung zum Gestaltungstechnischen Assistenten gemacht. Ihn interessierten während seiner Ausbildung gerade die technischen Aspekte von Film und Kamera. Während des Studiums hat sich das natürlich geändert, mittlerweile meint er einen weiteren Blick auf die Medienproduktion zu haben. Allerdings findet er das Medium Film immer noch am spannendsten: Er liebt Geschichten, und vor allem liebt er es, diese mit schönen Bildern und viel Dynamik in einem Film erzählen zu können. Ralf macht öfter mit einigen Freunden in seiner Freizeit kleine Kurzfilme.
 
-Neben seinem Studium arbeitet Ralf einmal in der Woche in einer Medienagentur. Er hilft dort im Filmbereich - hauptsächlich im Schnitt. Aufgrund seiner Ausbildung und auch praktischen Erfahrungen in seinem Studium brauchte er nicht viel Neues lernen, und seine Arbeit macht ihm Spaß. Ralf findet es gut, dass er während seines Studiums noch etwas zusätzliches Geld verdienen kann, um sein Bafög Gehalt etwas aufzupeppen. Dass die Arbeit dann auch noch Spaß macht, ist für ihn fast schon Luxus. Die Medienagentur, in der Ralf arbeitet, besteht aus ca. 30 Mitarbeitern. Der Spektrum ist sehr breit gefächert, sie machen sowohl Print, als auch Webdesign und eben auch Film. Ralf schneidet meist kleine Imagefilme von Unternehmen, manchmal auch kurze Filme oder Videobotschaften von Unternehmen an ihre Kunden oder Geschäftspartner, wie zum Beispiel Einladungen zu besonderen Veranstaltungen oder ähnliches.
+Neben seinem Studium arbeitet Ralf einmal in der Woche in einer Medienagentur. Er hilft dort im Filmbereich - hauptsächlich im Schnitt. Aufgrund seiner Ausbildung und auch praktischen Erfahrungen in seinem Studium brauchte er nicht viel Neues lernen, und seine Arbeit macht ihm Spaß. Ralf findet es gut, dass er während seines Studiums noch etwas zusätzliches Geld verdienen kann, um sein Bafög Gehalt etwas aufzupeppen. Dass die Arbeit dann auch noch Spaß macht, ist für ihn fast schon Luxus. Die Medienagentur, in der Ralf arbeitet, besteht aus ca. 30 Mitarbeitern. Der Spektrum ist sehr breit gefächert, sie machen sowohl Print, als auch Webdesign und eben auch Film. Ralf schneidet kleine Imagefilme von Unternehmen, manchmal auch kurze Filme oder Videobotschaften von Unternehmen an ihre Kunden oder Geschäftspartner, wie zum Beispiel Einladungen zu besonderen Veranstaltungen, Messen oder ähnliches.
 
-Ralf selbst arbeitet nur einmal in der Woche in der Medienagentur, ist also in der gesamten Produktion der Filme nicht involviert, sondern macht meistens nur den Schnitt. Da die Filme alle meist relativ kurz sind, ist Ralf mit dem Schnitt von einem Film relativ schnell fertig, sodass er einen Film in der Regel an einem Arbeitstag abschließen kann. Manchmal gibt es in der nächsten Woche noch ein paar Anmerkungen von seinem Vorgesetzten, dass er etwas verändern soll, aber das ist dann häufig nur eine Sache von einer halben Stunde zusätzlicher Arbeit.
+Ralf selbst arbeitet nur einmal in der Woche in der Medienagentur, ist also in der gesamten Produktion der Filme nicht involviert, sondern macht meist nur den Schnitt. Da die Filme insgesamt relativ kurz sind, ist Ralf mit dem Schnitt von einem Film relativ schnell fertig, sodass er einen Film in der Regel an einem Arbeitstag abschließen kann. Manchmal gibt es in der nächsten Woche noch ein paar Anmerkungen von seinem Vorgesetzten, dass er etwas verändern soll, aber das ist dann häufig nur eine Sache von einer halben Stunde zusätzlicher Arbeit.
 
 Ein typischer Arbeitstag in der Agentur sieht bei Ralf so aus, dass er morgens ins Büro kommt und erstmal seine Emails checkt. Ralf teilt sich ein Büro mit einigen Kollegen, die allerdings für den Bereich Webdesign tätig sind. Die Filmabteilung in der Agentur ist noch nicht so ausgebaut, das Büro, wo sein Vorgesetzter mit den anderen beiden Kollegen der Filmabteilung sitzt, ist zu klein, damit Ralf dort auch noch arbeiten könnte. Es gibt zwar noch ein Arbeitsplatz im Studio - also in dem Raum mit Greenscreen und Beleuchtung, wo viele der virtuellen Produktionen gemacht werden - aber Ralf bevorzugt es lieber, unter Leuten zu arbeiten, als den ganzen Tag allein im Studio zu sitzen. 
 
 Fertige Filme lädt Ralf immer nach dem Rendern sofort auf den internen Dateiserver, sodass sich alle Beteiligten - vor allem sein Vorgesetzter - die Ergebnisse anschauen können. Manchmal gibt es Anmerkungen von seinem Vorgesetzten oder Änderungswünsche von dem Kunden. Darum kümmert sich Ralf dann am Anfang eines neuen Arbeitstages, stellt die neue Version auf den Server und schickt eine kurze Notiz per Email an den Kunden. Ralf kommuniziert viel über email, auch mit seinen Kollegen aus der Filmabteilung. Eigentlich sitzen die ja nur zwei Räume weiter, den Flur entlang, aber es ist Ralf zu anstrengend, wegen jeder kleinen Frage aufzustehen, den Flur entlang zu gehen, bei den Kollegen zu klopfen, nur um dann festzustellen, dass der Kollege, mit dem er reden möchte, gerade in einer Telefonkonferenz ist. Er hat das zu Anfang ein paar mal gemacht, aber nach einiger Zeit hat er dann lieber emails geschrieben. 
 
-Wenn der Schnitt für ein neues Projekt ansteht, bekommt Ralf von seinem Vorgesetzten eine kurze Notiz per Mail darüber. Auf dem Dateiserver findet er das Material, das er braucht. Aus dem Material erschließt sich Ralf oft selbst die Aussage und die mögliche Struktur des Films. Bei besonderen Projekten kommt aber auch schon mal der Vorgesetzte an den Arbeitsplatz von Ralf und gibt ihm ein kurzes Briefing vom Projekt. Er erwähnt dabei den Rahmen, in welchem der Film aufgeführt werden soll, wie lang die Abspielzeit des Films ca. sein soll, was für einen Eindruck beim Zuschauer hinterlasse soll und welche Stellen und Aussagen besonders wichtig sind.
+Wenn der Schnitt für ein neues Projekt ansteht, bekommt Ralf von seinem Vorgesetzten eine kurze Notiz per Mail darüber. Auf dem Dateiserver findet er das Material, das er braucht. Aus dem Material erschließt sich Ralf oft selbst die Aussage und die mögliche Struktur des Films. Bei besonderen Projekten kommt aber auch schon mal der Vorgesetzte an den Arbeitsplatz von Ralf und gibt ihm ein kurzes Briefing vom Projekt. Er erwähnt dabei den Rahmen, in welchem der Film aufgeführt werden soll, wie lang die Abspielzeit des Films ca. sein soll, was für einen Eindruck beim Zuschauer hinterlassen soll und welche Stellen und Aussagen im Film besonders wichtig sind.
 
-Ralf ist froh, dass die Ergebnisse seiner Arbeit seinem Vorgesetzten und auch dem Kunden meistens gefallen. Er bekommt häufig das Feedback, dass die Filme, die er schneidet und bearbeitet meist genau so sind, wie sich Kunde und Vorgesetzter das vorstellen. Ralf selbst ist sich während der Arbeit aber häufig unsicher: Wenn er vor einem konkreten Problem steht und mehrere Wege sieht, dieses zu lösen, weiß er nicht so recht, welchen Weg er nehmen soll. Meistens entscheidet er sich selbst für einen Ansatz und schaut dann, wie Kunde und Vorgesetzter reagieren.
+Ralf ist froh, dass die Ergebnisse seiner Arbeit seinem Vorgesetzten und auch dem Kunden in der Regel gefallen. Er bekommt häufig das Feedback, dass die Filme, die er schneidet und bearbeitet, meist genau so sind, wie sich Kunde und Vorgesetzter das vorstellen. Ralf selbst ist sich während der Arbeit aber häufig unsicher: Wenn er vor einem konkreten Problem steht und mehrere Wege sieht, dieses zu lösen, weiß er nicht so recht, welchen Weg er nehmen soll. Meist entscheidet er sich selbst für einen Ansatz und schaut dann, wie Kunde und Vorgesetzter reagieren.
 
-- Ralf Müller
-	- Werksstudent in einer Medienagentur
-	- 1 Mal in der Woche arbeiten
-	- Schnitt
-	- kleine Imagefilme, Video Botschaften von Unternehmen (Messeeinladungen, etc.)
-	- bekommt abgedrehtes Videomaterial, meistens kurzes Briefing vom Projektleiter
+## Thorsten Nadel, Filmproduktion als Nebengewerbe
 
 - Thorsten Nadel
 	- Arbeitet als Informatiker
 	- Nebengewerbe: erst Hochzeitsfilme, jetzt auch mehr Richtung kleine Imagefilme
+
+## Robert Bach
 
 - Robert Bach
 	- seit einigen Jahren Selbstständig, eigene TV Produktionsfirma
@@ -160,6 +157,8 @@ Ralf ist froh, dass die Ergebnisse seiner Arbeit seinem Vorgesetzten und auch de
 	- irgendwann switch zur selbstständigkeit
 	- jetzt: Auftragsproduktionen fürs Fernsehen
 	- Film Aufträge von Unternehmen: Imagefilme, 
+
+
 
 # Use Cases
 
