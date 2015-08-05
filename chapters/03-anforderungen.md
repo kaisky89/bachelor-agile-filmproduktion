@@ -168,22 +168,9 @@ Momentan hat Robert noch keine fest eingestellten Mitarbeiter. Er arbeitet haupt
 
 Trotz seiner langjährigen Erfahrung in der TV Produktion ist Robert nicht konservativ, was die Gestaltung seiner Filme angeht. Er versucht, so nah wie möglich am Puls der Zeit zu sein, indem er auf Youtube und Vimeo aktiv nach neuen Trends und Ideen Ausschau hält.
 
-Der typische Arbeitsablauf bei Robert für die Produktion eines Imagefilm sieht so aus, dass er meist einen Anruf oder einer Email von einem Unternehmen bekommt, das Interesse an der Produktion eines Imagefilms bekundet. Robert macht dann einen Termin mit dem Vertreter des Unternehmens aus, in dem alle Rahmenbedingungen geklärt werden: Für wen ist der Imagefilm, wer ist die Zielgruppe und was soll er aussagen? Auch über das Unternehmen macht Robert Bach erste Recherchen. Häufiger kommt es vor, dass Robert dann einmal ohne große Plan zum Unternehmen fährt, um vor Ort nach möglichen Drehmöglichkeiten Ausschau hält und um das Unternehmen von seiner echten Seite kennenlernt: Die Mitarbeiter, die Tätigkeiten, die Unternehmenskultur und die Produkte des Unternehmens. Danach gibt es für Robert meist eine Phase der Konzeption. Er entwickelt Ideen zur Visualisierung, einen inhaltlichen Ablauf des Films und eine mögliche szenische Umsetzung. Manchmal, je nachdem, wie viel Fachwissen der Ansprechpartner des Unternehmens in der Domäne Film hat, stellt er diesem in Form eines Treatments das Konzept vor. Es fällt Robert allerdings schwer, abzuschätzen, inwiefern sein Gegenüber versteht, was er sich vorstellt. In seinem bisherigen langjährigen Berufsalltag bei RTL konnte er davon ausgehen, dass alle seine Kollegen genügend Fachwissen besaßen, ein Treatment oder ein Drehbuch zu verstehen. Nun hat er es öfter mit Laien zu tun - zumindest was das Fachwissen zu den Begriffen der Filmwelt angeht - und er fragt sich, ob es nicht Möglichkeiten gibt, Konzepte "Laienverträglicher" zu präsentieren. -->
+Der typische Arbeitsablauf bei Robert für die Produktion eines Imagefilm sieht so aus, dass er meist einen Anruf oder einer Email von einem Unternehmen bekommt, das Interesse an der Produktion eines Imagefilms bekundet. Robert macht dann einen Termin mit dem Vertreter des Unternehmens aus, in dem alle Rahmenbedingungen geklärt werden: Für wen ist der Imagefilm, wer ist die Zielgruppe und was soll er aussagen? Auch über das Unternehmen macht Robert Bach erste Recherchen. Häufiger kommt es vor, dass Robert dann einmal ohne große Plan zum Unternehmen fährt, um vor Ort nach möglichen Drehmöglichkeiten Ausschau hält und um das Unternehmen von seiner echten Seite kennenlernt: Die Mitarbeiter, die Tätigkeiten, die Unternehmenskultur und die Produkte des Unternehmens. Danach gibt es für Robert meist eine Phase der Konzeption. Er entwickelt Ideen zur Visualisierung, einen inhaltlichen Ablauf des Films und eine mögliche szenische Umsetzung. Manchmal, je nachdem, wie viel Fachwissen der Ansprechpartner des Unternehmens in der Domäne Film hat, stellt er diesem in Form eines Treatments das Konzept vor. Es fällt Robert allerdings schwer, abzuschätzen, inwiefern sein Gegenüber versteht, was er sich vorstellt. In seinem bisherigen langjährigen Berufsalltag bei RTL konnte er davon ausgehen, dass alle seine Kollegen genügend Fachwissen besaßen, ein Treatment oder ein Drehbuch zu verstehen. Nun hat er es öfter mit Laien zu tun - zumindest was das Fachwissen zu den Begriffen der Filmwelt angeht - und er fragt sich, ob es nicht Möglichkeiten gibt, Konzepte "Laienverträglicher" zu präsentieren.
 
-Teamarbeit ist für Robert wichtig: Nur wenn weiß, dass er sich auf sein Team verlassen kann, weiß er, dass er auch zu guten Ergebnissen kommen kann. Ihm fällt es meist schwer, den einzelnen Gewerken in nur kurzen Briefings zu erklären, was se
-
-
-- Robert Bach
-	- seit einigen Jahren Selbstständig, eigene TV Produktionsfirma
-	- kommt aus dem TV Bereich, hat als Autor und Reporter bei RTL gearbeitet
-	- irgendwann switch zur selbstständigkeit
-	- jetzt: Auftragsproduktionen fürs Fernsehen
-	- Film Aufträge von Unternehmen: Imagefilme, 
-
-
-
-# Use Cases
-
+Nach der Konzipierung geht es an die Produktion. Dafür engagiert Robert ein Team aus den unterschiedlichen erforderlichen Gewerken. Je nach Idee und Konzept sind dafür Kameramann, Tonmann, Cutter, Tonmischer, zusätzliche Leute im VFX Bereich und Schauspieler notwendig. Robert fällt es häufig schwer, diese Leute erst sehr spät in das Projekt zu involvieren: Gerade die Gewerke, mit denen er eng zusammenarbeitet - wie Kameramann oder Cutter - hätte er eigentlich gerne früher mit im Projekt. Eine kurzes Briefing hilft ihm zwar, zumindest grob seine Intention klar zu stellen, aber häufig fällt ihm auf, dass viele Details besser aufeinander abgestimmt wären, wenn die jeweiligen Gewerke früher, also auch schon in der Konzeption mit involviert wären. Robert weiß allerdings nicht, wie er das umsetzen könnte.
 
 # Anforderungen
 
