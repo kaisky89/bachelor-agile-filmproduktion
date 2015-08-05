@@ -160,7 +160,11 @@ Thorsten merkt allerdings auch, dass bei Imagefilmen das Inszenieren und gestalt
 
 ## Robert Bach, eigene TV Produktionsfirma
 
-Robert Bach ist 51 Jahre alt, ist seit 6 Jahren geschieden und hat keine Kinder. Er ist seit 5 Jahren selbstständig, er hat ein eigenes Filmproduktions-Unternehmen gegründet. Robert
+Robert Bach ist 51 Jahre alt, ist seit 6 Jahren geschieden und hat keine Kinder. Er ist seit 5 Jahren selbstständig, er hat ein eigenes Filmproduktions-Unternehmen gegründet.
+
+Nach seinem Publizistik- und Kommunikationswissenschafts Studium in an der Freien Universität Berlin arbeitete er zunächst als freier Journalist, um dann aber zum Fernsehsender RTL zu wechseln, bei dem er als Autor, Redakteur und Studioleiter insgesamt 20 Jahre arbeitete. Danach wechselte seine Karriere etwas den Kurs und er wurde Dozent an der Journalistenschule von RTL, um neue und junge Journalisten auszubilden. Nach seiner Scheidung mit seiner Frau änderte wollte er noch einmal etwas neues Ausprobieren, kündigte seinen Job bei RTL und machte sich selbstständig, um Auftragsproduktionen des TVs umzusetzen, aber auch für Unternehmen Werbefilme, Dokumentationen und Imagefilme zu produzieren.
+
+
 
 - Robert Bach
 	- seit einigen Jahren Selbstständig, eigene TV Produktionsfirma
