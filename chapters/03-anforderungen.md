@@ -145,7 +145,13 @@ Ralf ist froh, dass die Ergebnisse seiner Arbeit seinem Vorgesetzten und auch de
 
 ## Thorsten Nadel, Filmproduktion als Nebengewerbe
 
-Thorsten Nadel ist 43 Jahre alt, verheiratet und der Vater von 2 Kindern. Er arbeitet als Informatiker in einem kleinen Unternehmen in der Nähe von Bonn, er wohnt selbst in einem kleinen Vorort von Bonn. Thorsten hat neben seiner Tätigkeit als Informatiker - er hat übrigens eine 75% Stelle - seit 5 Jahren ein Kleingewerbe angemeldet. Damit hat er sein ursprüngliches Hobby - das Fotografieren - zum Beruf gemacht.
+Thorsten Nadel ist 43 Jahre alt, verheiratet und der Vater von 2 Kindern. Er arbeitet als Informatiker in einem kleinen Unternehmen in der Nähe von Bonn, er wohnt selbst in einem kleinen Vorort von Bonn. Thorsten hat neben seiner Tätigkeit als Informatiker - er hat übrigens eine 75% Stelle - seit 8 Jahren ein Kleingewerbe angemeldet. Damit hat er sein ursprüngliches Hobby - das Fotografieren - zum Beruf gemacht. 
+
+Schon seit über 20 Jahren fotografiert Thorsten. Zuerst waren es die obligatorischen Urlaubsfotos, die er als Familienvater zu machen hatte. Allerdings merkte er schnell, dass ihm das Fotografieren Spaß machte, er die technischen Aspekte des Fotografierens interessant fand und außerdem anscheinend einen Blick für eine gute Bildkomposition hatte. Er investierte damals also in eine teure Spiegelreflexkamera. Nach einigen Urlauben mit schönen Bildern, die er natürlich auch seinen Freunden zeigte, meldeten sich erste Bekannte und Freunde von ihm, mit der Bitte, doch mal von ihnen Fotos zu machen. So machte Thorsten zuerst Porträts von Freunden, dann auch von Leuten, die er gar nicht so gut kannte und schließlich wurde er des öfteren auch mal für eine Hochzeit angefragt. Irgendwann entschloss er sich dann, ein Kleingewerbe anzumelden: Er hatte mittlerweile einen guten Kundenstamm aufgebaut und seine Kunden waren meist zufrieden mit dem Ergebnis. 
+
+Durch die Einnahmen konnte Thorsten sich dann auch hin und wieder eine neue Kamera besorgen, und merkte bald, dass man mit den neueren Modellen der Spiegelreflexkameras auch relativ hochwertige Film Clips drehen konnte. Was zuerst ein kleines Herumspielen bei sich im Garten war, entwickelte sich schnell zu einem weiteren Gebiet in seinem Kleingewerbe, als einer seiner Hochzeitskunden fragte, ob es nicht auch möglich sei, dass er ein paar kurze Video Clips während der Hochzeit drehen könnte.
+
+
 
 - Thorsten Nadel
 	- Arbeitet als Informatiker
