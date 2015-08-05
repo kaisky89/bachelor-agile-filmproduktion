@@ -160,7 +160,7 @@ Thorsten merkt allerdings auch, dass bei Imagefilmen das Inszenieren und gestalt
 
 ## Robert Bach, eigene TV Produktionsfirma
 
-Robert Bach ist 51 Jahre alt, ist seit 6 Jahren geschieden und hat keine Kinder. Er ist seit 5 Jahren selbstständig, er hat ein eigenes Filmproduktions-Unternehmen gegründet. Rob
+Robert Bach ist 51 Jahre alt, ist seit 6 Jahren geschieden und hat keine Kinder. Er ist seit 5 Jahren selbstständig, er hat ein eigenes Filmproduktions-Unternehmen gegründet. Robert
 
 - Robert Bach
 	- seit einigen Jahren Selbstständig, eigene TV Produktionsfirma
