@@ -127,6 +127,8 @@ Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen B
 
 # Personae
 
+Personae sind lau
+
 ## Ralf Müller, Werksstudent einer Medienagentur
 
 Ralf Müller ist 24 Jahre alt und studiert momentan Medientechnologie an der FH Köln. Vor dem Studium hat er eine Ausbildung zum gestaltungstechnischen Assistenten gemacht. Ihn interessierten während seiner Ausbildung gerade die technischen Aspekte von Film und Kamera. Während des Studiums hat sich das natürlich geändert, mittlerweile meint er einen weiteren Blick auf das gesamte Spektrum der Medienproduktion zu haben. Allerdings findet er das Medium Film immer noch am spannendsten: Er liebt Geschichten, und vor allem liebt er es, diese mit schönen Bildern und viel Dynamik in einem Film erzählen zu können. Ralf macht öfter mit einigen Freunden in seiner Freizeit kleine Kurzfilme.
