@@ -127,6 +127,9 @@ Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen B
 
 # Personae
 
+## P1: Ralf Müller, Werksstudent einer Medienagentur
+
+Ralf Müller ist 24 Jahre alt und studiert momentan Medientechnologie an der FH Köln. Vor dem Studium hat er eine Ausbildung zum Gestaltungstechnischen Assistenten gemacht. Weil ihm während seiner Ausbildung gerade die technischen Aspekte von Film und Kamera in
 - Ralf Müller
 	- Werksstudent in einer Medienagentur
 	- 1 Mal in der Woche arbeiten
@@ -140,7 +143,10 @@ Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen B
 
 - Robert Bach
 	- seit einigen Jahren Selbstständig, eigene TV Produktionsfirma
-	- kommt aus den 
+	- kommt aus dem TV Bereich, hat als Autor und Reporter bei RTL gearbeitet
+	- irgendwann switch zur selbstständigkeit
+	- jetzt: Auftragsproduktionen fürs Fernsehen
+	- Film Aufträge von Unternehmen: Imagefilme, 
 
 # Use Cases
 
