@@ -151,15 +151,18 @@ Schon seit über 20 Jahren fotografiert Thorsten. Zuerst waren es die obligatori
 
 Durch die Einnahmen konnte Thorsten sich dann auch hin und wieder eine neue Kamera besorgen, und merkte bald, dass man mit den neueren Modellen der Spiegelreflexkameras auch relativ hochwertige Film Clips drehen konnte. Was zuerst ein kleines Herumspielen bei sich im Garten war, entwickelte sich schnell zu einem weiteren Gebiet in seinem Kleingewerbe, als einer seiner Hochzeitskunden fragte, ob es nicht auch möglich sei, dass er ein paar kurze Video Clips während der Hochzeit drehen könnte. Thorsten ließ sich darauf ein und probierte sich bei der Hochzeit im Filmen aus. Der Kunde war begeistert über die Ergebnisse und Thorsten selbst fand es erstaunlich, dass er mit seinem Equipment ohne großes Investieren auch Filme produzieren konnte. Er recherchierte im Internet, um zu schauen, ob und wie andere auch mit ihren Fotokameras Filme produzierten. Er war erstaunt über die große Community im Internet und die vielen - vor allem günstigen - Möglichkeiten, professionelles Equipment zu bekommen. So entwickelte sich sein Kleingewerbe vom ursprünglichen Fotografieren langsam zum Filmen: Thorsten filmte vor allem Hochzeiten, und die Leute waren begeistert. Er investierte weiter in ein hochwertiges Mikrofon, zusätzliche Objektive mit Festbrennweiten und einigen Gadgets, die ihm beim Filmen halfen. Denn Thorsten filmte bis dato immer allein, er war Tonmann, Regisseur, Kameramann und Licht Assistent in einer Person.
 
+Es war auch auf einer der Hochzeiten auf denen Thorsten filmte, auf denen ein entfernter Bekannter ihn ansprach und fragte, ob er sich auch vorstellen könnte, andere Filme zu machen. Der Bekannte stellte sich als Geschäftsmann eines kleinen Betriebs vor, der auf der Suche nach jemanden war, der einen kleinen Imagefilm für diesen Betrieb drehen könnte. Thorsten hatte bis dahin noch nicht viel Erfahrung mit Imagefilmen, war aber bereit, sich auch auf dieses neue Gebiet einzulassen.
+
+Heute hat Thorsten bereits 4 Imagefilme für Unternehmen gedreht. Sein Schwerpunkt ist momentan noch das Filmen von Hochzeiten, allerdings findet er das Drehen von Imagefilmen sogar noch spannender: Während er auf einer Hochzeit eigentlich nur Beobachter ist, der das Geschehen der Hochzeit dokumentiert, kann er beim Erstellen eines Imagefilms selbst konzipieren, entwerfen und eigene Ideen und Geschichten umsetzen. Das reizt Thorsten. Manchmal versucht er sogar, bei Hochzeiten die Braut und den Bräutigam jeweils einzeln für ein paar Minuten zu interviewen. Das gibt ihm das Gefühl, in den Filmen einen persönlicheren Eindruck vermitteln zu können. Außerdem kann er so auch aus seiner Rolle als bloßer Beobachter heraus treten und selbst ein wenig inszenieren.
+
+Thorsten merkt allerdings auch, dass 
 
 
 
 
 
 
-- Thorsten Nadel
-	- Arbeitet als Informatiker
-	- Nebengewerbe: erst Hochzeitsfilme, jetzt auch mehr Richtung kleine Imagefilme
+
 
 ## Robert Bach
 
