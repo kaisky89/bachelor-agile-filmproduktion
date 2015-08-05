@@ -145,6 +145,8 @@ Ralf ist froh, dass die Ergebnisse seiner Arbeit seinem Vorgesetzten und auch de
 
 ## Thorsten Nadel, Filmproduktion als Nebengewerbe
 
+Thorsten Nadel ist 43 Jahre alt, verheiratet und der Vater von 2 Kindern. Er arbeitet als Informatiker in einem kleinen Unternehmen in der Nähe von Bonn, er wohnt selbst in einem kleinen Vorort von Bonn. Thorsten hat neben seiner Tätigkeit als Informatiker - er hat übrigens eine 75% Stelle - seit 5 Jahren ein Kleingewerbe angemeldet. Damit hat er sein ursprüngliches Hobby - das Fotografieren - zum Beruf gemacht.
+
 - Thorsten Nadel
 	- Arbeitet als Informatiker
 	- Nebengewerbe: erst Hochzeitsfilme, jetzt auch mehr Richtung kleine Imagefilme
