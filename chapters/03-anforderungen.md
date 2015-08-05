@@ -127,7 +127,12 @@ Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen B
 
 # Personae
 
-Personae sind lau
+Persona ist eine Technik zur Benutzermodellierung aus der Mensch-Computer-Interaktion. Ein Persona wird wie folgt definiert:
+
+> "A persona is a rich picture of an imaginary person who represents your core user group." \cite{alan2004human}
+
+Es handelt sich bei der Entwicklung des Vorgehensmodells nicht um die Entwicklung eines Software Produkts, allerdings gibt es auch "Benutzer" des Vorgehensmodells: Alle diejenigen Personen, die an der Umsetzung des Vorgehensmodells beteiligt sind, können als Benutzer des Vorgehensmodells bezeichnet werden. 
+
 
 ## Ralf Müller, Werksstudent einer Medienagentur
 
