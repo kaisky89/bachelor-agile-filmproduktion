@@ -25,6 +25,6 @@
   },
   {
     "regex": "#\\\\\\\\\\\\addlinespace#",
-    "replace": "\\\\addlinespace"
+    "replace": "\\\\\\\\\\\\addlinespace[5cm]"
   }
 ]
