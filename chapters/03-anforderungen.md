@@ -189,6 +189,8 @@ Aus den entwickelten Personae soll nun, auf Basis der Beschreibung, wie sie arbe
 
 ### Ralf Müller, Werksstudent einer Medienagentur {#anforderungen-analyse-personae-ralf}
 
+Die Tabelle \ref{Analyse der Persona Ralf Müller} gibt Aufschluss über die positiven und negativen Aspekte, die aus der Persona von Ralf Müller zu entnehmen sind.
+
 : Analyse der Persona Ralf Müller
 
 | Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
@@ -196,7 +198,7 @@ Aus den entwickelten Personae soll nun, auf Basis der Beschreibung, wie sie arbe
 |   1 |          |                  |                  |
 
 
-Referenz auf die Tabelle \ref{Analyse der Persona Ralf Müller}
+
 
 
 
