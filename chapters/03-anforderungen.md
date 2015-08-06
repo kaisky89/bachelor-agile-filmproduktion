@@ -2,7 +2,7 @@
 title: Anforderungen an ein agiles Vorgehensmodell
 ---
 
-# Stakeholderanalyse
+# Stakeholderanalyse {#anforderungen-stakeholderanalyse}
 
 
 Der erste Schritt, um die Anforderungen an das Vorgehensmodell auszuarbeiten, soll eine Stakeholderanalyse sein. Der Begriff *Stakeholder* ist wie folgt definiert:
@@ -131,7 +131,9 @@ Persona ist eine Technik zur Benutzermodellierung aus der Mensch-Computer-Intera
 
 > "A persona is a rich picture of an imaginary person who represents your core user group." \cite{alan2004human}
 
-Es handelt sich bei der Entwicklung des Vorgehensmodells nicht um die Entwicklung eines Software Produkts, allerdings gibt es auch "Benutzer" des Vorgehensmodells: Alle diejenigen Personen, die an der Umsetzung des Vorgehensmodells beteiligt sind, können als Benutzer des Vorgehensmodells bezeichnet werden. 
+Es handelt sich bei der Entwicklung des Vorgehensmodells nicht um die Entwicklung eines Software Produkts, allerdings gibt es auch "Benutzer" des Vorgehensmodells: Alle diejenigen Personen, die an der Umsetzung des Vorgehensmodells beteiligt sind, können als Benutzer des Vorgehensmodells bezeichnet werden. Die "core user group" ist also die Gruppe der Stakeholder, die besonders stark an der Umsetzung des Vorgehensmodells beteiligt sind. Laut der Stakeholderanalyse (siehe Abschnitt \ref{anforderungen-stakeholderanalyse}) ist dies das Projektteam des Filmproduktionsunternehmen. Im Folgenden sollen nun imaginäre Personen entworfen werden, die Anwender des zu entwickelnden Vorgehensmodell sein können. 
+
+Der Entwurf der Personae geht hier über eine Beschreibung der Person hinaus. Es wird zusätzlich beschrieben, wie die Personae momentan in dem Kontext Imagefilm arbeiten und was ihr Hintergrund und somit auch ihre Motivation für ihre Arbeit ist. Diese Angaben sollen zusätzlich helfen, Empathie für die Personae zu entwickeln und somit Anforderungen für die Entwicklung des Vorgehensmodells besser zu erkennen.
 
 
 ## Ralf Müller, Werksstudent einer Medienagentur
@@ -180,6 +182,19 @@ Der typische Arbeitsablauf bei Robert für die Produktion eines Imagefilm sieht 
 Nach der Konzipierung geht es an die Produktion. Dafür engagiert Robert ein Team aus den unterschiedlichen erforderlichen Gewerken. Je nach Idee und Konzept sind dafür Kameramann, Tonmann, Cutter, Tonmischer, zusätzliche Leute im VFX Bereich und Schauspieler notwendig. Robert fällt es häufig schwer, diese Leute erst sehr spät in das Projekt zu involvieren: Gerade die Gewerke, mit denen er eng zusammenarbeitet - wie Kameramann oder Cutter - hätte er eigentlich gerne früher mit im Projekt. Eine kurzes Briefing hilft ihm zwar, zumindest grob seine Intention klar zu stellen, aber häufig fällt ihm auf, dass viele Details besser aufeinander abgestimmt wären, wenn die jeweiligen Gewerke früher, also auch schon in der Konzeption mit involviert wären. Robert weiß allerdings nicht, wie er das umsetzen könnte.
 
 # Anforderungen
+
+## Analyse der Personae
+
+Aus den entwickelten Personae soll nun, auf Basis der Beschreibung, wie sie arbeiten, eine Analyse erstellt werden, was positive und was negative Aspekte in der momentanen Situation sind. Daraus ergeben sich die primären Anforderungen für das zu entwickelnde Vorgehensmodell: Die positiven Aspekte sollten beibehalten werden, die Negativen Aspekte beseitigt oder verbessert werden.
+
+### Ralf Müller, Werksstudent einer Medienagentur {#anforderungen-analyse-personae-ralf}
+
+| Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
+|-----|----------|------------------|------------------|
+|   1 |          |                  |                  |
+
+
+
 
 
 ## Pre Production
