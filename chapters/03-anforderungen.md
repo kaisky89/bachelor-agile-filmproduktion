@@ -222,10 +222,10 @@ Table: Analyse der Persona Robert Bach
 
 | Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
 |----:|----------|------------------|------------------|
-| 1 | Robert engagiert Spezialisten aus den verschiedenen Gewerken | Er kann sich auf das Wesentliche konzentrieren: Aussage, Inhalt und Gestaltung |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
-
+| 1 | Robert engagiert Spezialisten aus den verschiedenen Gewerken | Er kann sich auf das Wesentliche konzentrieren |  |
+| 2 | Robert klärt Rahmenbedingungen, plant und konzipiert | Gezieltes Vorgehen, Aussage des Films wird nicht improvisiert |  |
+| 3 | Robert präsentiert dem Kunden ein Treatment | Möglichkeit, noch vor der Produktion Feedback zu bekommen | Verständnisprobleme für Laien bei Dokumenten wie Treatment |
+| 4 | Robert weist sein Team erst in der Phase der Produktion ein |  | Risiko, dass Details nicht verstanden werden. Kein Ausnutzen des Fachwissens der Spezialisten während der Konzeption |
 
 
 
