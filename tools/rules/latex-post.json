@@ -21,6 +21,6 @@
   },
   {
     "regex": "#\\\\begin{longtable}\\[c\\]{@{}rlll@{}}#",
-    "replace": "\\\\\\\\begin{longtable}\\[c\\]{rlll}"
+    "replace": "\\\\begin{longtable}[c]{rlll}"
   }
 ]
