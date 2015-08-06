@@ -205,18 +205,26 @@ Table: Analyse der Persona Ralf Müller
 
 ### Thorsten Nadel, Filmproduktion als Nebengewerbe {#anforderungen-analyse-personae-thorsten}
 
-Die Tabelle \ref{Analyse der Persona Ralf Müller} gibt Aufschluss über die positiven und negativen Aspekte, die aus der Persona von Ralf Müller zu entnehmen sind.
+Die Tabelle \ref{Analyse der Persona Thorsten Nadel} gibt Aufschluss über die positiven und negativen Aspekte, die aus der Persona von Thorsten Nadel zu entnehmen sind.
 
-Table: Analyse der Persona Ralf Müller
+Table: Analyse der Persona Thorsten Nadel
 
 | Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
 |----:|----------|------------------|------------------|
-| 1 | Ralf macht nur den Schnitt |  | Keine große Integration in das Projekt |
-| 2 | Ralf bekommt Feedback vom Kunden und Vorgesetzten nach seinem Arbeitstag | Feedback Mechanismus vorhanden, Kunde hat Einfluss auf Ergebnisse des Films | Keine direkte Kommunikation: Ralf kommuniziert für das Feedback nur über Email |
-| 3 | Ralf ist nicht im Büro der Filmabteilung |  | Erschwert "osmotische Kommunikation" |
-| 4 | Ralf kommuniziert über Email | Kommunikation ist persistent und asynchron, lässt sich zurückverfolgen | Viele Details werden nicht besprochen |
-| 5 | Vorgesetzter benutzt manchmal "Face to Face Briefing" | Klare und direkte Kommunikation, Rückfragen werden sofort geklärt |  |
-| 6 | Ralf ist sich oft in Gestaltungsentscheidungen unsicher, entscheidet dann selbst und hofft darauf, den Erwartungen zu entsprechen  |  | Keine Möglichkeit, schnell Einzelheiten mit den Verantwortlichen zu klären |
+| 1 | Thorsten macht alle Filme alleine | Kein finanzieller Aufwand für zusätzliche Mitarbeiter | Schnelle Überforderung, wenig Kapazitäten |
+| 2 | Thorsten fühlt sich überfordert, den Imagefilm vor dem Dreh zu inszenieren und zu planen |  | Konzept entsteht erst nach dem Dreh, keine Möglichkeiten des Feedbacks |
+
+### Robert Bach, eigene TV Produktionsfirma {#anforderungen-analyse-personae-robert}
+
+Die Tabelle \ref{Analyse der Persona Robert Bach} gibt Aufschluss über die positiven und negativen Aspekte, die aus der Persona von Thorsten Nadel zu entnehmen sind.
+
+Table: Analyse der Persona Robert Bach
+
+| Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
+|----:|----------|------------------|------------------|
+| 1 | Robert engagiert Spezialisten aus den verschiedenen Gewerken | Er kann sich auf das Wesentliche konzentrieren: Aussage, Inhalt und Gestaltung |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
 
 
 
