@@ -196,11 +196,11 @@ Die Tabelle \ref{Analyse der Persona Ralf Müller} gibt Aufschluss über die pos
 | Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
 |----:|----------|------------------|------------------|
 | 1 | Ralf macht nur den Schnitt |  | Keine große Integration in das Projekt |
-| 2 | Ralf bekommt Feedback vom Kunden und Vorgesetzten nach seinem Arbeitstag | Feedback Mechanismus vorhanden, Kunde hat Einfluss auf Ergebnisse des Films | Keine direkte Kommunikation: Ralf kommuniziert für das Feedback nur über Email |
+| 2 | Ralf bekommt Feedback vom Kunden und Vorgesetzten \\ nach seinem Arbeitstag | Feedback Mechanismus vorhanden, Kunde hat Einfluss auf Ergebnisse des Films | Keine direkte Kommunikation: Ralf kommuniziert für das Feedback nur über Email |
 | 3 | Ralf ist nicht im Büro der Filmabteilung |  | Erschwert "osmotische Kommunikation" |
 | 4 | Ralf kommuniziert über Email | Kommunikation ist persistent und asynchron, lässt sich zurückverfolgen | Viele Details werden nicht besprochen |
 | 5 | Vorgesetzter benutzt manchmal "Face to Face Briefing" | Klare und direkte Kommunikation, Rückfragen werden sofort geklärt |  |
-| 6 | Ralf ist sich oft in Gestaltungsentscheidungen unsicher, entscheidet dann selbst und hofft darauf, den Erwartungen zu entsprechen  |  | Keine Möglichkeit, schnell Einzelheiten mit den Verantwortlichen zu klären |
+| 6 | Ralf ist sich oft in Gestaltungsentscheidungen unsicher, \\ entscheidet dann selbst und hofft darauf, den Erwartungen zu entsprechen  |  | Keine Möglichkeit, schnell Einzelheiten mit den Verantwortlichen zu klären |
 
 
 ### Thorsten Nadel, Filmproduktion als Nebengewerbe {#anforderungen-analyse-personae-thorsten}
