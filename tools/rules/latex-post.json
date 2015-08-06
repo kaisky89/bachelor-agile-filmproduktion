@@ -17,6 +17,6 @@
   },
   {
     "regex": "#(\\\\begin{longtable}.*)((\\n|.)*)(\\n\\\\caption{[^}]*}\\\\label{[^}]*})(\\n\\\\end{longtable})#",
-    "replace": "$1$4 \\\\$2$5"
+    "replace": "$1$4 \\\\\\\\$2$5"
   }
 ]
