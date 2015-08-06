@@ -203,6 +203,8 @@ Die Tabelle \ref{Analyse der Persona Ralf Müller} gibt Aufschluss über die pos
 | 6 | Ralf ist sich oft in Gestaltungsentscheidungen unsicher, entscheidet dann selbst und hofft darauf, den Erwartungen zu entsprechen  |  | Keine Möglichkeit, schnell Einzelheiten mit den Verantwortlichen zu klären |
 
 
+### Thorsten Nadel, Filmproduktion als Nebengewerbe {#anforderungen-analyse-personae-thorsten}
+
 
 
 
