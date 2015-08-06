@@ -193,6 +193,8 @@ Aus den entwickelten Personae soll nun, auf Basis der Beschreibung, wie sie arbe
 |-----|----------|------------------|------------------|
 |   1 |          |                  |                  |
 
+: Analyse der Persona Ralf Müller
+
 
 
 
