@@ -18,5 +18,9 @@
   {
     "regex": "#(\\\\begin{longtable}.*)((\\n|.)*)(\\n\\\\caption{[^}]*}\\\\label{[^}]*})(\\n\\\\end{longtable})#",
     "replace": "$1$4 \\\\\\\\$2$5"
+  },
+  {
+    "regex": "#\\\\begin{longtable}\\[c\\]{@{}rlll@{}}#",
+    "replace": "\\\\begin{longtable}{| >{\\\\RaggedRight}p{1cm} | >{\\\\RaggedRight}p{4cm} |>{\\\\RaggedRight}p{4cm} |>{\\\\RaggedRight}p{4cm} |}"
   }
 ]
