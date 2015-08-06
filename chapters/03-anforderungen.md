@@ -196,6 +196,8 @@ Aus den entwickelten Personae soll nun, auf Basis der Beschreibung, wie sie arbe
 |   1 |          |                  |                  |
 
 
+Referenz auf die Tabelle \ref{Analyse der Persona Ralf Müller}
+
 
 
 
