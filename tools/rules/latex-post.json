@@ -21,6 +21,10 @@
   },
   {
     "regex": "#\\\\begin{longtable}\\[c\\]{@{}rlll@{}}#",
-    "replace": "\\\\begin{longtable}{p{1cm}p{4cm}p{4cm}p{4cm}}"
+    "replace": "\\\\begin{longtable}[c]{p{.5cm}p{4cm}p{4cm}p{4cm}}"
+  },
+  {
+    "regex": "#\\\\\\\\\\\\addlinespace#",
+    "replace": "\\\\addlinespace"
   }
 ]
