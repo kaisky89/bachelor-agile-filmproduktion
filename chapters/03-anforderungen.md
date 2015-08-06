@@ -189,11 +189,11 @@ Aus den entwickelten Personae soll nun, auf Basis der Beschreibung, wie sie arbe
 
 ### Ralf Müller, Werksstudent einer Medienagentur {#anforderungen-analyse-personae-ralf}
 
+: Analyse der Persona Ralf Müller
+
 | Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
 |-----|----------|------------------|------------------|
 |   1 |          |                  |                  |
-
-: Analyse der Persona Ralf Müller
 
 
 
