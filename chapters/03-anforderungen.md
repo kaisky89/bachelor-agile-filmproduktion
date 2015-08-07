@@ -195,6 +195,7 @@ AN
 
 : Auftragnehmer, Filmproduktionsunternehmen
 
+Table: Zusammenfassung der Stakeholderanalyse
 
 | Nr. | Stakeholder          | Anforderung                                            |
 |----:|----------------------|--------------------------------------------------------|
@@ -271,44 +272,44 @@ Table: Analyse der Persona Robert Bach
 | 39 | Robert weist sein Team erst in der Phase der Produktion ein |  | Risiko, dass Details nicht verstanden werden |
 
 
-## Auflistung und Gewichtung aller Anforderungen
+## Zusammenführung und Gewichtung aller Anforderungen
 
 Im Folgenden sollen alle gesammelten Anforderungen übersichtlich dargestellt werden und eine Gewichtung dieser Anforderungen vorgenommen werden. Dies stellt die Tabelle \ref{Auflistung und Gewichtung aller Anforderungen} dar. Die Gewichtung ist eine Zahl zwischen $1$ (sehr wichtig) und $10$ (sehr wichtig).
 
 Table: Auflistung und Gewichtung aller Anforderungen
 
-| Nr. | Ursprung | Anforderung                              | Gewichtung |
-|----:|----------|------------------------------------------|-----------:|
-|  xx | Geringe finanzielle Kosten                          |       $10$ |
-|  xx | Kostentransparenz                                   |       $10$ |
-|  xx | Mitgestalten des Kunden                             |       $10$ |
-|  xx | Kommunikation über Projektstatus                    |       $10$ |
-|  xx | Kommunikation über nächste Schritte                 |       $10$ |
-|  xx | Laienkonforme Präsentation Zwischenergebnisse       |       $10$ |
-|  xx | Schnelle Fertigstellung                             |       $10$ |
-|  xx | Wenig Kosten für Material und Technik               |       $10$ |
-|  xx | Hohe Qualität                                       |       $10$ |
-|  xx | Effiziente Arbeit des Teams                         |       $10$ |
-|  xx | Geringer Aufwand für Verwaltung des Vorgehens       |       $10$ |
-|  xx | Werkzeuge für das Anforderungsmanagement            |       $10$ |
-|  xx | Geregeltes Umfeld                                   |       $10$ |
-|  xx | Einbringen von Fachwissen der Spezialisten          |       $10$ |
-|  xx | Kommunikation im Team                               |       $10$ |
-|  xx | ruhige Aufnahmesituation für Laiendarsteller        |       $10$ |
-|  xx | Aufgabenbeschreibung für Laiendarsteller            |       $10$ |
-|  xx | Geringe Beteiligung von Laiendarsteller             |       $10$ |
-|  xx | Integration der Spezialisten in das gesamte Projekt |       $10$ |
-|  xx | Feedback und Mitgestaltung des Kunden               |       $10$ |
-|  xx | Direkte Kommunikation zwischen Team und Kunde       |       $10$ |
-|  xx | Direkte Kommunikation innerhalb des Teams           |       $10$ |
-|  xx | Persistente & asynchrone Kommunikation (Kunde & Team) |       $10$ |
-|  xx | Schnelle Klärung von kurzfristigen Fragen des Teams   |       $10$ |
-|  xx | Geringer finanzieller Aufwand für Mitarbeiter         |       $10$ |
-|  xx | Genügend Kapazität, um Anforderungen zu genügen       |       $10$ |
-|  xx | Früher Entwurf des Filmkonzepts                       |       $10$ |
-|  xx | asd |       $10$ |
-|  xx | asd |       $10$ |
-|  xx | asd |       $10$ |
-|  xx | asd |       $10$ |
-|  xx | asd |       $10$ |
-|  xx | asd |       $10$ |
+| Nr. | Ursprung | Anforderung                                          | Gewichtung |
+|----:|----------|------------------------------------------------------|-----------:|
+|  xx | 1, 9, 31 |Geringe finanzielle Kosten                            |       $10$ |
+|  xx |   xx, xx |Kostentransparenz                                     |       $10$ |
+|  xx |   xx, xx |Mitgestalten des Kunden                               |       $10$ |
+|  xx |   xx, xx |Kommunikation über Projektstatus                      |       $10$ |
+|  xx |   xx, xx |Kommunikation über nächste Schritte                   |       $10$ |
+|  xx |   xx, xx |Laienkonforme Präsentation Zwischenergebnisse         |       $10$ |
+|  xx |   xx, xx |Schnelle Fertigstellung                               |       $10$ |
+|  xx |   xx, xx |Wenig Kosten für Material und Technik                 |       $10$ |
+|  xx |   xx, xx |Hohe Qualität                                         |       $10$ |
+|  xx |   xx, xx |Effiziente Arbeit des Teams                           |       $10$ |
+|  xx |   xx, xx |Geringer Aufwand für Verwaltung des Vorgehens         |       $10$ |
+|  xx |   xx, xx |Werkzeuge für das Anforderungsmanagement              |       $10$ |
+|  xx |   xx, xx |Geregeltes Umfeld                                     |       $10$ |
+|  xx |   xx, xx |Einbringen von Fachwissen der Spezialisten            |       $10$ |
+|  xx |   xx, xx |Kommunikation im Team                                 |       $10$ |
+|  xx |   xx, xx |ruhige Aufnahmesituation für Laiendarsteller          |       $10$ |
+|  xx |   xx, xx |Aufgabenbeschreibung für Laiendarsteller              |       $10$ |
+|  xx |   xx, xx |Geringe Beteiligung von Laiendarsteller               |       $10$ |
+|  xx |   xx, xx |Integration der Spezialisten in das gesamte Projekt   |       $10$ |
+|  xx |   xx, xx |Feedback und Mitgestaltung des Kunden                 |       $10$ |
+|  xx |   xx, xx |Direkte Kommunikation zwischen Team und Kunde         |       $10$ |
+|  xx |   xx, xx |Direkte Kommunikation innerhalb des Teams             |       $10$ |
+|  xx |   xx, xx |Persistente & asynchrone Kommunikation (Kunde & Team) |       $10$ |
+|  xx |   xx, xx |Schnelle Klärung von kurzfristigen Fragen des Teams   |       $10$ |
+|  xx |   xx, xx |Geringer finanzieller Aufwand für Mitarbeiter         |       $10$ |
+|  xx |   xx, xx |Genügend Kapazität, um Anforderungen zu genügen       |       $10$ |
+|  xx |   xx, xx |xxx |       $10$ |
+|  xx |   xx, xx |xxx |       $10$ |
+|  xx |   xx, xx |xxx |       $10$ |
+|  xx |   xx, xx |xxx |       $10$ |
+|  xx |   xx, xx |xxx |       $10$ |
+|  xx |   xx, xx |xxx |       $10$ |
+|  xx |   xx, xx |xxx |       $10$ |
