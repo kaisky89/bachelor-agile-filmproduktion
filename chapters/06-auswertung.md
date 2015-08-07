@@ -102,6 +102,10 @@ schwierig festpreis Angebote zu machen: Man rechnet mit Änderungen, also kann m
 
 ### A01: Hohe Qualität des Imagefilms
 
+- Wert *Botschaft als zentrales Ziel* \ref{entwurf-werte-botschaft}
+
+Fokus darauf, die richtigen Anforderungen zu finden. Feedback, Iteration, Review: Das alles dient dazu, herauszufinden, was wirklich gebraucht wird. Botschaft als zentrales Ziel hilft dabei, immer wieder auf die wirklichen Anforderungen zu fokussieren. Alls das führt dazu, dass genau das entwickelt wird, was der Kunde braucht. Und das ist Qualität.
+
 ### A02: Aufgabenbeschreibung für Laiendarsteller
 
 Auf die Zusammenarbeit mit Laiendarstellern, dessen Beteiligung an dem Imagfilm so gering wie möglich sein soll, wurde in dem Entwurf nicht weiter eingegangen. Es ist aber denkbar, dass mithilfe der *Cheap Production* eine gute Vorlage für Laiendarsteller entwickelt werden kann. So kann ein Laiendarsteller sofort sehen, wie die Szene auszusehen hat, und wie er in der Szene zu agieren hat.
