@@ -2,7 +2,7 @@
 title: Auswertung
 ---
 
-# Anforderungen
+# Auswertung der Anforderungen
 
 Der Entwurf des Vorgehensmodells kann nun anhand der in Kapitel \ref{Entwurf eines agilen Vorgehensmodells} entwickelten Anforderungen ausgewertet werden. Hierfür sollen die wichtigsten Anforderungen zuerst einzeln betrachtet werden, um zu diskutieren, inwiefern diese erfüllt worden sind. Danach werden die Ergebnisse dieser Diskussion in einer Tabelle zur Übersicht dargestellt.
 
@@ -21,7 +21,9 @@ Die größte Anforderung von Seiten des Kunden ist eine Präsentation der Zwisch
 
 Folgende Elemente des Vorgehensmodells sorgen für eine Umsetzung dieser Anforderung:
 
-Durch den iterativen Entwicklungsansatz, der in dem Vorgehensmodell verfolgt wird, ist es dem Kunden möglich, immer wieder in den *großen Sprintreviews* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}) den momentanen Zwischenstand des Projektes zu sehen. 
+- Der Wert *Kommunikation* (siehe Abschnitt \ref{entwurf-werte-kommunikation}): Das Vorgehensmodell vertritt den agilen Ansatz, den Kunden mit in das Projektgeschehen zu integrieren. Der Kunde ist Teil des Projekts, mit der Zeit versteht er die Ansätze, die das Team verfolgt und auch die Probleme, mit denen es konfrontiert wird. Es wächst ein gemeinsames Verständnis heran.
+- Der Ablauf in *Sprints* (siehe Abschnitt \ref{entwurf-ablauf-sprint}): Durch den iterativen Entwicklungsansatz, der in dem Vorgehensmodell verfolgt wird, ist es dem Kunden möglich, Ergebnisse schon während der Entwicklung zu sehen.
+- Die Aktivität *Sprintreview* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}): Durch die explizite Präsentation der *Sprintergebnisse* (siehe Abschnitt \ref{}) und des wachsenden Films
 
 Durch die Technik der *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}), den Artefakten Sprintergebnisse (siehe Abschnitt \ref{entwurf-artefakte-sprintergebnisse}) und
 
