@@ -4,6 +4,10 @@
     "replace": "\\begin{itemize}"
   },
   {
+    "regex": "#\\\\begin\\{enumerate\\}\\[\\<\\+\\-\\>\\]#",
+    "replace": "\\begin{enumerate}"
+  },
+  {
     "regex": "#\\\\includegraphics\\{([^\\}]+)\\}#",
     "replace": "\\includegraphics[natwidth=1200pt, natheight=349pt, width=1.0\\textwidth]{$1}"
   },
