@@ -33,6 +33,36 @@ Die Elemente, die für die Anforderung **K01** vorgestellt wurden, setzen auch d
 
 Die Anforderung, dass der Kunde an der Entwicklung mitgestalten kann, wird mit den folgenden Elementen des Vorgehensmodells erfüllt:
 
+- Wert *Offenheit für Änderungen* (siehe Abschnitt \ref{entwurf-werte-offenheit-anderungen}): 
+- Artefakt *Film Backlog* (siehe Abschnitt \ref{entwurf-artefakte-film-backlog}): 
+- Aktivität *Sprint Review* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}): 
+- Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}): 
+
+## Anforderungen der Kategorie Team
+
+### T01: Zielgerichtetes Planen und Handeln
+
+- Wert *Botschaft als zentrales Ziel*
+- Aktivität *Pioneer Phase*
+- Technik *Film Statements*
+
+### T02: Kommunikation im Team
+
+- Wert *Kommunikation*
+- Aktivität *Retrospektive*
+- Technik *Film Statements*
+- Technik *Kanban Board*
+- Technik *Daily Standup*
+- Technik *Planning Poker*
+- Technik *Timeline Karten*
+
+### T03: Einbringen von Fachwissen der Spezialisten
+
+
+
+### T04: Werkzeuge für das Anforderungsmanagement
+
+### T05: Schnelle Fertigstellung des Projekts
 
 
 
