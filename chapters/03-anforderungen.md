@@ -185,13 +185,18 @@ Nach der Konzipierung geht es an die Produktion. Dafür engagiert Robert ein Tea
 
 ## Zusammenfassung der Stakeholderanalyse
 
-In der Stakeholderanalyse konnten viele Anforderungen identifiziert werden. Diese werden hier noch einmal zusammengefasst:
+In der Stakeholderanalyse konnten viele Anforderungen identifiziert werden. Diese werden in der Tabelle noch einmal zusammengefasst. Aus Gründen der Übersicht werden dabei folgende Abkürzungen benutzt:
 
-- **Geschäftsführung des Kunden**
-	- Geringe Kosten für die Erstellung des Imagefilms
-	- Kostentransparenz: Kalkulierbare Gesamteinschätzung der Kosten und schnelles Informieren bei Änderung dieser
-- **Marketing des Kunden**
-	- Mitgestalten des Imagefilms
+
+| Nr. | Stakeholder             | Anforderung                                            |
+|----:|-------------------------|--------------------------------------------------------|
+|  xx | Kunde: Geschäftsführung | Geringe Kosten für die Erstellung des Imagefilms       |
+|  xx |                         | Kostentransparenz: Gesamteinschätzung & Aktualisierung |
+|  xx | Kunde: Marketing        | Mitgestalten des Imagefilms                            |
+|  xx | Kunde: Ansprechpartner  | Kostentransparenz: Gesamteinschätzung & Aktualisierung |
+
+
+
 - **Ansprechpartner des Kunden**
 	- Klare und präzise Kommunikation über den Stand des Projekts
 	- über die nächsten Schritte des Teams Bescheid wissen
@@ -274,23 +279,38 @@ Im Folgenden sollen alle gesammelten Anforderungen übersichtlich dargestellt we
 
 Table: Auflistung und Gewichtung aller Anforderungen
 
-| Nr. | Anforderung                                   | Gewichtung |
-|----:|-----------------------------------------------|-----------:|
-|  xx | Geringe finanzielle Kosten                    |       $10$ |
-|  xx | Kostentransparenz                             |       $10$ |
-|  xx | Mitgestalten des Kunden                       |       $10$ |
-|  xx | Kommunikation über Projektstatus              |       $10$ |
-|  xx | Kommunikation über nächste Schritte           |       $10$ |
-|  xx | Laienkonforme Präsentation Zwischenergebnisse |       $10$ |
-|  xx | Schnelle Fertigstellung                       |       $10$ |
-|  xx | Wenig Kosten für Material und Technik         |       $10$ |
-|  xx | Hohe Qualität                                 |       $10$ |
-|  xx | Effiziente Arbeit des Teams                   |       $10$ |
-|  xx | Geringer Aufwand für Verwaltung des Vorgehens |       $10$ |
-|  xx | Werkzeuge für das Anforderungsmanagement      |       $10$ |
-|  xx | Geregeltes Umfeld                             |       $10$ |
-|  xx | Einbringen von Fachwissen der Spezialisten    |       $10$ |
-|  xx | Kommunikation im Team                         |       $10$ |
-|  xx | ruhige Aufnahmesituation für Laiendarsteller  |       $10$ |
-|  xx | Aufgabenbeschreibung für Laiendarsteller      |       $10$ |
-|  xx | Geringe Beteiligung von Laiendarsteller       |       $10$ |
+| Nr. | Anforderung                                         | Gewichtung |
+|----:|-----------------------------------------------------|-----------:|
+|  xx | Geringe finanzielle Kosten                          |       $10$ |
+|  xx | Kostentransparenz                                   |       $10$ |
+|  xx | Mitgestalten des Kunden                             |       $10$ |
+|  xx | Kommunikation über Projektstatus                    |       $10$ |
+|  xx | Kommunikation über nächste Schritte                 |       $10$ |
+|  xx | Laienkonforme Präsentation Zwischenergebnisse       |       $10$ |
+|  xx | Schnelle Fertigstellung                             |       $10$ |
+|  xx | Wenig Kosten für Material und Technik               |       $10$ |
+|  xx | Hohe Qualität                                       |       $10$ |
+|  xx | Effiziente Arbeit des Teams                         |       $10$ |
+|  xx | Geringer Aufwand für Verwaltung des Vorgehens       |       $10$ |
+|  xx | Werkzeuge für das Anforderungsmanagement            |       $10$ |
+|  xx | Geregeltes Umfeld                                   |       $10$ |
+|  xx | Einbringen von Fachwissen der Spezialisten          |       $10$ |
+|  xx | Kommunikation im Team                               |       $10$ |
+|  xx | ruhige Aufnahmesituation für Laiendarsteller        |       $10$ |
+|  xx | Aufgabenbeschreibung für Laiendarsteller            |       $10$ |
+|  xx | Geringe Beteiligung von Laiendarsteller             |       $10$ |
+|  xx | Integration der Spezialisten in das gesamte Projekt |       $10$ |
+|  xx | Feedback und Mitgestaltung des Kunden               |       $10$ |
+|  xx | Direkte Kommunikation zwischen Team und Kunde       |       $10$ |
+|  xx | Direkte Kommunikation innerhalb des Teams           |       $10$ |
+|  xx | Persistente & asynchrone Kommunikation (Kunde & Team) |       $10$ |
+|  xx | Schnelle Klärung von kurzfristigen Fragen des Teams   |       $10$ |
+|  xx | Geringer finanzieller Aufwand für Mitarbeiter         |       $10$ |
+|  xx | Genügend Kapazität, um Anforderungen zu genügen       |       $10$ |
+|  xx | Früher Entwurf des Filmkonzepts                       |       $10$ |
+|  xx | asd |       $10$ |
+|  xx | asd |       $10$ |
+|  xx | asd |       $10$ |
+|  xx | asd |       $10$ |
+|  xx | asd |       $10$ |
+|  xx | asd |       $10$ |
