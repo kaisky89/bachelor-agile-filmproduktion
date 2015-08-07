@@ -270,10 +270,11 @@ Table: Analyse der Persona Robert Bach
 
 ## Auflistung und Gewichtung aller Anforderungen
 
-Im Folgenden sollen alle gesammelten Anforderungen übersichtlich dargestellt werden und eine Gewichtung dieser Anforderungen vorgenommen werden. Dies stellt die Tabelle \ref{} dar. Die Gewichtung wird 
+Im Folgenden sollen alle gesammelten Anforderungen übersichtlich dargestellt werden und eine Gewichtung dieser Anforderungen vorgenommen werden. Dies stellt die Tabelle \ref{} dar. Die Gewichtung ist eine Zahl zwischen $1$ (sehr wichtig) und $10$ (sehr wichtig).
 
 Table: Auflistung und Gewichtung aller Anforderungen
 
-| Nr. | Anforderung | Gewichtung |
-|----:|-------------|------------|
-| 1 |
+| Nr. | Anforderung                | Gewichtung |
+|----:|----------------------------|------------|
+|   1 | Geringe finanzielle Kosten |       $10$ |
+|   2 | Geringe finanzielle Kosten |       $10$ |
