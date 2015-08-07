@@ -4,11 +4,15 @@ title: Auswertung
 
 # Anforderungen
 
-## Welche Anforderungen wurden erfüllt?
+Der Entwurf des Vorgehensmodells kann nun mit Anhand der in Kapitel \ref{Entwurf eines agilen Vorgehensmodells} entwickelten Anforderungen ausgewertet werden. Hierfür sollen die Anforderungen zuerst einzeln betrachtet werden, um zu diskutieren, inwiefern diese erfüllt worden sind. Danach werden die Ergebnisse dieser Diskussion in einer Tabelle zur Übersicht dargestellt.
 
-## Welche Anforderungen wurden nicht erfüllt?
+## Anforderungen aus der Stakeholderanalyse
 
-## Gibt es Anforderungen, die bisher nicht betrachtet wurden?
+### Geschäftsführung des Kunden
+
+#### Geringe Kosten für die Erstellung des Imagefilms
+
+Die wirtschaftlichen Faktoren wie Kostenschätzung und Kostenfaktoren wurden bei dem Entwurf nicht direkt betrachtet. Es gibt
 
 
 # Methoden
