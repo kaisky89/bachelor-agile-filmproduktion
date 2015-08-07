@@ -81,6 +81,16 @@ Hier spielt der Faktor Qualität eine Rolle.
 
 Außerdem könnte durch die frühe Integration des ganzen Team eine effektive und schnelle Konzipierung bringen
 
+## Anforderungen der Kategorie Finanzielles
+
+Die Wirtschaftlichkeit stand in den bisherigen Betrachtungen nicht im Vordergrund. Das Vorgehensmodell basiert aber auf der Annahme, dass wenn das Team effizient Arbeiten kann und die Anforderungen des Kunden klar sind, die gelieferte Qualität den wirtschaftlichen Aufwand in jedem Fall rechtfertigt.
+
+### F01: Kostentransparenz
+
+### F02: Geringe finanzielle Kosten
+
+> "Kamerateams werden üblicher Weise nicht wie ein Autor oder Regisseur für einen Film, sondern nach Einsatztagen oder -stunden berechnet. Ihre Einsatzzeiten sollen daher möglichst gering gehalten werden. Von redaktioneller Seite aus gesehen wäre es häufig wünschenswert, eine engere und vor allem frühere Zusammenarbeit herzustellen, um das Know­How der Gewerke schon früh in die Planung und Umsetzung mit einzubeziehen. Mutmaßlich würde eine engere Kooperation häufig sogar wirtschaftliche Effekte erzielen." \cite{jacobs2015prozess}
+
 
 
 # Methoden
