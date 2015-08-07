@@ -187,13 +187,8 @@ Nach der Konzipierung geht es an die Produktion. Dafür engagiert Robert ein Tea
 
 In der Stakeholderanalyse konnten viele Anforderungen identifiziert werden. Diese werden in der Tabelle noch einmal zusammengefasst. Aus Gründen der Übersicht werden dabei folgende Abkürzungen benutzt:
 
-AG
-
-:  Auftraggeber, Kunde
-
-AN
-
-: Auftragnehmer, Filmproduktionsunternehmen
+- **AG**: Auftraggeber, Kunde
+- **AN**: Auftragnehmer, Filmproduktionsunternehmen
 
 Table: Zusammenfassung der Stakeholderanalyse
 
@@ -205,22 +200,21 @@ Table: Zusammenfassung der Stakeholderanalyse
 |   4 | AG: Ansprechpartner  | Kommunikation über den Stand des Projekts              |
 |   5 |                      | Kommunikation über die nächsten Schritte des Teams     |
 |   6 |                      | Laienkonforme Präsentation von Filmideen               |
-|   7 |                      | Kostentransparenz: Gesamteinschätzung & Aktualisierung |
-|   8 | AN: Geschäftsführung | Schnelle Fertigstellung des Projekts                   |
-|   9 |                      | Wenig Kosten für Material und Technik                  |
-|  10 |                      | Hohe Qualität des Imagefilms                           |
-|  11 |                      | Grober Einblick in das Projekt: Wie viel Kosten?       |
-|  12 | AN: Projektteam      | Effektive und Effiziente Arbeit                        |
-|  13 |                      | geringer Aufwand für Verwaltung des Vorgehens          |
-|  14 |                      | Werkzeuge für das Anforderungsmanagement               |
-|  15 |                      | Geregeltes Umfeld                                      |
-|  16 |                      | Fachwissen der Spezialisten in das Projekt einbringen  |
-|  17 |                      | Wissenstransfer / Kommunikation im Team                |
-|  18 | Laiendarsteller      | entspannte Aufnahmesituation                           |
-|  19 |                      | Schilderung der darzustellenden Leistung               |
-|  20 |                      | Größere Beteiligung in das Projekt ist zu vermeiden    |
-|  21 |                      | Wenig Zeit, die vom Darsteller beansprucht wird        |
-|  22 |                      | Darsteller erfährt, was mit dem Bildmaterial geschieht |
+|   7 | AN: Geschäftsführung | Schnelle Fertigstellung des Projekts                   |
+|   8 |                      | Wenig Kosten für Material und Technik                  |
+|   9 |                      | Hohe Qualität des Imagefilms                           |
+|  10 |                      | Grober Einblick in das Projekt: Wie viel Kosten?       |
+|  11 | AN: Projektteam      | Effektive und Effiziente Arbeit                        |
+|  12 |                      | geringer Aufwand für Verwaltung des Vorgehens          |
+|  13 |                      | Werkzeuge für das Anforderungsmanagement               |
+|  14 |                      | Geregeltes Umfeld                                      |
+|  15 |                      | Fachwissen der Spezialisten in das Projekt einbringen  |
+|  16 |                      | Wissenstransfer / Kommunikation im Team                |
+|  17 | Laiendarsteller      | entspannte Aufnahmesituation                           |
+|  18 |                      | Schilderung der darzustellenden Leistung               |
+|  19 |                      | Größere Beteiligung in das Projekt ist zu vermeiden    |
+|  20 |                      | Wenig Zeit, die vom Darsteller beansprucht wird        |
+|  21 |                      | Darsteller erfährt, was mit dem Bildmaterial geschieht |
 
 ## Analyse der Personae
 
@@ -234,14 +228,14 @@ Table: Analyse der Persona Ralf Müller
 
 | Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
 |----:|----------|------------------|------------------|
-| 23 | Ralf macht nur den Schnitt |  | Keine große Integration in das Projekt |
-| 24 | Ralf bekommt Feedback vom Kunden und Vorgesetzten nach seinem Arbeitstag | Feedback Mechanismus vorhanden, Kunde hat Einfluss auf Ergebnisse des Films |  |
-| 25 | | | Keine direkte Kommunikation: Ralf kommuniziert für das Feedback nur über Email |
-| 26 | Ralf ist nicht im Büro der Filmabteilung |  | Erschwert "osmotische Kommunikation" |
-| 27 | Ralf kommuniziert über Email | Kommunikation ist persistent und asynchron, lässt sich zurückverfolgen |  |
-| 28 | | | Viele Details werden nicht besprochen |
-| 29 | Vorgesetzter benutzt manchmal "Face to Face Briefing" | Klare und direkte Kommunikation, Rückfragen werden sofort geklärt |  |
-| 30 | Ralf ist sich oft in Gestaltungsentscheidungen unsicher, entscheidet dann selbst und hofft darauf, den Erwartungen zu entsprechen  |  | Keine Möglichkeit, schnell Einzelheiten mit den Verantwortlichen zu klären |
+| 22 | Ralf macht nur den Schnitt |  | Keine große Integration in das Projekt |
+| 23 | Ralf bekommt Feedback vom Kunden und Vorgesetzten nach seinem Arbeitstag | Feedback Mechanismus vorhanden, Kunde hat Einfluss auf Ergebnisse des Films |  |
+| 24 | | | Keine direkte Kommunikation: Ralf kommuniziert für das Feedback nur über Email |
+| 25 | Ralf ist nicht im Büro der Filmabteilung |  | Erschwert "osmotische Kommunikation" |
+| 26 | Ralf kommuniziert über Email | Kommunikation ist persistent und asynchron, lässt sich zurückverfolgen |  |
+| 27 | | | Viele Details werden nicht besprochen |
+| 28 | Vorgesetzter benutzt manchmal "Face to Face Briefing" | Klare und direkte Kommunikation, Rückfragen werden sofort geklärt |  |
+| 29 | Ralf ist sich oft in Gestaltungsentscheidungen unsicher, entscheidet dann selbst und hofft darauf, den Erwartungen zu entsprechen  |  | Keine Möglichkeit, schnell Einzelheiten mit den Verantwortlichen zu klären |
 
 
 ### Thorsten Nadel, Filmproduktion als Nebengewerbe {#anforderungen-analyse-personae-thorsten}
@@ -252,9 +246,9 @@ Table: Analyse der Persona Thorsten Nadel
 
 | Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
 |----:|----------|------------------|------------------|
-| 31 | Thorsten macht alle Filme alleine | Kein finanzieller Aufwand für zusätzliche Mitarbeiter |  |
-| 32| | | Schnelle Überforderung, wenig Kapazitäten |
-| 33 | Thorsten fühlt sich überfordert, den Imagefilm vor dem Dreh zu inszenieren und zu planen |  | Konzept entsteht erst nach dem Dreh, keine Möglichkeiten des Feedbacks |
+| 30 | Thorsten macht alle Filme alleine | Kein finanzieller Aufwand für zusätzliche Mitarbeiter |  |
+| 31| | | Schnelle Überforderung, wenig Kapazitäten |
+| 32 | Thorsten fühlt sich überfordert, den Imagefilm vor dem Dreh zu inszenieren und zu planen |  | Konzept entsteht erst nach dem Dreh, keine Möglichkeiten des Feedbacks |
 
 ### Robert Bach, eigene TV Produktionsfirma {#anforderungen-analyse-personae-robert}
 
@@ -264,12 +258,12 @@ Table: Analyse der Persona Robert Bach
 
 | Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
 |----:|----------|------------------|------------------|
-| 34 | Robert engagiert Spezialisten aus den verschiedenen Gewerken | Er kann sich auf das Wesentliche konzentrieren |  |
-| 35 | Robert klärt Rahmenbedingungen, plant und konzipiert | Gezieltes Vorgehen, Aussage des Films wird nicht improvisiert |  |
-| 36 | Robert präsentiert dem Kunden ein Treatment | Möglichkeit, noch vor der Produktion Feedback zu bekommen |  |
-| 37 | | | Verständnisprobleme für Laien bei Dokumenten wie Treatment |
-| 38 | Robert arbeitet in der Konzeption allein |  | Kein Ausnutzen des Fachwissens der Spezialisten während der Konzeption |
-| 39 | Robert weist sein Team erst in der Phase der Produktion ein |  | Risiko, dass Details nicht verstanden werden |
+| 33 | Robert engagiert Spezialisten aus den verschiedenen Gewerken | Er kann sich auf das Wesentliche konzentrieren |  |
+| 34 | Robert klärt Rahmenbedingungen, plant und konzipiert | Gezieltes Vorgehen, Aussage des Films wird nicht improvisiert |  |
+| 35 | Robert präsentiert dem Kunden ein Treatment | Möglichkeit, noch vor der Produktion Feedback zu bekommen |  |
+| 36 | | | Verständnisprobleme für Laien bei Dokumenten wie Treatment |
+| 37 | Robert arbeitet in der Konzeption allein |  | Kein Ausnutzen des Fachwissens der Spezialisten während der Konzeption |
+| 38 | Robert weist sein Team erst in der Phase der Produktion ein |  | Risiko, dass Details nicht verstanden werden |
 
 
 ## Zusammenführung und Gewichtung aller Anforderungen
@@ -280,8 +274,8 @@ Table: Auflistung und Gewichtung aller Anforderungen
 
 | Nr. | Ursprung | Anforderung                                          | Gewichtung |
 |----:|----------|------------------------------------------------------|-----------:|
-|  xx | 1, 9, 31 |Geringe finanzielle Kosten                            |       $10$ |
-|  xx |   xx, xx |Kostentransparenz                                     |       $10$ |
+|  xx | 1, 8, 30 |Geringe finanzielle Kosten                            |       $10$ |
+|  xx | 2 |Kostentransparenz                                     |       $10$ |
 |  xx |   xx, xx |Mitgestalten des Kunden                               |       $10$ |
 |  xx |   xx, xx |Kommunikation über Projektstatus                      |       $10$ |
 |  xx |   xx, xx |Kommunikation über nächste Schritte                   |       $10$ |
