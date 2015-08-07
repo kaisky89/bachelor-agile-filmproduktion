@@ -268,11 +268,12 @@ Table: Analyse der Persona Robert Bach
 
 ## Zusammenführung, Kategorisierung und Gewichtung aller Anforderungen
 
-Im Folgenden sollen alle gesammelten Anforderungen übersichtlich dargestellt werden und eine Gewichtung dieser Anforderungen vorgenommen werden. Dies stellt die Tabelle \ref{Auflistung und Gewichtung aller Anforderungen} dar. Die Gewichtung ist eine Zahl zwischen $1$ (sehr wichtig) und $10$ (sehr wichtig). Anforderungen sind sortiert in die Kategorien 
-*Kunde* (siehe Tabelle \ref{Anforderungen der Kategorie Kunde}), 
-*Finanzielles* (siehe Tabelle \ref{Anforderungen der Kategorie Finanzielles}), 
-*Team* (siehe Tabelle \ref{Anforderungen der Kategorie Team}) und 
-*Anderes* (siehe Tabelle \ref{Anforderungen der Kategorie Anderes}).
+Im Folgenden sollen alle gesammelten Anforderungen übersichtlich dargestellt werden und eine Gewichtung dieser Anforderungen vorgenommen werden. Die Gewichtung ist eine Zahl zwischen $1$ (sehr wichtig) und $10$ (sehr wichtig). Anforderungen sind sortiert in die Kategorien 
+
+- *Kunde* (siehe Tabelle \ref{Anforderungen der Kategorie Kunde}), 
+- *Finanzielles* (siehe Tabelle \ref{Anforderungen der Kategorie Finanzielles}), 
+- *Team* (siehe Tabelle \ref{Anforderungen der Kategorie Team}) und 
+- *Anderes* (siehe Tabelle \ref{Anforderungen der Kategorie Anderes}).
 
 Table: Anforderungen der Kategorie Kunde
 
@@ -289,29 +290,29 @@ Table: Anforderungen der Kategorie Team
 
 | Nr. | Ursprung | Anforderung                                          | Gewichtung |
 |----:|----------|------------------------------------------------------|-----------:|
-|  xx |   32, 34 |Zielgerichtetes Planen und Handeln                    |       $10$ |
-|  xx |16, 25, 26, \newline 27, 28, 38 |Kommunikation im Team           |        $9$ |
-|  xx |15, 22, 33, \newline 37|Einbringen von Fachwissen der Spezialisten|       $8$ |
-|  xx |       13 |Werkzeuge für das Anforderungsmanagement              |        $8$ |
-|  xx | 1, 7, 11 |Schnelle Fertigstellung des Projekts                  |        $7$ |
-|  xx |       31 |Genügend Kapazität, um Anforderungen zu genügen       |        $5$ |
-|  xx |       12 |Geringer Aufwand für Verwaltung des Vorgehens         |        $5$ |
-|  xx |       14 |Geregeltes Umfeld                                     |        $3$ |
+| T01 |   32, 34 |Zielgerichtetes Planen und Handeln                    |       $10$ |
+| T02 |16, 25, 26, \newline 27, 28, 38 |Kommunikation im Team           |        $9$ |
+| T03 |15, 22, 33, \newline 37|Einbringen von Fachwissen der Spezialisten|       $8$ |
+| T04 |       13 |Werkzeuge für das Anforderungsmanagement              |        $8$ |
+| T05 | 1, 7, 11 |Schnelle Fertigstellung des Projekts                  |        $7$ |
+| T06 |       31 |Genügend Kapazität, um Anforderungen zu genügen       |        $5$ |
+| T07 |       12 |Geringer Aufwand für Verwaltung des Vorgehens         |        $5$ |
+| T08 |       14 |Geregeltes Umfeld                                     |        $3$ |
 
 Table: Anforderungen der Kategorie Finanzielles
 
 | Nr. | Ursprung | Anforderung                                          | Gewichtung |
 |----:|----------|------------------------------------------------------|-----------:|
-|  xx |    2, 11 |Kostentransparenz                                     |        $8$ |
-|  xx | 1, 8, 30 |Geringe finanzielle Kosten                            |        $5$ |
+| F01 |    2, 11 |Kostentransparenz                                     |        $8$ |
+| F02 | 1, 8, 30 |Geringe finanzielle Kosten                            |        $5$ |
 
 
 Table: Anforderungen der Kategorie Anderes
 
 | Nr. | Ursprung | Anforderung                                          | Gewichtung |
 |----:|----------|------------------------------------------------------|-----------:|
-|  xx |        9 |Hohe Qualität des Imagefilms                          |        $8$ |
-|  xx |       18 |Aufgabenbeschreibung für Laiendarsteller              |        $7$ |
-|  xx |   19, 20 |Geringe Beteiligung von Laiendarsteller               |        $5$ |
-|  xx |       17 |ruhige Aufnahmesituation für Laiendarsteller          |        $5$ |
-|  xx |       21 |Darsteller erfährt, was mit Bildmaterial geschieht    |        $4$ |
+| A01 |        9 |Hohe Qualität des Imagefilms                          |        $8$ |
+| A02 |       18 |Aufgabenbeschreibung für Laiendarsteller              |        $7$ |
+| A03 |   19, 20 |Geringe Beteiligung von Laiendarsteller               |        $5$ |
+| A04 |       17 |ruhige Aufnahmesituation für Laiendarsteller          |        $5$ |
+| A05 |       21 |Darsteller erfährt, was mit Bildmaterial geschieht    |        $4$ |
