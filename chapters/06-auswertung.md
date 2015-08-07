@@ -12,20 +12,16 @@ Für die eine detaillierte Betrachtung werden im Folgenden nur Anforderungen ben
 
 ### K01: Laienkonforme Präsentation der Zwischenergebnisse
 
-Die größte Anforderung von Seiten des Kunden ist eine Präsentation der Zwischenergebnisse, die der Kunde versteht. Diese Anforderung besteht aus den Teilanforderungen, 
-
-1. dass dem Ansprechpartner des Kunden die Filmideen auf verständliche Weise präsentiert werden,
-2. dass dem Laiendarsteller die sarzustellende Leistung geschildert wird,
-3. dass der Laiendarsteller erfährt, was mit dem Bildmaterial geschieht und
-4. dass der Kunde die Möglichkeit hat, Einfluss auf die Ergebnisse des Films nehmen zu können.
-
-Folgende Elemente des Vorgehensmodells sorgen für eine Umsetzung dieser Anforderung:
+Die größte Anforderung von Seiten des Kunden ist eine Präsentation der Zwischenergebnisse, die der Kunde versteht. Folgende Elemente des Vorgehensmodells sorgen für eine Umsetzung dieser Anforderung:
 
 - Der Wert *Kommunikation* (siehe Abschnitt \ref{entwurf-werte-kommunikation}): Das Vorgehensmodell vertritt den agilen Ansatz, den Kunden mit in das Projektgeschehen zu integrieren. Der Kunde ist Teil des Projekts, mit der Zeit versteht er die Ansätze, die das Team verfolgt und auch die Probleme, mit denen es konfrontiert wird. Es wächst ein gemeinsames Verständnis heran.
 - Der Ablauf in *Sprints* (siehe Abschnitt \ref{entwurf-ablauf-sprint}): Durch den iterativen Entwicklungsansatz, der in dem Vorgehensmodell verfolgt wird, ist es dem Kunden möglich, Ergebnisse schon während der Entwicklung zu sehen.
-- Die Aktivität *Sprintreview* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}): Durch die explizite Präsentation der *Sprintergebnisse* (siehe Abschnitt \ref{}) und des wachsenden Films
+- Die Aktivität *Sprintreview* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}): Durch die explizit geforderte Präsentation der *Sprintergebnisse* (siehe Abschnitt \ref{entwurf-artefakte-sprintergebnisse}) und des *wachsenden Films* (siehe Abschnitt \ref{entwurf-artefakte-wachsender-film}) wird der Kunde regelmäßig über den aktuellen Stand informiert.
+- Die Technik der *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}): Die schnelle Produktion und Präsentation von Beispielfilmen, die zwar noch nicht publikationsreif sind, aber den Kern der Idee des Teams zeigen, hilft dem Kunden, zu verstehen, was das Team geleistet hat. Der Kunde muss sich nicht mit schwer zu verstehenden Dokumenten auseinandersetzen.
 
-Durch die Technik der *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}), den Artefakten Sprintergebnisse (siehe Abschnitt \ref{entwurf-artefakte-sprintergebnisse}) und
+### K02: Kommunikation des Projektstatus an Außenstehende
+
+Mehrere Stakeholder haben ein Interesse daran, den aktuellen Status des Projekts zu kennen. Dies ist für die Geschäftsführung auf Seiten des Kunden wie auch auf Seiten des Unternehmens wichtig, um Kostentransparenz zu schaffen. Aber auch der Ansprechpartner auf S
 
 
 
