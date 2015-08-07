@@ -25,7 +25,7 @@
   },
   {
     "regex": "#\\\\begin{longtable}\\[c\\]{@{}rllr@{}}#",
-    "replace": "\\\\begin{longtable}[c]{m{.5cm}>{\\\\raggedright \\\\arraybackslash}p{2.0cm}m{8.5cm}m{2cm}}"
+    "replace": "\\\\begin{longtable}[c]{m{.5cm}>{\\\\raggedright \\\\arraybackslash}p{2.0cm}m{8.5cm}m{1.8cm}}"
   },
   {
     "regex": "#\\\\\\\\\\\\addlinespace#",
