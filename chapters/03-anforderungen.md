@@ -227,6 +227,34 @@ Table: Analyse der Persona Robert Bach
 | 3 | Robert präsentiert dem Kunden ein Treatment | Möglichkeit, noch vor der Produktion Feedback zu bekommen | Verständnisprobleme für Laien bei Dokumenten wie Treatment |
 | 4 | Robert weist sein Team erst in der Phase der Produktion ein |  | Risiko, dass Details nicht verstanden werden. Kein Ausnutzen des Fachwissens der Spezialisten während der Konzeption |
 
+## Zusammenfassung der Stakeholderanalyse
+
+Auch in der Stakeholderanalyse konnten viele Anforderungen identifiziert werden. Diese werden hier noch einmal zusammengefasst:
+
+- Geschäftsführung des Kunden
+	- Geringe Kosten für die Erstellung des Imagefilms
+	- Kostentransparenz: Kalkulierbare Gesamteinschätzung der Kosten und schnelles Informieren bei Änderung dieser
+- Marketing des Kunden
+	- Mitgestalten des Imagefilms
+- Ansprechpartner des Kunden
+	- Klare und präzise Kommunikation über den Stand des Projekts
+	- über die nächsten Schritte des Teams Bescheid wissen
+	- Laienkonforme Präsentation von Filmideen
+
+<!-- -->
+
+- Geschäftsführung des Unternehmens
+	- Schnelle Fertigstellung des Projekts
+	- Wenig Kosten für Material und Technik
+	- Hohe Qualität des Imagefilms
+	- Grober Einblick in das Projekt: Wie viel Kosten?
+- Projektteam des Unternehmens
+	- Effektive und Effiziente Arbeit
+	- geringer Aufwand für Verwaltung des Vorgehens
+	- Werkzeuge für das Anforderungsmanagement
+	- Geregeltes Umfeld
+	- Fachwissen der Spezialisten in das Projekt mit einbringen
+	- 
 
 
 ## Pre Production
