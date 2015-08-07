@@ -12,9 +12,18 @@ Für die eine detaillierte Betrachtung werden im Folgenden nur Anforderungen ben
 
 ### K01: Laienkonforme Präsentation der Zwischenergebnisse
 
-6, 18, 21,23, 36
+Die größte Anforderung von Seiten des Kunden ist eine Präsentation der Zwischenergebnisse, die der Kunde versteht. Diese Anforderung besteht aus den Teilanforderungen, 
 
-Die größte Anforderung von Seiten des Kunden ist eine Präsentation der Zwischenergebnisse, die der Kunde versteht. Diese Anforderung besteht aus den Teilanforderungen, dass dem Ansprechpartner des Kunden die Filmideen auf verständliche Weise präsentiert werden.
+1. dass dem Ansprechpartner des Kunden die Filmideen auf verständliche Weise präsentiert werden,
+2. dass dem Laiendarsteller die sarzustellende Leistung geschildert wird,
+3. dass der Laiendarsteller erfährt, was mit dem Bildmaterial geschieht und
+4. dass der Kunde die Möglichkeit hat, Einfluss auf die Ergebnisse des Films nehmen zu können.
+
+Folgende Elemente des Vorgehensmodells sorgen für eine Umsetzung dieser Anforderung:
+
+Durch den iterativen Entwicklungsansatz, der in dem Vorgehensmodell verfolgt wird, ist es dem Kunden möglich, immer wieder in den *großen Sprintreviews* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}) den momentanen Zwischenstand des Projektes zu sehen. 
+
+Durch die Technik der *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}), den Artefakten Sprintergebnisse (siehe Abschnitt \ref{entwurf-artefakte-sprintergebnisse}) und
 
 
 
