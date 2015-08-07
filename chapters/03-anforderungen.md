@@ -275,28 +275,28 @@ Table: Auflistung und Gewichtung aller Anforderungen
 | Nr. | Ursprung | Anforderung                                          | Gewichtung |
 |----:|----------|------------------------------------------------------|-----------:|
 |  xx | 1, 8, 30 |Geringe finanzielle Kosten                            |       $10$ |
-|  xx | 2 |Kostentransparenz                                     |       $10$ |
-|  xx |   xx, xx |Mitgestalten des Kunden                               |       $10$ |
-|  xx |   xx, xx |Kommunikation über Projektstatus                      |       $10$ |
-|  xx |   xx, xx |Kommunikation über nächste Schritte                   |       $10$ |
-|  xx |   xx, xx |Laienkonforme Präsentation Zwischenergebnisse         |       $10$ |
-|  xx |   xx, xx |Schnelle Fertigstellung                               |       $10$ |
-|  xx |   xx, xx |Wenig Kosten für Material und Technik                 |       $10$ |
-|  xx |   xx, xx |Hohe Qualität                                         |       $10$ |
-|  xx |   xx, xx |Effiziente Arbeit des Teams                           |       $10$ |
-|  xx |   xx, xx |Geringer Aufwand für Verwaltung des Vorgehens         |       $10$ |
-|  xx |   xx, xx |Werkzeuge für das Anforderungsmanagement              |       $10$ |
-|  xx |   xx, xx |Geregeltes Umfeld                                     |       $10$ |
-|  xx |   xx, xx |Einbringen von Fachwissen der Spezialisten            |       $10$ |
-|  xx |   xx, xx |Kommunikation im Team                                 |       $10$ |
-|  xx |   xx, xx |ruhige Aufnahmesituation für Laiendarsteller          |       $10$ |
-|  xx |   xx, xx |Aufgabenbeschreibung für Laiendarsteller              |       $10$ |
-|  xx |   xx, xx |Geringe Beteiligung von Laiendarsteller               |       $10$ |
-|  xx |   xx, xx |Integration der Spezialisten in das gesamte Projekt   |       $10$ |
-|  xx |   xx, xx |Feedback und Mitgestaltung des Kunden                 |       $10$ |
-|  xx |   xx, xx |Direkte Kommunikation zwischen Team und Kunde         |       $10$ |
-|  xx |   xx, xx |Direkte Kommunikation innerhalb des Teams             |       $10$ |
-|  xx |   xx, xx |Persistente & asynchrone Kommunikation (Kunde & Team) |       $10$ |
+|  xx |    2, 11 |Kostentransparenz                                     |       $10$ |
+|  xx | 3, 23, 35|Mitgestalten des Kunden                               |       $10$ |
+|  xx |2, 4, 5, 10, 23|Kommunikation des Projektstatus an Außenstehende |       $10$ |
+|  xx |6, 18, 21, 23, 36|Laienkonforme Präsentation der Zwischenergebnisse|     $10$ |
+|  xx | 1, 7, 11 |Schnelle Fertigstellung des Projekts                  |       $10$ |
+|  xx |        8 |Wenig Kosten für Material und Technik                 |       $10$ |
+|  xx |        9 |Hohe Qualität                                         |       $10$ |
+|  xx |       11 |Effiziente Arbeit des Teams                           |       $10$ |
+|  xx |       12 |Geringer Aufwand für Verwaltung des Vorgehens         |       $10$ |
+|  xx |       13 |Werkzeuge für das Anforderungsmanagement              |       $10$ |
+|  xx |       14 |Geregeltes Umfeld                                     |       $10$ |
+|  xx |       15 |Einbringen von Fachwissen der Spezialisten            |       $10$ |
+|  xx |       16 |Kommunikation im Team                                 |       $10$ |
+|  xx |       17 |ruhige Aufnahmesituation für Laiendarsteller          |       $10$ |
+|  xx |       18 |Aufgabenbeschreibung für Laiendarsteller              |       $10$ |
+|  xx |   19, 20 |Geringe Beteiligung von Laiendarsteller               |       $10$ |
+|  xx |       21 |Darsteller erfährt, was mit Bildmaterial geschieht    |       $10$ |
+|  xx |       22 |Integration der Spezialisten in das gesamte Projekt   |       $10$ |
+|  xx |       23 |Feedback und Mitgestaltung des Kunden                 |       $10$ |
+|  xx |       24 |Direkte Kommunikation zwischen Team und Kunde         |       $10$ |
+|  xx |   25, 27 |Direkte Kommunikation innerhalb des Teams             |       $10$ |
+|  xx |       26 |Persistente & asynchrone Kommunikation (Kunde & Team) |       $10$ |
 |  xx |   xx, xx |Schnelle Klärung von kurzfristigen Fragen des Teams   |       $10$ |
 |  xx |   xx, xx |Geringer finanzieller Aufwand für Mitarbeiter         |       $10$ |
 |  xx |   xx, xx |Genügend Kapazität, um Anforderungen zu genügen       |       $10$ |
