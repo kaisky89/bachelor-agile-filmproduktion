@@ -266,3 +266,14 @@ Table: Analyse der Persona Robert Bach
 | 3 | Robert präsentiert dem Kunden ein Treatment | Möglichkeit, noch vor der Produktion Feedback zu bekommen | Verständnisprobleme für Laien bei Dokumenten wie Treatment |
 | 4 | Robert arbeitet in der Konzeption allein |  | Kein Ausnutzen des Fachwissens der Spezialisten während der Konzeption |
 | 5 | Robert weist sein Team erst in der Phase der Produktion ein |  | Risiko, dass Details nicht verstanden werden |
+
+
+## Auflistung und Gewichtung aller Anforderungen
+
+Im Folgenden sollen alle gesammelten Anforderungen übersichtlich dargestellt werden und eine Gewichtung dieser Anforderungen vorgenommen werden. Dies stellt die Tabelle \ref{} dar. Die Gewichtung wird 
+
+Table: Auflistung und Gewichtung aller Anforderungen
+
+| Nr. | Anforderung | Gewichtung |
+|----:|-------------|------------|
+| 1 |
