@@ -183,9 +183,48 @@ Nach der Konzipierung geht es an die Produktion. Dafür engagiert Robert ein Tea
 
 # Anforderungen
 
+## Zusammenfassung der Stakeholderanalyse
+
+In der Stakeholderanalyse konnten viele Anforderungen identifiziert werden. Diese werden hier noch einmal zusammengefasst:
+
+- **Geschäftsführung des Kunden**
+	- Geringe Kosten für die Erstellung des Imagefilms
+	- Kostentransparenz: Kalkulierbare Gesamteinschätzung der Kosten und schnelles Informieren bei Änderung dieser
+- **Marketing des Kunden**
+	- Mitgestalten des Imagefilms
+- **Ansprechpartner des Kunden**
+	- Klare und präzise Kommunikation über den Stand des Projekts
+	- über die nächsten Schritte des Teams Bescheid wissen
+	- Laienkonforme Präsentation von Filmideen
+
+<!-- -->
+
+- **Geschäftsführung des Unternehmens**
+	- Schnelle Fertigstellung des Projekts
+	- Wenig Kosten für Material und Technik
+	- Hohe Qualität des Imagefilms
+	- Grober Einblick in das Projekt: Wie viel Kosten?
+- **Projektteam des Unternehmens**
+	- Effektive und Effiziente Arbeit
+	- geringer Aufwand für Verwaltung des Vorgehens
+	- Werkzeuge für das Anforderungsmanagement
+	- Geregeltes Umfeld
+	- Fachwissen der Spezialisten in das Projekt mit einbringen
+	- Wissenstransfer / Kommunikation im Team
+
+<!-- -->
+
+- **Laiendarsteller**
+	- entspannte Aufnahmesituation
+	- darstellende Leistung in einem angemessenen Umfang erklären
+	- Größere Beteiligung in das Projekt ist zu vermeiden
+	- Wenig Zeit, die beansprucht wird
+	- erfahren, was mit dem Bildmaterial geschieht
+
+
 ## Analyse der Personae
 
-Aus den entwickelten Personae soll nun, auf Basis der Beschreibung, wie sie arbeiten, eine Analyse erstellt werden, was positive und was negative Aspekte in der momentanen Situation sind. Daraus ergeben sich die primären Anforderungen für das zu entwickelnde Vorgehensmodell: Die positiven Aspekte sollten beibehalten werden, die Negativen Aspekte beseitigt oder verbessert werden.
+Aus den entwickelten Personae soll - auf Basis der Beschreibung, wie sie arbeiten - eine Analyse erstellt werden, was positive und was negative Aspekte in der momentanen Situation sind. Daraus ergeben sich die primären Anforderungen für das zu entwickelnde Vorgehensmodell: Die positiven Aspekte sollten beibehalten werden, die Negativen Aspekte beseitigt oder verbessert werden.
 
 ### Ralf Müller, Werksstudent einer Medienagentur {#anforderungen-analyse-personae-ralf}
 
@@ -225,57 +264,5 @@ Table: Analyse der Persona Robert Bach
 | 1 | Robert engagiert Spezialisten aus den verschiedenen Gewerken | Er kann sich auf das Wesentliche konzentrieren |  |
 | 2 | Robert klärt Rahmenbedingungen, plant und konzipiert | Gezieltes Vorgehen, Aussage des Films wird nicht improvisiert |  |
 | 3 | Robert präsentiert dem Kunden ein Treatment | Möglichkeit, noch vor der Produktion Feedback zu bekommen | Verständnisprobleme für Laien bei Dokumenten wie Treatment |
-| 4 | Robert weist sein Team erst in der Phase der Produktion ein |  | Risiko, dass Details nicht verstanden werden. Kein Ausnutzen des Fachwissens der Spezialisten während der Konzeption |
-
-## Zusammenfassung der Stakeholderanalyse
-
-Auch in der Stakeholderanalyse konnten viele Anforderungen identifiziert werden. Diese werden hier noch einmal zusammengefasst:
-
-- Geschäftsführung des Kunden
-	- Geringe Kosten für die Erstellung des Imagefilms
-	- Kostentransparenz: Kalkulierbare Gesamteinschätzung der Kosten und schnelles Informieren bei Änderung dieser
-- Marketing des Kunden
-	- Mitgestalten des Imagefilms
-- Ansprechpartner des Kunden
-	- Klare und präzise Kommunikation über den Stand des Projekts
-	- über die nächsten Schritte des Teams Bescheid wissen
-	- Laienkonforme Präsentation von Filmideen
-
-<!-- -->
-
-- Geschäftsführung des Unternehmens
-	- Schnelle Fertigstellung des Projekts
-	- Wenig Kosten für Material und Technik
-	- Hohe Qualität des Imagefilms
-	- Grober Einblick in das Projekt: Wie viel Kosten?
-- Projektteam des Unternehmens
-	- Effektive und Effiziente Arbeit
-	- geringer Aufwand für Verwaltung des Vorgehens
-	- Werkzeuge für das Anforderungsmanagement
-	- Geregeltes Umfeld
-	- Fachwissen der Spezialisten in das Projekt mit einbringen
-	- 
-
-
-## Pre Production
-
-### Kunde
-
-- klare Kommunikation über: Idee, Gestaltung und Aufbau des Imagefilms
-- Möglichkeit, Änderungen der Wünsche zu äußern
-
-
-
-### Team
-
-- Möglichkeit, immer wieder kreative Ideen in den Prozess mit einzubauen
-- Möglichkeit, auf Wunschäußerungen einzugehen
-- Frühe Präsentation von (Teil-) Ergebnissen
-- Frühes Einholen von Feedback
-
-
-
-
-
-## Production
-## Post Production
+| 4 | Robert arbeitet in der Konzeption allein |  | Kein Ausnutzen des Fachwissens der Spezialisten während der Konzeption |
+| 5 | Robert weist sein Team erst in der Phase der Produktion ein |  | Risiko, dass Details nicht verstanden werden |
