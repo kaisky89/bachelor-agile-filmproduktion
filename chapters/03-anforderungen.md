@@ -233,12 +233,14 @@ Table: Analyse der Persona Ralf Müller
 
 | Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
 |----:|----------|------------------|------------------|
-| 1 | Ralf macht nur den Schnitt |  | Keine große Integration in das Projekt |
-| 2 | Ralf bekommt Feedback vom Kunden und Vorgesetzten nach seinem Arbeitstag | Feedback Mechanismus vorhanden, Kunde hat Einfluss auf Ergebnisse des Films | Keine direkte Kommunikation: Ralf kommuniziert für das Feedback nur über Email |
-| 3 | Ralf ist nicht im Büro der Filmabteilung |  | Erschwert "osmotische Kommunikation" |
-| 4 | Ralf kommuniziert über Email | Kommunikation ist persistent und asynchron, lässt sich zurückverfolgen | Viele Details werden nicht besprochen |
-| 5 | Vorgesetzter benutzt manchmal "Face to Face Briefing" | Klare und direkte Kommunikation, Rückfragen werden sofort geklärt |  |
-| 6 | Ralf ist sich oft in Gestaltungsentscheidungen unsicher, entscheidet dann selbst und hofft darauf, den Erwartungen zu entsprechen  |  | Keine Möglichkeit, schnell Einzelheiten mit den Verantwortlichen zu klären |
+| 23 | Ralf macht nur den Schnitt |  | Keine große Integration in das Projekt |
+| 24 | Ralf bekommt Feedback vom Kunden und Vorgesetzten nach seinem Arbeitstag | Feedback Mechanismus vorhanden, Kunde hat Einfluss auf Ergebnisse des Films |  |
+| 25 | | | Keine direkte Kommunikation: Ralf kommuniziert für das Feedback nur über Email |
+| 26 | Ralf ist nicht im Büro der Filmabteilung |  | Erschwert "osmotische Kommunikation" |
+| 27 | Ralf kommuniziert über Email | Kommunikation ist persistent und asynchron, lässt sich zurückverfolgen |  |
+| 28 | | | Viele Details werden nicht besprochen |
+| 29 | Vorgesetzter benutzt manchmal "Face to Face Briefing" | Klare und direkte Kommunikation, Rückfragen werden sofort geklärt |  |
+| 30 | Ralf ist sich oft in Gestaltungsentscheidungen unsicher, entscheidet dann selbst und hofft darauf, den Erwartungen zu entsprechen  |  | Keine Möglichkeit, schnell Einzelheiten mit den Verantwortlichen zu klären |
 
 
 ### Thorsten Nadel, Filmproduktion als Nebengewerbe {#anforderungen-analyse-personae-thorsten}
@@ -249,8 +251,9 @@ Table: Analyse der Persona Thorsten Nadel
 
 | Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
 |----:|----------|------------------|------------------|
-| 1 | Thorsten macht alle Filme alleine | Kein finanzieller Aufwand für zusätzliche Mitarbeiter | Schnelle Überforderung, wenig Kapazitäten |
-| 2 | Thorsten fühlt sich überfordert, den Imagefilm vor dem Dreh zu inszenieren und zu planen |  | Konzept entsteht erst nach dem Dreh, keine Möglichkeiten des Feedbacks |
+| 31 | Thorsten macht alle Filme alleine | Kein finanzieller Aufwand für zusätzliche Mitarbeiter |  |
+| 32| | | Schnelle Überforderung, wenig Kapazitäten |
+| 33 | Thorsten fühlt sich überfordert, den Imagefilm vor dem Dreh zu inszenieren und zu planen |  | Konzept entsteht erst nach dem Dreh, keine Möglichkeiten des Feedbacks |
 
 ### Robert Bach, eigene TV Produktionsfirma {#anforderungen-analyse-personae-robert}
 
@@ -260,11 +263,12 @@ Table: Analyse der Persona Robert Bach
 
 | Nr. | Ereignis | Positive Aspekte | Negative Aspekte |
 |----:|----------|------------------|------------------|
-| 1 | Robert engagiert Spezialisten aus den verschiedenen Gewerken | Er kann sich auf das Wesentliche konzentrieren |  |
-| 2 | Robert klärt Rahmenbedingungen, plant und konzipiert | Gezieltes Vorgehen, Aussage des Films wird nicht improvisiert |  |
-| 3 | Robert präsentiert dem Kunden ein Treatment | Möglichkeit, noch vor der Produktion Feedback zu bekommen | Verständnisprobleme für Laien bei Dokumenten wie Treatment |
-| 4 | Robert arbeitet in der Konzeption allein |  | Kein Ausnutzen des Fachwissens der Spezialisten während der Konzeption |
-| 5 | Robert weist sein Team erst in der Phase der Produktion ein |  | Risiko, dass Details nicht verstanden werden |
+| 34 | Robert engagiert Spezialisten aus den verschiedenen Gewerken | Er kann sich auf das Wesentliche konzentrieren |  |
+| 35 | Robert klärt Rahmenbedingungen, plant und konzipiert | Gezieltes Vorgehen, Aussage des Films wird nicht improvisiert |  |
+| 36 | Robert präsentiert dem Kunden ein Treatment | Möglichkeit, noch vor der Produktion Feedback zu bekommen |  |
+| 37 | | | Verständnisprobleme für Laien bei Dokumenten wie Treatment |
+| 38 | Robert arbeitet in der Konzeption allein |  | Kein Ausnutzen des Fachwissens der Spezialisten während der Konzeption |
+| 39 | Robert weist sein Team erst in der Phase der Produktion ein |  | Risiko, dass Details nicht verstanden werden |
 
 
 ## Auflistung und Gewichtung aller Anforderungen
@@ -273,8 +277,8 @@ Im Folgenden sollen alle gesammelten Anforderungen übersichtlich dargestellt we
 
 Table: Auflistung und Gewichtung aller Anforderungen
 
-| Nr. | Anforderung                                         | Gewichtung |
-|----:|-----------------------------------------------------|-----------:|
+| Nr. | Ursprung | Anforderung                              | Gewichtung |
+|----:|----------|------------------------------------------|-----------:|
 |  xx | Geringe finanzielle Kosten                          |       $10$ |
 |  xx | Kostentransparenz                                   |       $10$ |
 |  xx | Mitgestalten des Kunden                             |       $10$ |
