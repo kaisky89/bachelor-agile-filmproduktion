@@ -21,7 +21,18 @@ Die größte Anforderung von Seiten des Kunden ist eine Präsentation der Zwisch
 
 ### K02: Kommunikation des Projektstatus an Außenstehende
 
-Mehrere Stakeholder haben ein Interesse daran, den aktuellen Status des Projekts zu kennen. Dies ist für die Geschäftsführung auf Seiten des Kunden wie auch auf Seiten des Unternehmens wichtig, um Kostentransparenz zu schaffen. Aber auch der Ansprechpartner auf S
+Mehrere Stakeholder haben ein Interesse daran, den aktuellen Status des Projekts zu kennen. Dies ist für die Geschäftsführung auf Seiten des Kunden wie auch auf Seiten des Unternehmens wichtig, um Kostentransparenz zu schaffen. Aber auch der Ansprechpartner auf Seiten des Kunden möchte wissen, wie weit das Projekt ist und was die nächsten Schritte sind.
+
+Die Elemente, die für die Anforderung **K01** vorgestellt wurden, setzen auch die Anforderung **K02** um, indem sie verständliche Zwischenergebnisse an die außenstehenden Personen liefern. Zusätzlich kommen noch folgende Elemente hinzu:
+
+- Die Technik der *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}): Mithilfe der Filmstatements wird das Projekt von Anfang an Arbeitspakete aufgeteilt, die der Kunde versteht, da er selbst bei der Erstellung dieser beteiligt ist.
+- Die Technik des *Kanban Boards* (siehe Abschnitt \ref{techniken-kanban-board}): Das Kanban Board zeigt an, welche Film Statements sich in welcher Phase befinden. So kann mithilfe eines kurzen Blick auf das Kanban Board der aktuelle Fortschritt des Projekts abgeschätzt werden. Es ist denkbar, interessierten und berechtigten außenstehenden Personen regelmäßig Fotos vom Kanban Board zu schicken.
+- Die Technik des *Burndown Charts* (siehe Abschnitt \ref{entwurf-techniken-burndown-chart}): Das Burndown Chart visualisiert den Fortschritt der Arbeit und das Arbeitstempo. Es lässt Schlüsse auf das zukünftige Arbeitstempo ziehen und dient aus diesem Grund sehr gut zur groben Einschätzung von noch benötigter Dauer des Projekts.
+
+### K03: Mitgestalten des Kunden
+
+Die Anforderung, dass der Kunde an der Entwicklung mitgestalten kann, wird mit den folgenden Elementen des Vorgehensmodells erfüllt:
+
 
 
 
