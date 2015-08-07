@@ -278,8 +278,8 @@ Table: Anforderungen der Kategorie Kunde
 
 | Nr. | Ursprung | Anforderung                                          | Gewichtung |
 |----:|----------|------------------------------------------------------|-----------:|
-| K01 |6, 18, 21, 23, 36|Laienkonforme Präsentation der Zwischenergebnisse|     $10$ |
-| K02 |2, 4, 5, 10, 23|Kommunikation des Projektstatus an Außenstehende |       $10$ |
+| K01 |6, 18, 21, \newline 23, 36|Laienkonforme Präsentation der Zwischenergebnisse|$10$|
+| K02 |2, 4, 5, \newline 10, 23|Kommunikation des Projektstatus an Außenstehende|$10$|
 | K03 | 3, 23, 35|Mitgestalten des Kunden                               |        $9$ |
 | K04 |   24, 29 |Direkte Kommunikation (zw. Team und Kunde)            |        $5$ |
 | K05 |       26 |Persistente & asynchrone Kommunikation                |        $3$ |
@@ -290,8 +290,8 @@ Table: Anforderungen der Kategorie Team
 | Nr. | Ursprung | Anforderung                                          | Gewichtung |
 |----:|----------|------------------------------------------------------|-----------:|
 |  xx |   32, 34 |Zielgerichtetes Planen und Handeln                    |       $10$ |
-|  xx |16, 25, 26, \n 27, 28, 38 |Kommunikation im Team                 |        $9$ |
-|  xx |15, 22, 33, 37|Einbringen von Fachwissen der Spezialisten        |        $8$ |
+|  xx |16, 25, 26, \newline 27, 28, 38 |Kommunikation im Team           |        $9$ |
+|  xx |15, 22, 33, \newline 37|Einbringen von Fachwissen der Spezialisten|       $8$ |
 |  xx |       13 |Werkzeuge für das Anforderungsmanagement              |        $8$ |
 |  xx | 1, 7, 11 |Schnelle Fertigstellung des Projekts                  |        $7$ |
 |  xx |       31 |Genügend Kapazität, um Anforderungen zu genügen       |        $5$ |
