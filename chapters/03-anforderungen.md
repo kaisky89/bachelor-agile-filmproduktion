@@ -268,58 +268,50 @@ Table: Analyse der Persona Robert Bach
 
 ## Zusammenführung, Kategorisierung und Gewichtung aller Anforderungen
 
-Im Folgenden sollen alle gesammelten Anforderungen übersichtlich dargestellt werden und eine Gewichtung dieser Anforderungen vorgenommen werden. Dies stellt die Tabelle \ref{Auflistung und Gewichtung aller Anforderungen} dar. Die Gewichtung ist eine Zahl zwischen $1$ (sehr wichtig) und $10$ (sehr wichtig).
+Im Folgenden sollen alle gesammelten Anforderungen übersichtlich dargestellt werden und eine Gewichtung dieser Anforderungen vorgenommen werden. Dies stellt die Tabelle \ref{Auflistung und Gewichtung aller Anforderungen} dar. Die Gewichtung ist eine Zahl zwischen $1$ (sehr wichtig) und $10$ (sehr wichtig). Anforderungen sind sortiert in die Kategorien 
+*Kunde* (siehe Tabelle \ref{Anforderungen der Kategorie Kunde}), 
+*Finanzielles* (siehe Tabelle \ref{Anforderungen der Kategorie Finanzielles}), 
+*Team* (siehe Tabelle \ref{Anforderungen der Kategorie Team}) und 
+*Anderes* (siehe Tabelle \ref{Anforderungen der Kategorie Anderes}).
 
-KUNDE
+Table: Anforderungen der Kategorie Kunde
 
 | Nr. | Ursprung | Anforderung                                          | Gewichtung |
 |----:|----------|------------------------------------------------------|-----------:|
 |  xx |6, 18, 21, 23, 36|Laienkonforme Präsentation der Zwischenergebnisse|     $10$ |
 |  xx |2, 4, 5, 10, 23|Kommunikation des Projektstatus an Außenstehende |       $10$ |
 |  xx | 3, 23, 35|Mitgestalten des Kunden                               |        $9$ |
-|  xx |       24 |Direkte Kommunikation (zw. Team und Kunde)            |        $5$ |
-|  xx |       26 |Persistente & asynchrone Kommunikation (zw. Team und Kunde)|   $3$ |
+|  xx |   24, 29 |Direkte Kommunikation (zw. Team und Kunde)            |        $5$ |
+|  xx |       26 |Persistente & asynchrone Kommunikation                |        $3$ |
 
 
-FINANZIELLES
-
-| Nr. | Ursprung | Anforderung                                          | Gewichtung |
-|----:|----------|------------------------------------------------------|-----------:|
-|  xx |       30 |Geringer finanzieller Aufwand für Mitarbeiter         |       $10$ |
-|  xx | 1, 8, 30 |Geringe finanzielle Kosten                            |       $10$ |
-|  xx |    2, 11 |Kostentransparenz                                     |       $10$ |
-|  xx |        8 |Wenig Kosten für Material und Technik                 |       $10$ |
-
-
-TEAM
+Table: Anforderungen der Kategorie Finanzielles
 
 | Nr. | Ursprung | Anforderung                                          | Gewichtung |
 |----:|----------|------------------------------------------------------|-----------:|
-|  xx |22, 33, 37|Integration der Spezialisten in das gesamte Projekt   |       $10$ |
+|  xx |    2, 11 |Kostentransparenz                                     |        $8$ |
+|  xx | 1, 8, 30 |Geringe finanzielle Kosten                            |        $5$ |
+
+
+Table: Anforderungen der Kategorie Team
+
+| Nr. | Ursprung | Anforderung                                          | Gewichtung |
+|----:|----------|------------------------------------------------------|-----------:|
 |  xx |   32, 34 |Zielgerichtetes Planen und Handeln                    |       $10$ |
-|  xx |       31 |Genügend Kapazität, um Anforderungen zu genügen       |       $10$ |
-|  xx |       29 |Schnelle Klärung von kurzfristigen Fragen des Teams   |       $10$ |
-|  xx |       26 |Persistente & asynchrone Kommunikation (intern)       |       $10$ |
-|  xx |25, 27, 28|Direkte Kommunikation innerhalb des Teams             |       $10$ |
-|  xx | 1, 7, 11 |Schnelle Fertigstellung des Projekts                  |       $10$ |
-|  xx |       11 |Effiziente Arbeit des Teams                           |       $10$ |
-|  xx |       12 |Geringer Aufwand für Verwaltung des Vorgehens         |       $10$ |
-|  xx |       13 |Werkzeuge für das Anforderungsmanagement              |       $10$ |
-|  xx |       14 |Geregeltes Umfeld                                     |       $10$ |
-|  xx |       15 |Einbringen von Fachwissen der Spezialisten            |       $10$ |
-|  xx |   16, 38 |Kommunikation im Team                                 |       $10$ |
+|  xx |16, 25, 26, \\ 27, 28, 38 |Kommunikation im Team                 |        $9$ |
+|  xx |15, 22, 33, 37|Einbringen von Fachwissen der Spezialisten        |        $8$ |
+|  xx |       13 |Werkzeuge für das Anforderungsmanagement              |        $8$ |
+|  xx | 1, 7, 11 |Schnelle Fertigstellung des Projekts                  |        $7$ |
+|  xx |       31 |Genügend Kapazität, um Anforderungen zu genügen       |        $5$ |
+|  xx |       12 |Geringer Aufwand für Verwaltung des Vorgehens         |        $5$ |
+|  xx |       14 |Geregeltes Umfeld                                     |        $3$ |
 
-IMAGEFILM
+Table: Anforderungen der Kategorie Anderes
 
 | Nr. | Ursprung | Anforderung                                          | Gewichtung |
 |----:|----------|------------------------------------------------------|-----------:|
-|  xx |        9 |Hohe Qualität                                         |       $10$ |
-
-ANDERE
-
-| Nr. | Ursprung | Anforderung                                          | Gewichtung |
-|----:|----------|------------------------------------------------------|-----------:|
-|  xx |       17 |ruhige Aufnahmesituation für Laiendarsteller          |       $10$ |
-|  xx |       18 |Aufgabenbeschreibung für Laiendarsteller              |       $10$ |
-|  xx |   19, 20 |Geringe Beteiligung von Laiendarsteller               |       $10$ |
-|  xx |       21 |Darsteller erfährt, was mit Bildmaterial geschieht    |       $10$ |
+|  xx |        9 |Hohe Qualität des Imagefilms                          |        $8$ |
+|  xx |       18 |Aufgabenbeschreibung für Laiendarsteller              |        $7$ |
+|  xx |   19, 20 |Geringe Beteiligung von Laiendarsteller               |        $5$ |
+|  xx |       17 |ruhige Aufnahmesituation für Laiendarsteller          |        $5$ |
+|  xx |       21 |Darsteller erfährt, was mit Bildmaterial geschieht    |        $4$ |
