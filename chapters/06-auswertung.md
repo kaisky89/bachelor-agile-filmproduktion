@@ -87,13 +87,26 @@ Die Wirtschaftlichkeit stand in den bisherigen Betrachtungen nicht im Vordergrun
 
 ### F01: Kostentransparenz
 
+Sprint Review
+Burndown Chart
+Planning Poker
+
+schwierig festpreis Angebote zu machen: Man rechnet mit Änderungen, also kann man auch nicht von vornherein sagen, wieviel Kosten und Aufwand insgesamt da sind. Agil bedeutet: einzugestehen, dass man nicht alles weiß. Nur so viel planen, wie viel man auch weiß.
+
+
 ### F02: Geringe finanzielle Kosten
 
 > "Kamerateams werden üblicher Weise nicht wie ein Autor oder Regisseur für einen Film, sondern nach Einsatztagen oder -stunden berechnet. Ihre Einsatzzeiten sollen daher möglichst gering gehalten werden. Von redaktioneller Seite aus gesehen wäre es häufig wünschenswert, eine engere und vor allem frühere Zusammenarbeit herzustellen, um das Know­How der Gewerke schon früh in die Planung und Umsetzung mit einzubeziehen. Mutmaßlich würde eine engere Kooperation häufig sogar wirtschaftliche Effekte erzielen." \cite{jacobs2015prozess}
 
+## Anforderungen der Kategorie Anderes
 
+### A01: Hohe Qualität des Imagefilms
 
-# Methoden
+### A02: Aufgabenbeschreibung für Laiendarsteller
+
+Auf die Zusammenarbeit mit Laiendarstellern, dessen Beteiligung an dem Imagfilm so gering wie möglich sein soll, wurde in dem Entwurf nicht weiter eingegangen. Es ist aber denkbar, dass mithilfe der *Cheap Production* eine gute Vorlage für Laiendarsteller entwickelt werden kann. So kann ein Laiendarsteller sofort sehen, wie die Szene auszusehen hat, und wie er in der Szene zu agieren hat.
+
+# Auswertung aus Sicht der Personae
 
 ## Welche Methoden sehen erfolgreich aus?
 
