@@ -24,6 +24,10 @@
     "replace": "\\\\begin{longtable}[c]{p{.5cm}p{4cm}p{4cm}p{4cm}}"
   },
   {
+    "regex": "#\\\\begin{longtable}\\[c\\]{@{}rllr@{}}#",
+    "replace": "\\\\begin{longtable}[c]{p{.5cm}p{2cm}p{8cm}p{2cm}}"
+  },
+  {
     "regex": "#\\\\\\\\\\\\addlinespace#",
     "replace": "\\\\\\\\\\\\addlinespace[.3cm]"
   }
