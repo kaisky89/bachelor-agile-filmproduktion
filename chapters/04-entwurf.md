@@ -8,7 +8,7 @@ In diesem Kapitel soll aus den in Kapitel \ref{Problemfeld Agile Vorgehensmodell
 
 Das Vorgehensmodell bezieht sich auf die Werte von der *agilen Softwareentwicklung* und die der *schlanken Softwareentwicklung*. Viele dieser Werte lassen sich auch für die Produktion von Imagefilmen übernehmen.
 
-## Kommunikation
+## Kommunikation {#entwurf-werte-kommunikation}
 
 Genau so wie in der Software Welt geht es in der Produktion von einem Imagefilm darum, eine abstrakte Vorstellung, die zu Anfang nur in den Köpfen der Beteiligten vorhanden ist, Realität werden zu lassen. Ein wesentliches Kriterium, um erfolgreich im Team und mit dem Kunden zusammenarbeiten zu können ist also auch in der Filmwelt eine passende, effektive und effiziente Kommunikation, damit diese abstrakte Vorstellung in den Köpfen aller beteiligten gleich - oder zumindest ähnlich - ist. Kommunikation findet hauptsächlich in zwei Kontexten statt:
 
@@ -36,7 +36,7 @@ Aber auch in späteren Phasen ist Feedback wichtig: bis zum Ende des Projekts k�
 Auch innerhalb des Teams ist eine ausgeprägte Feedback Kultur wichtig. In der Softwarewelt dienen automatisierte Tests dazu, ein Feedback zu der gerade getanen Arbeit zu liefern. Dies ist in der Filmwelt so nicht möglich, daher ist es umso wichtiger, dass die einzelnen Teammitglieder sich Feedback zu der getanen Arbeit geben: Was erwarte ich als Spezialist in meinem Fachbereich von meinen Teamkollegen? Gibt es fachliche Fehler, von anderen Teamkollegen, die meine Arbeit behindern? Gibt es Möglichkeiten, die Zusammenarbeit als Team zu verbessern?
 
 
-## Offenheit für Änderungen
+## Offenheit für Änderungen {#entwurf-werte-offenheit-anderungen}
 
 Es muss der Tatsache ins Auge gesehen werden, dass Anforderungen und Vorstellungen nicht zu einem festen Zeitpunkt klar und vollständig definiert werden können. In dem Kontext von Imagefilm ist der Kunde meist ein Laie, also jemand, dessen berufliche Kompetenzen nicht in der Fachdomäne der Filmproduktion liegen. Er ist es also nicht gewohnt, z. B. ein Drehbuch zu lesen und sofort zu verstehen, wie er sich das geschriebene vorzustellen hat. Er kann sich auch nicht präzise mit den richtigen Fachbegriffen ausdrücken. Außerdem ist er die Arbeit mit dem Medium Film nicht gewohnt und ist sich seiner Handlungs- und Entscheidungsmöglichkeiten gar nicht in seinem vollen Ausmaße bewusst. Dieses Verständnis kann erst während der Arbeit an dem Imagefilm entstehen, und mit einem wachsenden Verständnis wächst auch die Vorstellung und das Verständnis für die Anforderungen an den Imagefilm. Änderungen an Anforderungen an den Imagefilm während der Entwicklung sind also nicht zu vermeiden. Außerdem ist es durchaus denkbar, dass sich auch andere Faktoren während der Entstehung des Imagefilms ändern, wie z. B. eine geänderte Marketingstrategie des Kunden. Ziel des Vorgehens ist es, mit diesen Änderungen zu rechnen, sie nicht zu verdrängen, sondern sie bewusst in die Planung zu integrieren. Der Leitsatz, der auch aus der agilen Softwareentwicklung kommt, lautet also:
 
@@ -122,21 +122,21 @@ Der Teamleiter ist also eine Mischung aus dem *Autor*, wie er in Abschnitt \ref{
 
 Im Vergleich zu der Anzahl von Menschen, die in einer Kinoproduktion involviert sind, ist das Team für die Entwicklung und Produktion eines Imagefilm eher klein. Dies hat unter anderem wirtschaftliche Gründe. Teams für die Produktion von Imagefilmen sind hocheffizient, das bedeutet, sie erbringen mit wenig Ressourcen hohe Leistung.
 
-Während in großen Produktionen jeder Beteiligte für genau eine Aufgabe spezialisiert ist, werden in kleinen Teams von Imagefilmen eher Multitalente, oder zumindest Menschen mit einem eher breiter gefächertem Fachwissen benötigt. In dem Kontext einer großen Kino- oder Spielfilmproduktion hat beispielsweise der Kameramann nichts bis sehr wenig mit der Planung und den Inhalten zu tun. Es gibt für jede Phase ein eigenes Team mit den jeweiligen Spezialisten. Es ist allerdings verkehrt, diese klare Einteilung in den Unternehmenskontext von Imagefilmen zu übertragen: Hier sind Kosten, Personal und Zeit ein wesentlich höherer Faktor. Wenn also durch die Zusammenarbeit eines Teams Personal gespart werden kann, ist dies im Sinne der Wirtschaftlichkeit ein großer Vorteil. Ein Kameramann, der auch schon während der Planung seinen Beitrag zu einer guten Gestaltung des Films beitragen kann, ist ein wertvolle Beitrag für die Effizienz des Teams.
+Während in großen Produktionen jeder Beteiligte für genau eine Aufgabe spezialisiert ist, werden in kleinen Teams von Imagefilmen eher Multitalente, oder zumindest Menschen mit einem eher breiter gefächertem Fachwissen benötigt. In dem Kontext einer großen Kino- oder Spielfilmproduktion hat beispielsweise der Kameramann nichts bis sehr wenig mit der Planung und den Inhalten zu tun. Es gibt für jede Phase ein eigenes Team mit den jeweiligen Spezialisten. Es ist allerdings verkehrt, diese klare Einteilung in den Unternehmenskontext von Imagefilmen zu übertragen: Hier sind Kosten, Personal und Zeit ein wesentlich höherer Faktor. Wenn also durch die Zusammenarbeit eines Teams Personal gespart werden kann, ist dies im Sinne der Wirtschaftlichkeit ein großer Vorteil. Ein Kameramann, der auch schon während der Planung seinen Beitrag zu einer guten Gestaltung des Films beitragen kann, steigert die Effizienz des Teams.
 
-Das Team besteht also aus Spezialisten, die eine bestimmten Teilbereich sehr gut beherrschen, allerdings durch ein zusätzliches breiteres Fachwissen auch einen guten Beitrag außerhalb ihrer Spezialisierung bringen.
+Das Team besteht also aus Spezialisten, die einen bestimmten Teilbereich sehr gut beherrschen, allerdings durch ein zusätzliches breiteres Fachwissen auch einen guten Beitrag außerhalb ihrer Spezialisierung bringen.
 
 Wichtiges Kriterium des Teams ist, dass es autark ist: Alle Kompetenzen, die für die Entwicklung und Produktion des Imagefilms notwendig sind, sollten auch im Team vertreten sein.
 
-Die Hauptverantwortlichkeit des Teams ist, in den Sprints den Imagefilm auf Basis des jeweiligen Sprint Backlogs zu entwicklen und zu produzieren. 
+Die Hauptverantwortlichkeit des Teams ist es, den Imagefilm in den Sprints auf Basis des jeweiligen Sprint Backlogs zu entwicklen und zu produzieren. 
 
-Das Team bespricht mit dem Product Owner in dem Sprint Planning die Anforderungen, die in dem anstehenden Sprint anstehen. Während des Sprints kommuniziert es mit dem Product Owner bei Fragen oder fehlenden Informationen. Es präsentiert im Sprint Review dem Product Owner und dem Kunden die Sprint Ergebnisse.
+Das Team bespricht mit dem Product Owner in dem Sprint Planning die Anforderungen, die in dem anstehenden Sprint anstehen. Während des Sprints kommuniziert es bei Fragen oder fehlenden Informationen mit dem Product Owner. Es präsentiert dem Product Owner und dem Kunden im Sprint Review die Ergebnisse.
 
 
 
 # Ablauf
 
-Der Ablauf des Vorgehensmodells richtet sich stark nach dem von Scrum (siehe Kapitel \ref{problemfeld-scrum}). Da Scrum sich weniger um die konkreten Techniken der Software Entwicklung dreht sondern eher ein Meta Modell ist, lässt sich das Modell leicht für andere Domänen übernehmen. 
+Der Ablauf des Vorgehensmodells richtet sich stark nach dem von Scrum (siehe Kapitel \ref{problemfeld-scrum}). Da Scrum sich weniger um die konkreten Techniken der Software Entwicklung dreht, sondern eher ein Meta Modell ist, lässt sich das Modell leicht für andere Domänen übernehmen. 
 
 ![Grober Überblick des Ablaufs](https://www.lucidchart.com/publicSegments/view/55ad0773-1da0-4c48-b1d2-35f10a00800d/image.png)
 
@@ -154,13 +154,13 @@ Jedes Projekt beginnt mit einer *Recherche*. Dabei werden die zentralen Fragen d
 
 Die Ergebnisse der Recherche werden in der *Film Vision* festgehalten. Mithilfe der Filmvision wird das *Projekt initialisiert*. Hierbei trifft sich das gesamte Team zusammen mit dem Kunden und bespricht die Vorstellungen und Kriterien für das Projekt. Zusammen mit dem Kunden arbeitet das Team Elemente für das *Film Backlog* aus.
 
-## Sprint
+## Sprint {#entwurf-ablauf-sprint}
 
 Sobald die *Projekt Initialisierung* abgeschlossen ist, beginnt das Team seine Arbeit. Die gesamte Entwicklung und Produktion des Films geschieht in Form von Sprints. Ziel eines Sprints ist immer ein oder mehrere Videos zu produzieren, die die getane Arbeit des Sprints demonstrieren. Die Aktivität *Sprint Planning* findet zu Anfang jeden Sprints statt. Es wird entschieden, welche Anforderungen aus dem Film Backlog in dem folgenden Sprint bearbeitet werden. Der Sprint ist in drei Phasen aufgeteilt:
 
 #### Pioneer Phase
 
-Diese Phase dient zum kreativen Entdecken von neuen Ideen. Auf Basis der Anforderungen aus dem Sprint Backlog werden Ideen gesucht, die diese Anforderungen umsetzen. Dabei ist es durchaus möglich dass mehrere Ideen für ein Element aus dem Sprint vorhanden sind. Das Team hält alle Ideen fest und entscheidet selbstständig, welche Ideen umgesetzt werden.
+Diese Phase dient zum kreativen Entdecken von neuen Ideen. Auf Basis der Anforderungen aus dem Sprint Backlog werden Ideen gesucht, die diese Anforderungen umsetzen. Dabei ist es durchaus möglich, dass mehrere Ideen für ein Element aus dem Sprint vorhanden sind. Das Team hält alle Ideen fest und entscheidet selbstständig, welche Ideen umgesetzt werden.
 
 Je nachdem, in wie weit das Projekt fortgeschritten ist, ist es möglich, die *Pioneer Phase* zu überspringen, wenn zum Beispiel keine neuen Anforderungen vorhanden sind, die eine kreative Phase benötigen würden.
 
@@ -170,13 +170,13 @@ Auf Basis der Ideen aus der *Pioneer Phase* werden in der *Produktions Phase* di
 
 #### Post Phase
 
-Mithilfe der Ergebnis der *Produktions Phase* werden in der *Post Phase* Videoclips erstellt, die demonstrieren, was das Team in dem Sprint geleistet hat. Dies kann je nach Projektstatus die Arbeit am finalen Film sein, oder - wenn das Projekt noch jung ist und auf Ideenfindung - mehrere kleine Clips sein, die die neuen Ideen des Teams zeigen. Ergebnis der *Post Phase* ist das Artefakt *Vorschläge / Iterationsergebnisse*
+Mithilfe der Ergebnisse der *Produktions Phase* werden in der *Post Phase* Videoclips erstellt, die demonstrieren, was das Team in dem Sprint geleistet hat. Dies kann je nach Projektstatus die Arbeit am finalen Film sein, oder - wenn das Projekt noch jung und auf Ideenfindung aus ist - mehrere kleine Clips, die die neuen Ideen des Teams zeigen. Ergebnis der *Post Phase* ist das Artefakt *Vorschläge / Iterationsergebnisse*
 
 #### Sprint Review / Retrospektive
 
-Die Ergebnisse werden im *Sprint Review* dem Kunden demonstriert. Der Sprint Review dient als Grundlage für weitere Diskussionen und Entscheidungen mit dem Kunden. Wenn das Team sich zum Beispiel nicht sicher ist, welche Idee für die Umsetzung einer Anforderung passend ist, kann es während des Sprints mehrere Ideen umsetzen und die Ergebnisse dem Kunden präsentieren. Das Team kann dann zusammen mit dem Kunden diskutieren und abwägen, welche Idee passend ist und wie weiter vorgegangen werden soll. Während des Gesprächs mit dem Kunden im *Sprint Review* ist es möglich, dass sich neue Anforderungen herausstellen. Diese werden im *Film Backlog* festgehalten. 
+Die Ergebnisse werden dem Kunden im *Sprint Review*  demonstriert. Der Sprint Review dient als Grundlage für weitere Diskussionen und Entscheidungen mit dem Kunden. Wenn das Team sich zum Beispiel nicht sicher ist, welche Idee für die Umsetzung einer Anforderung passend ist, kann es während des Sprints mehrere Ideen umsetzen und dem Kunden diese Ergebnisse  präsentieren. Das Team kann dann zusammen mit dem Kunden diskutieren und abwägen, welche Idee passend ist und wie weiter vorgegangen werden soll. Während des Gesprächs mit dem Kunden im *Sprint Review* ist es möglich, dass sich neue Anforderungen herausstellen. Diese werden im *Film Backlog* festgehalten. 
 
-Ergebnisse, mit denen der Kunde zufrieden ist, werden im Artefakt *wachsender Film* integriert. Der *wachsende Film* ist eine publikationsreife Version des Imagefilms im momentanen Stand. Je nach Vereinbarung mit dem Kunden kann diese bereits während der Entwicklung öffentlich zugänglich sein. Dies ist aber nicht zwingend notwendig. Bedingung ist nur, dass dieses Artfakt vorhanden ist. Es dient der Transparenz gegenüber dem Kunden und ist wesentlicher Bestandteil der Kommunikation mit dem Kunden.
+Ergebnisse, mit denen der Kunde zufrieden ist, werden im Artefakt *wachsender Film* integriert. Der *wachsende Film* ist eine publikationsreife Version des Imagefilms mit dem momentanen Stand. Je nach Vereinbarung mit dem Kunden kann diese bereits während der Entwicklung öffentlich zugänglich sein. Dies ist aber nicht zwingend notwendig. Bedingung ist nur, dass dieses Artfakt vorhanden ist. Es dient der Transparenz gegenüber dem Kunden und ist wesentlicher Bestandteil der Kommunikation mit dem Kunden.
 
 Nach dem Sprint Review trifft sich das Team intern zur *Retrospektive*. Hier wird über die Zusammenarbeit im Team reflektiert. Es wird Feedback über die Ergebnisse des Sprints gegeben und über Maßnahmen entschieden, wie die Arbeit im nächsten Sprint verbessert werden kann.
 
@@ -192,38 +192,38 @@ Das Vorgehensmodell schreibt die Existenz von einigen Artefakten vor. Diese soll
 
 Die Film Vision wird während der initialen Recherche vom Product Owner erstellt. Sie enthält alle wichtigen Rahmenbedingungen des Projekts, sowie eine grobe Zusammenfassung der Aussage, die zentral für den Imagefilm ist.
 
-Es wird nicht festgelegt, in welcher Form die Film Vision an die beteiligten Personen kommuniziert wird. Es muss kein auführlich ausgeschriebenes Dokument sein. Die Form ist vom Product Owner zu entscheiden.
+Es wird nicht festgelegt, in welcher Form die Film Vision an die beteiligten Personen kommuniziert wird. Es muss kein ausführlich ausgeschriebenes Dokument sein. Die Form ist vom Product Owner zu entscheiden.
 
-Die Film Vision wird während der Projektinitialisierung mit dem Team, dem Kunden und den weiteren Stakeholdern besprochen und dient als Grundlage für das ersten Einträge des Film Backlogs, die während der Projekt Initialisierung erstellt werden.
+Die Film Vision wird während der Projektinitialisierung mit dem Team, dem Kunden und den weiteren Stakeholdern besprochen und dient als Grundlage für die ersten Einträge im Film Backlog, die während der Projekt Initialisierung erstellt werden.
 
 
-## Film Backlog
+## Film Backlog {#entwurf-artefakte-film-backlog}
 
 Der Film Backlog wird während der Projekt Initialisierung von allen Beteiligten des Treffens erstellt. Er ist ein dynamisches Artefakt, das sich während der Entwicklung des Projektes ständig ändert. Der Film Backlog enthält alle Anforderungen an den Film. Diese werden vom Product Owner priorisiert. Nur der Product Owner darf die Priorisierung bestimmen, er tut dies aber in Absprache mit den sonstigen Stakeholdern, insbesondere mit dem Kunden. Die Einträge des Film Backlogs werden Film Backlog Items genannt. Die Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}) beschreibt eine Technik für die Formulierung von Backlog Items.
 
 Der Backlog wird bei jedem Sprint Planning betrachtet, um Elemente für den nächsten Sprint zu identifizieren. Nur beim Sprint Planning können Backlog Items in das Sprint Backlog überführt werden.
 
-Sobald der Film Backlog besteht, können neue Backlog Items hinzugefügt werden. Hauptsächlich geschieht dies während des Sprint Reviews des Sprint Reviews, in Zusammenarbeit von Kunden, Product Owner und Team. Es ist aber auch möglich, während des Sprints neue Backlog Items zu erstellen. Dies geschieht immer über den Product Owner, der allein für die Verwaltung des Film Backlogs zuständig ist.
+Sobald der Film Backlog besteht, können neue Backlog Items hinzugefügt werden. Hauptsächlich geschieht dies während des Sprint Reviews, in Zusammenarbeit von Kunden, Product Owner und Team. Es ist aber auch möglich, während des Sprints neue Backlog Items zu erstellen. Dies geschieht immer über den Product Owner, der allein für die Verwaltung des Film Backlogs zuständig ist.
 
 ## Sprint Backlog
 
 Das Sprint Backlog wird während des Sprint Planning für den jeweiligen Sprint erstellt. Es besteht aus Backlog Items, die zusammen vom Team und dem Product Owner ausgewählt wurden, um im jeweiligen Sprint bearbeitet zu werden. Die Einträge des Sprint Backlogs heißen Sprint Backlog Items. Die Summe der Sprint Backlog Items stellt die gesamte Arbeit dar, die das Team während eines Sprint erledigen wird.
 
-Zu dem Sprint Backlog darf nur während des Sprint Planning Elemente hinzugefügt werden. Während des Sprints dürfen keine Elemente hinzugefügt werden. Nur das Team verwaltet das Sprint Backlog und bestimmt selbstständig wann welche Anforderung wie umgesetzt wird. Dies sorgt dafür, dass sich das Team während eines Sprints auf die vorhandenen Aufgaben konzentrieren kann, ohne durch Änderungen und Einflüsse gestört zu werden.
+Zu dem Sprint Backlog darf nur während des Sprint Planning Elemente hinzugefügt werden. Während des Sprints dürfen keine Elemente hinzugefügt werden. Nur das Team verwaltet das Sprint Backlog und bestimmt selbstständig, wann welche Anforderung wie umgesetzt wird. Dies sorgt dafür, dass sich das Team während eines Sprints auf die vorhandenen Aufgaben konzentrieren kann, ohne durch Änderungen und Einflüsse gestört zu werden.
 
 Während des Sprints benutzt das Team während aller Phasen die Einträge aus dem Sprint Backlog. Das Sprint Backlog stellt dabei den aktuellen Status der erledigten Aufgaben dar. Eine gute Technik, um ein Sprint Backlog aufzubauen ist das *Kanban Board* (siehe dazu Abschnitt \ref{techniken-kanban-board}).
 
 Das Team benutzt die Sprint Backlog Items im Sprint Review als Leitfaden, um mit dem Product Owner und dem Kunden über die Ergebnisse des Sprints zu diskutieren und diese zu präsentieren. 
 
-## Sprintergebnisse
+## Sprintergebnisse {#entwurf-artefakte-sprintergebnisse}
 
-Die Sprintergebnisse sind mehrere fertig produzierte Video Beispiele von den Arbeiten, die das Team im letzten Sprint gemacht hat. Je nach Projekt Status können das Videos in unterschiedlicher Form und Qualität sein. Das einzige Kriterium ist, dass es ein Video ist, das die Arbeit und die Ideen des Teams der jeweiligen Anforderung zeigt. Es ist möglich, dass für eine Anforderung mehrere Videos existieren. Dies kann beispielsweise vorkommen, wenn das Team sich bei der Umsetzung zwischen mehreren Ideen nicht entscheiden konnte und so mehrere Ideen während des Sprints umgesetzt hat. Diese Ideen werden dann während des Sprint Reviews mit allen Beteiligten diskutiert.
+Die Sprintergebnisse sind mehrere fertig produzierte Videobeispiele von den Arbeiten, die das Team im letzten Sprint gemacht hat. Je nach Projekt Status können das Videos in unterschiedlicher Form und Qualität sein. Das einzige Kriterium ist, dass es ein Video ist, das die Arbeit und die Ideen des Teams der jeweiligen Anforderung zeigt. Es ist möglich, dass für eine Anforderung mehrere Videos existieren. Dies kann beispielsweise vorkommen, wenn das Team sich bei der Umsetzung zwischen mehreren Ideen nicht entscheiden konnte und so mehrere Ideen während des Sprints umgesetzt hat. Diese Ideen werden dann während des Sprint Reviews mit allen Beteiligten diskutiert.
 
 Die Sprintergebnisse werden vom Team erstellt und von diesem auch während des Sprint Reviews präsentiert.
 
-## Wachsender Film
+## Wachsender Film {#entwurf-artefakte-wachsender-film}
 
-Der Wachsende Film repräsentiert die momentane Version des Imagefilms. Er ist ein in sich schlüssiger Film, der alle Arbeiten des Teams bis zum letzten Sprint Review zeigt. Er wird vom Team nach dem Sprint Review erstellt^["erstellt" bedeutet in diesem Kontext, dass aus den Sprintergebnissen und der vorherigen Version des Wachsenden Films eine neue Sequenz zusammengestellt wird.]. Der wachsende Film muss nicht veröffentlicht werden, kann es aber. Im Sinne der Transparenz gegenüber aller Stakeholder ist er aber ein obligatorisches Artefakt. Alle Stakeholder müssen Zugriff auf dieses Artefakt haben. 
+Der Wachsende Film repräsentiert die momentane Version des Imagefilms. Er ist ein in sich schlüssiger Film, der alle Arbeiten des Teams bis zum letzten Sprint Review zeigt. Er wird vom Team nach dem Sprint Review erstellt^["erstellt" bedeutet in diesem Kontext, dass aus den Sprintergebnissen und der vorherigen Version des Wachsenden Films eine neue Sequenz zusammengestellt wird.]. Der wachsende Film muss nicht veröffentlicht werden, kann es aber. Im Sinne der Transparenz gegenüber allen Stakeholdern ist er aber ein obligatorisches Artefakt. Alle Stakeholder müssen Zugriff auf dieses Artefakt haben. 
 
 # Aktivitäten
 
@@ -231,7 +231,7 @@ Der Wachsende Film repräsentiert die momentane Version des Imagefilms. Er ist e
 
 Die Recherche ist die erste Aktivität des Prozesses. Hier informiert sich der Product Owner über die Rahmenbedingungen des Projekts. Er tut dies in Zusammenarbeit mit dem Kunden. Die Ergebnisse des Projekts werden in der Film Vision festgehalten. 
 
-Die Recherche stellt keine Anforderungsermittlung dar. Es geht nur grob darum, zu formulieren, was die Ziele des Projekts sind, wer der Kunde ist, wer das Zielpublikum ist und wie der geplante Rahmen ist, in dem der Film präsentiert wird. Empfehlenswert ist hier, die Vision kurz in einem Satz zusammen zu fassen, z. B.:
+Die Recherche stellt keine Anforderungsermittlung dar. Es geht nur grob darum, zu formulieren, was die Ziele des Projekts sind, wer der Kunde ist, wer das Zielpublikum ist und wie der geplante Rahmen ist, in dem der Film präsentiert wird. Empfehlenswert ist hier, die Vision kurz in einem Satz zusammen zu fassen, wie z. B.:
 
 > "Wir möchten einen Imagefilm für Youtube produzieren, der interessierten Arbeitnehmern zeigt, wie international und innovativ das Unternehmen Müller ist."
 
@@ -246,7 +246,7 @@ Dieser Satz enthält alle wesentlichen Rahmenbedingungen des Projekts:
 
 In der Projekt Initialisierung wird dem Team das Projekt mithilfe der Film Vision vorgestellt. Es sind sowohl Kunde, Product Owner als auch Team anwesend.
 
-Zuerst wird die Film Vision vorgestellt; dem Team wird die Projekt Idee vorgestellt und alle Rahmenbedingungen werden erläutert. Nachdem das Team die grundlegenden Fakten verstanden hat, wird zusammen mit dem Product Owner das Film Backlog gefüllt. Die ersten Anforderungen werden formuliert und in Form von Film Backlog Items in das Film Backlog eingetragen. Hier kann die Technik der *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}) benutzt werden.
+Zuerst wird die Film Vision vorgestellt: dem Team wird die Projekt Idee vorgestellt und alle Rahmenbedingungen werden erläutert. Nachdem das Team die grundlegenden Fakten verstanden hat, wird mit dem Product Owner zusammen das Film Backlog gefüllt. Die ersten Anforderungen werden formuliert und in Form von Film Backlog Items in das Film Backlog eingetragen. Hier kann die Technik der *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}) benutzt werden.
 
 Die Aktivität *Projekt Initialisierung* benutzt das Artefakt *Film Vision*. Ergebnis der Aktivität ist ein inital befülltes *Film Backlog*.
 
@@ -260,9 +260,9 @@ Die Länge eines Sprints sollte dabei 2 Wochen nicht überschreiten. Ein großer
 
 ## Sprint Planning
 
-Das Sprint Planning wird zu Beginn jedes Sprints durchgeführt. Teilnehmer des Sprint Plannings ist der Product Owner und das Team. Grundlage für das Sprint Planning sind die Items des Film Backlogs, die vom Product Owner nach Geschäftswert priorisiert sind. Wird die Technik *Film Statements* benutzt, sind die Items nach Wichtigkeit der Aussage für den Film sortiert. Das Team bespricht mit dem Product Owner die einzelnen Items und schätzt den Aufwand der Items. Zum Schätzen der Items kann die Technik Planning Poker (siehe Abschnitt \ref{entwurf-techniken-planning-poker}) genutzt werden. 
+Das Sprint Planning wird zu Beginn jedes Sprints durchgeführt. Teilnehmer des Sprint Plannings sind der Product Owner und das Team. Grundlage für das Sprint Planning sind die Items des Film Backlogs, die vom Product Owner nach Geschäftswert priorisiert sind. Wird die Technik *Film Statements* benutzt, sind die Items nach Wichtigkeit der Aussage für den Film sortiert. Das Team bespricht mit dem Product Owner die einzelnen Items und schätzt deren Aufwand. Zum Schätzen der Items kann die Technik Planning Poker (siehe Abschnitt \ref{entwurf-techniken-planning-poker}) genutzt werden. 
 
-Nach der Schätzung einigt sich das Team mit dem Product Owner auf die Menge an Items, die in dem nächsten Sprint bearbeitet werden. Wird die Technik *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}) genutzt, wird außerdem festgelegt, welche Ausbaustufe jedes Item am Ende des Sprints haben soll.
+Nach der Schätzung einigt sich das Team mit dem Product Owner auf die Menge an Items, die in dem nächsten Sprint bearbeitet werden. Nutzt man die Technik *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}), wird außerdem festgelegt, welche Ausbaustufe jedes Item am Ende des Sprints haben soll.
 
 Die Menge der Items, auf die sich das Team mit dem Product Owner geeinigt hat, wird in das Sprint Backlog übetragen. Für die Verwaltung des Sprint Backlogs wird die Technik des Kanban Boards (siehe Abschnitt \ref{techniken-kanban-board}) empfohlen.
 
@@ -271,23 +271,23 @@ Ergebnis des Sprint Plannings ist ein gefülltes Sprint Backlog, und das Verspre
 
 ## Pioneer Phase
 
-Die Pioneer Phase ist eine der drei Phasen des Sprints. In dieser Phase sucht das Team für eine bestimmte Anforderung Ideen für die Umsetzung. Hauptsächlich Beteiligte für diese Phase ist - wie für alle Phasen des Sprints - das Team. Es kann aber jederzeit den Product Owner für schnelles Feedback oder weitere Rückfragen konsultieren.
+Die Pioneer Phase ist eine der drei Phasen des Sprints. In dieser Phase sucht das Team für eine bestimmte Anforderung Ideen für die Umsetzung. Hauptsächlich beteiligt an dieser Phase ist - wie auch für alle Phasen des Sprints - das Team. Es kann aber jederzeit den Product Owner für schnelles Feedback oder weitere Rückfragen konsultieren.
 
 Für die Ideenfindung können klassische Kreativitätstechniken genutzt werden. Zusätzlich kann die Technik *Timeline Karten* (siehe Abschnitt \ref{entwurf-techniken-timeline-karten}) angewendet werden.
 
-Es liegt im Ermessen des Teams, in welcher Reihenfolge es die Items des Sprint Backlogs abarbeitet. Auch die Anzahl der Items, die gleichzeitig bearbeitet werden, kann vom Team bestimmt werden. Die Bündelung von Items ist manchmal sinnvoll, da sich daraus Ideen entwickeln lassen können, die mehrere Anforderungen zugleich umsetzen. Allerdings ist hier darauf zu achten, dass nicht zu viele Items gleichzeitig bearbeitet werden.
+Es liegt im Ermessen des Teams, in welcher Reihenfolge es die Items des Sprint Backlogs abarbeitet. Auch die Anzahl der Items, die gleichzeitig bearbeitet werden, kann vom Team bestimmt werden. Die Bündelung von Items ist manchmal sinnvoll, da sich daraus Ideen entwickeln lassen, die mehrere Anforderungen zugleich umsetzen. Allerdings ist hier darauf zu achten, dass nicht zu viele Items gleichzeitig bearbeitet werden.
 
-Die Pioneer Phase nimmt zu Beginn des Projektes die Hauptrolle ein. Während des Projektverlauf verliert sie an Bedeutung, da die Ideen für Anforderungen mehr und mehr klar sind. So kann es durchaus sein, dass in den ersten Sprints des Projekts die Pioneer Phase mehr als 50% der Zeit in Anspruch nimmt. In den letzten Sprints vor Abschluss des Projekts hingegen ist es möglich, dass diese Phase vollständig übersprungen wird.
+Die Pioneer Phase nimmt zu Beginn des Projektes die Hauptrolle ein. Während des Projektverlaufs verliert sie an Bedeutung, da die Ideen für Anforderungen mehr und mehr klar sind. So kann es durchaus sein, dass in den ersten Sprints des Projekts die Pioneer Phase mehr als 50% der Zeit in Anspruch nimmt. In den letzten Sprints vor Abschluss des Projekts hingegen ist es möglich, dass diese Phase vollständig übersprungen wird.
 
-Ergebnis der Pioneer Phase ist ein Konzept, wie ein oder mehrere Sprint Backlog Items umgesetzt werden. Es liegt dem Team frei zu entscheiden, in welcher Form dieses Konzept dokumentiert wird. Wichtig ist, dass es weiß, wie es in der Produktionsphase vorzugehen hat, um die Ideen umzusetzen. Dies ist Teil der Pioneer Phase.
+Ergebnis der Pioneer Phase ist ein Konzept, wie ein oder mehrere Sprint Backlog Items umgesetzt werden. Es ist dem Team freigestellt, in welcher Form dieses Konzept dokumentiert wird. Wichtig ist, dass es weiß, wie es in der Produktionsphase vorzugehen hat, um die Ideen umzusetzen. Dies ist Teil der Pioneer Phase.
 
 ## Produktions Phase
 
 In der Produktionsphase setzt das Team die Ideen aus der Pioneer Phase um. Mithilfe der Technik *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}) muss dies nicht immer eine veröffentlichungsreife Form annehmen. 
 
-Je nach Fortschritt des Projekts nimmt die Produktionsphase eine andere Form an. In den ersten Sprints geht es dem Team vor allem darum, Wege der praktischen Umsetzung der Ideen zu erkunden. Dabei kann es wertvolle Erfahrungen machen. Dies ist vor allem dann hilfreich, wenn es sich bei den umzusetzenden Ideen um innovative Ansätze handelt, oder um Methoden oder Techniken, die dem Team so noch nicht vertraut sind. Die Ergebnisse der Produktion der ersten Sprints sind noch nicht so ausgereift, dass sie der finalen Version entsprechen, aber es kann trotzdem schon wertvolles Feedback vom Kunden und vom Product Owner eingeholt werden.
+Je nach Fortschritt des Projekts verändert sich die Form der Produktionsphase. In den ersten Sprints geht es dem Team vor allem darum, Wege zur praktischen Umsetzung der Ideen zu erkunden. Dabei kann es wertvolle Erfahrungen machen. Dies ist vor allem dann hilfreich, wenn es sich bei den umzusetzenden Ideen um innovative Ansätze handelt, oder um Methoden oder Techniken, die dem Team so noch nicht vertraut sind. Die Ergebnisse der Produktion der ersten Sprints sind noch nicht so ausgereift, dass sie der finalen Version entsprechen, aber es kann trotzdem schon wertvolles Feedback vom Kunden und vom Product Owner eingeholt werden.
 
-In den späteren Iterationen bekommt die Produktionsphase eine andere Gewichtung. Es gibt keine neuen Ideen, dessen Umsetzung unbekannt sind. Während die Pioneer Phase nur kurz in dem Sprint angegangen wird, oder sogar übersprungen wird, bekommt die Produktions Phase eine größere Gewichtung. Nun wird auf den Erfahrungen und dem Feedback der vorherigen Sprints aufgebaut und eine Version produziert, die veröffentlichungsreifes Material enthält.
+In den späteren Iterationen bekommt die Produktionsphase eine andere Gewichtung. Es gibt keine neuen Ideen, dessen Umsetzung unbekannt sind. Während die Pioneer Phase nur kurz in dem Sprint angegangen wird, oder sogar übersprungen wird, spielt die Produktions Phase eine größere Rolle. Nun wird auf den Erfahrungen und dem Feedback der vorherigen Sprints aufgebaut und eine Version produziert, die veröffentlichungsreifes Material enthält.
 
 Gegen Ende des Projekts nimmt auch die Gewichtung der Produktionsphase ab: Wenn alles Material produziert ist, ist eine Produktion nicht weiter nötig. Hier kann also auch die Produktionsphase übersprungen werden, sodass Sprints denkbar sind, die nur aus der Post Phase bestehen.
 
@@ -297,13 +297,13 @@ Ergebnis der Produktionsphase - egal ob in frühen oder späten Sprints - ist Fi
 
 Die Post Phase bildet die klassische Phase der Postproduktion nach (siehe Abschnitt \ref{filmproduktion-phasen-post} und Abschnitt \ref{filmproduktion-imagefilm-schnitt}). Das Team erstellt in dieser Phase die Sprintergebnisse in Form von Vorschau Clips.
 
-Je nach Projekt Fortschritt hat die Post Phase eine andere Gewichtung. Wichtig ist aber zu erwähnen, dass sie von Anfang an Teil des Sprints ist. Auch schon im ersten Sprint werden Clips produziert, die geschnitten und montiert werden können, sodass der Kunde und der Product Owner im Sprint Review "echtes" Filmmaterial zu Gesicht bekommen. Dies fordert von Anfang an ein Team, dass sowohl Kompetenzen in der Produktion (z. B. Kameramann, Licht, ...) als auch in der Nachbearbeitung (z. B. Cutter, Tonmeister, Visual Effects, ...) hat. Obwohl dies ungewöhnlich scheint, die Kompetenzen der Nachbearbeitung bereits von vornherein im Team zu haben, gibt es eine Reihe von Vorteilen: 
+Je nach Projekt Fortschritt hat die Post Phase eine andere Gewichtung. Wichtig ist aber zu erwähnen, dass sie von Anfang an Teil des Sprints ist. Auch schon im ersten Sprint werden Clips produziert, die geschnitten und montiert werden können, sodass der Kunde und der Product Owner im Sprint Review "echtes" Filmmaterial zu Gesicht bekommen. Dies fordert von Anfang an ein Team, dass sowohl Kompetenzen in der Produktion (z. B. Kameramann, Licht, ...), als auch in der Nachbearbeitung (z. B. Cutter, Tonmeister, Visual Effects, ...) hat. Obwohl dies ungewöhnlich scheint, die Kompetenzen der Nachbearbeitung bereits von vornherein im Team zu haben, gibt es eine Reihe von Vorteilen: 
 
-Schon während der Pioneer Phase können auch innovative Techniken der Post Produktion betrachtet werden. Dabei ist das nötige Know How der Spezialisten vorhanden und der Aufwand für bestimmte Techniken kann von vornherein gut abgeschätzt werden. Außerdem können die Spezialisten gut absehen, welche Techniken welche Gesamtwirkung auf den Film haben. Somit kann von Anfang an gezielt auch mit den Techniken der Nachbearbeitung gearbeitet werden. Zusätzlich hilft die Erfahrung der Spezialisten, von vornherein Fehler in der Produktion zu vermeiden, indem sie klar kommunizieren, was bei bestimmten Techniken während der Produktion wichtig zu beachten ist.
+Schon während der Pioneer Phase können auch innovative Techniken der Post Produktion betrachtet werden. Dabei ist das nötige Know How der Spezialisten vorhanden und der Aufwand für bestimmte Techniken kann von vornherein gut abgeschätzt werden. Außerdem können die Spezialisten gut absehen, welche Techniken welche Gesamtwirkung auf den Film haben. Somit kann von Anfang an auch gezielt mit den Techniken der Nachbearbeitung gearbeitet werden. Zusätzlich hilft die Erfahrung der Spezialisten, von vornherein Fehler in der Produktion zu vermeiden, indem sie klar kommunizieren, was bei bestimmten Techniken während der Produktion zu beachten ist.
 
-Aber auch die Spezialisten der Nachbearbeitung selbst profitieren von einem frühen Involvieren in das Projekt. Wenn sie von Anfang an mit dabei sind, verstehen sie die Anforderungen und Ideen an den Imagefilm. Es muss ihnen im Nachhinein nicht erklärt werden, was sie zu tun haben, welche Teile wie geschnitten werden müssen, wie bestimmte Effekte auszusehen haben und ähnliches. Durch die ständige Integration in dem Projekt und in dem Prozess wissen sie genauso wie alle anderen Projektbeteiligten, wie bestimmte Effekte und Schnitte sein müssen, damit die Gesamtaussage des Films unterstützt wird. So kann das Risiko von Missverständnissen und groben Fehlern in der Nachbearbeitung minimiert werden.
+Aber auch die Spezialisten der Nachbearbeitung selbst profitieren von einem frühen Involvieren in das Projekt. Wenn sie von Anfang an mit dabei sind, verstehen sie die Anforderungen und Ideen an den Imagefilm. Es muss ihnen im Nachhinein nicht erklärt werden, was sie zu tun haben, welche Teile wie geschnitten werden müssen, wie bestimmte Effekte auszusehen haben und ähnliches. Durch die ständige Integration in das Projekt und in den Prozess wissen sie genauso wie alle anderen Projektbeteiligten, wie bestimmte Effekte und Schnitte sein müssen, damit die Gesamtaussage des Films unterstützt wird. So kann das Risiko von Missverständnissen und groben Fehlern in der Nachbearbeitung minimiert werden.
 
-Zum Ende des Projekts gewinnt die Post Phase mehr und mehr an Bedeutung. Zu Anfang muss der Schnitt nur grob gemacht werden, die Effekte müssen nur die Intention andeuten, damit der Kunde und der Product Owner verstehen, wie die Idee auszusehen hat. Gegen Ende wird hier aber Perfektion gefragt: Die Gewichtung des Sprints verlagert sich im Verlauf des Projekts von anfänglich der Pioneer Phase über die Produktions Phase auf die Post Phase. In den letzten Sprints ist ein Überspringen der Pioneer und Produktions Phase denkbar, sodass diese nur aus der Post Phase bestehen.
+Zum Ende des Projekts gewinnt die Post Phase mehr und mehr an Bedeutung. Zu Anfang muss der Schnitt nur grob gemacht werden, die Effekte müssen nur die Intention andeuten, damit der Kunde und der Product Owner verstehen, wie die Idee auszusehen hat. Gegen Ende ist hier aber Perfektion gefragt: Die Gewichtung des Sprints verlagert sich im Verlauf des Projekts von anfänglich der Pioneer Phase über die Produktions Phase auf die Post Phase. In den letzten Sprints ist ein Überspringen der Pioneer und Produktions Phase denkbar, sodass diese nur aus der Post Phase bestehen.
 
 
 ## Sprint Review {#entwurf-aktivitaten-sprint-review}
@@ -325,7 +325,7 @@ Wichtiges Kriterium für die Präsentation im Sprint Review ist, dass das Team n
 
 Nach dem Sprint Review trifft sich das Team für die Retrospektive, um über die eigene Arbeit, das Vorgehen und die Methodik zu reflektieren. Teilnehmer ist nur das Team.
 
-Obwohl das Team viele Dinge im Sprint gemeinsam tut, hat jeder einzelne im Team doch seine Spezialisierung und somit einen Schwerpunkt seiner Arbeit. Das Aufgabenprofil des Kameramanns ist - auch wenn er ein breites Fachwissen hat - anders als beispielsweise das des Cutters. Diese Spezialisierungen greifen aber an vielen Punkten ineinander: Der Cutter ist auf die Ergebnisse des Kameramanns angewiesen; er arbeitet mit dem Material, das der Kameramann aufnimmt. Es bilden sich also Schnittstellen zwischen den Gewerken. Diese Schnittstellen geben Möglichkeit, dass schnell Fehler entdeckt werden können. Beispielsweise wird der Cutter, sobald er Material bekommt, das Fehler enthält, die ein weiteres Verarbeiten des Materials nicht möglich machen, dies dem Kameramann melden können.
+Obwohl das Team im Sprint viele Dinge gemeinsam tut, hat doch jeder einzelne seine Spezialisierung und somit einen Schwerpunkt seiner Arbeit. Das Aufgabenprofil des Kameramanns ist - auch wenn er ein breites Fachwissen hat - anders als beispielsweise das des Cutters. Diese Spezialisierungen greifen aber an vielen Punkten ineinander: Der Cutter ist auf die Ergebnisse des Kameramanns angewiesen; er arbeitet mit dem Material, das der Kameramann aufnimmt. Es bilden sich also Schnittstellen zwischen den Gewerken. Diese Schnittstellen geben Möglichkeit, dass Fehler schnell entdeckt werden können. Beispielsweise wird der Cutter, sobald er fehlerhaftes Material bekommt, das ein weiteres Verarbeiten nicht möglich machen, dies dem Kameramann melden können.
 
 Diese Form von Feedback kann in der Retrospektive gegeben werden. Dabei ist nicht immer davon auszugehen, dass Fehler dazu führen müssen, dass Material gar nicht mehr verwendet werden kann. Aber es kann sein, dass bestimmte Aspekte in der Arbeitsweise eines Gewerkes das weitere Verarbeiten des Materials von den darauf folgenden Gewerken erschweren. Diese Aspekte können und sollten in der Retrospektive angesprochen werden.
 
@@ -333,7 +333,7 @@ Des weiteren wird das eigene Vorgehen im letzten Sprint hinterfragt. War das Tea
 
 Schlussendlich werden noch die Techniken des letzten Sprints hinterfragt. Welche Techniken wurden erfolgreich umgesetzt, welche waren in der Umsetzung problematisch? Sollten die in der Umsetzung problematischen Techniken ausgetauscht werden oder anders benutzt werden? Gibt es sinnvolle Techniken, die im nächsten Sprint eingesetzt werden können?
 
-Ziel der Retrospektive ist, dass Probleme und potenzielle Risiken in der Arbeitsweise des Teams erkannt werden und mit konkreten Entscheidungen dagegen gesteuert werden kann. Da ein Team niemals perfekt sein wird, ist die Retrospektive Teil eines jeden Sprints und ihre Notwendigkeit hört erst mit dem Ende des Projekts auf.
+Ziel der Retrospektive ist, dass Probleme und potenzielle Risiken in der Arbeitsweise des Teams erkannt werden und dagegen mit konkreten Entscheidungen gesteuert werden kann. Da ein Team niemals perfekt sein wird, ist die Retrospektive Teil eines jeden Sprints und ihre Notwendigkeit hört erst mit dem Ende des Projekts auf.
 
 
 # Techniken
