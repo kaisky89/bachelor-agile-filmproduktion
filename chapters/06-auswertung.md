@@ -67,9 +67,19 @@ Die Anforderung, dass der Kunde an der Entwicklung mitgestalten kann, wird mit d
 ### T04: Werkzeuge für das Anforderungsmanagement
 
 - Wert *Offenheit für Änderungen*
-- 
+- Ablauf *Sprint*
+- Artefakte *Film Backlog* und *Sprint Backlog*
+- Aktivitäten *Recherche* und *Projekt Initialisierung*
+- Aktivitäten *Sprint Planning* und *Sprint Review*
+- Technik *Film Statements*
 
 ### T05: Schnelle Fertigstellung des Projekts
+
+Wird nicht direkt erfüllt. Man kann nur Annahmen treffen, dass wenn konsequent Anforderungen mit dem Kunden abgesprochen werden, früh Feedback eingeholt wird, ein spätes Ändern nicht mehr notwendig sein wird, was sehr viel Zeit in Anspruch nehmen würde. 
+
+Hier spielt der Faktor Qualität eine Rolle.
+
+Außerdem könnte durch die frühe Integration des ganzen Team eine effektive und schnelle Konzipierung bringen
 
 
 
