@@ -187,45 +187,39 @@ Nach der Konzipierung geht es an die Produktion. Dafür engagiert Robert ein Tea
 
 In der Stakeholderanalyse konnten viele Anforderungen identifiziert werden. Diese werden in der Tabelle noch einmal zusammengefasst. Aus Gründen der Übersicht werden dabei folgende Abkürzungen benutzt:
 
+AG
 
-| Nr. | Stakeholder             | Anforderung                                            |
-|----:|-------------------------|--------------------------------------------------------|
-|  xx | Kunde: Geschäftsführung | Geringe Kosten für die Erstellung des Imagefilms       |
-|  xx |                         | Kostentransparenz: Gesamteinschätzung & Aktualisierung |
-|  xx | Kunde: Marketing        | Mitgestalten des Imagefilms                            |
-|  xx | Kunde: Ansprechpartner  | Kostentransparenz: Gesamteinschätzung & Aktualisierung |
+:  Auftraggeber, Kunde
+
+AN
+
+: Auftragnehmer, Filmproduktionsunternehmen
 
 
-
-- **Ansprechpartner des Kunden**
-	- Klare und präzise Kommunikation über den Stand des Projekts
-	- über die nächsten Schritte des Teams Bescheid wissen
-	- Laienkonforme Präsentation von Filmideen
-
-<!-- -->
-
-- **Geschäftsführung des Unternehmens**
-	- Schnelle Fertigstellung des Projekts
-	- Wenig Kosten für Material und Technik
-	- Hohe Qualität des Imagefilms
-	- Grober Einblick in das Projekt: Wie viel Kosten?
-- **Projektteam des Unternehmens**
-	- Effektive und Effiziente Arbeit
-	- geringer Aufwand für Verwaltung des Vorgehens
-	- Werkzeuge für das Anforderungsmanagement
-	- Geregeltes Umfeld
-	- Fachwissen der Spezialisten in das Projekt mit einbringen
-	- Wissenstransfer / Kommunikation im Team
-
-<!-- -->
-
-- **Laiendarsteller**
-	- entspannte Aufnahmesituation
-	- darstellende Leistung in einem angemessenen Umfang erklären
-	- Größere Beteiligung in das Projekt ist zu vermeiden
-	- Wenig Zeit, die beansprucht wird
-	- erfahren, was mit dem Bildmaterial geschieht
-
+| Nr. | Stakeholder          | Anforderung                                            |
+|----:|----------------------|--------------------------------------------------------|
+|   1 | AG: Geschäftsführung | Geringe Kosten für die Erstellung des Imagefilms       |
+|   2 |                      | Kostentransparenz: Gesamteinschätzung & Aktualisierung |
+|   3 | AG: Marketing        | Mitgestalten des Imagefilms                            |
+|   4 | AG: Ansprechpartner  | Kommunikation über den Stand des Projekts              |
+|   5 |                      | Kommunikation über die nächsten Schritte des Teams     |
+|   6 |                      | Laienkonforme Präsentation von Filmideen               |
+|   7 |                      | Kostentransparenz: Gesamteinschätzung & Aktualisierung |
+|   8 | AN: Geschäftsführung | Schnelle Fertigstellung des Projekts                   |
+|   9 |                      | Wenig Kosten für Material und Technik                  |
+|  10 |                      | Hohe Qualität des Imagefilms                           |
+|  11 |                      | Grober Einblick in das Projekt: Wie viel Kosten?       |
+|  12 | AN: Projektteam      | Effektive und Effiziente Arbeit                        |
+|  13 |                      | geringer Aufwand für Verwaltung des Vorgehens          |
+|  14 |                      | Werkzeuge für das Anforderungsmanagement               |
+|  15 |                      | Geregeltes Umfeld                                      |
+|  16 |                      | Fachwissen der Spezialisten in das Projekt einbringen  |
+|  17 |                      | Wissenstransfer / Kommunikation im Team                |
+|  18 | Laiendarsteller      | entspannte Aufnahmesituation                           |
+|  19 |                      | Schilderung der darzustellenden Leistung               |
+|  20 |                      | Größere Beteiligung in das Projekt ist zu vermeiden    |
+|  21 |                      | Wenig Zeit, die vom Darsteller beansprucht wird        |
+|  22 |                      | Darsteller erfährt, was mit dem Bildmaterial geschieht |
 
 ## Analyse der Personae
 
