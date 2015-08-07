@@ -4,15 +4,18 @@ title: Auswertung
 
 # Anforderungen
 
-Der Entwurf des Vorgehensmodells kann nun mit Anhand der in Kapitel \ref{Entwurf eines agilen Vorgehensmodells} entwickelten Anforderungen ausgewertet werden. Hierfür sollen die Anforderungen zuerst einzeln betrachtet werden, um zu diskutieren, inwiefern diese erfüllt worden sind. Danach werden die Ergebnisse dieser Diskussion in einer Tabelle zur Übersicht dargestellt.
+Der Entwurf des Vorgehensmodells kann nun anhand der in Kapitel \ref{Entwurf eines agilen Vorgehensmodells} entwickelten Anforderungen ausgewertet werden. Hierfür sollen die wichtigsten Anforderungen zuerst einzeln betrachtet werden, um zu diskutieren, inwiefern diese erfüllt worden sind. Danach werden die Ergebnisse dieser Diskussion in einer Tabelle zur Übersicht dargestellt.
 
-## Anforderungen aus der Stakeholderanalyse
+Für die eine detaillierte Betrachtung werden im Folgenden nur Anforderungen benutzt, die eine Gewichtung $\ge6$ haben.
 
-### Geschäftsführung des Kunden
+## Anforderungen der Kategorie Kunde
 
-#### Geringe Kosten für die Erstellung des Imagefilms
+### K01: Laienkonforme Präsentation der Zwischenergebnisse
 
-Die wirtschaftlichen Faktoren wie Kostenschätzung und Kostenfaktoren wurden bei dem Entwurf nicht direkt betrachtet. Es gibt
+6, 18, 21,23, 36
+
+Die größte Anforderung von Seiten des Kunden ist eine Präsentation der Zwischenergebnisse, die der Kunde versteht. Diese Anforderung besteht aus den Teilanforderungen, dass dem Ansprechpartner des Kunden die Filmideen auf verständliche Weise präsentiert werden.
+
 
 
 # Methoden
