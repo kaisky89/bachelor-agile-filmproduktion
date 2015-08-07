@@ -96,7 +96,7 @@ schwierig festpreis Angebote zu machen: Man rechnet mit Änderungen, also kann m
 
 ### F02: Geringe finanzielle Kosten
 
-> "Kamerateams werden üblicher Weise nicht wie ein Autor oder Regisseur für einen Film, sondern nach Einsatztagen oder -stunden berechnet. Ihre Einsatzzeiten sollen daher möglichst gering gehalten werden. Von redaktioneller Seite aus gesehen wäre es häufig wünschenswert, eine engere und vor allem frühere Zusammenarbeit herzustellen, um das Know­How der Gewerke schon früh in die Planung und Umsetzung mit einzubeziehen. Mutmaßlich würde eine engere Kooperation häufig sogar wirtschaftliche Effekte erzielen." \cite{jacobs2015prozess}
+> "Kamerateams werden üblicher Weise nicht wie ein Autor oder Regisseur für einen Film, sondern nach Einsatztagen oder -stunden berechnet. Ihre Einsatzzeiten sollen daher möglichst gering gehalten werden. Von redaktioneller Seite aus gesehen wäre es häufig wünschenswert, eine engere und vor allem frühere Zusammenarbeit herzustellen, um das KnowHow der Gewerke schon früh in die Planung und Umsetzung mit einzubeziehen. Mutmaßlich würde eine engere Kooperation häufig sogar wirtschaftliche Effekte erzielen." \cite{jacobs2015prozess}
 
 ## Anforderungen der Kategorie Anderes
 
