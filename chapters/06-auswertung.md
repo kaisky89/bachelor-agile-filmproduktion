@@ -58,9 +58,16 @@ Die Anforderung, dass der Kunde an der Entwicklung mitgestalten kann, wird mit d
 
 ### T03: Einbringen von Fachwissen der Spezialisten
 
-
+- Rolle *Team*
+- Aktivität *Pioneer Phase*
+- Technik *Daily Standup*
+- Technik *Planning Poker*
+- Technik *Timeline Karten*
 
 ### T04: Werkzeuge für das Anforderungsmanagement
+
+- Wert *Offenheit für Änderungen*
+- 
 
 ### T05: Schnelle Fertigstellung des Projekts
 
