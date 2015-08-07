@@ -60,7 +60,7 @@ Die Anforderung, dass der Kunde an der Entwicklung mitgestalten kann, wird mit d
 
 
 
-### T04: Werkzeuge für das Anforderungsmanagement
+### T04: Werkzeuge für das Anforderungsmanagement
 
 ### T05: Schnelle Fertigstellung des Projekts
 
