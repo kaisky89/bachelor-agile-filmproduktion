@@ -108,13 +108,6 @@ Auf die Zusammenarbeit mit Laiendarstellern, dessen Beteiligung an dem Imagfilm 
 
 # Auswertung aus Sicht der Personae
 
-## Welche Methoden sehen erfolgreich aus?
-
-## Welche Methoden bieten Möglichkeiten zum Scheitern?
-
-## mögliche Gründe / Faktoren für den Misserfolg
-
-
 
 
 <!--
