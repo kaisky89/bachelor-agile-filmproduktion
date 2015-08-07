@@ -266,44 +266,60 @@ Table: Analyse der Persona Robert Bach
 | 38 | Robert weist sein Team erst in der Phase der Produktion ein |  | Risiko, dass Details nicht verstanden werden |
 
 
-## Zusammenführung und Gewichtung aller Anforderungen
+## Zusammenführung, Kategorisierung und Gewichtung aller Anforderungen
 
 Im Folgenden sollen alle gesammelten Anforderungen übersichtlich dargestellt werden und eine Gewichtung dieser Anforderungen vorgenommen werden. Dies stellt die Tabelle \ref{Auflistung und Gewichtung aller Anforderungen} dar. Die Gewichtung ist eine Zahl zwischen $1$ (sehr wichtig) und $10$ (sehr wichtig).
 
-Table: Auflistung und Gewichtung aller Anforderungen
+KUNDE
 
 | Nr. | Ursprung | Anforderung                                          | Gewichtung |
 |----:|----------|------------------------------------------------------|-----------:|
+|  xx |6, 18, 21, 23, 36|Laienkonforme Präsentation der Zwischenergebnisse|     $10$ |
+|  xx |2, 4, 5, 10, 23|Kommunikation des Projektstatus an Außenstehende |       $10$ |
+|  xx | 3, 23, 35|Mitgestalten des Kunden                               |        $9$ |
+|  xx |       24 |Direkte Kommunikation (zw. Team und Kunde)            |        $5$ |
+|  xx |       26 |Persistente & asynchrone Kommunikation (zw. Team und Kunde)|   $3$ |
+
+
+FINANZIELLES
+
+| Nr. | Ursprung | Anforderung                                          | Gewichtung |
+|----:|----------|------------------------------------------------------|-----------:|
+|  xx |       30 |Geringer finanzieller Aufwand für Mitarbeiter         |       $10$ |
 |  xx | 1, 8, 30 |Geringe finanzielle Kosten                            |       $10$ |
 |  xx |    2, 11 |Kostentransparenz                                     |       $10$ |
-|  xx | 3, 23, 35|Mitgestalten des Kunden                               |       $10$ |
-|  xx |2, 4, 5, 10, 23|Kommunikation des Projektstatus an Außenstehende |       $10$ |
-|  xx |6, 18, 21, 23, 36|Laienkonforme Präsentation der Zwischenergebnisse|     $10$ |
-|  xx | 1, 7, 11 |Schnelle Fertigstellung des Projekts                  |       $10$ |
 |  xx |        8 |Wenig Kosten für Material und Technik                 |       $10$ |
-|  xx |        9 |Hohe Qualität                                         |       $10$ |
+
+
+TEAM
+
+| Nr. | Ursprung | Anforderung                                          | Gewichtung |
+|----:|----------|------------------------------------------------------|-----------:|
+|  xx |22, 33, 37|Integration der Spezialisten in das gesamte Projekt   |       $10$ |
+|  xx |   32, 34 |Zielgerichtetes Planen und Handeln                    |       $10$ |
+|  xx |       31 |Genügend Kapazität, um Anforderungen zu genügen       |       $10$ |
+|  xx |       29 |Schnelle Klärung von kurzfristigen Fragen des Teams   |       $10$ |
+|  xx |       26 |Persistente & asynchrone Kommunikation (intern)       |       $10$ |
+|  xx |25, 27, 28|Direkte Kommunikation innerhalb des Teams             |       $10$ |
+|  xx | 1, 7, 11 |Schnelle Fertigstellung des Projekts                  |       $10$ |
 |  xx |       11 |Effiziente Arbeit des Teams                           |       $10$ |
 |  xx |       12 |Geringer Aufwand für Verwaltung des Vorgehens         |       $10$ |
 |  xx |       13 |Werkzeuge für das Anforderungsmanagement              |       $10$ |
 |  xx |       14 |Geregeltes Umfeld                                     |       $10$ |
 |  xx |       15 |Einbringen von Fachwissen der Spezialisten            |       $10$ |
-|  xx |       16 |Kommunikation im Team                                 |       $10$ |
+|  xx |   16, 38 |Kommunikation im Team                                 |       $10$ |
+
+IMAGEFILM
+
+| Nr. | Ursprung | Anforderung                                          | Gewichtung |
+|----:|----------|------------------------------------------------------|-----------:|
+|  xx |        9 |Hohe Qualität                                         |       $10$ |
+
+ANDERE
+
+| Nr. | Ursprung | Anforderung                                          | Gewichtung |
+|----:|----------|------------------------------------------------------|-----------:|
 |  xx |       17 |ruhige Aufnahmesituation für Laiendarsteller          |       $10$ |
 |  xx |       18 |Aufgabenbeschreibung für Laiendarsteller              |       $10$ |
 |  xx |   19, 20 |Geringe Beteiligung von Laiendarsteller               |       $10$ |
 |  xx |       21 |Darsteller erfährt, was mit Bildmaterial geschieht    |       $10$ |
-|  xx |       22 |Integration der Spezialisten in das gesamte Projekt   |       $10$ |
-|  xx |       23 |Feedback und Mitgestaltung des Kunden                 |       $10$ |
-|  xx |       24 |Direkte Kommunikation zwischen Team und Kunde         |       $10$ |
-|  xx |   25, 27 |Direkte Kommunikation innerhalb des Teams             |       $10$ |
-|  xx |       26 |Persistente & asynchrone Kommunikation (Kunde & Team) |       $10$ |
-|  xx |   xx, xx |Schnelle Klärung von kurzfristigen Fragen des Teams   |       $10$ |
-|  xx |   xx, xx |Geringer finanzieller Aufwand für Mitarbeiter         |       $10$ |
-|  xx |   xx, xx |Genügend Kapazität, um Anforderungen zu genügen       |       $10$ |
-|  xx |   xx, xx |xxx |       $10$ |
-|  xx |   xx, xx |xxx |       $10$ |
-|  xx |   xx, xx |xxx |       $10$ |
-|  xx |   xx, xx |xxx |       $10$ |
-|  xx |   xx, xx |xxx |       $10$ |
-|  xx |   xx, xx |xxx |       $10$ |
-|  xx |   xx, xx |xxx |       $10$ |
