@@ -82,19 +82,19 @@ Die Anforderung an das Vorgehensmodell, Projekte möglichst schnell fertig zu st
 
 Es mag Imagefilmprojekte geben, die eine ständige Aktualisierung der Anforderung und das kontinuierliche Feedback des Kunden nicht brauchen. Dies ist z. B. denkbar in Imagefilmen, in denen der Kunde von Anfang eine sehr genaue Vorstellung von den Inhalten und deren Gestaltung hat. Oder wenn das Team keine kreative Arbeit leisten muss, weil es sich bei dem Auftrag um ein "Standard" Imagefilm handelt.
 
-Aber sobald ein Team vor der Herausforderung gestellt wird, innovativ und kreativ in der Gestaltung zu sein, ist es gut möglich, dass ein iterativer Ansatz - so wie ihn das Vorgehensmodell dieser Arbeit hier vorschlägt, durchaus schneller zum Ziel kommt. Der klassische Ansatz des Wasserfallmodells birgt immer die Gefahr, dass die wirklichen Anforderungen des Kunden nicht erfüllt werden. Und ein nachträgliches Ändern i
+Aber sobald ein Team vor der Herausforderung gestellt wird, innovativ und kreativ in der Gestaltung zu sein, ist es gut möglich, dass ein iterativer Ansatz - so wie ihn das Vorgehensmodell dieser Arbeit hier vorschlägt, durchaus schneller zum Ziel kommt. Der klassische Ansatz des Wasserfallmodells birgt immer die Gefahr, dass die wirklichen Anforderungen des Kunden nicht erfüllt werden. Und ein nachträgliches Ändern - nachdem vom Kunden festgestellt wurde, dass der "fertige" Film nicht seinen Ansprüchen genügt - kostet sehr viel Zeit. So muss der Kunde für entweder mit dem Ergebnis (also einem qualitativ schlechten Film, da er nicht den Ansprüchen genügt), oder er investiert noch einmal unnötig Zeit und Geld in das Projekt.
 
-Man kann nur davon ausgehen, dass wenn konsequent Anforderungen mit dem Kunden abgesprochen werden, früh Feedback eingeholt wird, ein spätes Ändern nicht mehr notwendig sein wird, was sehr viel Zeit in Anspruch nehmen würde. 
+Ein zusätzlicher Punkt, der für ein größeres Projekttempo des hier vorgestellten Vorgehensmodell sorgen könnte, ist die integration des ganzen Teams in die Konzeptionsphase: Durch die Anwesenheit alles Fachkompetenzen kann hier schneller konzipiert werden. Außerdem ist ein Dreh schneller geplant, wenn alle Beteiligten schon vornherein wissen, worum es geht und aktiv mit vorbereiten können.
 
-Hier spielt der Faktor Qualität eine Rolle.
-
-Außerdem könnte durch die frühe Integration des ganzen Team eine effektive und schnelle Konzipierung bringen
+Allerdings sind dies nur Mutmaßungen. Festzuhalten ist, dass die Anforderung "T05: Schnelle Fertigstellung des Projekts" nicht explizit vom Vorgehensmodell erfüllt wird.
 
 ## Anforderungen der Kategorie Finanzielles
 
-Die Wirtschaftlichkeit stand in den bisherigen Betrachtungen nicht im Vordergrund. Das Vorgehensmodell basiert aber auf der Annahme, dass wenn das Team effizient Arbeiten kann und die Anforderungen des Kunden klar sind, die gelieferte Qualität den wirtschaftlichen Aufwand in jedem Fall rechtfertigt.
+Die Wirtschaftlichkeit stand in den bisherigen Betrachtungen und Entwicklungen des Vorgehensmodells nicht im Vordergrund. Das Vorgehensmodell basiert aber auf der Annahme, dass wenn das Team effizient Arbeiten kann und die Anforderungen des Kunden klar sind, die gelieferte Qualität den wirtschaftlichen Aufwand in jedem Fall rechtfertigt. Im Folgenden sollen die finanziellen Anforderungen an das Projekt detaillierter besprochen werden.
 
 ### F01: Kostentransparenz
+
+Kostentransparenz ist für die Geschäftsführung des Kunden wie auch für die Geschäftsführung des Unternehmens wichtig. Gerade der Kunde wünscht sich am liebsten ein Angebot mit Festpreisgarantie, sodass er von Anfang an weiß, mit wie viel Kosten er rechnen kann. Dieser Wunsch kann mit dem Vorgehen dieses Modells nicht erfüllt werden: Die Flexibilität, sich auf Änderungen der Anforderungen des Kunden einzulassen, kann nur gewährleistet werden, wenn das Projekt auch in seinem zeitlichem Rahmen flexibel gestaltet werden kann. Agile Entwicklung - auch in der Domäne des Imagefilms - bedeutet, sich einzugestehen, dass man nicht alles weiß und nur so weit planen kann, wie viel voraus zu schauen ist. Allerdings gibt es 
 
 - Aktivität *Sprint Review* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}):
 - Technik *Burndown Chart* (siehe Abschnitt \ref{entwurf-techniken-burndown-chart}):
