@@ -50,15 +50,15 @@ Selbstverständlich soll das das gesamte Vorgehensmodell mit all seinen Elemtent
 
 ### T02: Kommunikation im Team
 
-In der Domäne der Filmproduktion treffen - wie schon öfter in dieser Arbeit erwähnt - viele Spezialisten aufeinander. Obwohl jeder seine eigenes Fachwissen und seine eigenen Aufgaben hat, ist es doch notwendig, dass alle Teammitglieder zusammen arbeiten. Für eine erfolgreiche Zusammenarbeit ist Kommunikation ein wesentlicher Faktor.
+In der Domäne der Filmproduktion treffen - wie schon öfter in dieser Arbeit erwähnt - viele Spezialisten aufeinander. Obwohl jeder seine eigenes Fachwissen und seine eigenen Aufgaben hat, ist es doch notwendig, dass alle Teammitglieder zusammen arbeiten. Für eine erfolgreiche Zusammenarbeit ist Kommunikation ein - wenn nicht sogar *der* - wesentlicher Faktor. Folgende Elemente sorgen im Vorgehensmodell dafür, dass dieser Anforderung entsprochen wird:
 
-- Wert *Kommunikation* (siehe Abschnitt \ref{entwurf-werte-kommunikation}): 
-- Aktivität *Retrospektive* (siehe Abschnitt \ref{entwurf-aktivitat-retrospektive}):
-- Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}):
-- Technik *Kanban Board* (siehe Abschnitt \ref{techniken-kanban-board}):
-- Technik *Daily Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}):
-- Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}):
-- Technik *Timeline Karten* (siehe Abschnitt \ref{entwurf-techniken-timeline-karten}):
+- Wert *Kommunikation* (siehe Abschnitt \ref{entwurf-werte-kommunikation}): Der Wert der Kommunikation legt explizit fest, dass Kommunikation im Team wichtig und zu fördern ist.
+- Aktivität *Retrospektive* (siehe Abschnitt \ref{entwurf-aktivitat-retrospektive}): Die Retrospektive gibt dem Team die Möglichkeit, sich über Fehler und Verbesserungen innerhalb des Teams auszutauschen. So entsteht eine kontinuierliche Verbesserung. Hier kann auch über die Kommunikationsfähigkeit im Team reflektiert werden und Maßnahmen zur Verbesserung dieser getroffen werden.
+- Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}): Film Statements unterstützen das Team, indem sie Aufgabenpakete so formulieren, dass alle Teammitglieder wissen, wovon die Rede ist. Dies sorgt für eine klare und präzise Kommunikation.
+- Technik *Kanban Board* (siehe Abschnitt \ref{techniken-kanban-board}): Das Kanban Board unterstützt das Team in der Kommunikation, indem es den aktuellen Status des Projekts bzw. des Sprints aufzeigt, aber auch schnell Probleme sichtbar macht, wenn bestimmte Arbeiten nicht voran gehen.
+- Technik *Daily Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}): Das regelmäßige Treffen des Teams sorgt für einen kontinuierlichen Austausch von allem, was momentan relevant ist. Die Tatsache, dass hier jedes Teammitglied einen kurzen Statusbericht gibt, verbessert die Kommunikation von Problemen innerhalb des Teams.
+- Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}): Planning Poker unterstützt das Team, gemeinsam eine Aufwandsabschätzung zu machen. Dabei werden auch die ruhigeren Teammitglieder integriert. Es macht deutlich, wenn das Team sich selbst nicht einig ist, wieviel Aufwand hinter einer Aufgabe steckt, und regt zur nötigen Diskussion innerhalb des Teams an.
+- Technik *Timeline Karten* (siehe Abschnitt \ref{entwurf-techniken-timeline-karten}): Timeline Karten sind ein nützliches Tool, um den inhaltlichen Aufbau und Zusammenhänge in einem Film zu diskutieren. Durch ihre Leichtgewichtigkeit steht diese Technik dem Team dabei nicht im Weg sondern fördert eine schnelle und 
 
 ### T03: Einbringen von Fachwissen der Spezialisten
 
