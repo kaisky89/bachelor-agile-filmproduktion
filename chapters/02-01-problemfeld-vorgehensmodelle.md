@@ -2,12 +2,6 @@
 title: Problemfeld Agile Vorgehensmodelle
 ---
 
-<!-- # Was ist ein Vorgehensmodell? -->
-
-<!--TODO Hier sollten die vier Begriffe "Wert", "Element" (vielleicht besser: Prinzip), "Technik" und "Vorgehensmodell" von Epping eingeführt werden -->
-
-<!--
-
 Da das Thema dieser Arbeit die Entwicklung eines Vorgehensmodell ist, möchte dieser Begriff zuerst einmal definiert werden. Hierbei sollen die beiden Wörter "Vorgehen" und "Modell" zunächst separat voneinander betrachtet werden.
 
 **Vorgehen**
