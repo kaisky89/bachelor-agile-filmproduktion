@@ -50,7 +50,7 @@ Selbstverständlich soll das das gesamte Vorgehensmodell mit all seinen Elemtent
 
 ### T02: Kommunikation im Team
 
-In der Domäne der Filmproduktion treffen - wie schon öfter in dieser Arbeit erwähnt - viele Spezialisten aufeinander. Obwohl jeder seine eigenes Fachwissen und seine eigenen Aufgaben hat, ist es doch notwendig, dass alle Teammitglieder zusammen arbeiten. Für diese Zusammenarbeit ist Kommunikation ein wesentlicher Faktor
+In der Domäne der Filmproduktion treffen - wie schon öfter in dieser Arbeit erwähnt - viele Spezialisten aufeinander. Obwohl jeder seine eigenes Fachwissen und seine eigenen Aufgaben hat, ist es doch notwendig, dass alle Teammitglieder zusammen arbeiten. Für eine erfolgreiche Zusammenarbeit ist Kommunikation ein wesentlicher Faktor.
 
 - Wert *Kommunikation* (siehe Abschnitt \ref{entwurf-werte-kommunikation}): 
 - Aktivität *Retrospektive* (siehe Abschnitt \ref{entwurf-aktivitat-retrospektive}):
