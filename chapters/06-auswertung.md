@@ -71,14 +71,20 @@ In der Domäne der Filmproduktion treffen - wie schon öfter in dieser Arbeit er
 
 - Wert *Offenheit für Änderungen* (siehe Abschnitt \ref{entwurf-werte-offenheit-anderungen}): Der Wert Offenheit für Änderungen steht nicht nur für eine gute Analyse der Anforderungen, sondern auch für eine ständige Aktualisierung dieser.
 - Ablauf *Sprint* (siehe Abschnitt \ref{entwurf-ablauf-sprint}): Der Ablauf in Sprints sorgt dafür, dass aus Anforderungen schnell sichtbare Ergebnisse werden. Dies macht die Anforderungen sowohl dem Team als auch dem Kunden "greifbarer".
-- Artefakte *Film Backlog* (siehe Abschnitt \ref{entwurf-artefakte-film-backlog}) und *Sprint Backlog* (siehe Abschnitt \ref{entwurf-artefakte-sprint-backlog}): Die Verwaltung der Anforderungen in zwei unterschiedlichen Backlogs sorgt dafür, dass einerseits der Kunde je
-- Aktivitäten *Recherche* und *Projekt Initialisierung* (siehe Abschnitt \ref{xxx}):
-- Aktivitäten *Sprint Planning* und *Sprint Review* (siehe Abschnitt \ref{xxx}):
-- Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}):
+- Artefakte *Film Backlog* (siehe Abschnitt \ref{entwurf-artefakte-film-backlog}) und *Sprint Backlog* (siehe Abschnitt \ref{entwurf-artefakte-sprint-backlog}): Die Verwaltung der Anforderungen in zwei unterschiedlichen Backlogs sorgt dafür, dass einerseits der Kunde jederzeit Änderungswünsche äußern darf, aber andererseits das Team in einem geschützten Rahmen, der sich nicht ändert, Anforderungen abarbeiten kann. Das gibt dem Team die Möglichkeit, einerseits flexibel mit ändernden Anforderungen umgehen zu können, aber andererseits effektiv und ungestört Anforderungen abzuarbeiten.
+- Aktivitäten *Recherche* (siehe Abschnitt \ref{entwurf-aktivitaten-recherche}) und *Projekt Initialisierung* (siehe Abschnitt \ref{entwurf-aktivitaten-projekt-initialisierung}): Mithilfe dieser Aktivitäten wird explizit nach ersten Anforderungen gesucht sowie eine Grundlage für alle weiteren Anforderungen gelegt. Durch das geforderte Treffen zwischen Kunden, Product Owner und Team in der Projekt Initialisierung wird ein gemeinsames Verständnis für die Intentionen und Ziele des Kunden geschaffen. Dies ist die Grundlage für ein gutes Anforderungsmanagement.
+- Aktivität *Sprint Review* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}): Mithilfe des Sprint Reviews kann dem Kunden gezeigt werden, welche Anforderungen im letzten Sprint abgearbeitet wurden und wie die Ergebnisse aussehen. Somit bleibt auch bei der Präsentation der Zusammenhang zwischen Anforderung und Ergebniss bestehen.
+- Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}): Film Statements erleichtern sowohl Team als auch Kunden, Anforderungen zu formulieren und zu verstehen.
 
 ### T05: Schnelle Fertigstellung des Projekts
 
-Wird nicht direkt erfüllt. Man kann nur davon ausgehen, dass wenn konsequent Anforderungen mit dem Kunden abgesprochen werden, früh Feedback eingeholt wird, ein spätes Ändern nicht mehr notwendig sein wird, was sehr viel Zeit in Anspruch nehmen würde. 
+Die Anforderung an das Vorgehensmodell, Projekte möglichst schnell fertig zu stellen, wird in keinem Element explizit umgesetzt.
+
+Es mag Imagefilmprojekte geben, die eine ständige Aktualisierung der Anforderung und das kontinuierliche Feedback des Kunden nicht brauchen. Dies ist z. B. denkbar in Imagefilmen, in denen der Kunde von Anfang eine sehr genaue Vorstellung von den Inhalten und deren Gestaltung hat. Oder wenn das Team keine kreative Arbeit leisten muss, weil es sich bei dem Auftrag um ein "Standard" Imagefilm handelt.
+
+Aber sobald ein Team vor der Herausforderung gestellt wird, innovativ und kreativ in der Gestaltung zu sein, ist es gut möglich, dass ein iterativer Ansatz - so wie ihn das Vorgehensmodell dieser Arbeit hier vorschlägt, durchaus schneller zum Ziel kommt. Der klassische Ansatz des Wasserfallmodells birgt immer die Gefahr, dass die wirklichen Anforderungen des Kunden nicht erfüllt werden. Und ein nachträgliches Ändern i
+
+Man kann nur davon ausgehen, dass wenn konsequent Anforderungen mit dem Kunden abgesprochen werden, früh Feedback eingeholt wird, ein spätes Ändern nicht mehr notwendig sein wird, was sehr viel Zeit in Anspruch nehmen würde. 
 
 Hier spielt der Faktor Qualität eine Rolle.
 
