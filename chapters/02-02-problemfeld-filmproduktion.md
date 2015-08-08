@@ -20,7 +20,15 @@ Hier kommt der emotionale Aspekt des Imagefilms hinzu: Es geht im Imagefilm nich
 
 > "Emotionale Darstellungen der Anwendung, Filme im Stil von Werbespots oder Musikclips - das Umsetzungsfeld ist hier sehr weit gefächert." \cite{weissmann2013definition}
 
-Ein Imagefilm im weiteren Sinne ist aber auch jeder Film, der als Gegenstand das Unternehmen oder Dinge, die in direktem Zusammenhang mit dem Unternehmen stehen hat. Die Abgrenzung zu anderen Filmgenres ist fließend und überschneidet sich auch zum großen Teil: Auch ein Werbespot für ein Produkt des Unternehmens trägt zur Bildung des Images bei.
+Ein Imagefilm im weiteren Sinne ist aber auch jeder Film, der als Gegenstand das Unternehmen oder Dinge, die in direktem Zusammenhang mit dem Unternehmen stehen beschreibt. Die Abgrenzung zu anderen Filmgenres ist fließend und überschneidet sich auch zum großen Teil: Auch ein Werbespot für ein Produkt des Unternehmens trägt zur Bildung des Images bei.
+
+Der Imagefilm soll für diese Arbeit wie folgt definiert werden:
+
+> Ein Imagefilm ist ein Film, der bewusst vom Unternehmen eingesetzt wird, um eine Haltung, Emotion oder Aktion einer bestimmten Zielgruppe hervorzurufen. Dies geschieht, indem der Imagefilm Botschaften an die Zielgruppe formuliert, 
+
+Die Imagefilmproduktion ist demnach die Dienstleistung, diese Form von Film für ein Unternehmen zu erstellen. Dabei ist zu beachten, dass dies ein stark wirtschaftlicher und weniger journalistischer oder künstlerischer Rahmen ist. Es gibt ein Unternehmen als Auftraggeber, das Geldgeber des Projekts ist und dessen wirtschaftliche Interessen mit dem Projekt erfüllt werden müssen.
+
+So ist auch die Teamkonstellation auf Seiten des Auftragnehmers bei der Imagefilmproduktion als bei der Spielfilm- oder Kinofilmproduktion: Kinofilmproduktionen und ähnliche werden durch Investoren, staatliche Förderungen und/oder Film Studios unterstützt, die ein breites Team und eine große Menge von Spezialisten möglich macht. Dies ist in der Imagefilmproduktion nicht der Fall. Hier spielt der finanzielle Faktor eine wesentlich größere Rolle, die Teams sind dementsprechend kleiner.
 
 
 # Phasen in der Filmproduktion {#phasen-in-der-filmproduktion}
