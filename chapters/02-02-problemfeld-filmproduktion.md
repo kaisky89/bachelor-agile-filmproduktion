@@ -12,9 +12,13 @@ Das Wort Imagefilm lässt sich aufteilen in die beiden Worte *Image* und *Film*.
 
 Das Wort *Image* bedeutet soviel wie Eindruck oder Vorstellungsbild. Es wird benutzt um in einem sozial- gesellschaftlichen Kontext das allgemeine, das kollektive Bild von einer Sache oder von einer Person zu beschreiben. In dem Kontext von Imagefilm bezieht sich dies auf ein Unternehmen. Es geht also um den allgemeinen gesellschaftlichen Eindruck eines Unternehmens. 
 
-Die primäre Bedeutung des Imagefilms ist also, dass es sich um ein Film handelt, der bewusst das Images - also das allgemeine kollektive Vorstellungsbild - eines Unternehmens gestaltet. Hoppert definiert einen Imagefilm wie folgt:
+Die primäre Bedeutung des Imagefilms ist also, dass es sich um ein Film handelt, der bewusst das Image - also das allgemeine kollektive Vorstellungsbild - eines Unternehmens gestaltet. Hoppert definiert einen Imagefilm wie folgt:
 
 > "Ein klassischer Imagefilm präsentiert das Unternehmen nach Außen und nach Innen. Hierbei geht es in erster Linie nicht darum ein Produkt oder eine Dienstleistung zu verkaufen oder das Unternehmen in allen Einzelheiten vorzustellen. Vielmehr sollen positive Emotionen in Bezug auf das Unternehmen beim Zuschauer geweckt werden." \cite{hoppert2003imagefilm} (zitiert nach \cite{molitor2013imagefilme})
+
+Hier kommt der emotionale Aspekt des Imagefilms hinzu: Es geht im Imagefilm nicht primär darum, bloße Fakten des Unternehmens zu präsentieren, sondern Emotionen und Haltungen im Betrachter zu wecken, die mit dem Unternehmen verbunden werden. Dies lässt viel Freiraum für die Gestaltung eines Imagefilms: 
+
+> "Emotionale Darstellungen der Anwendung, Filme im Stil von Werbespots oder Musikclips - das Umsetzungsfeld ist hier sehr weit gefächert." \cite{weissmann2013definition}
 
 
 
