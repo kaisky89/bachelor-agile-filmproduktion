@@ -105,21 +105,25 @@ Kostentransparenz ist für die Geschäftsführung des Kunden wie auch für die G
 
 Auch dieser Punkt ist nicht Gegenstand der bisherigen Betrachtungen gewesen. Allerdings kann auch hier - ähnlich wie im bei der Anforderung *T05: Schnelle Fertigstellung des Projekts* - davon ausgegangen werden, dass das konsequente Zusammenarbeiten aller Gewerke auch zu einer finanziellen Entlastung führen könnte. 
 
-Jacobs und Großpietsch beschreiben einen hnlichen Ansatz in dem Kontext der non-fiktionalen Filmproduktion: 
+Jacobs und Großpietsch beschreiben einen ähnlichen Ansatz in dem Kontext der non-fiktionalen Filmproduktion: 
 
 > "Kamerateams werden üblicher Weise nicht wie ein Autor oder Regisseur für einen Film, sondern nach Einsatztagen oder -stunden berechnet. Ihre Einsatzzeiten sollen daher möglichst gering gehalten werden. Von redaktioneller Seite aus gesehen wäre es häufig wünschenswert, eine engere und vor allem frühere Zusammenarbeit herzustellen, um das KnowHow der Gewerke schon früh in die Planung und Umsetzung mit einzubeziehen. Mutmaßlich würde eine engere Kooperation häufig sogar wirtschaftliche Effekte erzielen." \cite{jacobs2015prozess}
+
+Allerdings sind dies auch nur Mutmaßungen. Auch hier muss festgehalten werden, dass die Erfüllung der Anforderung an wenig Kosten nicht gewährleistet werden kann.
 
 ## Anforderungen der Kategorie Anderes
 
 ### A01: Hohe Qualität des Imagefilms
 
-- Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}):
-
-Fokus darauf, die richtigen Anforderungen zu finden. Feedback, Iteration, Review: Das alles dient dazu, herauszufinden, was wirklich gebraucht wird. Botschaft als zentrales Ziel hilft dabei, immer wieder auf die wirklichen Anforderungen zu fokussieren. Alls das führt dazu, dass genau das entwickelt wird, was der Kunde braucht. Und das ist Qualität.
+Der Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}) legt den Fokus darauf, die richtigen Anforderungen zu finden. Feedback, Iteration, Review: Das alles dient dazu, herauszufinden, was wirklich gebraucht wird. Botschaft als zentrales Ziel hilft dabei, immer wieder auf die wirklichen Anforderungen zu fokussieren. Alls das führt dazu, dass genau das entwickelt wird, was der Kunde braucht. Und das ist Qualität.
 
 ### A02: Aufgabenbeschreibung für Laiendarsteller
 
 Auf die Zusammenarbeit mit Laiendarstellern, dessen Beteiligung an dem Imagfilm so gering wie möglich sein soll, wurde in dem Entwurf nicht weiter eingegangen. Es ist aber denkbar, dass mithilfe der *Cheap Production* eine gute Vorlage für Laiendarsteller entwickelt werden kann. So kann ein Laiendarsteller sofort sehen, wie die Szene auszusehen hat, und wie er in der Szene zu agieren hat.
+
+## Übersicht aller Anforderungen und deren Erfüllung
+
+
 
 # Auswertung aus Sicht der Personae
 
