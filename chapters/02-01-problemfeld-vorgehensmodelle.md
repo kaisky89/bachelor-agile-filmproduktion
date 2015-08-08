@@ -16,7 +16,7 @@ Aus der Formulierung "als wichtig erachtet" lässt sich der Ansatz der *Abstrakt
 
 Ein *Vorgehensmodell* kann also als eine Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Ein Vorgehensmodell beschreibt nicht die Umsetzung einer konkreten Aufgabe, sondern eher eine bestimmte *Klasse von Aufgaben* \cite{hanser}.
 
-\cite{hanser} schreibt, dass er als Synonym zu dem Begriff Vorgehensmodell den Begriff Prozessmodell verwendet und definiert diesen Begriff wie folgt:
+\cite{hanser} schreibt, dass er als Synonym zu dem Begriff Vorgehensmodell den Begriff Prozessmodell verwendet und definiert diesen Begriff für die Software Entwicklung wie folgt:
 
 > Ein Software-Prozessmodell ist ein Modell für den Ablauf der Entwicklung eines Software-Systems. Dabei geht es nicht um die Darstellung des Ablaufs eines bestimmten Software-Entwicklungsprojekts, sondern einer ganzen Klasse von Projekten.
 
@@ -24,29 +24,6 @@ Vorgehensmodelle gehören in der Informatik zum Bereich des Projektmanagement. P
 
 > Gesamtheit von Führungsaufgaben, -organisation, -techniken und -mitteln für die Initiierung, Definition, Planung, Steuerung und den Abschluss von Projekten
 
-Das Vorgehensmodell im Projektmanagement beantwortet die folgenden 5 Fragen:
-
-
-
-**Wer** macht **Wann**, **Was** mit **Welchen Mitteln**, **Warum?** *(=mit welchem Ziel?)*
-
--->
-
-<!--TODO Quelle? -->
-
-
-
-<!-- Aus diesen fünf Fragen ergeben sich also die fünf Bereiche, mit denen sich das Projektmanagent beschäftigt: -->
-
-<!-- ## Wer -->
-
-<!-- Im Projektmanagement geht es um Menschen. Da diese innerhalb eines Projekt unterschiedliche Funktionen erfüllen, wird hier auch von *Rollen* gesprochen. -->
-
-<!-- ## Wann -->
-
-<!--TODO Muss noch weiter ausgeführt und recherchiert werden -->
-
-<!-- Vorgehensmodelle in der Informatik beschreiben in abstrakter Form den Prozess der Software Entwicklung. Nicht nur Aktivitäten, sondern auch Rollen und Artefakte -->
 
 # Phasen in der Software Entwicklung {#phasen-in-der-software-entwicklung}
 
@@ -128,7 +105,7 @@ Ein weiterer Vorteil des Spiralmodells ist die Möglichkeit, dem Kunden schon fr
 
 # Schwergewichtige Vorgehensmodelle {#schwergewichtige-vorgehensmodelle}
 
-Man unterscheidet zwischen schwergewichtige und leichtgewichtige Vorgehensmodelle \cite{hanser}.  
+Man unterscheidet zwischen schwergewichtigen und leichtgewichtigen Vorgehensmodelle \cite{hanser}.  
 
 Schwergewichtige Vorgehensmodelle sind dokumentenlastig. Die Dokumentation und eine formale Strukturierung der Prozesses spielen hier eine wesentliche Rolle. Schwergewichtige Vorgehensmodelle eignen sich vor allem für die Entwicklung für Software, die in lebenskritischen Situationen zum Einsatz kommt. Das bedeutet, wenn die Fehlfunktion der Software eine Gefahr für Menschenleben birgt, oder die Entwicklung sonstiger strenger Auflagen standhalten muss und somit eine ausführliche Dokumentation und Planung wirklich notwendig ist, ist man gut beraten, sich dieser schwergewichtigen Vorgehensmodelle zu bedienen. Als Beispiel für schwergewichtige Vorgehensmodelle seien hier das V-Modell - XT und der Unified Software Development Process genannt \cite{hanser}. Die schwergewichtigen Vorgehensmodelle gelten als dokumentenlastig und damit auch als teuer, da viel Zeit und Arbeit in Dokumente investiert wird. Zwar sind auch in den schwergewichtigen Vorgehensmodelle Iterationen und das Entwickeln von Inkrementen vorhanden, allerdings gelten sie durch ihre formale Strukturierung trotzdem als eher unflexibel auf wechselnde Anforderungen.
 
@@ -254,12 +231,6 @@ Kommunikation ist - wie schon weiter oben erwähnt - eins der Kernwerte von XP. 
 Außerdem sollte das Team in einem offenen Raum arbeiten. So ergeben sich viele Möglichkeiten, Probleme auf möglichst schnellem Wege zu klären. Wenn ein Entwickler an einer bestimmten Stelle nicht weiterkommt, kann er direkt einen Kollegen fragen. Die Möglichkeit, direkt zu fragen, vermindert den Aufwand der Formalität von email oder den Wegen, zwischen Büroräumen zu wechseln. Außerdem ermöglicht es allen Mitgliedern des Entwicklerteams zu wissen, mit welchen Angelegenheiten sich die Kollegen gerade beschäftigen. Falls es ein Gespräch über ein Thema ist, das man als Entwickler gerade auch bearbeitet, gibt es unkompliziert die Möglichkeit, sich im Gespräch zu beteiligen. Alistair Cockburn nennt diesen Effekt "osmotische Kommunikation" \cite{cockburn} (zitiert nach \cite{krsteski}).
 
 
-### Move people around
-
-Die Tatsache, dass alle Teammitglieder in einem Raum sind - wie im Abschnitt \ref{xp-praktiken-arbeitsumgebung} beschrieben, ermöglicht es auf unnötige Dokumentation zu verzichten. Bei Fragen wird direkt auf den Kollegen, der mit dem Themengebiet in Verbindung steht gesprochen. Die Dokumentation befindet sich also "in den Köpfen der Kollegen" \cite{hanser}. Dies birgt allerdings die Gefahr, dass durch den Ausfall eines einzelnen Teammitglieds das gesamte gefährdet werden kann. Diese Gefahr wird oft auch als "Truck Faktor" (Angelehnt an die Frage: *"Was passiert, wenn ein Teammitglied von einem Truck überfahren wird?"*) bezeichnet. Um das Risiko des Truck Faktors zu minimieren, werden die Aufgabengebiete der einzelnen Entwickler durchgewechselt. Somit wird sichergestellt, dass sich im Team keine Spezialisten etablieren, die als einzige wissen, wie ein bestimmter Aspekt der Software funktioniert.
-
-Abgesehen davon, dass im schlimmsten Fall mit dem Ausscheiden eines Teammitglied gerechnet wird, wird aber empfohlen, Teams nicht bewusst auseinander zu reißen. XP betont die Dynamik innerhalb eines Teams und ist sich dessen bewusst, dass jede Änderung innerhalb der Teamkonstellation negative Auswirkungen auf den Teamgeist hat. Ausnahme bildet hier die Empfehlung, dass bei wachsender Effektivität des Teams von einer Erhöhung des Workloads abgesehen werden sollte, sondern eher das Team verkleinert werden sollte \cite{hanser}. 
-
 ### Stand-Up Meeting {#xp-techniken-stand-up}
 
 Jeder Arbeitstag in XP beginnt mit einem Stand-Up Meeting. In diesem Treffen wird möglichst präzise, klar und schnell kommuniziert, wie der aktuelle Stand des Projekts ist, woran jedes Team arbeitet und was es für Probleme gibt. Zeiteffizienz spielt hier eine große Rolle, da dieses Treffen jeden Tag stattfindet und eine ineffiziente Arbeitsweise bei diesem Treffen langfristig große Folgen für die Zeiteffektivität des Teams hat. Hierbei hilft die Tatsache, dass diese Treffen - wie der Name schon andeutet - *im Stehen* abgehalten werden. Dies hat den psychologischen Effekt, dass man sich nicht lange an einem Diskussionspunkt aufhält. Man kann bei diesem Treffen also nicht von einer *Sitzung* sprechen, da sich ja keiner *setzt*.
@@ -278,11 +249,6 @@ Wie schon im Abschnitt \ref{werte-einfachheit} erwähnt, soll die Architektur so
 
 Die Entwicklung in Iterationen stellt das Entwickler Team immer wieder vor die Herausforderung, die Architektur zu überdenken. Für jedes Inkrement muss das Team die Architektur des Systemdesigns so ändern, dass sie für die Anforderungen genau dieses Inkrements optimal ist. Falls sich Funktionen im laufe der Zeit erübrigen oder es sinnvoll ist, mehrere Klassen oder Funktionen zu einer generelleren Lösung zusammenzufassen tritt die Praxis des **Refactorings** (siehe Abschnitt \ref{refactoring}) ein. Andererseits darf Funktionalität nicht früher als notwendig eingebaut werden. Auch wenn das Team weiß, dass bestimmte Funktionalitäten in Zukunft evtl. benötigt werden: Wenn diese Funktionalität den Anforderungen der aktuellen Iteration nicht gerecht wird, wird sie auch noch nicht implementiert. Es kann möglich sein, dass sich Anforderungen bis zu dem Zeitpunkt, an dem es sich anbietet, diese Funktionalität zu implementieren, ändern und somit diese Implementation überflüssig machen.
 
-### Systemmetapher
-
-Die Idee hinter Systemmetaphern ist das Benutzen einer Metapher für das System, die jeder der Projektbeteiligten kennt und versteht. Das System wird dann mithilfe dieser Systemmetapher aufgebaut. Dabei hilft die Metapher, Neulingen die Struktur des Systems zu verstehen. Außerdem fällt es leichter, Namen für die einzelnen Module, Klassen und Funktionen zu finden und zu verstehen, da alle die gleiche Sprache sprechen.
-
-Eine System Metapher lässt sich nicht unbedingt leicht finden. Im initialen Projekt, in dem XP zum ersten mal durchgeführt wurde (Das *C3 Projekt*), wurde eine Automobilproduktionslinie als Metapher verwendet, da dieses Projekt in der Branche der Automobilindustrie befand und somit alle Beteiligten die Sprache der Produktionslinie verstanden \cite{hanser}.
 
 ### CRC Karten {#vorgehensmodelle-xp-crc-karten}
 
@@ -313,10 +279,6 @@ Ein weiterer Einwand gegen die Arbeit mit dem Kunden vor Ort ist die daraus resu
 
 Insgesamt scheint es viel Zeit zu sein, die der Kunde mit der ständigen Anwesenheit eines Experten vor Ort zu investieren hat. Hierbei sei erwähnt, dass für diesen Ansatz allerdings die gesamte Zeit einer ausführlichen Anforderungsanalyse mit dem Kunden gespart werden kann. Zudem kann davon ausgegangen werden, dass am die Ergebnisse durch die Anwesenheit des Experten höchstens gering von den Anforderungen des Kunden abweichen und somit die Zeit gespart werden kann, die es kostet, wenn ein System entwickelt wird, dass nicht den realen Anforderungen des Kunden entspricht \cite{extremeprogramming}.
 
-### Kodierungsstandards verwenden
-
-Das Verwenden von einheitlichen Kodierungsstandards sorgt dafür, dass der Code von jedem Teammitglied leicht gelesen und verstanden werden kann. Da mit Praktiken wie *move people around* (Abschnitt \ref{move-people-around}) und *collective code ownership* (Abschnitt \ref{collective-code-ownership}) gegen eine zu starke Spezialisierung der Teammitglieder gearbeitet wird, sind hier einheitliche Kodierungsstandards sehr zu begrüßen, um das Einarbeiten in Code, den man selbst nicht geschrieben hat, zu erleichtern.
-
 ### Tests zuerst programmieren
 
 Tests ersetzen in XP eine detaillierte Spezifikation der Arbeitspakete. Außerdem ermöglicht automatisiertes Testen eine sehr zielgenaue und präzise Programmierung, um genau das an Funktionalität zu erreichen, was notwendig ist. Wells \cite{extremeprogramming} behauptet, wer Tests zuerst schreibt und dann den dazugehörigen Code entwickelt ist genau so schnell wie der, der nur den Code entwickelt. Dies lässt sich leicht damit begründen, dass der Entwickler sich schon während der Entwicklung der Tests Gedanken zu der Struktur der nötigen Lösung macht und diese danach nur noch "herunter schreiben" muss. Zudem weiß der Entwickler durch die Test genau, wann er fertig mit der Entwicklung der gewünschten Funktionalität ist: wenn alle Tests erfolgreich waren \cite{extremeprogramming}. Ohne Tests lässt sich der Status "fertig entwickelt" für eine Funktion nicht so leicht definieren. Zuletzt bieten Tests die Grundlage für ein effektives Refactoring; ohne Tests kann nicht ermittelt werden, dass die Funktionalität bestimmter Module durch das Refactoring geändert wurden \cite{hanser}.
@@ -329,15 +291,6 @@ Die Idee des Pair Programmings ist auf der Idee der gedanklichen Arbeitsteilung 
 
 Pair Programming hat verschiedene Vorteile. Es bietet die Möglichkeit, Wissensinseln zu vermeiden, indem mindestens zwei Entwickler über das Wissen der Codebasis für die zu entwickelnde Funktionalität verfügen \cite{wolf}. Somit können die Gefahren des *Truck Faktors* (siehe auch Abschnitt \ref{move-people-around}) reduziert werden. Wenn beide Entwickler ungefähr gleich viel Erfahrung haben, können sie sich gegenseitig gut unterstützen. Wenn ein Entwickler des Paars deutlich erfahrener als der andere ist, kann der Unerfahrene durch die Zusammenarbeit viel von dem Erfahrenen lernen. Hier gilt wieder der Wert der Kommunikation (siehe Abschnitt \ref{werte-kommunikation}), ein Reden über den Code von Angesicht zu Angesicht während man am Code Änderungen vornimmt, erweist sich als gute Grundlage, Wissenslücken zu füllen \cite{agilespmkanban}.
 
-### Collective code ownership
-
-Diese Regel besagt, dass jedes Teammitglied jeden Teil der Software ändern darf. Es gibt keine Einteilung der Software in gewisse Funktionsbereiche, für die dann Spezialisten verantwortlich sind. Es gibt auch keinen Chef Software Architekten, der für den Entwurf der System Architektur zuständig ist. All dies liegt in der kollektiven Verantwortung des Teams. Die kollektive Verantwortung birgt einige Chancen in sich: Dadurch, dass jedes Teammitglied über das System bescheid weiß, können falsche Aussagen über Fakten des Systems vermieden werden, da diese nicht abhängig von einem Chefarchitekten, der sich durchaus auch mal irren kann \cite{extremeprogramming}. 
-
-Das automatisierte Testen ermöglicht es jedem Teammitglied, in beliebigen Teilen der Software Änderungen zu tätigen, ohne befürchten zu müssen, dass die Änderungen unerwünschte Seiteneffekte ergeben, die die Funktionalität der Software beeinträchtigen.
-
-### Häufige und sequentielle Integration {#haeufige-sequenzielle-integration}
-
-Neben der Forderung, dass häufig integriert wird, also dass ein Entwicklerteam seinen Entwicklungsfortschritt in die gemeinsame Codebasis integriert, fordert XP, dass sequentiell, also hintereinander integriert wird. \cite{extremeprogramming} \cite{hanser}
 
 ## Praktiken des Testens {#Testing}
 
@@ -349,7 +302,7 @@ Unit Tests, also Tests, die nah an der Funktionalität einzelner Codeabschnitte 
 
 Allerdings bringen Tests laut \cite{extremeprogramming} dem Team im weiteren Vorgehen einen immensen Nutzen:
 
-- Tests ermöglichen die Praktik des collectiv code ownership (siehe Abschnitt \ref{collective-code-ownership}, indem sie den Entwicklern die Angst nehmen, fremden Code zu ändern und dabei unwissend die Funktionalität zu beeinträchtigen
+- Tests ermöglichen die Praktik des collective code ownership (siehe Abschnitt \ref{collective-code-ownership}, indem sie den Entwicklern die Angst nehmen, fremden Code zu ändern und dabei unwissend die Funktionalität zu beeinträchtigen
 - Tests helfen beim Refactoring (siehe Abschnitt \ref{refactoring}), indem sie überprüfbar machen, ob die gewünschte Funktionalität des geänderten Codes immer noch gegeben ist.
 - Tests fördern die Praxis der häufigen Integration (siehe Abschnitt \ref{haeufige-sequenzielle-integration}), indem sie schnell ersichtlich machen, wo bei der Integration Fehler aufgetreten sind und somit dem Entwicklerteam schnell Hinweise darauf geben, an welcher Stelle im Code etwas geändert werden muss.
 
@@ -375,9 +328,9 @@ Das Wort "Kanban" kommt aus dem japanischen: *Kan* bedeutet soviel wie *Signal* 
 	- **Produktions-Kanban** meint das ursprüngliche Vorgehensmodell, wie es in der Produktion verwendet wird
 	- **Software-Kanban** meint das Vorgehensmodell, wie es David J. Anderson in \cite{anderson} beschrieben hat.
 - *Kanban* als Technik
-	- Das **Kanban-Board** meint die Technik, ein Board mit Karten und Listen zu verwenden, um den IST-Zustand eines Systems zu veranschaulichen <!--TODO Referenz Technik "Kanban Board"-->
+	- Das **Kanban-Board** meint die Technik, ein Board mit Karten und Listen zu verwenden, um den IST-Zustand eines Systems zu veranschaulichen \ref{kanban-technik-board}
 
-Diese Begriffe sollen im weiteren Verlauf dieser Arbeit dazu dienen, die einzelnen Bedeutungen von Kanban zu unterscheiden.<!-- Da allerdings das Kanban-Board die zentrale Technik des Software-Kanbans ist, ist eine klare Unterscheidung dieser beiden Begriffe nicht immer gegeben.--> Falls der Begriff *Kanban* ohne Zusatz erscheint, ist damit das *Software-Kanban*, also das Vorgehensmodell gemeint. <!--TODO Diesen Abschnitt nochmal schön machen...-->
+Diese Begriffe sollen im weiteren Verlauf dieser Arbeit dazu dienen, die einzelnen Bedeutungen von Kanban zu unterscheiden. Falls der Begriff *Kanban* ohne Zusatz erscheint, ist damit das *Software-Kanban*, also das Vorgehensmodell gemeint.
 
 Die Idee von Software-Kanban ist, mithilfe einfacher Mittel Transparenz über den aktuellen Entwicklungsstatus eines Projekts zu bekommen, und zu kommunizieren, welche Probleme gerade akut sind. Software-Kanban nutzt hierfür primär die Technik des Kanban-Boards, das dahinter liegende Wertesystem und die daraus resultierenden Prinzipien gehen aber weitaus über die Technik an sich hinaus und sollen im weiteren näher betrachtet werden.
 
@@ -397,30 +350,6 @@ Software-Kanban bietet somit auch in keinerlei Konkurrenz zu den Vorgehensmodell
 Der ursprüngliche Gedanke von Software-Kanban kommt aus der Automobilindustrie. (Das Kanban Vorgehensmodell der Automobilindustrie wird im Folgenden Produktions-Kanban genannt, eine Differenzierung mit dem Software-Kanban zu ermöglichen)
 
 Der japanische Automobilhersteller Toyota entwickelte Produktions-Kanban, um eine Just-In-Time Produktion zu gewährleisten: Es sollte eine unnötige Überproduktion einzelner Teile in eine Produktionslinie vermieden werden, so konnte die Verschwendung von Lagerplatz eliminiert werden. Andererseits musste sichergestellt werden, dass nicht ein Mangel an Produktionsgütern vorherrschte. So entwickelte Toyota ein System, um die einzelnen Produktionsschritte miteinander zu synchronisieren: Es wurden Karten eingesetzt, um signalisieren, dass sich Bestände eines bestimmten Zwischenerzeugnisses dem Ende neigten. Die Nachproduktion wurde mithilfe dieser Karten initiiert. Somit konnte die Menge der zwischengelagerten Teile einer Produktion auf ein Minimum gebracht werden: Zwischenteile wurden erst genau dann produziert, wenn sie auch benötigt wurden.
-
-### Beispiel Burger Produktion
-
-Ein einfaches Beispiel, um die Technik der Signalkarte im Produktions-Kanban zu veranschaulichen, ist die Burger Produktion in einem Fast-Food Restaurant, wie sie auch in \cite{video2brainkanban} beschrieben wird. 
-
-Dazu wird folgende Situation angenommen, wie sie in Abbildung \ref{Beispiel Burgerproduktion Teil 1} (Grafik aus \cite{video2brainkanban}) abgebildet ist.
-
-![Beispiel Burgerproduktion Teil 1](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.50.52.png)
-
-Es existieren die Abteilungen *Küche* und *Verkauf*. In diesem vereinfachten Beispiel wird davon ausgegangen, dass das Restaurant nur eine Sorte von Burgern verkauft. Die *Küche* ist dafür zuständig, Burger zu produzieren. Der Verkauf nimmt Burger von der Küche und verkauft diese an die Restaurant Gäste. Die Burger werden von der Küche an den Verkauf über eine Rutsche transportiert, die auch gleichzeitig als Zwischenlager der Burger zwischen den beiden Stationen Küche und Verkauf dient. Auf der Rutsche liegen fünf Burger und eine Signalkarte (grüne Markierung). Die Signalkarte teilt die Warteschlange der Burger so ein, dass drei Burger vor und zwei Burger nach der Signalkarte liegen.
-
-Ziel des Kanbans Systems in diesem Beispiel ist es, den Zwischenlagerbestand (Anzahl der Burger auf der Rutsche) in einer optimalen Größe zu behalten. Wenn der Lagerbestand zu groß ist, bekommen die Gäste kalte Burger, weil diese zu lange auf der Rutsche liegen mussten. Ist der Lagerbestand zu klein, müssen die Gäste auf Burger warten. Die Technik der Signalkarte will hier also den optimalen Zeitpunkt für die Küche signalisieren, Burger nach zu produzieren.
-
-In dem Beispiel werden nun die ersten drei Burger verkauft. Die anderen Burger auf der Rutsche rutschen nach, mitsamt der Signalkarte. Der Verkauf hat nun die Signalkarte bei sich stehen und signalisiert dies der Küche (siehe Abbildung \ref{Beispiel Burgerproduktion Teil 2}).
-
-![Beispiel Burgerproduktion Teil 2](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.51.28.png)
-
-Die Küche produziert nun drei neue Burger und stellt diese mit der Signalkarte so auf die Rutsche, dass wieder zwei Burger hinter der Signalkarte stehen. Während die Küche die neuen Burger produziert, kann der Verkauf noch die letzten beiden Burger verkaufen (siehe Abbildung \ref{Beispiel Burgerproduktion Teil 3}).
-
-![Beispiel Burgerproduktion Teil 3](http://download.heart-co.de/Bildschirmfoto%202015-07-04%20um%2016.52.05.png)
-
-Aus dem Beispiel lässt sich die grundlegende Idee der Technik der Signalkarte aus dem Produktions-Kanban entnehmen. Neben dem Mechanismus der Signalisierung zeigt das Beispiel aber noch ein weiteren Aspekt auf: Die Anzahl der Burger, die die Küche bei Signalisierung produziert, wurde hier willkürlich festgelegt. Genau so auch die Anzahl der Burger, die nach einer Signalkarte als Zwischenpuffer dienen, um die Zeit der Produktion in der Küche zu überbrücken. Diese Faktoren können nun angepasst werden und so in kleinen Schritten der Verbesserung optimiert werden.
-
-Hier kann man sehen, dass hinter der Technik der Signalkarte im Produktions-Kanban das Prinzip der kontinuierlichen Veränderung (siehe Abschnitt \ref{kanban-prinzip-kontinuierliche-verbesserungen}) steckt: die Faktoren *Anzahl der Burger, die bei Signal produziert werden* und *Anzahl der Burger, die hinter der Signalkarte sind* lassen sich auf die jeweilige Situation so anpassen, dass sich eine optimale Lagergröße ergibt.
 
 
 ### Transfer in die Software Welt
@@ -512,13 +441,6 @@ Die Entscheidende Größe ist hierbei immer der Durchsatz: Wie viele Anforderung
 
 WIP steht für Work in Progress. Durch die Limitierung des WIP wird dafür gesorgt, dass parallele Arbeit vermieden wird. Wenn in dem Gesamtsystem des Arbeitsprozesses nur eine bestimmte Anzahl von Aufgaben vorhanden sein darf, wird dafür gesorgt, dass diese Aufgaben sehr schnell erledigt werden, da es keine anderen Aufgaben gibt. Dies hilft auch, Überlastung oder Engpässe zu vermeiden. Außerdem werden Probleme sehr schnell sichtbar: Wenn die Arbeit an einer Stelle in der Produktionskette ins Stocken gerät, weil es ein Problem gibt (beispielsweise kann das Testing einer Funktion nicht durchgeführt werden), können aufgrund des WIP Limits andere Teammitglieder keine weiteren, anderen Aufgaben erledigen. Dies erscheint zuerst kontraproduktiv, man überlege sich aber, dass dadurch Ressourcen frei werden, um das Problem in der Produktionskette zu lösen (beispielsweise ist das Entwicklerteam nun frei, um das Testing Team zu unterstützen). Dies hilft schlussendlich, die Durchlaufzeit möglichst gering zu halten. 
 
-<!--
-- Leerlaufzeiten
-	- Durch Leerlaufzeiten können Mitarbeiter sinnvolle Tätigkeiten machen, die schon länger auf der Strecke geblieben sind: Automatisierungen, neue Dinge lernen, liegengebliebene Aufgaben aufgreifen
-	- Durchsatz bleibt gleich, aber Mitarbeiter haben Zeit für Qualität und sonstiges
-	- Konflikt: Klassisches Management: Auslastung einzelner Mitarbeiter optimieren. Lean Thinking: Durchlaufzeiten für einzelne Aufgaben optimieren.
-	- Leerlaufzeit = Verbesserungspotenzial
--->
 
 ### Pull Prinzip
 
@@ -580,8 +502,6 @@ Um die Motivation des Teams zu steigern, sich auf die Optimierung des Gesamtsyst
 
 
 # Scrum {#problemfeld-scrum}
-
-<!-- \cite{wirdemann2014scrum} \cite{hanser} \cite{scrumguide} -->
 
 Scrum wurde von Ken Schwaber und Jeff Sutherland in den 90er Jahren entwickelt und zählt mittlerweile zu den "etabliertesten agilen Managamentmethoden" \cite{wirdemann2014scrum}. Scrum ist eine Projekt*management*methode, das zentrale Thema ist der Ablauf des Projekts, nicht die konkreten Techniken, die benutzt werden. Dies macht einen Transfer der Methode auf andere Domänen einfach.
 
