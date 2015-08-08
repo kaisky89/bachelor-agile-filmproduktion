@@ -2,45 +2,13 @@
 title: Problemfeld Filmproduktion
 ---
 
-# Gewerke in der Filmproduktion
+# Einleitung
 
-In der Filmproduktion treffen viele verschiedene Berufe aufeinander, da Filmprojekte sowohl technisch als auch inhaltlich eine große Bandbreite an verschiedenen Details haben. Filmprojekte sind also für Teamarbeit  prädestiniert. Viele Spezialisten für ihre Teilbereiche arbeiten in Filmprojekten zusammen. Dies bedeutet bedeutet aber auch, dass viel Kommunikation und Zusammenarbeit zwischen den einzelnen Gewerken, also den Mitwirkenden mit ihren Spezialisierungen vorhanden sein muss. Dies ist nicht nur für die Teammitglieder in der Produktion wichtig, sondern auch für alle Mitwirkenden vor und nach der Produktion des Films.
+# Definition Imagefilm
 
-Im Folgenden sollen die typischen Gewerke vorgestellt werden, die in der Produktion eines Films beteiligt sind. Dabei wird vor allem auf die Beschreibungen von \cite{jacobs2015prozess} eingegangen, der die Produktion von non-fiktionalem Film fürs Fernsehen beschreibt.
+Der Begriff des Imagefilm ist mittlerweile ein sehr verbreitetes Wort und wird gerne in verschiedenen Kontexten unterschiedlich verwendet. Aus diesem Grund soll der Begriff hier für diese Arbeit definiert werden.
 
-
-## Autor {#filmproduktion-gewerke-autor}
-
-Der Autor^[\cite{jacobs2015prozess} nennt ihn "Autor", da es sich bei ihm um hauptsächlich journalistische Filme handelt. In anderen Branchen sind Bezeichnungen wie "Regisseur" denkbar.] hat die führende Rolle im Filmprojekt. Er ist verantwortlich für den Inhalt des Films und für das Filmprojekt als Ganzes. Er übernimmt häufig die Aufgaben der Recherche und der Regie. Das bedeutet, dass er alle nötigen technischen Details mit den anderen Gewerken bespricht. Dabei gibt der Autor an, was in dem Film kommuniziert werden soll. Wie das dann technisch genau umgesetzt wird, darum kümmert sich jedes Gewerk bestenfalls selbstständig.
-
-## Kameramann
-
-Der Kameramann ist während der Produktion dafür verantwortlich, die Bilder so zu gestalten, dass sie den intendierten Inhalt des Autors bestmöglich kommunizieren. Er entscheidet darüber, welche Technik beim Dreh eingesetzt wird, also welche Kamera, welches Objektiv und wie die Kamera geführt werden soll. Außerdem bestimmt er, wie die einzelnen Parameter der Kamera eingestellt werden. Zusammen mit einer guten Positionierung der Kamera erreicht der Kameramann so eine Bildgestaltung, die die gewünschte Wirkung vom Autor unterstützt. 
-
-## Tonmann
-
-Der Tonmann ist verantwortlich für einen sendefähigen Ton. Er entscheidet, welche Mikrofone wie eingesetzt werden. Dies leitet er aus den Anforderungen ab, die der Autor ihm mitteilt. Aufgrund der Anforderungen weiß der Tonmann, welche Atmosphäre im Ton kommuniziert werden soll, und kann dann aufgrund seines Wissens über die Wirkung des Tons und seinen technischen Erfahrungen die dementsprechend beste Ausstattung wählen und umsetzen.
-
-Außerdem sorgt der Tonmann während des Drehs für die Auspegelung des Tons, sodass es während der Aufnahme zu keinen Übersteuerungen im Ton kommt.
-
-## Cutter
-
-Der Cutter macht den Videoschnitt, nachdem die Aufnahme des Materials  abgeschlossen ist. Er sichtet alles Material, schneidet und montiert das Material dann so, dass eine in sich schlüssige Geschichte entsteht. Wenn aus dem Material als solches schon ein logischer Ablauf  oder eine Handlung ersichtlich ist, kann er diese Handlung ohne viel Anweisung selbst montieren.
-
-Der Cutter ist meistens bei dem Dreh nicht dabei gewesen. Dies hat sowohl Vor- als auch Nachteile: Vorteil ist, dass er mehr "Distanz" zu den Bildern hat. Er kann objektiver betrachten, was für eine Wirkung das Bild auf den Betrachter hat, weil er nur dieses Bild sieht und nicht weiß, was in dieser Situation sonst noch alles passiert ist. Der Cutter ist also weiter entfernt von dem Erlebnis der Aufnahme und somit "näher" am Seheindruck des letztendlichen Betrachter. Allerdings weiß durch das bloße Sichten des Materials nicht, welche Stellen in der Geschichte besonderen Stellenwert haben, wo emotional viel kommuniziert werden soll. Dies muss vom Autor klar kommuniziert werden.
-
-## Tonmeister / Tonmischung
-
-Ähnlich wie der Cutter das Material vom Kameramann bearbeitet, bearbeitet der Tonmeister das Material des Tonmanns. Hierbei sorgt er dafür, dass Musik, Geräusche und Sprache auf den richtigen Pegel gebracht werden. Er sorgt also dafür, dass die Sprache immer verständlich ist, die Musik nicht zu sehr im Vordergrund ist, und Geräusche im richtigen Moment wichtige Ereignisse unterstreichen. Auch hier ist wieder Absprache mit dem Autor wichtig, denn gerade der Ton hat einen wesentlichen Einfluss auf die Gefühlswelt des Betrachters und somit kann der richtige Mix und der richtige Einsatz von Musik und Geräuschen die gewünschten Emotionen unterstreichen.
-
-## Zusammenarbeit als Team {#zusammenarbeit-als-team}
-
-Der Autor hat die Verantwortung des Filmprojekts, er entscheidet, was inhaltlich im Film passiert, und wie welche Botschaft übermittelt werden soll. Allerdings kennt sich der Autor in den Gewerken nicht so gut aus und kann also die detaillierteren Entscheidungen für z. B. Auswahl der Technik nicht so gut treffen, wie die Spezialisten der einzelnen Gewerke. Es entsteht hier also die Notwendigkeit, dass der Autor stark mit seinem Team zusammen arbeitet, um das Know-How seiner Teammitglieder bestmöglich zu nutzen. Schließlich sind diese in ihrem Fachgebiet Spezialisten und haben meist viel Erfahrung. \cite{jacobs2015prozess} schreibt, dass es empfehlenswert für den Autor ist, nur seine Absicht klarzustellen. Die Gewerke werden dann selbstständig für diese Absicht arbeiten.
-
-In der Zusammenarbeit als Team spielt Feedback auch eine wichtige Rolle: Der Cutter z. B. kann früh Feedback geben, ob das Material gut ist und wie es wirkt, weil er selbst eine gewisse "Distanz" zu den Bildern hat. Dieses frühe Feedback ist sehr hilfreich um möglichst früh weitere Entscheidungen treffen zu können und um gegebenenfalls geplante Szenen oder Abläufe anzupassen.
-
-Insgesamt lässt sich sagen, dass in einem Filmprojekt Team viele Spezialisierungen und Teilfachgebiete vorhanden sind. Daher spielt Kommunikation eine wesentliche Rolle für den Projekterfolg.
-
+Das Wort Imagefilm lässt sich aufteilen in die beiden Worte *Image* und *Film*. Die Bedeutung des letzteren sollte mittlerweile jedem geläufig sein: Ein *Film* ist ein audiovisuelles Medium, das mithilfe von bewegten Bildern eine fiktionale oder eine non-fiktionale Begebenheit darstellt. Das Wort *Image* bedeutet soviel wie 
 
 # Phasen in der Filmproduktion {#phasen-in-der-filmproduktion}
 
@@ -97,9 +65,10 @@ Es werden erste Vorschau Versionen erstellt und Strategien für das Marketing er
 
 In dieser Phase wird dafür gesorgt, dass der Film an das gewünschte Zielpublikum gelangt. Eine gute Möglichkeit für Independent Filme im Kinoformat sind Film Festivals, die die Möglichkeit bieten, das interessierte Film Publikum zu erreichen. Außerdem kann auf den üblichen Wegen wie Internet, Trailer, Plakate und Anzeigen Werbung für den Film gemacht werden. Da sich diese Arbeit auf den Imagefilm konzentriert und hierbei der Abnehmer des Films bereits klar ist, soll der Aspekt der Distribution des Films hier nicht weiter betrachtet werden.
 
+
 # Vorgehen in der Produktion eines Imagefilms
 
-In dieser Arbeit soll ein Vorgehensmodell speziell für den Filmtyp *Imagefilm* entwickelt werden. Die in Abschnitt \ref{phasen-in-der-filmproduktion} beschriebenen Phasen beziehen sich nicht auf die Erstellung eines Imagefilms, sondern auf die Produktion eines vollständigen Kinofilm in der Independent Filmwelt. Da sich beispielsweise die Länge eines Kinofilms deutlich von der eines Imagefilms unterscheidet,^[Die Länge eines Kinofilms beträgt im Durchschnitt ca. 90 - 120 Minuten. Ein Imagefilm hat eine maximale Länge von 15 Minuten.] muss hier deutlich gemacht werden, dass die Produktion eines Imagefilms andere Außmaße annimmt. Das Problem der Beschreibung der Produktion eines Imagefilms ist nur, dass es hierfür keine Standards gibt. Es ist nirgendwo festgelegt, wie ein Imagefilm produziert werden soll, und dem Autor dieser Arbeit fiel es schwer, in der Literatur explizite Beschreibungen für die Produktion von dieser Art zu finden. In der Realität hat jedes Unternehmen, welches anbietet, Imagefilme zu produzieren, wahrscheinlich sein eigenes Vorgehen entwickelt. Dieses Vorgehen hält sich aber häufig an das bekannte klassische Vorgehen der Filmindustrie, wie es exemplarisch in \ref{phasen-in-der-filmproduktion} beschrieben wurde. Aus diesem Grund bietet die Beschreibung der Phasen ein grundlegendes Verständnis für die Produktion eines Imagefilms. Der Autor hat selbst im beruflichen Kontext Erfahrungen mit der Produktion von Imagefilmen in einem kleinen Unternehmen machen können, außerdem auch im akademischen Kontext eines Praxisprojekts das Vorgehen bei der Produktion eines Imagefilms \cite{wittmann2014praxiprojekt} näher betrachten dürfen. Der Ablauf des Praxisprojekts sei hier grob zusammen gefasst, um Einblicke in die Herausforderungen und Besonderheiten bei der Produktion eines Imagfilms zu geben. Für genauere Details siehe auch \cite{wittmann2014praxiprojekt}.
+In dieser Arbeit soll ein Vorgehensmodell speziell für den Filmtyp *Imagefilm* entwickelt werden. Die in Abschnitt \ref{phasen-in-der-filmproduktion} beschriebenen Phasen beziehen sich nicht auf die Erstellung eines Imagefilms, sondern auf die Produktion eines vollständigen Kinofilm in der Independent Filmwelt. Da sich beispielsweise die Länge eines Kinofilms deutlich von der eines Imagefilms unterscheidet,^[Die Länge eines Kinofilms beträgt im Durchschnitt ca. 90 - 120 Minuten. Ein Imagefilm hat eine maximale Länge von 15 Minuten.] muss hier deutlich gemacht werden, dass die Produktion eines Imagefilms andere Außmaße annimmt. Das Problem der Beschreibung der Produktion eines Imagefilms ist nur, dass es hierfür keine Standards gibt. Es ist nirgendwo festgelegt, wie ein Imagefilm produziert werden soll, und dem Autor dieser Arbeit fiel es schwer, in der Literatur explizite Beschreibungen für die Produktion von dieser Art zu finden. In der Realität hat jedes Unternehmen, welches anbietet, Imagefilme zu produzieren, wahrscheinlich sein eigenes Vorgehen entwickelt. Dieses Vorgehen hält sich aber häufig an das bekannte klassische Vorgehen der Filmindustrie, wie es exemplarisch in \ref{phasen-in-der-filmproduktion} beschrieben wurde. Aus diesem Grund bietet die Beschreibung der Phasen ein grundlegendes Verständnis für die Produktion eines Imagefilms. Der Autor hat selbst im beruflichen Kontext Erfahrungen mit der Produktion von Imagefilmen in einem kleinen Unternehmen machen können, außerdem auch im akademischen Kontext eines Praxisprojekts das Vorgehen bei der Produktion eines Imagefilms \cite{wittmann2014praxiprojekt} näher betrachten dürfen. Der Ablauf des Praxisprojekts sei hier grob zusammen gefasst, um Einblicke in die Herausforderungen und Besonderheiten bei der Produktion eines Imagefilms zu geben. Für genauere Details siehe auch \cite{wittmann2014praxiprojekt}.
 
 ## Projektfindung
 
@@ -137,3 +106,42 @@ Die Phase der Produktion ging vergleichsweise schnell vorüber, es gab insgesamt
 ## Schnitt und Montage {#filmproduktion-imagefilm-schnitt}
 
 Direkt nach den Aufnahmen wurde ein Rohschnitt des Films erstellt, der dem Kunden gezeigt werden konnte. Dieser vermittelte einen frühen Eindruck des Films und ermöglichte wertvolles frühes Feedback des Kundens an das Team. Danach wurde mithilfe der Angaben des Kunden, den herausgearbeiteten Anforderungen und dem Konzept die finale Version des Films erstellt. Hierzu gehörten Aktivitäten im Bereich Schnitt, Ton, Musik, visuelle Effekte und Farbkorrektur.
+
+# Gewerke in der Filmproduktion
+
+In der Filmproduktion treffen viele verschiedene Berufe aufeinander, da Filmprojekte sowohl technisch als auch inhaltlich eine große Bandbreite an verschiedenen Details haben. Filmprojekte sind also für Teamarbeit  prädestiniert. Viele Spezialisten für ihre Teilbereiche arbeiten in Filmprojekten zusammen. Dies bedeutet bedeutet aber auch, dass viel Kommunikation und Zusammenarbeit zwischen den einzelnen Gewerken, also den Mitwirkenden mit ihren Spezialisierungen vorhanden sein muss. Dies ist nicht nur für die Teammitglieder in der Produktion wichtig, sondern auch für alle Mitwirkenden vor und nach der Produktion des Films.
+
+Im Folgenden sollen die typischen Gewerke vorgestellt werden, die in der Produktion eines Films beteiligt sind. Dabei wird vor allem auf die Beschreibungen von \cite{jacobs2015prozess} eingegangen, der die Produktion von non-fiktionalem Film fürs Fernsehen beschreibt.
+
+
+## Autor {#filmproduktion-gewerke-autor}
+
+Der Autor^[\cite{jacobs2015prozess} nennt ihn "Autor", da es sich bei ihm um hauptsächlich journalistische Filme handelt. In anderen Branchen sind Bezeichnungen wie "Regisseur" denkbar.] hat die führende Rolle im Filmprojekt. Er ist verantwortlich für den Inhalt des Films und für das Filmprojekt als Ganzes. Er übernimmt häufig die Aufgaben der Recherche und der Regie. Das bedeutet, dass er alle nötigen technischen Details mit den anderen Gewerken bespricht. Dabei gibt der Autor an, was in dem Film kommuniziert werden soll. Wie das dann technisch genau umgesetzt wird, darum kümmert sich jedes Gewerk bestenfalls selbstständig.
+
+## Kameramann
+
+Der Kameramann ist während der Produktion dafür verantwortlich, die Bilder so zu gestalten, dass sie den intendierten Inhalt des Autors bestmöglich kommunizieren. Er entscheidet darüber, welche Technik beim Dreh eingesetzt wird, also welche Kamera, welches Objektiv und wie die Kamera geführt werden soll. Außerdem bestimmt er, wie die einzelnen Parameter der Kamera eingestellt werden. Zusammen mit einer guten Positionierung der Kamera erreicht der Kameramann so eine Bildgestaltung, die die gewünschte Wirkung vom Autor unterstützt. 
+
+## Tonmann
+
+Der Tonmann ist verantwortlich für einen sendefähigen Ton. Er entscheidet, welche Mikrofone wie eingesetzt werden. Dies leitet er aus den Anforderungen ab, die der Autor ihm mitteilt. Aufgrund der Anforderungen weiß der Tonmann, welche Atmosphäre im Ton kommuniziert werden soll, und kann dann aufgrund seines Wissens über die Wirkung des Tons und seinen technischen Erfahrungen die dementsprechend beste Ausstattung wählen und umsetzen.
+
+Außerdem sorgt der Tonmann während des Drehs für die Auspegelung des Tons, sodass es während der Aufnahme zu keinen Übersteuerungen im Ton kommt.
+
+## Cutter
+
+Der Cutter macht den Videoschnitt, nachdem die Aufnahme des Materials  abgeschlossen ist. Er sichtet alles Material, schneidet und montiert das Material dann so, dass eine in sich schlüssige Geschichte entsteht. Wenn aus dem Material als solches schon ein logischer Ablauf  oder eine Handlung ersichtlich ist, kann er diese Handlung ohne viel Anweisung selbst montieren.
+
+Der Cutter ist meistens bei dem Dreh nicht dabei gewesen. Dies hat sowohl Vor- als auch Nachteile: Vorteil ist, dass er mehr "Distanz" zu den Bildern hat. Er kann objektiver betrachten, was für eine Wirkung das Bild auf den Betrachter hat, weil er nur dieses Bild sieht und nicht weiß, was in dieser Situation sonst noch alles passiert ist. Der Cutter ist also weiter entfernt von dem Erlebnis der Aufnahme und somit "näher" am Seheindruck des letztendlichen Betrachter. Allerdings weiß durch das bloße Sichten des Materials nicht, welche Stellen in der Geschichte besonderen Stellenwert haben, wo emotional viel kommuniziert werden soll. Dies muss vom Autor klar kommuniziert werden.
+
+## Tonmeister / Tonmischung
+
+Ähnlich wie der Cutter das Material vom Kameramann bearbeitet, bearbeitet der Tonmeister das Material des Tonmanns. Hierbei sorgt er dafür, dass Musik, Geräusche und Sprache auf den richtigen Pegel gebracht werden. Er sorgt also dafür, dass die Sprache immer verständlich ist, die Musik nicht zu sehr im Vordergrund ist, und Geräusche im richtigen Moment wichtige Ereignisse unterstreichen. Auch hier ist wieder Absprache mit dem Autor wichtig, denn gerade der Ton hat einen wesentlichen Einfluss auf die Gefühlswelt des Betrachters und somit kann der richtige Mix und der richtige Einsatz von Musik und Geräuschen die gewünschten Emotionen unterstreichen.
+
+## Zusammenarbeit als Team {#zusammenarbeit-als-team}
+
+Der Autor hat die Verantwortung des Filmprojekts, er entscheidet, was inhaltlich im Film passiert, und wie welche Botschaft übermittelt werden soll. Allerdings kennt sich der Autor in den Gewerken nicht so gut aus und kann also die detaillierteren Entscheidungen für z. B. Auswahl der Technik nicht so gut treffen, wie die Spezialisten der einzelnen Gewerke. Es entsteht hier also die Notwendigkeit, dass der Autor stark mit seinem Team zusammen arbeitet, um das Know-How seiner Teammitglieder bestmöglich zu nutzen. Schließlich sind diese in ihrem Fachgebiet Spezialisten und haben meist viel Erfahrung. \cite{jacobs2015prozess} schreibt, dass es empfehlenswert für den Autor ist, nur seine Absicht klarzustellen. Die Gewerke werden dann selbstständig für diese Absicht arbeiten.
+
+In der Zusammenarbeit als Team spielt Feedback auch eine wichtige Rolle: Der Cutter z. B. kann früh Feedback geben, ob das Material gut ist und wie es wirkt, weil er selbst eine gewisse "Distanz" zu den Bildern hat. Dieses frühe Feedback ist sehr hilfreich um möglichst früh weitere Entscheidungen treffen zu können und um gegebenenfalls geplante Szenen oder Abläufe anzupassen.
+
+Insgesamt lässt sich sagen, dass in einem Filmprojekt Team viele Spezialisierungen und Teilfachgebiete vorhanden sind. Daher spielt Kommunikation eine wesentliche Rolle für den Projekterfolg.
