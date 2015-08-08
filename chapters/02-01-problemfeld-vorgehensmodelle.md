@@ -267,10 +267,6 @@ Ein weiterer Einwand gegen die Arbeit mit dem Kunden vor Ort ist die daraus resu
 
 Insgesamt scheint es viel Zeit zu sein, die der Kunde mit der ständigen Anwesenheit eines Experten vor Ort zu investieren hat. Hierbei sei erwähnt, dass für diesen Ansatz allerdings die gesamte Zeit einer ausführlichen Anforderungsanalyse mit dem Kunden gespart werden kann. Zudem kann davon ausgegangen werden, dass am die Ergebnisse durch die Anwesenheit des Experten höchstens gering von den Anforderungen des Kunden abweichen und somit die Zeit gespart werden kann, die es kostet, wenn ein System entwickelt wird, dass nicht den realen Anforderungen des Kunden entspricht \cite{extremeprogramming}.
 
-### Tests zuerst programmieren
-
-Tests ersetzen in XP eine detaillierte Spezifikation der Arbeitspakete. Außerdem ermöglicht automatisiertes Testen eine sehr zielgenaue und präzise Programmierung, um genau das an Funktionalität zu erreichen, was notwendig ist. Wells \cite{extremeprogramming} behauptet, wer Tests zuerst schreibt und dann den dazugehörigen Code entwickelt ist genau so schnell wie der, der nur den Code entwickelt. Dies lässt sich leicht damit begründen, dass der Entwickler sich schon während der Entwicklung der Tests Gedanken zu der Struktur der nötigen Lösung macht und diese danach nur noch "herunter schreiben" muss. Zudem weiß der Entwickler durch die Test genau, wann er fertig mit der Entwicklung der gewünschten Funktionalität ist: wenn alle Tests erfolgreich waren \cite{extremeprogramming}. Ohne Tests lässt sich der Status "fertig entwickelt" für eine Funktion nicht so leicht definieren. Zuletzt bieten Tests die Grundlage für ein effektives Refactoring; ohne Tests kann nicht ermittelt werden, dass die Funktionalität bestimmter Module durch das Refactoring geändert wurden \cite{hanser}.
-
 ### Pair Programming
 
 Pair Programming ist die Praxis, dass sich zwei Entwickler zusammen mit einer Aufgabe beschäftigen. Sie sitzen dabei zusammen an einem Rechner, ein Entwickler benutzt die Tastatur und der andere sitzt daneben. Die Rollen des Schreibens und des Beobachtens werden regelmäßig zwischen den beiden Entwicklern getauscht.
@@ -294,15 +290,6 @@ Allerdings bringen Tests laut \cite{extremeprogramming} dem Team im weiteren Vor
 - Tests helfen beim Refactoring (siehe Abschnitt \ref{refactoring}), indem sie überprüfbar machen, ob die gewünschte Funktionalität des geänderten Codes immer noch gegeben ist.
 - Tests fördern die Praxis der häufigen Integration (siehe Abschnitt \ref{haeufige-sequenzielle-integration}), indem sie schnell ersichtlich machen, wo bei der Integration Fehler aufgetreten sind und somit dem Entwicklerteam schnell Hinweise darauf geben, an welcher Stelle im Code etwas geändert werden muss.
 
-### Akzeptanztest
-
-Akzeptanztests sind näher an den User Stories als die Unit Tests. Sie bieten ein Testen der Funktionalität aus der Sicht des Benutzers und weniger aus der Sicht des Entwicklers. Somit befinden sich Akzeptanz Tests auf einer höheren Ebene der Abstraktion als die nah am Code gelegenen Unit Tests. Akzeptanztests stellen die High-Level-Spezifikationen des Systems dar \cite{hanser}.
-
-### Ursachenanalyse
-
-Falls in der Software ein Fehler gefunden wird, der von keinem Test abgedeckt wurde, muss zuerst mit dem Kunden zusammen ein Akzeptanztest entwickelt werden, in dem formuliert wird, wie dieser Fehler zu vermeiden ist. Dann wird untersucht, welche Software Module für diesen Akzeptanz verantwortlich sind, um entsprechenden Unit Tests zu entwickeln, die die zusätzliche Verantwortung der Software Module festlegen. Erst dann werden im Code Änderungen vorgenommen, um den Ansprüchen der Unit Tests zu genügen. Laufen die Unit Tests vollständig, sollte nun auch der neu entworfene Akzeptanztest laufen \cite{extremeprogramming}. Die Antwort auf einen gefundenen Fehler ist also ein entwickeln von Tests in "Top-Down" Richtung und eine anschließende Verifikation der Tests in "Bottom-Up" Richtung.
-
-Nach Abschluss der Testentwicklung muss sich das Team die Frage stellen, wie es dazu kommen konnte, dass ein Fehler in der Software vorhanden war, der von keinem Test abgedeckt wurde und was getan werden kann, um weitere solcher Fehler zu vermeiden \cite{hanser}.
 
 # Kanban
 
