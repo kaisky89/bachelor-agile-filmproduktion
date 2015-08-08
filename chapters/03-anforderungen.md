@@ -304,7 +304,7 @@ Table: Anforderungen der Kategorie Finanzielles
 | Nr. | Ursprung | Anforderung                                          | Gewichtung |
 |----:|----------|------------------------------------------------------|-----------:|
 | F01 |    2, 11 |Kostentransparenz                                     |        $8$ |
-| F02 | 1, 8, 30 |Geringe finanzielle Kosten                            |        $5$ |
+| F02 | 1, 8, 30 |Geringe finanzielle Kosten                            |        $7$ |
 
 
 Table: Anforderungen der Kategorie Anderes
