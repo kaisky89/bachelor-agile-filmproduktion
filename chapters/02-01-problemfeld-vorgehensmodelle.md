@@ -286,7 +286,7 @@ Unit Tests, also Tests, die nah an der Funktionalität einzelner Codeabschnitte 
 
 Allerdings bringen Tests dem Team im weiteren Vorgehen laut Wells \cite{extremeprogramming} einen immensen Nutzen:
 
-- Tests ermöglichen die Praktik des collective code ownership (siehe Abschnitt \ref{collective-code-ownership}, indem sie den Entwicklern die Angst nehmen, fremden Code zu ändern und dabei unwissend die Funktionalität zu beeinträchtigen
+- Tests ermöglichen die Praktik des collective code ownership (siehe Abschnitt \ref{collective-code-ownership}), indem sie den Entwicklern die Angst nehmen, fremden Code zu ändern und dabei unwissend die Funktionalität zu beeinträchtigen
 - Tests helfen beim Refactoring (siehe Abschnitt \ref{refactoring}), indem sie überprüfbar machen, ob die gewünschte Funktionalität des geänderten Codes immer noch gegeben ist.
 - Tests fördern die Praxis der häufigen Integration (siehe Abschnitt \ref{haeufige-sequenzielle-integration}), indem sie schnell ersichtlich machen, wo bei der Integration Fehler aufgetreten sind und somit dem Entwicklerteam schnell Hinweise darauf geben, an welcher Stelle im Code etwas geändert werden muss.
 
@@ -307,24 +307,24 @@ Das Wort "Kanban" kommt aus dem japanischen: *Kan* bedeutet soviel wie *Signal* 
 
 Diese Begriffe sollen im weiteren Verlauf dieser Arbeit dazu dienen, die einzelnen Bedeutungen von Kanban zu unterscheiden. Falls der Begriff *Kanban* ohne Zusatz erscheint, ist damit das *Software-Kanban*, also das Vorgehensmodell gemeint.
 
-Die Idee von Software-Kanban ist, mithilfe einfacher Mittel Transparenz über den aktuellen Entwicklungsstatus eines Projekts zu bekommen, und zu kommunizieren, welche Probleme gerade akut sind. Software-Kanban nutzt hierfür primär die Technik des Kanban-Boards, das dahinter liegende Wertesystem und die daraus resultierenden Prinzipien gehen aber weitaus über die Technik an sich hinaus und sollen im weiteren näher betrachtet werden.
+Die Idee von Software-Kanban ist, mithilfe einfacher Mittel Transparenz über den aktuellen Entwicklungsstatus eines Projekts zu bekommen, und zu kommunizieren, welche Probleme gerade akut sind. Software-Kanban nutzt hierfür primär die Technik des Kanban-Boards. Das dahinter liegende Wertesystem und die daraus resultierenden Prinzipien gehen aber weit über die Technik an sich hinaus und sollen im weiteren näher betrachtet werden.
 
-Das Ziel von Software-Kanban ist nicht, Probleme zu lösen, sondern nur aufzuzeigen. Es gibt den Mitgliedern des Entwicklungsteams die nötigen Werkzeuge und Techniken in die Hand, Probleme und Schwachstellen in ihrer Zusammenarbeit zu sehen. Wie sie dann damit umgehen, bleibt in ihrer Hand \cite{extremeprogramming}.
+Das Ziel von Software-Kanban ist nicht, Probleme zu lösen, sondern sie nur aufzuzeigen. Es gibt den Mitgliedern des Entwicklungsteams die nötigen Werkzeuge und Techniken an die Hand, Probleme und Schwachstellen in der Zusammenarbeit des Teams zu sehen. Wie sie dann damit umgehen, bleibt in ihrer Hand \cite{extremeprogramming}.
 
 ### Was ist Kanban nicht?
 
-Software-Kanban ist keine Entwicklungsmethode. Es gibt keine Aussagen darüber *wie* entwickelt werden soll. Es bezieht auch keine Stellung darüber, wie ein Entwicklungsprojekt geplant oder organisiert werden soll. Das bedeutet, Software-Kanban kann sowohl in Projekten angewandt werden, die noch nach dem klassischen Wasserfallmodell arbeiten, als auch in modernen Projekten mit iterativ-inkrementellem Ansatz.
+Software-Kanban ist keine Entwicklungsmethode. Es gibt keine Aussagen darüber, *wie* entwickelt werden soll. Es bezieht auch keine Stellung dazu, wie ein Entwicklungsprojekt geplant oder organisiert werden soll. Das bedeutet, Software-Kanban kann sowohl in Projekten angewandt werden, die noch nach dem klassischen Wasserfallmodell arbeiten, als auch in modernen Projekten mit iterativ-inkrementellem Ansatz.
 
-Software-Kanban bietet somit auch in keinerlei Konkurrenz zu den Vorgehensmodellen wie XP oder Scrum \cite{agilespmkanban}. Die Idee von Software-Kanban ist nicht, ein neues Vorgehen einzuführen. Es setzt auf die vorhanden Strukturen auf und arbeitet mit kleinen Schritten der Verbesserung.
+Software-Kanban steht somit auch in keinerlei Konkurrenz zu den Vorgehensmodellen wie XP oder Scrum \cite{agilespmkanban}. Die Idee von Software-Kanban ist nicht, ein neues Vorgehen einzuführen. Es setzt auf die vorhanden Strukturen auf und arbeitet mit kleinen Schritten der Verbesserung.
 
 
 ## Historie
 
 ### Produktions-Kanban
 
-Der ursprüngliche Gedanke von Software-Kanban kommt aus der Automobilindustrie. (Das Kanban Vorgehensmodell der Automobilindustrie wird im Folgenden Produktions-Kanban genannt, eine Differenzierung mit dem Software-Kanban zu ermöglichen)
+Der ursprüngliche Gedanke von Software-Kanban kommt aus der Automobilindustrie. (Das Kanban Vorgehensmodell der Automobilindustrie wird im Folgenden Produktions-Kanban genannt, um eine Differenzierung mit dem Software-Kanban zu ermöglichen)
 
-Der japanische Automobilhersteller Toyota entwickelte Produktions-Kanban, um eine Just-In-Time Produktion zu gewährleisten: Es sollte eine unnötige Überproduktion einzelner Teile in eine Produktionslinie vermieden werden, so konnte die Verschwendung von Lagerplatz eliminiert werden. Andererseits musste sichergestellt werden, dass nicht ein Mangel an Produktionsgütern vorherrschte. So entwickelte Toyota ein System, um die einzelnen Produktionsschritte miteinander zu synchronisieren: Es wurden Karten eingesetzt, um signalisieren, dass sich Bestände eines bestimmten Zwischenerzeugnisses dem Ende neigten. Die Nachproduktion wurde mithilfe dieser Karten initiiert. Somit konnte die Menge der zwischengelagerten Teile einer Produktion auf ein Minimum gebracht werden: Zwischenteile wurden erst genau dann produziert, wenn sie auch benötigt wurden.
+Der japanische Automobilhersteller Toyota entwickelte Produktions-Kanban, um eine Just-In-Time Produktion zu gewährleisten: Es sollte eine unnötige Überproduktion einzelner Teile in einer Produktionslinie vermieden werden, so konnte der Verschwendung von Lagerplatz vorgebeugt werden. Andererseits musste sichergestellt werden, dass das aber auch zu keinem Mangel an Produktionsgütern führte. So entwickelte Toyota ein System, um die einzelnen Produktionsschritte miteinander zu synchronisieren: Es wurden Karten eingesetzt, um signalisieren, dass sich Bestände eines bestimmten Zwischenerzeugnisses dem Ende neigten. Die Nachproduktion wurde mithilfe dieser Karten initiiert. Somit konnte die Menge der zwischengelagerten Teile einer Produktion auf ein Minimum gebracht werden: Zwischenteile wurden erst genau dann produziert, wenn sie auch benötigt wurden.
 
 
 ### Transfer in die Software Welt
@@ -336,11 +336,11 @@ Somit entstand das Software Kanban, auf das im Folgenden näher eingegangen wird
 
 ## Werte von Kanban
 
-Die Werte von Kanban unterscheiden sich von den anderen beiden in dieser Arbeit vorgestellten Vorgehensmodelle. Das liegt daran, weil Kanban sich nicht nur dem Werte System der *Agilen Softwareentwicklung* verschreibt, sondern auch dem der *Schlanken Softwareentwicklung*. Zusammenfassend können die drei Hauptwerte mit den Worten von David J. Anderson beschrieben werden.
+Die Werte von Kanban unterscheiden sich von den anderen beiden in dieser Arbeit vorgestellten Vorgehensmodelle. Das liegt daran, dass Kanban sich nicht nur dem Werte System der *Agilen Softwareentwicklung* verschreibt, sondern auch dem der *Schlanken Softwareentwicklung*. Zusammenfassend können die drei Hauptwerte mit den Worten von David J. Anderson beschrieben werden:
 
 > "Value first, then flow, then waste reduction/elimination." \cite{anderson} (zitiert nach \cite{epping})
 
-Hier kommen drei wesentliche Werte vor, die für Kanban eine Rolle spielen (Erläuterungen nach \cite{epping}):
+Die Werte haben dabei folgende Bedeutung (Erläuterungen nach \cite{epping}):
 
 - **Value** beschreibt den Geschäftswert aus der Sicht des Kunden. Dies ist der zentrale Wert von Kanban. Jede Arbeit, die getan wird, muss dem Kunden einen Geschäftswert bringen.
 - **Flow** beschreibt den gleichmäßigen Arbeitsfortschritt. Dieser ist wichtig, muss aber dem Geschäftswert untergeordnet sein. In Kanban wird aber davon ausgegangen, dass ein gleichmäßiger Arbeitsfortschritt dem Geschäftswert zugute kommt.
@@ -349,12 +349,12 @@ Hier kommen drei wesentliche Werte vor, die für Kanban eine Rolle spielen (Erl�
 
 ### Schlanke Softwareentwicklung
 
-Die schlanke Softwareentwicklung hat keine explizit formulierten Werte. \cite{epping} stellt aber mit Bezugname zu \cite{poppendieck2003lean} eine Reihe von Werten vor, die das Wertesystem der schlanken Softwareentwicklung repräsentieren. Auf einige dieser Werte soll im Folgenden näher eingegangen werden.
+Epping \cite{epping} stellt mit Bezugname zu Poppendieck \cite{poppendieck2003lean} eine Reihe von Werten vor, die das Wertesystem der schlanken Softwareentwicklung repräsentieren. Auf einige dieser Werte soll im Folgenden näher eingegangen werden.
 
 
 #### Eliminate Waste {#eliminate-waste}
 
-*Waste* bedeutet *Ballast*. Das Eliminieren von Ballast nimmt in der schlanken Softwareentwicklung eine zentrale Rolle ein^[Deswegen auch der Begriff "schlank": Etwas, das von unnötigen Ballast befreit ist, ist schlank. Ein Mensch, der nach einer Diät abgenommen hat und somit sein Körpergewicht reduziert hat, ist "schlank"; er hat seinen Körper von unnötigen Ballast (in diesem Fall unnötige Fettreserven) befreit]. 
+Das Eliminieren von Ballast nimmt in der schlanken Softwareentwicklung eine zentrale Rolle ein^[Deswegen auch der Begriff "schlank": Etwas, das von unnötigen Ballast befreit ist, ist schlank. Ein Mensch, der nach einer Diät abgenommen hat und somit sein Körpergewicht reduziert hat, ist "schlank"; er hat seinen Körper von unnötigen Ballast (in diesem Fall unnötige Fettreserven) befreit]. 
 
 Mary und Tom Poppendieck beschreiben *Ballast* wie folgt:
 
