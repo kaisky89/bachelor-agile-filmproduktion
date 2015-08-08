@@ -42,13 +42,17 @@ Die Anforderung, dass der Kunde an der Entwicklung mitgestalten kann, wird mit d
 
 ### T01: Zielgerichtetes Planen und Handeln
 
-- Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}):
-- Aktivität *Pioneer Phase* (siehe Abschnitt \ref{entwurf-aktivitat-pioneer-phase}):
-- Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}):
+Selbstverständlich soll das das gesamte Vorgehensmodell mit all seinen Elemtenten genau das schaffen: Das Team zu ermächtigen, effektiv zu planen und zielgerichtet zu handeln. Allerdings gibt es einige Elemente, die sehr deutlich zeigen, wie dies in diesem Vorgehensmodell umgesetzt wird.
+
+- Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}): Dadurch, dass die Botschaft des Imagefilms als zentrales Ziel behandelt wird, wird dem Team und allen anderen immer wieder geholfen, sich auf das Wesentliche zu konzentrieren: Dem Betrachter des Films die richtige Botschaft zu vermitteln. Das ist das Primärziel des Imagefilms, und dem müssen alle anderen Dinge untergeordnet sein. Durch diesen Wert wird das Planen und das Handeln im Vorgehensmodell zielgerichtet.
+- Aktivität *Pioneer Phase* (siehe Abschnitt \ref{entwurf-aktivitat-pioneer-phase}): Es gibt im Modell eine explizite Planungs- und Konzeptionsphase. Dies bewahrt das Team davor, unvorbereitet und ungezielt Filmdrehs zu unternehmen. Solche halb improvisierten und kaum geplanten Drehtermine würden dem Team nicht helfen, gezielt für eine Botschaft zu entwickeln und zu produzieren. Stattdessen gibt es explizite Zeiten, wo das Team konzipieren, planen aber auch neue Techniken ausprobieren kann, um für die Produktion gut vorbereitet zu sein.
+- Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}): Die Technik der Film Statements setzt die Wert *Botschaft als zentrales Ziel* um. Damit unterstützt sie das Team, zielgerichtet zu agieren und die wichtigen Dinge im Fokus zu behalten.
 
 ### T02: Kommunikation im Team
 
-- Wert *Kommunikation* (siehe Abschnitt \ref{entwurf-werte-kommunikation}):
+In der Domäne der Filmproduktion treffen - wie schon öfter in dieser Arbeit erwähnt - viele Spezialisten aufeinander. Obwohl jeder seine eigenes Fachwissen und seine eigenen Aufgaben hat, ist es doch notwendig, dass alle Teammitglieder zusammen arbeiten. Für diese Zusammenarbeit ist Kommunikation ein wesentlicher Faktor
+
+- Wert *Kommunikation* (siehe Abschnitt \ref{entwurf-werte-kommunikation}): 
 - Aktivität *Retrospektive* (siehe Abschnitt \ref{entwurf-aktivitat-retrospektive}):
 - Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}):
 - Technik *Kanban Board* (siehe Abschnitt \ref{techniken-kanban-board}):
