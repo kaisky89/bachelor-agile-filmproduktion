@@ -123,9 +123,30 @@ Auf die Zusammenarbeit mit Laiendarstellern, dessen Beteiligung an dem Imagefilm
 
 ## Übersicht aller Anforderungen und deren Erfüllung
 
-In der Tabelle \ref{} sind alle Anforderungen dargestellt. Zusätzlich wird aufgeführt, inwiefern der Entwurf des Vorgehensmodells diese Anforderung erfüllt. Der Grad der Erfüllung liegt dabei auf einer Skala zwischen $0$ (gar nicht erfüllt) und $5$ (vollständig erfüllt).
+In der Tabelle \ref{} sind alle Anforderungen dargestellt. Zusätzlich wird aufgeführt, inwiefern der Entwurf des Vorgehensmodells diese Anforderung erfüllt. Der Grad der Erfüllung liegt dabei auf einer Skala zwischen $0$ (gar nicht erfüllt) und $3$ (vollständig erfüllt).
 
-
+| Nr. |Anforderung                                       | Gewichtung | erfüllt |
+|----:|--------------------------------------------------|-----------:|--------:|
+| K01 |Laienkonforme Präsentation der Zwischenergebnisse |       $10$ |     $3$ |
+| K02 |Kommunikation des Projektstatus an Außenstehende  |       $10$ |     $3$ |
+| K03 |Mitgestalten des Kunden                           |        $9$ |     $3$ |
+| K04 |Direkte Kommunikation (zw. Team und Kunde)        |        $5$ |     $2$ |
+| K05 |Persistente & asynchrone Kommunikation            |        $3$ |     $2$ |
+| T01 |Zielgerichtetes Planen und Handeln                |       $10$ |     $3$ |
+| T02 |Kommunikation im Team                             |        $9$ |     $3$ |
+| T03 |Einbringen von Fachwissen der Spezialisten        |        $8$ |     $3$ |
+| T04 |Werkzeuge für das Anforderungsmanagement          |        $8$ |     $3$ |
+| T05 |Schnelle Fertigstellung des Projekts              |        $7$ |     $0$ |
+| T06 |Genügend Kapazität, um Anforderungen zu genügen   |        $5$ |     $2$ |
+| T07 |Geringer Aufwand für Verwaltung des Vorgehens     |        $5$ |     $2$ |
+| T08 |Geregeltes Umfeld                                 |        $3$ |     $1$ |
+| F01 |Kostentransparenz                                 |        $8$ |     $1$ |
+| F02 |Geringe finanzielle Kosten                        |        $7$ |     $0$ |
+| A01 |Hohe Qualität des Imagefilms                      |        $8$ |     $3$ |
+| A02 |Aufgabenbeschreibung für Laiendarsteller          |        $7$ |     $2$ |
+| A03 |Geringe Beteiligung von Laiendarsteller           |        $5$ |     $1$ |
+| A04 |ruhige Aufnahmesituation für Laiendarsteller      |        $5$ |     $0$ |
+| A05 |Darsteller erfährt, was mit Bildmaterial geschieht|        $4$ |     $1$ |
 
 <!--# Auswertung aus Sicht der Personae-->
 
