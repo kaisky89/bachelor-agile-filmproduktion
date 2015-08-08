@@ -8,17 +8,6 @@ In der Filmproduktion treffen viele verschiedene Berufe aufeinander, da Filmproj
 
 Im Folgenden sollen die typischen Gewerke vorgestellt werden, die in der Produktion eines Films beteiligt sind. Dabei wird vor allem auf die Beschreibungen von \cite{jacobs2015prozess} eingegangen, der die Produktion von non-fiktionalem Film fürs Fernsehen beschreibt.
 
-<!--
-
-- Gängige Praxis für die Produktion von non-fiktionalem Film fürs Fernsehen: 
-	- 3 Mann Team (Kamera, Ton, Autor)
-	- 2 Autoren (kümmern sich um alles)
-	- 1 Mann Team
-- Produktion und Inhalt meistens getrennt: Kamerateams werden "hinzugebucht", sind an der Entwicklung des Stoffs nicht beteiligt.
-- Nachteil: Know-How der Gerwerke kann nicht in die Entwicklung und in die Planung einbezogen werden.
-
--->
-
 
 ## Autor {#filmproduktion-gewerke-autor}
 
