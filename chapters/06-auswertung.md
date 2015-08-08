@@ -84,7 +84,7 @@ Es mag Imagefilmprojekte geben, die eine ständige Aktualisierung der Anforderun
 
 Aber sobald ein Team vor der Herausforderung gestellt wird, innovativ und kreativ in der Gestaltung zu sein, ist es gut möglich, dass ein iterativer Ansatz - so wie ihn das Vorgehensmodell dieser Arbeit hier vorschlägt, durchaus schneller zum Ziel kommt. Der klassische Ansatz des Wasserfallmodells birgt immer die Gefahr, dass die wirklichen Anforderungen des Kunden nicht erfüllt werden. Und ein nachträgliches Ändern - nachdem vom Kunden festgestellt wurde, dass der "fertige" Film nicht seinen Ansprüchen genügt - kostet sehr viel Zeit. So muss der Kunde für entweder mit dem Ergebnis (also einem qualitativ schlechten Film, da er nicht den Ansprüchen genügt), oder er investiert noch einmal unnötig Zeit und Geld in das Projekt.
 
-Ein zusätzlicher Punkt, der für ein größeres Projekttempo des hier vorgestellten Vorgehensmodell sorgen könnte, ist die integration des ganzen Teams in die Konzeptionsphase: Durch die Anwesenheit alles Fachkompetenzen kann hier schneller konzipiert werden. Außerdem ist ein Dreh schneller geplant, wenn alle Beteiligten schon vornherein wissen, worum es geht und aktiv mit vorbereiten können.
+Ein zusätzlicher Punkt, der für ein größeres Projekttempo des hier vorgestellten Vorgehensmodell sorgen könnte, ist die Integration des ganzen Teams in die Konzeptionsphase: Durch die Anwesenheit alles Fachkompetenzen kann hier schneller konzipiert werden. Außerdem ist ein Dreh schneller geplant, wenn alle Beteiligten schon vornherein wissen, worum es geht und aktiv mit vorbereiten können.
 
 Allerdings sind dies nur Mutmaßungen. Festzuhalten ist, dass die Anforderung "T05: Schnelle Fertigstellung des Projekts" nicht explizit vom Vorgehensmodell erfüllt wird.
 
@@ -115,33 +115,17 @@ Allerdings sind dies auch nur Mutmaßungen. Auch hier muss festgehalten werden, 
 
 ### A01: Hohe Qualität des Imagefilms
 
-Der Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}) legt den Fokus darauf, die richtigen Anforderungen zu finden. Feedback, Iteration, Review: Das alles dient dazu, herauszufinden, was wirklich gebraucht wird. Alles das führt dazu, dass genau das entwickelt wird, was der Kunde braucht. Und ein Imagefilm ist genau dann qualitativ, wenn er die richtige Botschaft kommuniziert.
+Der Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}) legt den Fokus darauf, die richtigen Anforderungen zu finden. Feedback, Iteration, Review: Das alles dient dazu, herauszufinden, was wirklich gebraucht wird. Alles das führt dazu, dass genau das entwickelt wird, was der Kunde braucht.
 
 ### A02: Aufgabenbeschreibung für Laiendarsteller
 
-Auf die Zusammenarbeit mit Laiendarstellern, dessen Beteiligung an dem Imagfilm so gering wie möglich sein soll, wurde in dem Entwurf des Vorgehensmodells nicht weiter eingegangen. Es ist aber denkbar, dass mithilfe der *Cheap Production* eine gute Vorlage für Laiendarsteller entwickelt werden kann. So kann ein Laiendarsteller sofort sehen, wie die Szene auszusehen hat, und wie er in der Szene zu agieren hat.
+Auf die Zusammenarbeit mit Laiendarstellern, dessen Beteiligung an dem Imagefilm so gering wie möglich sein soll, wurde in dem Entwurf des Vorgehensmodells nicht weiter eingegangen. Es ist aber denkbar, dass mithilfe der *Cheap Production* eine gute Vorlage für Laiendarsteller entwickelt werden kann. So kann ein Laiendarsteller sofort sehen, wie die Szene auszusehen hat, und wie er in der Szene zu agieren hat.
 
 ## Übersicht aller Anforderungen und deren Erfüllung
 
 In der Tabelle \ref{} sind alle Anforderungen dargestellt. Zusätzlich wird aufgeführt, inwiefern der Entwurf des Vorgehensmodells diese Anforderung erfüllt. Der Grad der Erfüllung liegt dabei auf einer Skala zwischen $0$ (gar nicht erfüllt) und $5$ (vollständig erfüllt).
 
 
-# Auswertung aus Sicht der Personae
 
+<!--# Auswertung aus Sicht der Personae-->
 
-
-<!--
-
-----
-
-Management kreativitätsintensiver Prozesse - Kapitel 13: Kreativität in IT-Forschungsprojekten – Charakterisierung und resultierende Handlungsanweisungen für das Projektmanagement
-
-![Das magische Viereck des Projektmanagements in Forschungsprojekten](http://download.heart-co.de/Bildschirmfoto%202015-06-24%20um%2019.52.55.png)
-
--->
-
-<!--
-
-Dieser Ansatz setzt viele daran an, dass das Team neue Wege zu erkunden hat. Das Vorgehensmodell ist also vor allem für Innovative Filme gedacht, wo es Wege gibt, die das Filmteam noch nicht kennt. Wenn das Filmteam eigentlich nur Standard Arbeit macht, ist es nicht notwendig, den Afuwand von iterativer Enticklung zu betreiben.
-
--->
