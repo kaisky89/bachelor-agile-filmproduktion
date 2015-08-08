@@ -14,7 +14,9 @@ Das Wort *Image* bedeutet soviel wie Eindruck oder Vorstellungsbild. Es wird ben
 
 Die primäre Bedeutung des Imagefilms ist also, dass es sich um ein Film handelt, der bewusst das Images - also das allgemeine kollektive Vorstellungsbild - eines Unternehmens gestaltet. Hoppert definiert einen Imagefilm wie folgt:
 
-> "Ein klassischer Imagefilm präsentiert das Unternehmen nach Außen und nach Innen. Hierbei geht es in erster Linie nicht darum ein Produkt oder eine Dienstleistung zu verkaufen oder das Unternehmen in allen Einzelheiten vorzustellen. Vielmehr sollen positive Emotionen in Bezug auf das Unternehmen beim Zuschauer geweckt werden." \cite{hoppert2003imagefilm} (zitiert nach \cite{})
+> "Ein klassischer Imagefilm präsentiert das Unternehmen nach Außen und nach Innen. Hierbei geht es in erster Linie nicht darum ein Produkt oder eine Dienstleistung zu verkaufen oder das Unternehmen in allen Einzelheiten vorzustellen. Vielmehr sollen positive Emotionen in Bezug auf das Unternehmen beim Zuschauer geweckt werden." \cite{hoppert2003imagefilm} (zitiert nach \cite{molitor2013imagefilme})
+
+
 
 
 # Phasen in der Filmproduktion {#phasen-in-der-filmproduktion}
