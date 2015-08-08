@@ -33,10 +33,10 @@ Die Elemente, die für die Anforderung **K01** vorgestellt wurden, setzen auch d
 
 Die Anforderung, dass der Kunde an der Entwicklung mitgestalten kann, wird mit den folgenden Elementen des Vorgehensmodells erfüllt:
 
-- Wert *Offenheit für Änderungen* (siehe Abschnitt \ref{entwurf-werte-offenheit-anderungen}): 
-- Artefakt *Film Backlog* (siehe Abschnitt \ref{entwurf-artefakte-film-backlog}): 
-- Aktivität *Sprint Review* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}): 
-- Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}): 
+- Der Wert *Offenheit für Änderungen* (siehe Abschnitt \ref{entwurf-werte-offenheit-anderungen}): Dieser Wert repräsentiert den Ansatz, dass Änderungswünsche des Kunden auch noch während der Entwicklung des Imagefilms willkommen sind. Viele Ideen, Anforderungen und das Verständnis für das Medium Film kommen dem Kunden erst in der Entstehungsphase. Erst wenn der Kunde erste Entwürfe sieht, kann er sagen, ob ihm das gefällt. Offenheit für Änderungen bildet also eine wichtige Grundlage für Mitgestaltungsmöglichkeiten des Kunden.
+- Artefakt *Film Backlog* (siehe Abschnitt \ref{entwurf-artefakte-film-backlog}): Im Film Backlog können jederzeit durch den Product Owner neue Items hinzugefügt werden. So ist es dem Kunden jederzeit möglich, mit Absprache des Product Owners das Ergebnis des Films Aktiv mitzugestalten.
+- Aktivität *Sprint Review* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}): Das Sprint Review bietet dem Kunden die ideale Plattform, um über den aktuellen Stand informiert zu werden und aktiv in die Gestaltung mit einzugreifen, in dem es mit dem Team direkt reden kann. So können Ergebnisse diskutiert, und nötige Veränderungen auf einfache Art und Weise besprochen werden.
+- Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}): Die Technik der Film Statements bietet dem Kunden die Möglichkeit, auf eine einfache und leicht zugängliche Art und Weise Anforderungen zu formulieren.
 
 ## Anforderungen der Kategorie Team
 
@@ -87,9 +87,9 @@ Die Wirtschaftlichkeit stand in den bisherigen Betrachtungen nicht im Vordergrun
 
 ### F01: Kostentransparenz
 
-- Aktivität *Sprint Review* (siehe Abschnitt \ref{xxx}):
-- Technik *Burndown Chart* (siehe Abschnitt \ref{xxx}):
-- Technik *Planning Poker* (siehe Abschnitt \ref{xxx}):
+- Aktivität *Sprint Review* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}):
+- Technik *Burndown Chart* (siehe Abschnitt \ref{entwurf-techniken-burndown-chart}):
+- Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}):
 
 schwierig, Festpreis Angebote zu machen: Man rechnet mit Änderungen, also kann man auch nicht von vornherein sagen, wieviel Kosten und Aufwand insgesamt da sind. Agil bedeutet: einzugestehen, dass man nicht alles weiß. Nur so viel planen, wie viel man auch weiß.
 
@@ -102,7 +102,7 @@ schwierig, Festpreis Angebote zu machen: Man rechnet mit Änderungen, also kann 
 
 ### A01: Hohe Qualität des Imagefilms
 
-- Wert *Botschaft als zentrales Ziel* \ref{entwurf-werte-botschaft}
+- Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}):
 
 Fokus darauf, die richtigen Anforderungen zu finden. Feedback, Iteration, Review: Das alles dient dazu, herauszufinden, was wirklich gebraucht wird. Botschaft als zentrales Ziel hilft dabei, immer wieder auf die wirklichen Anforderungen zu fokussieren. Alls das führt dazu, dass genau das entwickelt wird, was der Kunde braucht. Und das ist Qualität.
 
