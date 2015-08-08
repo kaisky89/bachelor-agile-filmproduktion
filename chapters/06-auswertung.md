@@ -123,7 +123,9 @@ Auf die Zusammenarbeit mit Laiendarstellern, dessen Beteiligung an dem Imagefilm
 
 ## Übersicht aller Anforderungen und deren Erfüllung
 
-In der Tabelle \ref{} sind alle Anforderungen dargestellt. Zusätzlich wird aufgeführt, inwiefern der Entwurf des Vorgehensmodells diese Anforderung erfüllt. Der Grad der Erfüllung liegt dabei auf einer Skala zwischen $0$ (gar nicht erfüllt) und $3$ (vollständig erfüllt).
+In der Tabelle \ref{Alle Anforderungen und deren Erfüllung} sind alle Anforderungen dargestellt. Zusätzlich wird aufgeführt, inwiefern der Entwurf des Vorgehensmodells diese Anforderung erfüllt. Der Grad der Erfüllung liegt dabei auf einer Skala zwischen $0$ (gar nicht erfüllt) und $3$ (vollständig erfüllt).
+
+Table: Alle Anforderungen und deren Erfüllung
 
 | Nr. |Anforderung                                       | Gewichtung | erfüllt |
 |----:|--------------------------------------------------|-----------:|--------:|
@@ -147,6 +149,8 @@ In der Tabelle \ref{} sind alle Anforderungen dargestellt. Zusätzlich wird aufg
 | A03 |Geringe Beteiligung von Laiendarsteller           |        $5$ |     $1$ |
 | A04 |ruhige Aufnahmesituation für Laiendarsteller      |        $5$ |     $0$ |
 | A05 |Darsteller erfährt, was mit Bildmaterial geschieht|        $4$ |     $1$ |
+
+Dies ergibt insgesamt eine Erfüllung der Anforderung von  $286 / 408 \approx 3 / 4$.
 
 <!--# Auswertung aus Sicht der Personae-->
 
