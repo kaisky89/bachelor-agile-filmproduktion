@@ -44,8 +44,6 @@ Es muss der Tatsache ins Auge gesehen werden, dass Anforderungen und Vorstellung
 
 ## Frühe Produktion {#entwurf-werte-fruehe-produktion}
 
-<!-- Umbenennen in "Transparenz"?? -->
-
 <!--TODO Klar machen, dass dieser Begriff von mir stammt. Definieren, was dieser Begriff meint-->
 
 Für gutes Feedback ist es wesentlich, so früh wie möglich dem Kunden schon erste Ergebnisse zeigen zu können. Ergebnisse, die dem Kunden präsentiert werden, müssen nicht perfekt sein, sollen dem Kunden aber die wesentlichen Merkmale zeigen, um die es momentan geht. Je früher der Kunde einen ersten Eindruck in Form eines Films über die geplanten Inhalte bekommt, desto früher kann er auch Feedback geben und verstehen, worum es dem Team geht und wie geplante filmische Aspekte wirken. Außerdem hilft es dem Team, durch frühe beispielhafte Produktionen selbst ein Gefühl dafür zu bekommen, welcher Aufwand mit bestimmten Techniken verbunden ist, oder welche Herausforderungen eine gewisse filmische Methode beinhaltet. Gerade bei neuen Ideen und innovativen und kreativen Ansätzen ist dies eine hilfreiche Möglichkeit, den eigenen Aufwand einzuschätzen.
@@ -54,14 +52,6 @@ Für gutes Feedback ist es wesentlich, so früh wie möglich dem Kunden schon er
 ## Botschaft als zentrales Ziel {#entwurf-werte-botschaft}
 
 Bei allen Bemühungen um Ideen und gestalterischen Feinheiten kann schnell die zentrale Botschaft des Kunden, die er mit dem Film kommunizieren möchte, in den Hintergrund treten. Diese Botschaft ist aber die Grundmotivation des Kunden für die Produktion des Imagefilms und wesentliches Kriterium für die Qualität des Films und für den Erfolg des Projekts. Der wirtschaftliche Mehrwert des Imagfilms lässt sich für den Kunden nicht direkt in konkreten Zahlen ausdrücken, es geht ja, wie der Name schon sagt, um das Image, also um einen indirektes Werbeanliegen, das sich nicht direkt auf die wirtschaftlichen Umsatz des Unternehmens auswirkt, sondern indirekt einen längerfristigen Nutzen bringt. Die agile Software Entwicklung setzt daran an, Funktionalität für den Kunden zu entwickeln und diese Funktionalität zum Zentrum des Gesprächs mit dem Kunden zu machen. In dem Kontext von Imagefilm Produktion ist die Funktionalität zu ersetzen mit der zentralen Botschaft, die der Kunde mit dem Imagefilm darstellen will. Entscheidungen und Handlungen in der Entwicklung und Produktion müssen also diesem Ziel dienen: die intendierte Botschaft des Kundens zu unterstützen. Aufgabe des Vorgehensmodells ist es, dieses Kriterium immer wieder vor Augen zu führen und eine Entwicklung zu unterstützen, die die Botschaft des Kunden im Fokus behält und sich daran orientiert.
-
-
-<!-- # Prinzipien -->
-
-<!-- Iterationen / kurze Releases -->
-
-<!-- EIN Team. Kein gesondertes Planungs oder Postproduktionsteam, alle Projektbeteiligten sind von anfang integriert -->
-
 
 
 # Rollen
