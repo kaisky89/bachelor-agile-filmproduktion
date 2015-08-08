@@ -94,16 +94,18 @@ Die Wirtschaftlichkeit stand in den bisherigen Betrachtungen und Entwicklungen d
 
 ### F01: Kostentransparenz
 
-Kostentransparenz ist für die Geschäftsführung des Kunden wie auch für die Geschäftsführung des Unternehmens wichtig. Gerade der Kunde wünscht sich am liebsten ein Angebot mit Festpreisgarantie, sodass er von Anfang an weiß, mit wie viel Kosten er rechnen kann. Dieser Wunsch kann mit dem Vorgehen dieses Modells nicht erfüllt werden: Die Flexibilität, sich auf Änderungen der Anforderungen des Kunden einzulassen, kann nur gewährleistet werden, wenn das Projekt auch in seinem zeitlichem Rahmen flexibel gestaltet werden kann. Agile Entwicklung - auch in der Domäne des Imagefilms - bedeutet, sich einzugestehen, dass man nicht alles weiß und nur so weit planen kann, wie viel voraus zu schauen ist. Allerdings gibt es 
+Kostentransparenz ist für die Geschäftsführung des Kunden wie auch für die Geschäftsführung des Unternehmens wichtig. Gerade der Kunde wünscht sich am liebsten ein Angebot mit Festpreisgarantie, sodass er von Anfang an weiß, mit wie viel Kosten er rechnen kann. Dieser Wunsch kann mit dem Vorgehen dieses Modells nicht erfüllt werden: Die Flexibilität, sich auf Änderungen der Anforderungen des Kunden einzulassen, kann nur gewährleistet werden, wenn das Projekt auch in seinem zeitlichem Rahmen flexibel gestaltet werden kann. Agile Entwicklung - auch in der Domäne des Imagefilms - bedeutet, sich einzugestehen, dass man nicht alles weiß und nur so weit planen kann, wie viel voraus zu schauen ist. Allerdings gibt es Elemente im Vorgehensmodell, die helfen, schnell und grob einen realistischen Eindruck von dem Aufwand des Projektes zu bekommen:
 
-- Aktivität *Sprint Review* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}):
-- Technik *Burndown Chart* (siehe Abschnitt \ref{entwurf-techniken-burndown-chart}):
-- Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}):
-
-schwierig, Festpreis Angebote zu machen: Man rechnet mit Änderungen, also kann man auch nicht von vornherein sagen, wieviel Kosten und Aufwand insgesamt da sind. Agil bedeutet: einzugestehen, dass man nicht alles weiß. Nur so viel planen, wie viel man auch weiß.
+- Aktivität *Sprint Review* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}): Mithilfe des Sprint Reviews sieht sowohl der Kunde als auch die eigene Geschäftsführung den wirklichen Stand des Projekts und dessen bisherige Ergebnisse. Die Transparenz, die getane Arbeit zu zeigen, unterstützt auch die Transparenz, was an zukünftigen Aufwand noch zu erledigen ist.
+- Technik *Burndown Chart* (siehe Abschnitt \ref{entwurf-techniken-burndown-chart}): Das Burndown Chart kann einerseits für die Visualisierung eines einzelnen Sprints benutzt werden. Andererseits ist es auch möglich, den noch zu erledigenden Aufwand des gesamten Projekts zu visualisieren. Anhand der gemessenen Arbeitsgeschwindigkeit des Teams kann grob der Zeitpunkt voraus gesagt werden, an dem alle momentanen Anforderungen abgearbeitet sind.
+- Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}): Da die Aufwandsschätzung nicht ein einzelner, sondern das ganze Team zusammen erstellt, ist sichergestellt, dass alle wesentlichen Faktoren mit beachtet werden. Mithilfe des Planning Pokers wird also eine möglichst realistische Einschätzung des Aufwands erstellt. Dies ist die Grundlage für ein aussagekräftiges Burndown Chart.
 
 
 ### F02: Geringe finanzielle Kosten
+
+Auch dieser Punkt ist nicht Gegenstand der bisherigen Betrachtungen gewesen. Allerdings kann auch hier - ähnlich wie im bei der Anforderung *T05: Schnelle Fertigstellung des Projekts* - davon ausgegangen werden, dass das konsequente Zusammenarbeiten aller Gewerke auch zu einer finanziellen Entlastung führen könnte. 
+
+Jacobs und Großpietsch beschreiben einen hnlichen Ansatz in dem Kontext der non-fiktionalen Filmproduktion: 
 
 > "Kamerateams werden üblicher Weise nicht wie ein Autor oder Regisseur für einen Film, sondern nach Einsatztagen oder -stunden berechnet. Ihre Einsatzzeiten sollen daher möglichst gering gehalten werden. Von redaktioneller Seite aus gesehen wäre es häufig wünschenswert, eine engere und vor allem frühere Zusammenarbeit herzustellen, um das KnowHow der Gewerke schon früh in die Planung und Umsetzung mit einzubeziehen. Mutmaßlich würde eine engere Kooperation häufig sogar wirtschaftliche Effekte erzielen." \cite{jacobs2015prozess}
 
