@@ -115,14 +115,15 @@ Allerdings sind dies auch nur Mutmaßungen. Auch hier muss festgehalten werden, 
 
 ### A01: Hohe Qualität des Imagefilms
 
-Der Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}) legt den Fokus darauf, die richtigen Anforderungen zu finden. Feedback, Iteration, Review: Das alles dient dazu, herauszufinden, was wirklich gebraucht wird. Botschaft als zentrales Ziel hilft dabei, immer wieder auf die wirklichen Anforderungen zu fokussieren. Alls das führt dazu, dass genau das entwickelt wird, was der Kunde braucht. Und das ist Qualität.
+Der Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}) legt den Fokus darauf, die richtigen Anforderungen zu finden. Feedback, Iteration, Review: Das alles dient dazu, herauszufinden, was wirklich gebraucht wird. Alles das führt dazu, dass genau das entwickelt wird, was der Kunde braucht. Und ein Imagefilm ist genau dann qualitativ, wenn er die richtige Botschaft kommuniziert.
 
 ### A02: Aufgabenbeschreibung für Laiendarsteller
 
-Auf die Zusammenarbeit mit Laiendarstellern, dessen Beteiligung an dem Imagfilm so gering wie möglich sein soll, wurde in dem Entwurf nicht weiter eingegangen. Es ist aber denkbar, dass mithilfe der *Cheap Production* eine gute Vorlage für Laiendarsteller entwickelt werden kann. So kann ein Laiendarsteller sofort sehen, wie die Szene auszusehen hat, und wie er in der Szene zu agieren hat.
+Auf die Zusammenarbeit mit Laiendarstellern, dessen Beteiligung an dem Imagfilm so gering wie möglich sein soll, wurde in dem Entwurf des Vorgehensmodells nicht weiter eingegangen. Es ist aber denkbar, dass mithilfe der *Cheap Production* eine gute Vorlage für Laiendarsteller entwickelt werden kann. So kann ein Laiendarsteller sofort sehen, wie die Szene auszusehen hat, und wie er in der Szene zu agieren hat.
 
 ## Übersicht aller Anforderungen und deren Erfüllung
 
+In der Tabelle \ref{} sind alle Anforderungen dargestellt. Zusätzlich wird aufgeführt, inwiefern der Entwurf des Vorgehensmodells diese Anforderung erfüllt. Der Grad der Erfüllung liegt dabei auf einer Skala zwischen $0$ (gar nicht erfüllt) und $5$ (vollständig erfüllt).
 
 
 # Auswertung aus Sicht der Personae
