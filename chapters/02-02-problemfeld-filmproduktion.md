@@ -8,7 +8,8 @@ title: Problemfeld Filmproduktion
 
 Der Begriff des Imagefilm ist mittlerweile ein sehr verbreitetes Wort und wird gerne in verschiedenen Kontexten unterschiedlich verwendet. Aus diesem Grund soll der Begriff hier für diese Arbeit definiert werden.
 
-Das Wort Imagefilm lässt sich aufteilen in die beiden Worte *Image* und *Film*. Die Bedeutung des letzteren sollte mittlerweile jedem geläufig sein: Ein *Film* ist ein audiovisuelles Medium, das mithilfe von bewegten Bildern eine fiktionale oder eine non-fiktionale Begebenheit darstellt. Das Wort *Image* bedeutet soviel wie 
+Das Wort Imagefilm lässt sich aufteilen in die beiden Worte *Image* und *Film*. Die Bedeutung des letzteren sollte mittlerweile jedem geläufig sein: Ein *Film* ist ein audiovisuelles Medium, das mithilfe von bewegten Bildern eine fiktionale oder eine non-fiktionale Begebenheit darstellt. 
+Das Wort *Image* bedeutet soviel wie Eindruck oder Vorstellungsbild. Es wird benutzt um in einem sozial- gesellschaftlichen Kontext das allgemeine, das kollektive Bild von einer Sache oder von einer Person zu beschreiben. In dem Kontext von Imagefilm bezieht sich dies auf ein Unternehmen. Es geht also um den allgemeinen gesellschaftlichen Eindruck eines Unternehmens. 
 
 # Phasen in der Filmproduktion {#phasen-in-der-filmproduktion}
 
