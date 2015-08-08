@@ -42,40 +42,40 @@ Die Anforderung, dass der Kunde an der Entwicklung mitgestalten kann, wird mit d
 
 ### T01: Zielgerichtetes Planen und Handeln
 
-- Wert *Botschaft als zentrales Ziel*
-- Aktivität *Pioneer Phase*
-- Technik *Film Statements*
+- Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}):
+- Aktivität *Pioneer Phase* (siehe Abschnitt \ref{entwurf-aktivitat-pioneer-phase}):
+- Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}):
 
 ### T02: Kommunikation im Team
 
-- Wert *Kommunikation*
-- Aktivität *Retrospektive*
-- Technik *Film Statements*
-- Technik *Kanban Board*
-- Technik *Daily Standup*
-- Technik *Planning Poker*
-- Technik *Timeline Karten*
+- Wert *Kommunikation* (siehe Abschnitt \ref{entwurf-werte-kommunikation}):
+- Aktivität *Retrospektive* (siehe Abschnitt \ref{entwurf-aktivitat-retrospektive}):
+- Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}):
+- Technik *Kanban Board* (siehe Abschnitt \ref{techniken-kanban-board}):
+- Technik *Daily Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}):
+- Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}):
+- Technik *Timeline Karten* (siehe Abschnitt \ref{entwurf-techniken-timeline-karten}):
 
 ### T03: Einbringen von Fachwissen der Spezialisten
 
-- Rolle *Team*
-- Aktivität *Pioneer Phase*
-- Technik *Daily Standup*
-- Technik *Planning Poker*
-- Technik *Timeline Karten*
+- Rolle *Team* (siehe Abschnitt \ref{entwurf-rolle-team}):
+- Aktivität *Pioneer Phase* (siehe Abschnitt \ref{entwurf-aktivitat-pioneer-phase}):
+- Technik *Daily Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}):
+- Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}):
+- Technik *Timeline Karten* (siehe Abschnitt \ref{entwurf-techniken-timeline-karten}):
 
 ### T04: Werkzeuge für das Anforderungsmanagement
 
-- Wert *Offenheit für Änderungen*
-- Ablauf *Sprint*
-- Artefakte *Film Backlog* und *Sprint Backlog*
-- Aktivitäten *Recherche* und *Projekt Initialisierung*
-- Aktivitäten *Sprint Planning* und *Sprint Review*
-- Technik *Film Statements*
+- Wert *Offenheit für Änderungen* (siehe Abschnitt \ref{entwurf-werte-offenheit-anderungen}):
+- Ablauf *Sprint* (siehe Abschnitt \ref{entwurf-ablauf-sprint}):
+- Artefakte *Film Backlog* (siehe Abschnitt \ref{entwurf-artefakte-film-backlog}) und *Sprint Backlog* (siehe Abschnitt \ref{entwurf-artefakte-sprint-backlog}):
+- Aktivitäten *Recherche* und *Projekt Initialisierung* (siehe Abschnitt \ref{xxx}):
+- Aktivitäten *Sprint Planning* und *Sprint Review* (siehe Abschnitt \ref{xxx}):
+- Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}):
 
 ### T05: Schnelle Fertigstellung des Projekts
 
-Wird nicht direkt erfüllt. Man kann nur Annahmen treffen, dass wenn konsequent Anforderungen mit dem Kunden abgesprochen werden, früh Feedback eingeholt wird, ein spätes Ändern nicht mehr notwendig sein wird, was sehr viel Zeit in Anspruch nehmen würde. 
+Wird nicht direkt erfüllt. Man kann nur davon ausgehen, dass wenn konsequent Anforderungen mit dem Kunden abgesprochen werden, früh Feedback eingeholt wird, ein spätes Ändern nicht mehr notwendig sein wird, was sehr viel Zeit in Anspruch nehmen würde. 
 
 Hier spielt der Faktor Qualität eine Rolle.
 
@@ -87,11 +87,11 @@ Die Wirtschaftlichkeit stand in den bisherigen Betrachtungen nicht im Vordergrun
 
 ### F01: Kostentransparenz
 
-Sprint Review
-Burndown Chart
-Planning Poker
+- Aktivität *Sprint Review* (siehe Abschnitt \ref{xxx}):
+- Technik *Burndown Chart* (siehe Abschnitt \ref{xxx}):
+- Technik *Planning Poker* (siehe Abschnitt \ref{xxx}):
 
-schwierig festpreis Angebote zu machen: Man rechnet mit Änderungen, also kann man auch nicht von vornherein sagen, wieviel Kosten und Aufwand insgesamt da sind. Agil bedeutet: einzugestehen, dass man nicht alles weiß. Nur so viel planen, wie viel man auch weiß.
+schwierig, Festpreis Angebote zu machen: Man rechnet mit Änderungen, also kann man auch nicht von vornherein sagen, wieviel Kosten und Aufwand insgesamt da sind. Agil bedeutet: einzugestehen, dass man nicht alles weiß. Nur so viel planen, wie viel man auch weiß.
 
 
 ### F02: Geringe finanzielle Kosten
