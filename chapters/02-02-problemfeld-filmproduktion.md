@@ -10,9 +10,9 @@ Der Begriff des Imagefilm ist mittlerweile ein sehr verbreitetes Wort und wird g
 
 Das Wort Imagefilm lässt sich aufteilen in die beiden Worte *Image* und *Film*. Die Bedeutung des letzteren sollte mittlerweile jedem geläufig sein: Ein *Film* ist ein audiovisuelles Medium, das mithilfe von bewegten Bildern eine fiktionale oder eine non-fiktionale Begebenheit darstellt. 
 
-Das Wort *Image* bedeutet soviel wie Eindruck oder Vorstellungsbild. Es wird benutzt um in einem sozial- gesellschaftlichen Kontext das allgemeine, das kollektive Bild von einer Sache oder von einer Person zu beschreiben. In dem Kontext von Imagefilm bezieht sich dies auf ein Unternehmen. Es geht also um den allgemeinen gesellschaftlichen Eindruck eines Unternehmens. 
+Das Wort *Image* bedeutet soviel wie Eindruck oder Vorstellungsbild. Es wird benutzt, um in einem sozial- gesellschaftlichen Kontext das allgemeine, das kollektive Bild von einer Sache oder von einer Person zu beschreiben. In dem Kontext von Imagefilm bezieht sich dies auf ein Unternehmen. Es geht also um den allgemeinen gesellschaftlichen Eindruck eines Unternehmens. 
 
-Die primäre Bedeutung des Imagefilms ist also, dass es sich um ein Film handelt, der bewusst das Image - also das allgemeine kollektive Vorstellungsbild - eines Unternehmens gestaltet. Hoppert definiert einen Imagefilm wie folgt:
+Die primäre Bedeutung des Imagefilms ist also, dass es sich um einen Film handelt, der bewusst das Image - also das allgemeine kollektive Vorstellungsbild - eines Unternehmens gestaltet. Hoppert definiert einen Imagefilm wie folgt:
 
 > "Ein klassischer Imagefilm präsentiert das Unternehmen nach Außen und nach Innen. Hierbei geht es in erster Linie nicht darum ein Produkt oder eine Dienstleistung zu verkaufen oder das Unternehmen in allen Einzelheiten vorzustellen. Vielmehr sollen positive Emotionen in Bezug auf das Unternehmen beim Zuschauer geweckt werden." \cite{hoppert2003imagefilm} (zitiert nach \cite{molitor2013imagefilme})
 
@@ -20,7 +20,7 @@ Hier kommt der emotionale Aspekt des Imagefilms hinzu: Es geht im Imagefilm nich
 
 > "Emotionale Darstellungen der Anwendung, Filme im Stil von Werbespots oder Musikclips - das Umsetzungsfeld ist hier sehr weit gefächert." \cite{weissmann2013definition}
 
-Ein Imagefilm im weiteren Sinne ist aber auch jeder Film, der als Gegenstand das Unternehmen oder Dinge, die in direktem Zusammenhang mit dem Unternehmen stehen beschreibt. Die Abgrenzung zu anderen Filmgenres ist fließend und überschneidet sich auch zum großen Teil: Auch ein Werbespot für ein Produkt des Unternehmens trägt zur Bildung des Images bei.
+Ein Imagefilm im weiteren Sinne ist aber auch jeder Film, der als Gegenstand das Unternehmen oder Dinge, die in direktem Zusammenhang mit dem Unternehmen stehen, beschreibt. Die Abgrenzung zu anderen Filmgenres ist fließend und überschneidet sich auch zum großen Teil: Auch ein Werbespot für ein Produkt des Unternehmens trägt zur Bildung des Images bei.
 
 Der Imagefilm soll für diese Arbeit wie folgt definiert werden:
 
@@ -132,7 +132,7 @@ Direkt nach den Aufnahmen wurde ein Rohschnitt des Films erstellt, der dem Kunde
 
 In der Filmproduktion treffen viele verschiedene Berufe aufeinander, da Filmprojekte sowohl technisch als auch inhaltlich eine große Bandbreite an verschiedenen Details haben. Filmprojekte sind also für Teamarbeit  prädestiniert. Viele Spezialisten für ihre Teilbereiche arbeiten in Filmprojekten zusammen. Dies bedeutet bedeutet aber auch, dass viel Kommunikation und Zusammenarbeit zwischen den einzelnen Gewerken, also den Mitwirkenden mit ihren Spezialisierungen vorhanden sein muss. Dies ist nicht nur für die Teammitglieder in der Produktion wichtig, sondern auch für alle Mitwirkenden vor und nach der Produktion des Films.
 
-Im Folgenden sollen die typischen Gewerke vorgestellt werden, die in der Produktion eines Films beteiligt sind. Dabei wird vor allem auf die Beschreibungen von \cite{jacobs2015prozess} eingegangen, der die Produktion von non-fiktionalem Film fürs Fernsehen beschreibt.
+Im Folgenden sollen die typischen Gewerke vorgestellt werden, die in der Produktion eines Films beteiligt sind. Dabei wird vor allem auf die Beschreibungen von \cite{jacobs2015prozess} eingegangen, der die Produktion von non-fiktionalem Film fürs Fernsehen beschreibt. Die Teams in de
 
 
 ## Autor {#filmproduktion-gewerke-autor}
