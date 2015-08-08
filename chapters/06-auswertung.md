@@ -58,21 +58,20 @@ In der Domäne der Filmproduktion treffen - wie schon öfter in dieser Arbeit er
 - Technik *Kanban Board* (siehe Abschnitt \ref{techniken-kanban-board}): Das Kanban Board unterstützt das Team in der Kommunikation, indem es den aktuellen Status des Projekts bzw. des Sprints aufzeigt, aber auch schnell Probleme sichtbar macht, wenn bestimmte Arbeiten nicht voran gehen.
 - Technik *Daily Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}): Das regelmäßige Treffen des Teams sorgt für einen kontinuierlichen Austausch von allem, was momentan relevant ist. Die Tatsache, dass hier jedes Teammitglied einen kurzen Statusbericht gibt, verbessert die Kommunikation von Problemen innerhalb des Teams.
 - Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}): Planning Poker unterstützt das Team, gemeinsam eine Aufwandsabschätzung zu machen. Dabei werden auch die ruhigeren Teammitglieder integriert. Es macht deutlich, wenn das Team sich selbst nicht einig ist, wieviel Aufwand hinter einer Aufgabe steckt, und regt zur nötigen Diskussion innerhalb des Teams an.
-- Technik *Timeline Karten* (siehe Abschnitt \ref{entwurf-techniken-timeline-karten}): Timeline Karten sind ein nützliches Tool, um den inhaltlichen Aufbau und Zusammenhänge in einem Film zu diskutieren. Durch ihre Leichtgewichtigkeit steht diese Technik dem Team dabei nicht im Weg sondern fördert eine schnelle und 
+- Technik *Timeline Karten* (siehe Abschnitt \ref{entwurf-techniken-timeline-karten}): Timeline Karten sind ein nützliches Tool, um den inhaltlichen Aufbau und Zusammenhänge in einem Film zu diskutieren. Durch ihre Leichtgewichtigkeit steht diese Technik dem Team dabei nicht im Weg sondern fördert eine schnelle und einfache Visualisierung und hilft so, die Kommunikation klar und einfach zu halten.
 
 ### T03: Einbringen von Fachwissen der Spezialisten
 
-- Rolle *Team* (siehe Abschnitt \ref{entwurf-rolle-team}):
-- Aktivität *Pioneer Phase* (siehe Abschnitt \ref{entwurf-aktivitat-pioneer-phase}):
-- Technik *Daily Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}):
-- Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}):
-- Technik *Timeline Karten* (siehe Abschnitt \ref{entwurf-techniken-timeline-karten}):
+- Rolle *Team* (siehe Abschnitt \ref{entwurf-rolle-team}): Die Rolle des Teams wird als eine hocheffiziente kleine Gruppe von Spezialisten, die mithilfe eines breiten Fachwissens gut miteinander arbeiten können. Alle nötigen Kompetenzen sind im Team vorhanden.
+- Aktivität *Pioneer Phase* (siehe Abschnitt \ref{entwurf-aktivitat-pioneer-phase}): Die Konzeption ist nicht die Aufgabe eines einzelnen, sondern des gesamten Teams. So wird von Projektbeginn an sicher gestellt, dass das gesamte Fachwissen des Teams benutzt wird.
+- Technik *Daily Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}): Durch die tägliche Kommunkation von Problemen und Aufgaben jedes einzelnen Teammitglieds ist es möglich, dass andere Teammitglieder mit ihrem Wissen und Erfahrung dazu beisteuern können, dass diese schneller und besser gelöst werden.
+- Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}): Durch Diskussionen während des Planning Pokers kann das Wissen von jedem Teammitglied benutzt werden, um eine möglichst realistische Aufwandsschätzung zu bekommen.
 
 ### T04: Werkzeuge für das Anforderungsmanagement
 
-- Wert *Offenheit für Änderungen* (siehe Abschnitt \ref{entwurf-werte-offenheit-anderungen}):
-- Ablauf *Sprint* (siehe Abschnitt \ref{entwurf-ablauf-sprint}):
-- Artefakte *Film Backlog* (siehe Abschnitt \ref{entwurf-artefakte-film-backlog}) und *Sprint Backlog* (siehe Abschnitt \ref{entwurf-artefakte-sprint-backlog}):
+- Wert *Offenheit für Änderungen* (siehe Abschnitt \ref{entwurf-werte-offenheit-anderungen}): Der Wert Offenheit für Änderungen steht nicht nur für eine gute Analyse der Anforderungen, sondern auch für eine ständige Aktualisierung dieser.
+- Ablauf *Sprint* (siehe Abschnitt \ref{entwurf-ablauf-sprint}): Der Ablauf in Sprints sorgt dafür, dass aus Anforderungen schnell sichtbare Ergebnisse werden. Dies macht die Anforderungen sowohl dem Team als auch dem Kunden "greifbarer".
+- Artefakte *Film Backlog* (siehe Abschnitt \ref{entwurf-artefakte-film-backlog}) und *Sprint Backlog* (siehe Abschnitt \ref{entwurf-artefakte-sprint-backlog}): Die Verwaltung der Anforderungen in zwei unterschiedlichen Backlogs sorgt dafür, dass einerseits der Kunde je
 - Aktivitäten *Recherche* und *Projekt Initialisierung* (siehe Abschnitt \ref{xxx}):
 - Aktivitäten *Sprint Planning* und *Sprint Review* (siehe Abschnitt \ref{xxx}):
 - Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}):
