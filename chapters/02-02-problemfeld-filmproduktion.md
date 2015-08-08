@@ -20,7 +20,7 @@ Hier kommt der emotionale Aspekt des Imagefilms hinzu: Es geht im Imagefilm nich
 
 > "Emotionale Darstellungen der Anwendung, Filme im Stil von Werbespots oder Musikclips - das Umsetzungsfeld ist hier sehr weit gefächert." \cite{weissmann2013definition}
 
-
+Ein Imagefilm im weiteren Sinne ist aber auch jeder Film, der als Gegenstand das Unternehmen oder Dinge, die in direktem Zusammenhang mit dem Unternehmen stehen hat. Die Abgrenzung zu anderen Filmgenres ist fließend und überschneidet sich auch zum großen Teil: Auch ein Werbespot für ein Produkt des Unternehmens trägt zur Bildung des Images bei.
 
 
 # Phasen in der Filmproduktion {#phasen-in-der-filmproduktion}
