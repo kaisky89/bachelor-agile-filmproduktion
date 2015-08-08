@@ -243,13 +243,6 @@ XP ist sich der Individualität eines Software Projekts bewusst. Man sieht der T
 
 In der Design Phase wird die Systemarchitektur der zu entwickelnden Software entworfen. Hierbei ist zu beachten, dass in XP die Design Phase nicht eine Phase mit Anfang und Ende ist, sondern dass in jeder Iteration (also idealer weise wöchentlich) überdacht und den entsprechenden Anforderungen angepasst werden. Die folgenden Regeln und Praktiken gibt XP hierfür vor:
 
-### Einfachheit des Designs
-
-Wie schon im Abschnitt \ref{werte-einfachheit} erwähnt, soll die Architektur so einfach wie möglich gehalten werden. Generalistische Ansätze von Funktionen und Klassen, weil evtl. damit mögliche zukünftige Anforderungen erfüllt werden können, die momentan noch nicht abzusehen sind, sind zu vermeiden. 
-
-Die Entwicklung in Iterationen stellt das Entwickler Team immer wieder vor die Herausforderung, die Architektur zu überdenken. Für jedes Inkrement muss das Team die Architektur des Systemdesigns so ändern, dass sie für die Anforderungen genau dieses Inkrements optimal ist. Falls sich Funktionen im laufe der Zeit erübrigen oder es sinnvoll ist, mehrere Klassen oder Funktionen zu einer generelleren Lösung zusammenzufassen tritt die Praxis des **Refactorings** (siehe Abschnitt \ref{refactoring}) ein. Andererseits darf Funktionalität nicht früher als notwendig eingebaut werden. Auch wenn das Team weiß, dass bestimmte Funktionalitäten in Zukunft evtl. benötigt werden: Wenn diese Funktionalität den Anforderungen der aktuellen Iteration nicht gerecht wird, wird sie auch noch nicht implementiert. Es kann möglich sein, dass sich Anforderungen bis zu dem Zeitpunkt, an dem es sich anbietet, diese Funktionalität zu implementieren, ändern und somit diese Implementation überflüssig machen.
-
-
 ### CRC Karten {#vorgehensmodelle-xp-crc-karten}
 
 CRC Karten (Class, Responsibilities and Collaboration Cards) sind eine einfache Möglichkeit, schnell und zeiteffektiv im Team Systeme zu entwerfen, zu diskutieren und zu revidieren. Es werden ca. DIN A5 große Karten benutzt, die einen Teil der Software repräsentieren. Dies können konkrete Klassen sein, müssen es aber nicht. Auf die Karte wird mit einem Namen versehen ("Class") und es kann in maximal 4 Halbsätzen formuliert werden, was die Klasse leisten soll ("Responsibilities"). Zusätzlich kann noch notiert werden, mit welchen anderen Klassen diese Karte in Wechselwirkung steht ("Collaboration").
@@ -257,15 +250,10 @@ CRC Karten (Class, Responsibilities and Collaboration Cards) sind eine einfache 
 Der wesentliche Teil der Praktik besteht in der Möglichkeit, sehr schnell und flexibel über den gesamten Aufbau und die Zusammenhänge der einzelnen Klassen zu diskutieren. Hierfür befindet sich das Team an einem Tisch und legt die Karten so auf den Tisch, wie sie sich die Struktur der zu entwickelnden Software vorstellen. Es werden Vor- und Nachteile der Systemarchitektur besprochen und die Karten können immer wieder neu angeordnet werden. Die Möglichkeit, die Karten neu anzuordnen und somit also wirkliche Haptik für die Problemstellung zu entwickeln, verstärkt im Team das Denken in Objektorientierung. Da ein revidieren oder auch ein neues Anordnen der Karten nur eine Sache von einigen Sekunden ist, kann hier sehr zeiteffizient gearbeitet werden und ohne Scheu vor Revision neue Entwürfe schnell diskutiert werden \cite{hanser} \cite{extremeprogramming}.
 
 
-### Spike Solutions
+### Spike Solutions {#xp-praktiken-spike-solutions}
 
 Spike Solutions werden dann benutzt, wenn das Team sich nicht sicher ist, wie und ob ein Problem genau zu lösen ist und wie viel Aufwand das bedeutet. Spike Solutions sind kleine Prototypen, die "quick and dirty" entwickelt werden, um technologisches Neuland auszuprobieren. Der Code sollte nicht wiederverwendet werden \cite{hanser}, aber mithilfe des technologischen "Durchstichs" zu einem bestimmten Problem kann das Team aufgrund der Erfahrungen, die es dabei macht sehr viel besser abschätzen, was an Aufwand und Komplexität hinter einem Problem steht. Außerdem kann das Team so fremde Technologien wie z.B. ein neues Framework ausprobieren, ohne zu viel Zeit in die Einarbeit zu verlieren, nur um danach festzustellen, dass das Benutzen des Frameworks nicht hilfreich ist.
 
-### Refactoring
-
-Wie schon im Abschnitt \ref{einfachheit-des-designs} erwähnt, gehört Refactoring zu den Praktiken von XP. Refactoring bedeutet das Umstrukturieren oder neu schreiben von Code oder Systementwürfen.
-
-Mit der Zeit der Entwicklung wird aus jedem guten Design ein schlechtes Design \cite{hanser}. Mit jeder Iteration kommen neue Funktionen und Module zum Systementwurf hinzu. Nach einigen Iterationen lässt sich hinterfragen, ob der ursprüngliche Systementwurf für die momentanen Anforderungen des Systems der optimale ist, oder ob es nicht besser sei, einige grundlegende Veränderungen durchzuführen, oder Funktionalitäten, die sich ähnlich sind, mit einer generalistischeren Lösung zu ersetzen. Zu diesem Schritt gehört meistens Mut, denn Entwickler tendieren häufig dazu, Funktionalitäten, die einmal funktionieren, nicht mehr ändern zu wollen (ganz nach dem Motto "Never change a running system"). Durch den testgetriebenen Ansatz von XP (siehe Abschnitt \ref{Testing}) wird allerdings sichergestellt, dass die Funktionalität des Codes auch bei Änderungen erhalten bleibt.
 
 ## Praktiken des Kodierens
 
