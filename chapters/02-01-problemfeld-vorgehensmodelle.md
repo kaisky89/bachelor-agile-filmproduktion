@@ -2,27 +2,17 @@
 title: Problemfeld Agile Vorgehensmodelle
 ---
 
-Da das Thema dieser Arbeit die Entwicklung eines Vorgehensmodell ist, möchte dieser Begriff zuerst einmal definiert werden. Hierbei sollen die beiden Wörter "Vorgehen" und "Modell" zunächst separat voneinander betrachtet werden.
+Da das Thema dieser Arbeit die Entwicklung eines Vorgehensmodell ist, möchte dieser Begriff zuerst einmal definiert werden.
 
-**Vorgehen**
+Ein *Vorgehensmodell* kann als eine Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Ein Vorgehensmodell beschreibt nicht die Umsetzung einer konkreten Aufgabe, sondern eher eine bestimmte *Klasse von Aufgaben* \cite{hanser}.
 
-Mit Vorgehen ist hier die Vorgehensweise, also die Art und Weise, wie jemand vorgeht, gemeint.
+Hanser \cite{hanser} schreibt, dass er als Synonym zu dem Begriff Vorgehensmodell den Begriff Prozessmodell verwendet und definiert diesen Begriff für die Software Entwicklung wie folgt:
 
-**Modell**
+> "Ein Software-Prozessmodell ist ein Modell für den Ablauf der Entwicklung eines Software-Systems. Dabei geht es nicht um die Darstellung des Ablaufs eines bestimmten Software-Entwicklungsprojekts, sondern einer ganzen Klasse von Projekten." \cite{hanser}
 
-> Ein Modell repräsentiert die als wichtig erachteten Aspekte eines Systems.
+Vorgehensmodelle gehören in der Informatik zum Bereich des Projektmanagement. Projektmanagement wird wie folgt definiert:
 
-Aus der Formulierung "als wichtig erachtet" lässt sich der Ansatz der *Abstraktion* erkennen. Ein Modell möchte Informationen auf die wesentliche Punkte beschränken, indem es unwichtige Details weglässt.
-
-Ein *Vorgehensmodell* kann also als eine Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Ein Vorgehensmodell beschreibt nicht die Umsetzung einer konkreten Aufgabe, sondern eher eine bestimmte *Klasse von Aufgaben* \cite{hanser}.
-
-\cite{hanser} schreibt, dass er als Synonym zu dem Begriff Vorgehensmodell den Begriff Prozessmodell verwendet und definiert diesen Begriff für die Software Entwicklung wie folgt:
-
-> Ein Software-Prozessmodell ist ein Modell für den Ablauf der Entwicklung eines Software-Systems. Dabei geht es nicht um die Darstellung des Ablaufs eines bestimmten Software-Entwicklungsprojekts, sondern einer ganzen Klasse von Projekten.
-
-Vorgehensmodelle gehören in der Informatik zum Bereich des Projektmanagement. Projektmanagement wird laut \cite{din699015} wie folgt definiert:
-
-> Gesamtheit von Führungsaufgaben, -organisation, -techniken und -mitteln für die Initiierung, Definition, Planung, Steuerung und den Abschluss von Projekten
+> "Gesamtheit von Führungsaufgaben, -organisation, -techniken und -mitteln für die Initiierung, Definition, Planung, Steuerung und den Abschluss von Projekten." \cite{din699015}
 
 
 # Phasen in der Software Entwicklung {#phasen-in-der-software-entwicklung}
@@ -65,7 +55,7 @@ Nach dem Kodieren wird die Software getestet, um zu validieren, dass sowohl das 
 
 ## Wasserfallmodell
 
-Das Wasserfallmodell ist der einfachste Ansatz, ein Software Entwicklungsprojekt umzusetzen. Hierfür können die Phasen aus Abschnitt \ref{phasen-in-der-software-entwicklung} betrachtet werden. Das ganze Projekt läuft beim Wasserfallmodell diese Phasen der Reihe nach durch. Jede Phase wird dabei nur ein mal durchgeführt. Jede Phase baut auf den Ergebnissen der vorherigen Phase auf. Somit herrscht für jede Phase die Bedingung, dass alle vorhergehenden Phasen keine Fehler enthalten und vollständig bearbeitet wurden.
+Hanser \cite{hanser} beschreibt das Wasserfallmodell als den einfachsten Ansatz, ein Software Entwicklungsprojekt umzusetzen. Hierfür können die Phasen aus Abschnitt \ref{phasen-in-der-software-entwicklung} betrachtet werden. Das ganze Projekt läuft beim Wasserfallmodell diese Phasen der Reihe nach durch. Jede Phase wird dabei nur ein mal durchgeführt. Jede Phase baut auf den Ergebnissen der vorherigen Phase auf. Somit herrscht für jede Phase die Bedingung, dass alle vorhergehenden Phasen keine Fehler enthalten und vollständig bearbeitet wurden.
 
 Vorteil bei diesem Modell ist die wahrgenommene Einfachheit in seiner Umsetzung. Da die Phasen, die in einem Software Projekt durchlaufen werden, aufeinander aufbauen und dadurch einen gewissen kanonischen Aufbau darstellen, bietet es sich natürlich an, diesen Aufbau genau so auch zu übernehmen.
 
