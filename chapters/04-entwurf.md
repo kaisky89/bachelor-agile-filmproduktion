@@ -14,7 +14,7 @@ Genau so wie in der Software Welt geht es in der Produktion von einem Imagefilm 
 
 ### Kommunikation im Team
 
-Wie in Abschnitt \ref{zusammenarbeit-als-team} beschrieben, ist die Kommunikation innerhalb des Teams wichtig: Das Team besteht aus vielen Spezialisten, die alle einen Schwerpunkt in ihrer Tätigkeit haben und für bestimmte Teilaspekte des Films zuständig sind. Trotz der unterschiedlichen Spezialisierungen ist es nötig, dass alle Teammitglieder sich als Einheit verstehen und gemeinsam an einem optimalen Ergebnis arbeiten, auch wenn es jeder in seinem Teilbereich tut. Diese Teilbereiche greifen immer wieder ineinander. Das Team muss also im ständigen Austausch bleiben. Sei es in der Phase der Ideenfindung oder in den Details der Post Produktion, Absprache, Kommunikation und ein gemeinsames Verständnis des Projekts sind die Grundlage, auf die jedes Teammitglied seine Spezialisierung aufbaut.
+Wie in Abschnitt \ref{zusammenarbeit-als-team} beschrieben, ist die Kommunikation innerhalb des Teams wichtig: Das Team besteht aus vielen Spezialisten, die für bestimmte Teilaspekte des Films zuständig sind. Trotz der unterschiedlichen Spezialisierungen ist es nötig, dass alle Teammitglieder sich als Einheit verstehen und gemeinsam an einem optimalen Ergebnis arbeiten, auch wenn es jeder in seinem Teilbereich tut. Diese Teilbereiche greifen immer wieder ineinander. Das Team muss also im ständigen Austausch bleiben. Sei es in der Phase der Ideenfindung oder in den Details der Post Produktion: Kommunikation und ein gemeinsames Verständnis des Projekts sind die Grundlage, auf die jedes Teammitglied seine Spezialisierung aufbaut.
 
 ### Kommunikation mit dem Kunden
 
