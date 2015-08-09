@@ -86,7 +86,7 @@ Das Marketing hat durch seinen Anspruch an der Mitgestaltung aber auf jeden Fall
 
 #### Ansprechpartner des Kunden
 
-Der Ansprechpartner des Kunden ist derjenige, der auf Kundenseite für das Projekt verantwortlich ist und erster Anlaufpunkt für die Kommunikation mit dem Team oder dem Vertrieb des Filmproduktionsunternehmen ist.
+Der Ansprechpartner des Kunden ist derjenige, der auf Kundenseite für das Projekt verantwortlich ist und erster Anlaufpunkt für das Team oder den Vertrieb des Filmproduktionsunternehmen ist.
 
 Der Ansprechpartner steht in direkter Verbindung mit dem Team und bekommt somit auch viel von der Arbeitsweise des Teams mit. Er ist so also stärker als die anderen Stakeholder des Kunden in das Vorgehensmodell involviert. Seine Relevanz für den Projekterfolg ist ziemlich groß, ist er doch wichtiger Gesprächspartner für das Team. Mithilfe des Ansprechpartners können Anforderungen formuliert werden und er ist ein möglicher Kandidat für frühes Feedback.
 
