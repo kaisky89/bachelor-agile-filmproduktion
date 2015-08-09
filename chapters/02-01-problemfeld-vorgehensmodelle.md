@@ -63,13 +63,6 @@ Nach dem Kodieren wird die Software getestet, um zu validieren, dass sowohl das 
 
 # Historie der Vorgehensmodelle
 
-<!-- Die Disziplin des Informatikers ist, verglichen zu anderen ingenieurischen Tätigkeiten wie z. B. der Architektur noch sehr jung. Während man in der Architektur von Projekten weiß, die bereits mehrere Jahrtausend Jahre her sind, ist die Informatik erst im letzten Jahrhundert entstanden und kann somit noch keine große Historie aufweisen. Das bedeutet einerseits, dass in vielen Bereichen der Informatik Verbesserungspotenzial besteht, andererseits gibt es 
-
-Und genau so wie die Informatik ist auch das Management von Projekten in der Informatik vergleichsweise jung. 
-
-Warum machen wir das?
-Da die Disziplin der Software Entwicklung und somit auch das Projektmanagement von Software Projekten noch relativ jung ist. -->
-
 ## Wasserfallmodell
 
 Das Wasserfallmodell ist der einfachste Ansatz, ein Software Entwicklungsprojekt umzusetzen. Hierfür können die Phasen aus Abschnitt \ref{phasen-in-der-software-entwicklung} betrachtet werden. Das ganze Projekt läuft beim Wasserfallmodell diese Phasen der Reihe nach durch. Jede Phase wird dabei nur ein mal durchgeführt. Jede Phase baut auf den Ergebnissen der vorherigen Phase auf. Somit herrscht für jede Phase die Bedingung, dass alle vorhergehenden Phasen keine Fehler enthalten und vollständig bearbeitet wurden.
