@@ -478,18 +478,18 @@ Um die Motivation des Teams zu steigern, sich auf die Optimierung des Gesamtsyst
 
 # Scrum {#problemfeld-scrum}
 
-Scrum wurde von Ken Schwaber und Jeff Sutherland in den 90er Jahren entwickelt und zählt mittlerweile zu den "etabliertesten agilen Managamentmethoden" \cite{wirdemann2014scrum}. Scrum ist eine Projekt*management*methode, das zentrale Thema ist der Ablauf des Projekts, nicht die konkreten Techniken, die benutzt werden. Dies macht einen Transfer der Methode auf andere Domänen einfach.
+Scrum wurde von Ken Schwaber und Jeff Sutherland in den 90er Jahren entwickelt und zählt mittlerweile zu den "etabliertesten agilen Managamentmethoden" \cite{wirdemann2014scrum}. Scrum ist eine Projekt*management*methode. Das zentrale Thema ist der Ablauf des Projekts, nicht die konkreten Techniken, die benutzt werden. Dies macht einen Transfer der Methode auf andere Domänen einfach.
 
-Ken Schwaber und Jeff Sutherland beschreiben in dem Scrum Guide \cite{scrumguide} die wesentlichen Merkmale von Scrum. Sie definieren dabei die Rollen, den Prozessablauf, die Aktivitäten und die Artefakte, die Scrum ausmachen. Im Folgenden soll auf diese Beschreibung aufgebaut werden. Dabei wurde auch auf Erläuterungen von \cite{hanser} und \cite{wirdemann2014scrum} zurückgegriffen.
+Ken Schwaber und Jeff Sutherland beschreiben in dem Scrum Guide \cite{scrumguide} die wesentlichen Merkmale von Scrum. Sie definieren dabei die Projektrollen, den Prozessablauf, die Aktivitäten und die Artefakte, die Scrum ausmachen. Im Folgenden soll auf diese Beschreibung aufgebaut werden. Dabei wurde auch auf Erläuterungen von \cite{hanser} und \cite{wirdemann2014scrum} zurückgegriffen.
 
 
 ## Projektrollen {#scrum-projektrollen}
 
-Scrum definiert drei verschiedene Rollen: den *Product Owner*, das *Team* und der *Scrum Master*. Diese Rollen definieren verschiedene Verantwortlichkeiten, die der Inhaber der Rolle zu übernehmen hat.
+Scrum definiert drei verschiedene Rollen: den *Product Owner*, das *Team* und den *Scrum Master*. Diese Rollen definieren verschiedene Verantwortlichkeiten, die der Inhaber der Rolle zu übernehmen hat.
 
 ### Product Owner
 
-Der Product Owner repräsentiert die Sichtweise des Kunden. Im besten Fall ist es der Kunde selbst, wenn nicht, so sollte es zumindest jemand sein, der in direktem und häufigen Kontakt mit dem Kunden steht. Der Product Owner hat die Verantwortung, das Product Backlog zu pflegen und Backlog Items zu priorisieren. Somit übernimmt er die Verantwortung, was wann vom Team entwickelt werden soll. Der Product Owner hat keinen Einfluss darauf, wie sich das Team innerhalb eines Sprints organisiert, oder wie die Aufgaben während eines Sprints abgearbeitet werden. Dies entscheidet allein das Team. Der Product Owner ist nur dafür verantwortlich, zu entscheiden, *was* innerhalb des Sprints bearbeitet wird.
+Der Product Owner repräsentiert die Sichtweise des Kunden. Im besten Fall ist es der Kunde selbst, wenn nicht, so sollte es zumindest jemand sein, der in direktem und häufigen Kontakt mit dem Kunden steht. Der Product Owner hat die Verantwortung, das Product Backlog (siehe Abschnitt \ref{problemfeld-scrum-artefakte-product-backlog}) zu pflegen und Backlog Items zu priorisieren. Somit übernimmt er die Verantwortung, was wann vom Team entwickelt werden soll. Der Product Owner hat keinen Einfluss darauf, wie sich das Team innerhalb eines Sprints organisiert, oder wie die Aufgaben während eines Sprints abgearbeitet werden. Dies entscheidet allein das Team. Der Product Owner ist nur dafür verantwortlich, zu entscheiden, *was* innerhalb des Sprints bearbeitet wird.
 
 Der Product Owner ist das Bindeglied zwischen Team und Stakeholder: Alle Fragen, die das Team an die Stakeholder hat, stellt es dem Product Owner. Der weiß entweder selbst die Antwort oder kümmert sich um schnellstmögliche Antworten, indem er sich mit den Stakeholdern in Verbindung setzt. Und auch für neue Anforderungen oder Änderungswünsche, die die Stakeholder an das Team hat, ist der Product Owner der Ansprechpartner. Somit sorgt der Product Owner für die Kommunikation zwischen Team und Stakeholder.
 
@@ -499,15 +499,16 @@ Das Team ist selbstorganisiert und klein: es gibt keinen Teamleiter und alle Mit
 
 Das Team arbeitet in einem gemeinsamen Büro: Es gibt keine Abteilungen oder sontige räumliche Trennungen zwischen den Teammitgliedern. Dies sorgt für eine osmotische Kommunikation (siehe Abschnitt \ref{xp-praktiken-arbeitsumgebung}).
 
-Das Team ist Multidisziplinär und Autonom. Alle benötigten Fähigkeiten für das Projekt sind im Team vorhanden, sodass das Team während des Sprints nicht auf fachliche Hilfe von angewiesen ist. Dies sorgt für eine möglichst schnelle Bearbeitung der Aufgaben. Es muss auf keine Arbeit von außen gewartet werden, was zu unnötigen und unvorhergesehenen Verzögerungen des Sprintfortschritts führen könnte. Obwohl jedes Teammitglied seine Spezialisierung hat, wird im Team nicht in Abteilungen gedacht: Das Team sieht sich als eine Einheit, und alle Teammitglieder sind gleichberechtigt, Entscheidungen zu treffen. Es gibt keinen Teamleiter.
+Das Team ist Multidisziplinär und Autonom. Alle benötigten Fähigkeiten für das Projekt sind im Team vorhanden, sodass das Team während des Sprints nicht auf fachliche Hilfe von außen angewiesen ist. Dies sorgt für eine möglichst schnelle Bearbeitung der Aufgaben. Es muss auf keine Arbeit von außen gewartet werden, was zu unnötigen und unvorhergesehenen Verzögerungen des Sprintfortschritts führen könnte. Obwohl jedes Teammitglied seine Spezialisierung hat, wird im Team nicht in Abteilungen gedacht: Alle Teammitglieder sind gleichberechtigt, Entscheidungen zu treffen.
+
 
 ### Scrum Master {#vorgehensmodelle-scrum-master}
 
-Der Scrum Master ist verantwortlich dafür, das der Prozess von Scrum und seine Regeln eingehalten wird. Er ist der "Freund" oder "Coach" des Teams. Sein Ziel ist es, dass das Team in Ruhe arbeiten kann,  und er schützt das Team vor Einflüssen vom Product Owner oder anderen Stakeholdern während eines Sprints.
+Der Scrum Master ist verantwortlich dafür, dass der Prozess von Scrum und seine Regeln eingehalten werden. Er ist der "Freund" oder "Coach" des Teams. Sein Ziel ist es, dass das Team in Ruhe arbeiten kann,  und er schützt das Team vor Einflüssen vom Product Owner oder anderen Stakeholdern während eines Sprints.
 
-Der Scrum Master unterstützt außerdem den Product Owner in der Kommunikation mit dem Team. Er hilft sowohl Team als auch Product Owner die Prinzipien von Scrum zu verstehen.
+Der Scrum Master unterstützt außerdem den Product Owner in der Kommunikation mit dem Team. Er hilft sowohl dem Team als auch dem Product Owner die Prinzipien von Scrum zu verstehen.
 
-Gibt es Hindernisse, die ein effizientes Arbeiten des Teams gefährden, so kümmert sich der Scrum Master um die Beseitigung dieser. Dies können nicht nur falsche Einflüsse von Stakeholder und Product Owner sein, sondern auch falsch verstandene Teamrollen, ein ungeeigneter Product Owner, oder ganz praktische Probleme, wie ein defekter Rechner eines Teammitglieds. Für die Beseitigung vieler dieser Hindernisse ist ein gewisses Feingefühl des Scrum Masters gefragt, er muss sich auf teampsychologische Aspekte einlassen und in einem kollegialen Führungsstil das Team in die Richtlinien von Scrum leiten.
+Gibt es Hindernisse, die ein effizientes Arbeiten des Teams gefährden, so kümmert sich der Scrum Master um die Beseitigung dieser. Dies können nicht nur falsche Einflüsse von Stakeholdern und dem Product Owner sein, sondern auch falsch verstandene Teamrollen, ein ungeeigneter Product Owner, oder ganz praktische Probleme, wie ein defekter Rechner eines Teammitglieds. Für die Beseitigung vieler solcher Hindernisse ist ein gewisses Feingefühl des Scrum Masters gefragt. Er muss sich auf teampsychologische Aspekte einlassen und das Team in einem kollegialen Führungsstil in die Richtlinien von Scrum leiten.
 
 
 ## Der Prozess
@@ -516,7 +517,7 @@ Der Prozess wird in Abbildung \ref{Schematische Darstellung des Scrum Prozesses}
 
 ![Schematische Darstellung des Scrum Prozesses](http://download.heart-co.de/Bildschirmfoto%202015-06-22%20um%2012.06.07.png)
 
-Zu Beginn des Prozesses erstellt der Product Owner eine Vision des Projekts: er beschreibt das Projekt kurz und schätzt grob den gesamten Aufwand und legt außerdem mögliche Meilensteine fest. Dies ist keine detaillierte Aufwandschätzung oder ähnliches, nur ein grobes Umreißen des Projekts und seinem groben Ziel. Hilfreich ist auch, das Ziel des Projekts in einem Satz zusammen zu fassen, zum Beispiel:
+Zu Beginn des Prozesses erstellt der Product Owner eine Vision des Projekts: er beschreibt das Projekt kurz, schätzt grob den gesamten Aufwand ab und legt außerdem mögliche Meilensteine fest. Dies ist keine detaillierte Aufwandschätzung oder ähnliches, nur ein grobes Umreißen des Projekts und seinem groben Ziel. Hilfreich ist auch, das Ziel des Projekts in einem Satz zusammen zu fassen, zum Beispiel:
 
 > "Wir wollen das einzige Job-Portal für High Professionals in Deutschland bauen." \cite{wirdemann2014scrum}
 
@@ -525,11 +526,11 @@ Auf Basis der Vision erstellt der Product Owner das Product Backlog und seine er
 
 ### Sprint
 
-Der Sprint ist das Herzstück von Scrum. Ein Sprint ist ein Iterationsdurchlauf in der Entwicklung und als Ergebnis des Sprints steht immer ein Stück lauffähige Software. Die Länge des Sprints ist maximal 30 Tage. Ist die Sprintlänge festgelegt, kann sie sich während eines Sprints nicht mehr ändern. Auch von Änderungen der Sprintlängen innerhalb eines Projektes ist abzusehen, da mithilfe der Sprintlänge eine gewisse Regelmäßigkeit eingeführt wird, die dem Team hilft, bessere Abschätzungen machen zu können, und durch die Regelmäßig eine stetige Leistung bringen zu können.
+Der Sprint ist das Herzstück von Scrum. Ein Sprint ist ein Iterationsdurchlauf in der Entwicklung und als Ergebnis des Sprints steht immer ein Stück lauffähige Software. Die Länge des Sprints ist maximal 30 Tage. Ist die Sprintlänge festgelegt, kann sie sich während eines Sprints nicht mehr ändern. Auch von Änderungen der Sprintlängen innerhalb eines Projektes ist abzusehen, da mithilfe der Sprintlänge eine gewisse Regelmäßigkeit eingeführt wird, die dem Team hilft, bessere Abschätzungen machen und eine stetige Leistung bringen zu können.
 
 ### Sprint Planungssitzung
 
-Jeder Sprint beginnt mit einer Sprint Planungssitzung. In dieser wird ein Sprint Ziel definiert, das in einer kurzen Formulierung wiedergibt, was in diesem Sprint vom Team erreicht werden soll.
+Jeder Sprint beginnt mit einer Sprint Planungssitzung. In dieser wird ein konkretes Sprint Ziel definiert und formuliert, was vom Team erreicht werden soll.
 
 In der Planungssitzung wird das Sprint Backlog erstellt, welches alle Anforderungen für das nächste Inkrement (also das Ergebnis des Sprints) enthält. Die Elemente des Sprint Backlogs werden aus dem priorisiertem Product Backlog entnommen. 
 
@@ -537,19 +538,19 @@ Das Ergebnis der Sprint Planungssitzung ist ein realistisches Sprint Backlog, so
 
 ### Daily Scrum {#scrum-daily-srcum}
 
-Daily Scrum ist eine tägliche Sitzung innerhalb des Sprints, um das gesamte Team über den momentanen Stand des Sprints zu synchronisieren und anstehende und vergangene Aufgaben zu besprechen. Das Daily Scrum wird täglich am gleichen Ort und zur selben Zeit durchgeführt. Scrum schreibt eine Timebox (also ein Zeitlimit) von 15 Minuten vor. 
+Daily Scrum ist eine tägliche Sitzung innerhalb des Sprints, um das gesamte Team auf den momentanen Stand des Sprints zu bringen und anstehende und vergangene Aufgaben zu besprechen. Das Daily Scrum wird täglich am gleichen Ort und zur selben Zeit durchgeführt. Scrum schreibt eine Timebox (also ein Zeitlimit) von 15 Minuten vor. 
 
-Als Teilnehmer *muss* das gesamte Team anwesend sein, sowie der Scrum Master. Der Product Owner *sollte* für evtl. Rückfragen zu Anforderungen anwesend sein. Es können auch weitere Stakeholder anwesend sein, nur übernehmen sie keine aktive Rolle sondern sind nur passive Zuhörer.
+Es muss das gesamte Team anwesend sein, sowie der Scrum Master. Der Product Owner *sollte* für evtl. Rückfragen zu Anforderungen anwesend sein. Es können auch weitere Stakeholder anwesend sein, nur übernehmen sie keine aktive Rolle, sondern sind nur passive Zuhörer.
 
 Zentraler Inhalt der Sitzung ist, dass alle Teammitglieder drei Fragen beantworten:
 
 - Was habe ich seit dem letzten Daily Scrum für das Projekt getan?
-- Wass will ich bis zum nächsten Daily Scrum für das Projekt tun?
+- Was will ich bis zum nächsten Daily Scrum für das Projekt tun?
 - Was hindert mich daran, so effektiv wie möglich zu arbeiten?
 
 Der Scrum Master und der Product Owner sind für die Beseitigung der Probleme, die in der dritten Frage von den Teammitgliedern angesprochen werden, verantwortlich.
 
-Es ist wichtig, das Zeitlimit von 15 Minuten einzuhalten, da diese Sitzung täglich stattfindet und eine regelmäßige Überschreitung des Zeitlimits zu viel Arbeitszeit kostet. Ein Daily Scrum ist auch nicht dazu da, um in gemeinsamen Sitzung alle Probleme und Fragen zu klären, die auftauchen, sondern will nur dafür sensibel machen. Das Team kann sich dann im Nachhinein in kleineren Gruppen treffen, um detailliert über die Problemstellung und mögliche Lösungsansätze zu diskutieren. So wird von Unbeteiligten nicht unnötige Arbeitszeit in Anspruch genommen.
+Es ist wichtig, das Zeitlimit von 15 Minuten einzuhalten, da diese Sitzung täglich stattfindet und eine regelmäßige Überschreitung des Zeitlimits zu viel Arbeitszeit kostet. Ein Daily Scrum ist auch nicht dazu da, um in einer gemeinsamen Sitzung alle Probleme und Fragen zu klären, die auftauchen, sondern will nur dafür sensibel machen. Das Team kann sich dann im Nachhinein in kleineren Gruppen treffen, um detailliert über die Problemstellung und mögliche Lösungsansätze zu diskutieren. So wird von Unbeteiligten nicht unnötige Arbeitszeit in Anspruch genommen.
 
 Eine häufige Empfehlung ist die Durchführung des Daily Scrum im Stehen (dem sogenannten *Standup Meeting*). Durch die Tatsache, dass die Beteiligten stehen, entstehen keine langen Diskussionen und die "Sitzungen" im Stehen bleiben in der Regel kurz.
 
@@ -563,11 +564,11 @@ In Scrum gibt es keine Vorgaben, wie das Team zu entwickeln hat. Einzige Bedingu
 
 ### Sprint Review
 
-Im Sprint Review präsentiert das Team dem Product Owner das Ergebnis des Sprints in Form von lauffähigen Software. Diese muss vollständig und fehlerfrei sein. Der Sprint Review hat eine maximale Länge von vier Stunden.
+Im Sprint Review präsentiert das Team dem Product Owner das Ergebnis des Sprints in Form von lauffähiger Software. Diese muss vollständig und fehlerfrei sein. Der Sprint Review hat eine maximale Länge von vier Stunden.
 
-Bei dem Sprint Review wird ausschließlich lauffähige Software präsentiert: keine PowerPoint Präsentationen oder ähnliches. Das Team bereitet sich auf den Sprint Review nicht gesondert vor. So kann sichergestellt werden, dass der Product Owner den echten Projekt Status sieht.
+Bei dem Sprint Review wird ausschließlich lauffähige Software präsentiert, keine PowerPoint Präsentationen oder ähnliches. Das Team bereitet sich auf den Sprint Review nicht gesondert vor. So kann sichergestellt werden, dass der Product Owner den echten Projekt Status sieht.
 
-Der Product Owner führt selbst Tests an der Software durch und  entscheidet abschließend, ob das Ergebnis des Sprints zufriedenstellend ist.
+Der Product Owner führt selbst Tests an der Software durch und entscheidet abschließend, ob das Ergebnis des Sprints zufriedenstellend ist.
 
 ### Sprint Retrospektive
 
@@ -580,7 +581,7 @@ In der Sprint Retrospektive wird die Zusammenarbeit des Teams bewertet und Verbe
 
 In Scrum werden einige Artefakte festgelegt. Diese Artefakte dienen dazu, eine große Transparenz gegenüber den allen Teilnehmern zu schaffen. 
 
-### Product Backlog
+### Product Backlog {#problemfeld-scrum-artefakte-product-backlog}
 
 Das Product Backlog ist das zentrale Dokument zum Erfassen und Verwalten der Anforderungen, die das Projekt innehält. Die Einträge im Product Backlog werden Backlog Items genannt. Dabei entspricht ein Backlog Item einer Funktionalität, die für den Benutzer relevant ist. Hilfreich für die Anforderungsspezifikation im Product Backlog ist die Praktik der *User Storys* (siehe Abschnitt \ref{planung-user-stories}).
 
