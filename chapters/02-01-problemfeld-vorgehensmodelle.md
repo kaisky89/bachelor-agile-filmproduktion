@@ -2,6 +2,8 @@
 title: Problemfeld Agile Vorgehensmodelle
 ---
 
+# Einleitung
+
 Da das Thema dieser Arbeit die Entwicklung eines Vorgehensmodell ist, möchte dieser Begriff zuerst einmal definiert werden.
 
 Ein *Vorgehensmodell* kann als eine Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Ein Vorgehensmodell beschreibt nicht die Umsetzung einer konkreten Aufgabe, sondern eher eine bestimmte *Klasse von Aufgaben* \cite{hanser}.
@@ -577,3 +579,5 @@ Das Sprint Backlog ist ein Backlog, das die Aufgaben des aktuellen Sprints aufli
 ### Inkrement
 
 Das Inkrement ist das Ergebnis des Sprints, also das Arbeitsergebnis des Teams nach dem Ablauf des Sprints. Das Inkrement muss vollständig und fehlerfrei sein. Das bedeutet, alle Anforderungen, die im Sprint Backlog festgehalten wurden, müssen in dem Inkrement umgesetzt worden sein. Das Inkrement dient dem Team dazu, dem Product Owner während des Sprint Reviews die getane Arbeit des letzten Sprint zu präsentieren. Anhand des Inkrements überprüft der Product Owner die Leistung des Teams.
+
+# Fazit
