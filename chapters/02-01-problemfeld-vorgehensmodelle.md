@@ -311,7 +311,7 @@ Die Idee von Software-Kanban ist, mithilfe einfacher Mittel Transparenz über de
 
 Das Ziel von Software-Kanban ist nicht, Probleme zu lösen, sondern sie nur aufzuzeigen. Es gibt den Mitgliedern des Entwicklungsteams die nötigen Werkzeuge und Techniken an die Hand, Probleme und Schwachstellen in der Zusammenarbeit des Teams zu sehen. Wie sie dann damit umgehen, bleibt in ihrer Hand \cite{extremeprogramming}.
 
-### Was ist Kanban nicht?
+## Was ist Kanban nicht?
 
 Software-Kanban ist keine Entwicklungsmethode. Es gibt keine Aussagen darüber, *wie* entwickelt werden soll. Es bezieht auch keine Stellung dazu, wie ein Entwicklungsprojekt geplant oder organisiert werden soll. Das bedeutet, Software-Kanban kann sowohl in Projekten angewandt werden, die noch nach dem klassischen Wasserfallmodell arbeiten, als auch in modernen Projekten mit iterativ-inkrementellem Ansatz.
 
@@ -593,4 +593,4 @@ Das Sprint Backlog ist ein Backlog, das die Aufgaben des aktuellen Sprints aufli
 
 ### Inkrement
 
-Das Inkrement ist das Ergebnis des Sprints, also das Arbeitsergebnis des Teams nach dem Ablauf des Sprints. Das Inkrement muss vollständig und fehlerfrei sein. Das bedeutet, alle Anforderungen, die im Sprint Backlog festgehalten wurden, müssen in dem Inkrement umgesetzt worden sein. Das Inkrement dient dem Team dazu, dem Product Owner während der Sprint Review die getane Arbeit des letzten Sprint zu präsentieren. Anhand des Inkrements überprüft der Product Owner die Leistung des Teams.
+Das Inkrement ist das Ergebnis des Sprints, also das Arbeitsergebnis des Teams nach dem Ablauf des Sprints. Das Inkrement muss vollständig und fehlerfrei sein. Das bedeutet, alle Anforderungen, die im Sprint Backlog festgehalten wurden, müssen in dem Inkrement umgesetzt worden sein. Das Inkrement dient dem Team dazu, dem Product Owner während des Sprint Reviews die getane Arbeit des letzten Sprint zu präsentieren. Anhand des Inkrements überprüft der Product Owner die Leistung des Teams.
