@@ -2,20 +2,8 @@
 title: Einleitung
 ---
 
-# Film und Software
-<!--
-![Bildbeschreibung](http://download.heart-co.de/Bildschirmfoto%202015-07-14%20um%2019.12.13.png)
-
-Hier verweise ich auf die Abbildung \ref{Bildbeschreibung}.
-
-Wie auch in Kapitel \ref{film-und-software} beschrieben...
--->
-## Kreative Arbeit
-
-## Kein klar definierbares Ziel
+# Imagefilm und Software
 
 # Vorstellung der Methodik in der Bachelorarbeit
 
-## Anforderungen: Stakeholder, User Models, Personae und Use Cases
-
-## Evaluation: Use Cases
+![Aufbau der Arbeit](https://www.lucidchart.com/publicSegments/view/55c7d6a5-0fc8-4482-9a12-2b9f0a009f25/image.png)
