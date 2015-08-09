@@ -24,11 +24,11 @@ Ein Imagefilm im weiteren Sinne ist aber auch jeder Film, der als Gegenstand das
 
 Der Imagefilm soll für diese Arbeit wie folgt definiert werden:
 
-> Ein Imagefilm ist ein Film, der bewusst vom Unternehmen eingesetzt wird, um eine Haltung, Emotion oder Aktion einer bestimmten Zielgruppe hervorzurufen. Dies geschieht, indem der Imagefilm Botschaften an die Zielgruppe formuliert.
+> Ein Imagefilm ist ein Film, der bewusst vom Unternehmen eingesetzt wird, um eine Haltung, Emotion oder Aktion einer bestimmten Zielgruppe hervorzurufen. Dies geschieht, indem der Imagefilm Botschaften an die Zielgruppe vermittelt.
 
 Die Imagefilmproduktion ist demnach die Dienstleistung, diese Form von Film für ein Unternehmen zu erstellen. Dabei ist zu beachten, dass dies ein stark wirtschaftlicher und weniger journalistischer oder künstlerischer Rahmen ist. Es gibt ein Unternehmen als Auftraggeber, das Geldgeber des Projekts ist und dessen wirtschaftliche Interessen mit dem Projekt erfüllt werden müssen.
 
-So ist auch die Teamkonstellation auf Seiten des Auftragnehmers bei der Imagefilmproduktion als bei der Spielfilm- oder Kinofilmproduktion: Kinofilmproduktionen und ähnliche werden durch Investoren, staatliche Förderungen und/oder Film Studios unterstützt, die ein breites Team und eine große Menge von Spezialisten möglich macht. Dies ist in der Imagefilmproduktion nicht der Fall. Hier spielt der finanzielle Faktor eine wesentlich größere Rolle, die Teams sind dementsprechend kleiner.
+So ist auch die Teamkonstellation auf Seiten des Auftragnehmers bei der Imagefilmproduktion anders als bei der Spielfilm- oder Kinofilmproduktion: Kinofilmproduktionen und ähnliche werden durch Investoren, staatliche Förderungen und/oder Film Studios unterstützt, die ein breites Team und eine große Menge von Spezialisten möglich macht. Dies ist in der Imagefilmproduktion nicht der Fall. Hier spielt der finanzielle Faktor eine wesentlich größere Rolle, die Teams sind dementsprechend kleiner.
 
 
 # Phasen in der Filmproduktion {#phasen-in-der-filmproduktion}
@@ -166,3 +166,5 @@ Der Autor trägt die Verantwortung für das Filmprojekt, er entscheidet, was inh
 In der Zusammenarbeit als Team spielt Feedback auch eine wichtige Rolle: Der Cutter z. B. kann früh Feedback geben, ob das Material gut ist und wie es wirkt, weil er selbst eine gewisse "Distanz" zu den Bildern hat. Dieses Feedback ist sehr hilfreich um möglichst früh weitere Entscheidungen treffen zu können und um gegebenenfalls geplante Szenen oder Abläufe anzupassen.
 
 Insgesamt lässt sich sagen, dass in einem Filmprojekt Team viele Spezialisierungen und Teilfachgebiete vorhanden sind. Daher spielt Kommunikation eine wesentliche Rolle für den Projekterfolg.
+
+# Fazit
