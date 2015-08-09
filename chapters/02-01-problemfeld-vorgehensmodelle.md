@@ -572,25 +572,25 @@ Der Product Owner führt selbst Tests an der Software durch und entscheidet absc
 
 ### Sprint Retrospektive
 
-Die Sprint Retrospektive ist eine Interne Reflektion des Teams zum Sprint. Sie dauert 3 Stunden und Teilnehmer sind das Team und der Scrum Master. Der Product Owner optional auch teilnehmen.
+Die Sprint Retrospektive ist eine Interne Reflektion des Teams zum Sprint. Sie dauert 3 Stunden und Teilnehmer sind das Team und der Scrum Master. Der Product Owner kann optional auch teilnehmen.
 
 In der Sprint Retrospektive wird die Zusammenarbeit des Teams bewertet und Verbesserungsmaßnahmen zu einem effektiverem Teamwork entwickelt. Es wird darüber diskutiert, welche agile Praktiken für das Entwickeln gut funktionieren, und welche besser ausgetauscht werden. Das Ziel der Retrospektive ist die Optimierung des Prozesses. 
 
 
 ## Artefakte
 
-In Scrum werden einige Artefakte festgelegt. Diese Artefakte dienen dazu, eine große Transparenz gegenüber den allen Teilnehmern zu schaffen. 
+In Scrum werden einige Artefakte festgelegt. Diese Artefakte dienen dazu, eine große Transparenz gegenüber allen Teilnehmern zu schaffen. 
 
 ### Product Backlog {#problemfeld-scrum-artefakte-product-backlog}
 
 Das Product Backlog ist das zentrale Dokument zum Erfassen und Verwalten der Anforderungen, die das Projekt innehält. Die Einträge im Product Backlog werden Backlog Items genannt. Dabei entspricht ein Backlog Item einer Funktionalität, die für den Benutzer relevant ist. Hilfreich für die Anforderungsspezifikation im Product Backlog ist die Praktik der *User Storys* (siehe Abschnitt \ref{planung-user-stories}).
 
-Der Product Owner ist für die für die Pflege, die Verwaltung und den Zugriff auf das Product Backlog zuständig. Er priorisiert die vorhandenen Einträge nach der Wichtigkeit für den Kunden und detailliert die Einträge im weiteren Projektverlauf. Mithilfe einer gemeinsamen Aufwandschätzung mit dem Team können so während der Sprint Planungssitzung die Backlog Items ausgewählt werden, die in das jeweilige Sprint Backlog übertragen werden.
+Der Product Owner ist für die Pflege, die Verwaltung und den Zugriff auf das Product Backlog zuständig. Er priorisiert die vorhandenen Einträge nach der Wichtigkeit für den Kunden und detailliert die Einträge im weiteren Projektverlauf. Mithilfe einer gemeinsamen Aufwandschätzung mit dem Team können so während der Sprint Planungssitzung die Backlog Items ausgewählt werden, die in das jeweilige Sprint Backlog übertragen werden.
 
 ### Sprint Backlog
 
-Das Sprint Backlog ist ein Backlog, das die Aufgaben des aktuellen Sprints auflistet. Mithilfe dieser Aufgaben kann das Team während eines Sprints das Sprint Ziel erreichen. Es entsteht während der Sprint Planungssitzung, indem der der Product Owner zusammen mit dem Team die priorisierte Liste des Product Backlogs betrachtet und mit einer gemeinsamen Aufwandschätzung ein Paket zusammenstellt, von dem das Team behauptet, dass es dieses Paket zum Ende des Sprints abarbeiten kann. Der Aufwand jedes einzelnen Items im Sprint Backlog ist abgeschätzt und beträgt weniger als 16 Stunden. Bei größeren Items muss das Item in kleinere Arbeitspakete aufgeteilt werden. Das Sprint Backlog stellt den momentanen Status der Entwicklungsarbeit dar.
+Das Sprint Backlog ist ein Backlog, das die Aufgaben des aktuellen Sprints auflistet. Mithilfe dieser Aufgaben kann das Team während eines Sprints das Sprint Ziel erreichen. Es entsteht während der Sprint Planungssitzung, indem der der Product Owner zusammen mit dem Team die priorisierte Liste des Product Backlogs betrachtet und mit einer gemeinsamen Aufwandschätzung ein Paket zusammenstellt, welches bis zum Ende des Sprints abgearbeitet werden kann. Der Aufwand jedes einzelnen Items im Sprint Backlog ist abgeschätzt und beträgt weniger als 16 Stunden. Bei größeren Items muss das Item in kleinere Arbeitspakete aufgeteilt werden. Das Sprint Backlog stellt den momentanen Status der Entwicklungsarbeit dar.
 
 ### Inkrement
 
-Das Inkrement ist das Ergebnis des Sprints, also das Arbeitsergebnis des Teams nach dem Ablauf des Sprints. Das Inkrement muss vollständig und fehlerfrei sein, das bedeutet, alle Anforderungen, die im Sprint Backlog festgehalten wurden, müssen in dem Inkrement umgesetzt worden sein und dürfen keine Fehler enthalten. Das Inkrement dient dem Team dazu, während der Sprint Reviews dem Product Owner die getane Arbeit des letzten Sprint zu präsentieren. Anhand des Inkrements überprüft der Product Owner die Leistung des Teams.
+Das Inkrement ist das Ergebnis des Sprints, also das Arbeitsergebnis des Teams nach dem Ablauf des Sprints. Das Inkrement muss vollständig und fehlerfrei sein. Das bedeutet, alle Anforderungen, die im Sprint Backlog festgehalten wurden, müssen in dem Inkrement umgesetzt worden sein. Das Inkrement dient dem Team dazu, dem Product Owner während der Sprint Review die getane Arbeit des letzten Sprint zu präsentieren. Anhand des Inkrements überprüft der Product Owner die Leistung des Teams.
