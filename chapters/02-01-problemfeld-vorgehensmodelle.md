@@ -467,11 +467,11 @@ Mithilfe des Kanban Boards lassen sich viele der Prinzipien von Kanban umsetzen:
 
 ### Messungen
 
-Messungen bilden die Grundlage für die kontinuierliche Verbesserung in Kanban. Durch kleine Schritte und ständigem Feedback durch die Messungen kann festgestellt werden, welche Faktoren für ein gutes Arbeitsergebnis und eine gute Leistung des Teams sorgen. Wichtigstes Maß dabei ist die Durchlaufzeit einer Arbeitsaufgabe. Man fragt sich also: "Wie viel Zeit benötigt eine Karte im Durchschnitt, um von der Spalte ganz links in die Spalte ganz rechts zu gelangen?". Diese Zeit soll verringert werden.
+Messungen bilden die Grundlage für die kontinuierliche Verbesserung in Kanban. Durch kleine Schritte der Verbesserung und ständigem Feedback durch die Messungen kann festgestellt werden, welche Faktoren für ein gutes Arbeitsergebnis und eine gute Leistung des Teams sorgen. Wichtigstes Maß dabei ist die Durchlaufzeit einer Arbeitsaufgabe. Diese soll verringert werden.
 
-Viele, wenn nicht sogar alle Probleme eines Prozesses wirken sich auf die Durchlaufzeit aus. Wenn also daran gearbeitet wird, die Durchlaufzeit zu verkürzen, müssen Probleme angegangen werden, die nicht viel mit der Durchlaufzeit zu tun haben scheinen (z. B. schlechte Qualität oder mangelhafte interne Abstimmung) \cite{agilespmkanban}, da sich früher oder später herausstellt, das sich auch diese Probleme negativ auf die Durchlaufzeit auswirken.
+Viele, wenn nicht sogar alle Probleme eines Prozesses wirken sich auf die Durchlaufzeit aus. Wenn also daran gearbeitet wird, diese zu verkürzen, werden auch Probleme angegangen werden, die nicht viel mit der Durchlaufzeit zu tun haben scheinen (z. B. schlechte Qualität oder mangelhafte interne Abstimmung) \cite{agilespmkanban}, da sich früher oder später herausstellt, das sich auch diese Probleme negativ auf die Durchlaufzeit auswirken.
 
-Um die Motivation des Teams zu steigern, sich auf die Optimierung des Gesamtsystems zu konzentrieren, ist es empfehlenswert, die Ergebnisse der Messungen jedem zugänglich zu machen \cite{agilespmkanban}. Häufig werden diese zusätzlich mit auf das Kanban Board angebracht \cite{epping}. 
+Um die Motivation des Teams zu steigern, sich auf die Optimierung des Gesamtsystems zu konzentrieren, ist es empfehlenswert, jedem die Ergebnisse der Messungen zugänglich zu machen \cite{agilespmkanban}. Häufig werden diese zusätzlich mit auf das Kanban Board angebracht \cite{epping}. 
 
 
 
