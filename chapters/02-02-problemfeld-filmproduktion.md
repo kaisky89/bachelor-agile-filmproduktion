@@ -4,7 +4,7 @@ title: Problemfeld Filmproduktion
 
 # Einleitung
 
-# Definition Imagefilm
+# Definition Imagefilm {#filmproduktion-definition-imagefilm}
 
 Der Begriff des Imagefilm ist mittlerweile ein sehr verbreitetes Wort und wird gerne in verschiedenen Kontexten unterschiedlich verwendet. Aus diesem Grund soll der Begriff hier für diese Arbeit definiert werden.
 
@@ -76,24 +76,24 @@ In der Produktionsphase wird das Filmmaterial aufgenommen. Die gesamte Crew ist 
 
 ## Post Produktion {#filmproduktion-phasen-post}
 
-Nach der Produktion beginnt die Phase der Post Produktion. Evtl. werden zu Anfang noch einige Szenen noch einmal aufgenommen, um danach dann den Schnitt und die Montage des Films zu tätigen. 
+Nach der Produktion beginnt die Phase der Post Produktion. Evtl. werden zu Anfang noch einige Szenen wiederholt aufgenommen, um dann danach den Schnitt und die Montage des Films zu tätigen. 
 
-Nachdem der Schnitt abgeschlossen ist, gibt es einen sogenannten "Picture Lock", das beschreibt den Status, dass sich an der zeitlichen Abfolge des Schnitts nichts mehr ändert. Ab diesem Zeitpunkt können die Arbeiten an der Tonmischung und auch die visuellen Effekte vorgenommen werden. Es werden die nötigen Stimmen Synchronisationen erstellt und die Musik wird möglichst passend zum Bild produziert. Außerdem können am Bild weitere Arbeiten an der Farbkorrektur vorgenommen werden, sowie die Ausarbeitung der visuellen digitalen Effekte.
+Nachdem der Schnitt abgeschlossen ist, gibt es einen sogenannten "Picture Lock", das beschreibt den Status, dass sich an der zeitlichen Abfolge des Schnitts nichts mehr ändert. Ab diesem Zeitpunkt können die Arbeiten an der Tonmischung und auch die visuellen Effekte vorgenommen werden. Es werden die nötigen Stimmen Synchronisationen erstellt und die Musik wird möglichst passend zum Bild produziert. Außerdem können am Bild weitere Farbkorrekturen vorgenommen werden, sowie die Ausarbeitung der visuellen digitalen Effekte.
 
-Es werden erste Vorschau Versionen erstellt und Strategien für das Marketing erstellt, um den Film gewinnbringend zu veröffentlichen. 
+Es werden erste Vorschau Versionen und Strategien für das Marketing erstellt, um den Film gewinnbringend zu veröffentlichen. 
 
 ## Absatz und Marketing
 
-In dieser Phase wird dafür gesorgt, dass der Film an das gewünschte Zielpublikum gelangt. Eine gute Möglichkeit für Independent Filme im Kinoformat sind Film Festivals, die die Möglichkeit bieten, das interessierte Film Publikum zu erreichen. Außerdem kann auf den üblichen Wegen wie Internet, Trailer, Plakate und Anzeigen Werbung für den Film gemacht werden. Da sich diese Arbeit auf den Imagefilm konzentriert und hierbei der Abnehmer des Films bereits klar ist, soll der Aspekt der Distribution des Films hier nicht weiter betrachtet werden.
+In dieser Phase wird dafür gesorgt, dass der Film an das gewünschte Zielpublikum gelangt. Für Independent Filme im Kinoformat sind Film Festivals hierfür eine gute Möglichkeit. Außerdem kann auf den üblichen Wegen wie Internet, Trailer, Plakate und Anzeigen Werbung für den Film gemacht werden. Da sich diese Arbeit auf den Imagefilm konzentriert und hierbei der Abnehmer des Films bereits klar ist, soll der Aspekt der Distribution des Films hier nicht weiter betrachtet werden.
 
 
 # Vorgehen in der Produktion eines Imagefilms
 
-In dieser Arbeit soll ein Vorgehensmodell speziell für den Filmtyp *Imagefilm* entwickelt werden. Die in Abschnitt \ref{phasen-in-der-filmproduktion} beschriebenen Phasen beziehen sich nicht auf die Erstellung eines Imagefilms, sondern auf die Produktion eines vollständigen Kinofilm in der Independent Filmwelt. Da sich beispielsweise die Länge eines Kinofilms deutlich von der eines Imagefilms unterscheidet,^[Die Länge eines Kinofilms beträgt im Durchschnitt ca. 90 - 120 Minuten. Ein Imagefilm hat eine maximale Länge von 15 Minuten.] muss hier deutlich gemacht werden, dass die Produktion eines Imagefilms andere Außmaße annimmt. Das Problem der Beschreibung der Produktion eines Imagefilms ist nur, dass es hierfür keine Standards gibt. Es ist nirgendwo festgelegt, wie ein Imagefilm produziert werden soll, und dem Autor dieser Arbeit fiel es schwer, in der Literatur explizite Beschreibungen für die Produktion von dieser Art zu finden. In der Realität hat jedes Unternehmen, welches anbietet, Imagefilme zu produzieren, wahrscheinlich sein eigenes Vorgehen entwickelt. Dieses Vorgehen hält sich aber häufig an das bekannte klassische Vorgehen der Filmindustrie, wie es exemplarisch in \ref{phasen-in-der-filmproduktion} beschrieben wurde. Aus diesem Grund bietet die Beschreibung der Phasen ein grundlegendes Verständnis für die Produktion eines Imagefilms. Der Autor hat selbst im beruflichen Kontext Erfahrungen mit der Produktion von Imagefilmen in einem kleinen Unternehmen machen können, außerdem auch im akademischen Kontext eines Praxisprojekts das Vorgehen bei der Produktion eines Imagefilms \cite{wittmann2014praxiprojekt} näher betrachten dürfen. Der Ablauf des Praxisprojekts sei hier grob zusammen gefasst, um Einblicke in die Herausforderungen und Besonderheiten bei der Produktion eines Imagefilms zu geben. Für genauere Details siehe auch \cite{wittmann2014praxiprojekt}.
+In dieser Arbeit soll ein Vorgehensmodell speziell für den Filmtyp *Imagefilm* entwickelt werden. Die in Abschnitt \ref{phasen-in-der-filmproduktion} beschriebenen Phasen beziehen sich nicht auf die Erstellung eines Imagefilms, sondern auf die Produktion eines vollständigen Kinofilm in der Independent Filmwelt. Da sich beispielsweise die Länge eines Kinofilms deutlich von der eines Imagefilms unterscheidet,^[Die Länge eines Kinofilms beträgt im Durchschnitt ca. 90 - 120 Minuten. Ein Imagefilm hat eine maximale Länge von 15 Minuten.] muss hier deutlich gemacht werden, dass die Produktion eines Imagefilms kleinere Ausmaße annimmt. Das Problem der Beschreibung der Produktion eines Imagefilms ist nur, dass es hierfür keine Standards gibt. Es ist nirgendwo festgelegt, wie ein Imagefilm produziert werden soll, und dem Autor dieser Arbeit fiel es schwer, in der Literatur explizite Beschreibungen für eine Produktion dieser Art zu finden. In der Realität hat jedes Unternehmen, welches anbietet, Imagefilme zu produzieren, wahrscheinlich sein eigenes Vorgehen entwickelt. Dieses Vorgehen hält sich aber häufig an das bekannte klassische Vorgehen der Filmindustrie, wie es exemplarisch in \ref{phasen-in-der-filmproduktion} beschrieben wird. Aus diesem Grund bietet die Beschreibung der Phasen ein grundlegendes Verständnis für die Produktion eines Imagefilms. Der Autor hat selbst im beruflichen Kontext Erfahrungen mit der Produktion von Imagefilmen in einem kleinen Unternehmen machen können, außerdem auch im akademischen Kontext eines Praxisprojekts das Vorgehen bei der Produktion eines Imagefilms \cite{wittmann2014praxiprojekt} näher betrachten dürfen. Der Ablauf des Praxisprojekts sei hier grob zusammen gefasst, um Einblicke in die Herausforderungen und Besonderheiten bei der Produktion eines Imagefilms zu geben. Für genauere Details siehe auch \cite{wittmann2014praxiprojekt}.
 
 ## Projektfindung
 
-In dieser Phase wurde der Kontakt mit dem Kunden hergestellt, sowie das Team zusammengestellt. Das Team bestand in dem Praxisprojekt lediglich aus zwei Mitgliedern. Der Kontakt mit dem Kunden wurde auf einer Kontaktbörse innerhalb der FH Köln hergestellt, es hab eine Ansprechpartnerin als auch den Leiter des Marketings, der Informationen zu den Vorstellungen des Imagefilms geben konnte. Die Hauptaktivitäten in dieser Phase bestanden also in:
+In dieser Phase wurde der Kontakt mit dem Kunden hergestellt, sowie das Team zusammengestellt. Das Team bestand in dem Praxisprojekt lediglich aus zwei Mitgliedern. Der Kontakt mit dem Kunden wurde auf einer Kontaktbörse innerhalb der FH Köln hergestellt, es gab eine Ansprechpartnerin als auch den Leiter des Marketings, die Informationen zu den Vorstellungen des Imagefilms geben konnte. Die Hauptaktivitäten in dieser Phase bestanden also in:
 
 - Teamfindung
 - Kontakt mit dem Kunden
@@ -101,22 +101,22 @@ In dieser Phase wurde der Kontakt mit dem Kunden hergestellt, sowie das Team zus
 
 ## Aufgabenfindung
 
-In dieser Phase hat das Team im Gespräch mit dem Kunden analysiert, was genau vom Kunden erwartet wurde. Was sollte das Zielpublikum des Films sein? Welche Aussage sollte der Film haben? Welcher Schwerpunkt sollte gelegt werden? Sollten die Produkte vom Kunden in irgendeiner Art auch präsentiert werden? Diese Fragen wurden grundsätzlich geklärt. Insgesamt kann man diese Phase als *Anforderungsanalyse* beschreiben.
+In dieser Phase hat das Team im Gespräch mit dem Kunden analysiert, was genau vom Kunden erwartet wurde. Was sollte das Zielpublikum des Films sein? Welche Aussage sollte der Film haben? Welcher Schwerpunkt sollte gelegt werden? Sollten auch die Produkte des Kunden auf irgendeine Weise auch präsentiert werden? Diese Fragen wurden grundsätzlich geklärt. Insgesamt kann man diese Phase als *Anforderungsanalyse* beschreiben.
 
 
 ## Ideenfindung
 
-Auf Basis der herausgearbeiteten Anforderungen wurde im Team nach geeigneten Ideen gesucht, um die Aussagen und geplanten Inhalte erzähltechnisch und gestalterisch ansprechend zu gestalten. Diese Phase stellt das Erkunden des Teams in die Problemwelt des Kunden dar, und das gleichzeitige Suchen nach möglichen gestalterischen Mitteln, diese Welt des Kunden in einem Film zu kommunizieren.
+Auf Basis der herausgearbeiteten Anforderungen wurde im Team nach geeigneten Ideen gesucht, um die Aussagen und geplanten Inhalte erzähltechnisch und gestalterisch ansprechend darzustellen. In dieser Phase setzt sich das Team mit der Welt des Kunden auseinander und sucht nach möglichen gestalterischen Mitteln, diese Welt in einem Film zu kommunizieren.
 
 ## Konzeptvorstellung
 
-Nachdem erste Ideen gefunden worden waren, wurden diese in einem Dokument festgehalten und dieses Dokument in Form eines Konzepts an den Kunden geschickt. Leider war die gewählte Form, filmische und gestalterische Ideen in Form eines gedruckten Dokuments zu kommunizieren nicht effektiv. Das Team musste die Erfahrung machen, dass viele Ideen aufgrund des beschränkten Mediums nicht verstanden worden waren. 
+Nachdem das Team erste Ideen gefunden hatte, wurden diese in einem Dokument festgehalten und dieses in Form eines Konzepts an den Kunden geschickt. Leider war die gewählte Form, filmische und gestalterische Ideen in Form eines gedruckten Dokuments zu kommunizieren nicht effektiv. Das Team musste die Erfahrung machen, dass viele Ideen aufgrund des beschränkten Mediums nicht verstanden wurden. 
 
 ## Vertiefende Anforderungsanalyse
 
-Aufgrund der offensichtlichen Schwierigkeiten in der Kommunikation wurde vom Team eine vertiefende Anforderungsanalyse initiiert, mit dessen Hilfe Missverständnisse zwischen Team und Kunden beseitigt werden konnten und eine gemeinsame Vorstellung des finalen Imagefilms mit dem Kunden erarbeitet werden konnte. 
+Aufgrund der offensichtlichen Schwierigkeiten in der Kommunikation wurde vom Team eine vertiefende Anforderungsanalyse initiiert, mit dessen Hilfe Missverständnisse zwischen Team und Kunden beseitigt werden konnten und mit dem Kunden eine gemeinsame Vorstellung des finalen Imagefilms erarbeitet werden konnte. 
 
-In dieser Phase wurden auch erste Testaufnahmen gemacht, die dem Kunden zeigen konnten, wie bestimmte Ideen des Teams aussahen. Das Team durfte die Erfahrung machen, dass die Testaufnahmen für ein weitaus größeres Verständnis des Kunden sorgten. Dies führte sogar so weit, dass sogar zusätzliche Ideen von seiten des Kunden geäußert wurden, und dass bestimmte Anforderungen klarer und konkreter formuliert werden konnten. Insgesamt kann man sagen, dass die Anforderungen erst im Verlauf des Projektes ersichtlich wurden.
+In dieser Phase wurden auch erste Testaufnahmen gemacht, die dem Kunden zeigen konnten, wie bestimmte Ideen des Teams aussahen. Das Team durfte die Erfahrung machen, dass die Testaufnahmen für ein weitaus größeres Verständnis des Kunden sorgten. Dies führte sogar so weit, dass zusätzliche Ideen von Seiten des Kunden geäußert wurden, und dass bestimmte Anforderungen klarer und konkreter formuliert werden konnten. Insgesamt kann man sagen, dass die Anforderungen erst im Verlauf des Projektes ersichtlich wurden.
 
 ## Produktion
 
