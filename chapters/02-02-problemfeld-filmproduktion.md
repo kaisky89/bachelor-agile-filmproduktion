@@ -130,14 +130,14 @@ Direkt nach den Aufnahmen wurde ein Rohschnitt des Films erstellt, der dem Kunde
 
 # Gewerke in der Filmproduktion
 
-In der Filmproduktion treffen viele verschiedene Berufe aufeinander, da Filmprojekte sowohl technisch als auch inhaltlich eine große Bandbreite an verschiedenen Details haben. Filmprojekte sind also für Teamarbeit  prädestiniert. Viele Spezialisten für ihre Teilbereiche arbeiten in Filmprojekten zusammen. Dies bedeutet bedeutet aber auch, dass viel Kommunikation und Zusammenarbeit zwischen den einzelnen Gewerken, also den Mitwirkenden mit ihren Spezialisierungen vorhanden sein muss. Dies ist nicht nur für die Teammitglieder in der Produktion wichtig, sondern auch für alle Mitwirkenden vor und nach der Produktion des Films.
+In der Filmproduktion treffen viele verschiedene Berufe aufeinander. In Filmprojekten gibt es viele Teilbereiche, die alle ihre eigene Expertise und Spezialisierung fordern. Filmprojekte sind also für Teamarbeit prädestiniert. Viele Spezialisten für ihre Teilbereiche arbeiten in Filmprojekten zusammen. Dies bedeutet bedeutet aber auch, dass viel Kommunikation und Zusammenarbeit zwischen den einzelnen Gewerken, also den Mitwirkenden mit ihren Spezialisierungen vorhanden sein muss. Dies ist nicht nur für die Teammitglieder in der Produktion wichtig, sondern auch für alle Mitwirkenden vor und nach der Produktion des Films.
 
 Im Folgenden sollen die typischen Gewerke vorgestellt werden, die in der Produktion eines Films beteiligt sind. Dabei wird vor allem auf die Beschreibungen von \cite{jacobs2015prozess} eingegangen, der die Produktion von non-fiktionalem Film fürs Fernsehen beschreibt. Die Teams in de
 
 
 ## Autor {#filmproduktion-gewerke-autor}
 
-Der Autor^[\cite{jacobs2015prozess} nennt ihn "Autor", da es sich bei ihm um hauptsächlich journalistische Filme handelt. In anderen Branchen sind Bezeichnungen wie "Regisseur" denkbar.] hat die führende Rolle im Filmprojekt. Er ist verantwortlich für den Inhalt des Films und für das Filmprojekt als Ganzes. Er übernimmt häufig die Aufgaben der Recherche und der Regie. Das bedeutet, dass er alle nötigen technischen Details mit den anderen Gewerken bespricht. Dabei gibt der Autor an, was in dem Film kommuniziert werden soll. Wie das dann technisch genau umgesetzt wird, darum kümmert sich jedes Gewerk bestenfalls selbstständig.
+Der Autor^[Jacobs \cite{jacobs2015prozess} nennt ihn "Autor", da es sich bei ihm um hauptsächlich journalistische Filme handelt. In anderen Branchen sind Bezeichnungen wie "Regisseur" denkbar.] hat die führende Rolle im Filmprojekt. Er ist verantwortlich für den Inhalt des Films und für das Filmprojekt als Ganzes. Er übernimmt häufig die Aufgaben der Recherche und der Regie. Das bedeutet, dass er alle nötigen technischen Details mit den anderen Gewerken bespricht. Dabei gibt der Autor an, was in dem Film kommuniziert werden soll. Wie das dann technisch genau umgesetzt wird, darum kümmert sich jedes Gewerk bestenfalls selbstständig.
 
 ## Kameramann
 
