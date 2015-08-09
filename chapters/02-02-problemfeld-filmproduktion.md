@@ -24,7 +24,7 @@ Ein Imagefilm im weiteren Sinne ist aber auch jeder Film, der als Gegenstand das
 
 Der Imagefilm soll für diese Arbeit wie folgt definiert werden:
 
-> Ein Imagefilm ist ein Film, der bewusst vom Unternehmen eingesetzt wird, um eine Haltung, Emotion oder Aktion einer bestimmten Zielgruppe hervorzurufen. Dies geschieht, indem der Imagefilm Botschaften an die Zielgruppe formuliert, 
+> Ein Imagefilm ist ein Film, der bewusst vom Unternehmen eingesetzt wird, um eine Haltung, Emotion oder Aktion einer bestimmten Zielgruppe hervorzurufen. Dies geschieht, indem der Imagefilm Botschaften an die Zielgruppe formuliert.
 
 Die Imagefilmproduktion ist demnach die Dienstleistung, diese Form von Film für ein Unternehmen zu erstellen. Dabei ist zu beachten, dass dies ein stark wirtschaftlicher und weniger journalistischer oder künstlerischer Rahmen ist. Es gibt ein Unternehmen als Auftraggeber, das Geldgeber des Projekts ist und dessen wirtschaftliche Interessen mit dem Projekt erfüllt werden müssen.
 
