@@ -596,5 +596,3 @@ Das Sprint Backlog ist ein Backlog, das die Aufgaben des aktuellen Sprints aufli
 ### Inkrement
 
 Das Inkrement ist das Ergebnis des Sprints, also das Arbeitsergebnis des Teams nach dem Ablauf des Sprints. Das Inkrement muss vollständig und fehlerfrei sein. Das bedeutet, alle Anforderungen, die im Sprint Backlog festgehalten wurden, müssen in dem Inkrement umgesetzt worden sein. Das Inkrement dient dem Team dazu, dem Product Owner während des Sprint Reviews die getane Arbeit des letzten Sprint zu präsentieren. Anhand des Inkrements überprüft der Product Owner die Leistung des Teams.
-
-# Fazit
