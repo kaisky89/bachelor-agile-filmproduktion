@@ -4,6 +4,8 @@ title: Problemfeld Filmproduktion
 
 # Einleitung
 
+![Struktureller Aufbau von Kapitel 3](https://www.lucidchart.com/publicSegments/view/55c801c5-fe98-4a56-940d-44480a005c31/image.png)
+
 # Definition Imagefilm {#filmproduktion-definition-imagefilm}
 
 Der Begriff des Imagefilm ist mittlerweile ein sehr verbreitetes Wort und wird gerne in verschiedenen Kontexten unterschiedlich verwendet. Aus diesem Grund soll der Begriff hier für diese Arbeit definiert werden.
@@ -167,4 +169,4 @@ In der Zusammenarbeit als Team spielt Feedback auch eine wichtige Rolle: Der Cut
 
 Insgesamt lässt sich sagen, dass in einem Filmprojekt Team viele Spezialisierungen und Teilfachgebiete vorhanden sind. Daher spielt Kommunikation eine wesentliche Rolle für den Projekterfolg.
 
-# Fazit
+# Zusammenfassung
