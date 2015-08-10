@@ -4,7 +4,7 @@ title: Auswertung
 
 # Einleitung
 
-Der Entwurf des Vorgehensmodells aus Kapitel \ref{Entwurf eines agilen Vorgehensmodells} soll in diesem Kapitel  anhand der in Kapitel \ref{Anforderungen an ein agiles Vorgensmodell} entwickelten Anforderungen ausgewertet werden. Hierfür sollen die wichtigsten Anforderungen zuerst einzeln betrachtet werden, um zu diskutieren, inwiefern diese erfüllt worden sind (Abschnitt \ref{auswertung-kategorie-kunde} bis \ref{auswertung-kategorie-anderes}). Danach werden die Ergebnisse dieser Diskussion in einer Tabelle zur Übersicht dargestellt (Abschnitt \ref{auswertung-uebersicht}). Die Abbildung \ref{Struktureller Aufbau von Kapitel 6} zeigt die Struktur dieses Kapitels.
+Der Entwurf des Vorgehensmodells aus Kapitel \ref{Entwurf eines agilen Vorgehensmodells} soll in diesem Kapitel  anhand der in Kapitel \ref{Anforderungen an ein agiles Vorgehensmodell} entwickelten Anforderungen ausgewertet werden. Hierfür sollen die wichtigsten Anforderungen zuerst einzeln betrachtet werden, um zu diskutieren, inwiefern diese erfüllt worden sind (Abschnitt \ref{auswertung-kategorie-kunde} bis \ref{auswertung-kategorie-anderes}). Danach werden die Ergebnisse dieser Diskussion in einer Tabelle zur Übersicht dargestellt (Abschnitt \ref{auswertung-uebersicht}). Die Abbildung \ref{Struktureller Aufbau von Kapitel 6} zeigt die Struktur dieses Kapitels.
 
 ![Struktureller Aufbau von Kapitel 6](https://www.lucidchart.com/publicSegments/view/55c80d30-910c-489d-b387-40000a005a36/image.png)
 
