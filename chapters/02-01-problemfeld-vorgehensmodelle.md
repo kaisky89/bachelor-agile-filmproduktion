@@ -4,6 +4,30 @@ title: Problemfeld Agile Vorgehensmodelle
 
 # Einleitung
 
+## Aufbau des Kapitels
+
+In diesem Kapitel soll das Poblemfeld der agilen Vorgehensmodelle aufgemacht werden. Die Abbildung \ref{Struktureller Aufbau von Kapitel 2} zeigt den strukturellen Aufbau des Kapitels.
+
+![Struktureller Aufbau von Kapitel 2](https://www.lucidchart.com/publicSegments/view/55c7e907-548c-496c-9cb1-02690a00c074/image.png)
+
+In den Abschnitten \ref{phasen-in-der-software-entwicklung} - \ref{grundlagen-agile-vorgehensmodelle} werden die Grundlagen zum Thema "Agile Vorgehensmodelle" gelegt: 
+
+- Abschnitt \ref{phasen-in-der-software-entwicklung} stellt die typischen Aktivitäten in der Softwareentwicklung vor und beschreibt die Phasen, die ein Softwareentwicklungsprojekt durchläuft.
+- Abschnitt \ref{vorgehensmodelle-historie} behandelt die historische Entwicklung, wie aus dem klassischen Wasserfallmodell die ersten iterativen Ansätze entstanden.
+- In den Abschnitten \ref{} und \ref{} werden dann die beiden Ansätze von modernen Vorgehensmodellen 
+
+Auf dieser Grundlage werden in den folgenden Abschnitten die drei bekanntesten agilen Vorgehensmodelle vorgestellt:
+
+- In Abschnitt \ref{vorgehensmodelle-xp} wird das Vorgehensmodell "eXtreme Programming" - oder kurz XP - vorgestellt
+- In Abschnitt \ref{vorgehensmodelle-kanban} wird das Vorgehensmodell Kanban vorgestellt
+- In Abschnitt \ref{problemfeld-scrum} wird das Vorgehensmodell Scrum vorgestellt
+
+Die Ergebnisse aus diesem Kapitel sollen hauptsächlich Grundlage für Kapitel \ref{Entwurf eines agilen Vorgehensmodells} sein.
+
+
+
+## Definition Vorgehensmodell
+
 Da das Thema dieser Arbeit die Entwicklung eines Vorgehensmodell ist, möchte dieser Begriff zuerst einmal definiert werden.
 
 Ein *Vorgehensmodell* kann als eine Beschreibung definiert werden, wie für eine bestimme Aufgabe vorgegangen wird. Je nach Aufgabe ist hier ein gewisses Level der Abstraktion vonnöten. Ein Vorgehensmodell beschreibt nicht die Umsetzung einer konkreten Aufgabe, sondern eher eine bestimmte *Klasse von Aufgaben* \cite{hanser}.
@@ -53,7 +77,7 @@ Mithilfe der Entscheidungen aus der Design Phase kann nun (endlich) programmiert
 
 Nach dem Kodieren wird die Software getestet, um zu validieren, dass sowohl das *richtige Produkt*, als auch das Produkt *richtig* entwickelt wurde. 
 
-# Historie der Vorgehensmodelle
+# Historie der Vorgehensmodelle {#vorgehensmodelle-historie}
 
 ## Wasserfallmodell
 
@@ -97,7 +121,7 @@ Schwergewichtige Vorgehensmodelle sind dokumentenlastig. Die Dokumentation und e
 Im Gegensatz dazu stehen die leichtgewichtigen Vorgehensmodelle, die auch als agile Vorgehensmodelle bezeichnet werden. Auf diese soll im Folgenden näher eingegangen werden.
 
 
-# Agile Vorgehensmodelle
+# Agile Vorgehensmodelle {#grundlagen-agile-vorgehensmodelle}
 
 Agil bedeutet "von großer Beweglichkeit zeugend; regsam und wendig" \cite{duden}, betont in dem Kontext von Vorgehensmodellen also die Möglichkeit, schnell auf Änderungen reagieren zu können. Agile Vorgehensmodelle sind die Reaktion auf die Unflexibilität und die Trägheit schwergewichtiger Vorgehensmodelle. Ein Vorgehensmodell ist agil, wenn es dem *agilen Manifest* entspricht.
 
@@ -125,7 +149,7 @@ Diese Leitsätze bilden ein Wertesystem, dass die Grundeinstellung in der agilen
 
 Im Folgenden werden die drei populärsten Vorgehensmodelle der agilen Softwareentwicklung vorgestellt und deren Kernaspekte dargestellt.
 
-# XP
+# XP {#vorgehensmodelle-xp}
 
 Als erstes Vorgehensmodell soll das "eXtreme Programming" - oder kurz: XP - betrachtet werden. XP wurde von Kent Beck 1996 \cite{extremeprogramming} zum ersten mal eingesetzt und gilt als eines der ersten Vorgehensmodelle, die die Ansätze und Prinzipien von Agiler Softwareentwicklung in einem ganzheitlichem Rahmen umsetzen. <!--TODO Ist das so? Belege?--> 
 
@@ -276,7 +300,7 @@ Allerdings bringen Tests dem Team im weiteren Vorgehen laut Wells \cite{extremep
 - Tests fördern die Praxis der häufigen Integration (siehe Abschnitt \ref{haeufige-sequenzielle-integration}), indem sie schnell ersichtlich machen, wo bei der Integration Fehler aufgetreten sind und somit dem Entwicklerteam schnell Hinweise darauf geben, an welcher Stelle im Code etwas geändert werden muss.
 
 
-# Kanban
+# Kanban {#vorgehensmodelle-kanban}
 
 Das nächste zu betrachtende Vorgehensmodell ist Kanban. Kanban hat im Vergleich zu den beiden anderen in dieser Arbeit vorgestellten Vorgehensmodelle XP und Scrum die Besonderheit, dass es nicht für die Softwareentwicklung entworfen wurde. Ursprünglich wurde Kanban von Toyota entwickelt und diente zum Managen und Optimieren Prozessen in der Automobilherstellung. Die Tatsache, dass das Vorgehensmodell - wenn auch mit Änderungen - aus der Domäne *Automobilindustrie* in die Domäne *Softwareentwicklung* übertragen werden konnte, diente auch zum Teil als Motivation für diese Arbeit. Da Kanban nun bereits schon einmal erfolgreich in eine andere Domäne "übersetzt" <!--TODO besseres Wort--> werden konnte, gibt es also Grund genug, es als Vorgehensmodell hier genauer zu betrachten.
 
