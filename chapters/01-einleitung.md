@@ -23,4 +23,10 @@ Der strukturelle Aufbau der Arbeit wird in der Abbildung \ref{Struktureller Aufb
 
 Zuerst wird in Kapitel \ref{Problemfeld Agile Vorgehensmodelle} der Kontext der agilen Vorgehensmodelle der Informatik vorgestellt: Es werden die Grundlagen zum Thema "Agile Vorgehensmodelle" gelegt, wobei insbesondere auf die Phasen der Softwareentwicklung, die historische Entwicklung der Vorgehensmodelle und die Unterschiede zwischen agiler und schwergewichtiger Vorgehensmodelle eingegangen wird.
 
-Kapitel \ref{Problemfeld Filmproduktion} öffnet das Problemfeld der Imagefilmproduktion: Die Begri
+Kapitel \ref{Problemfeld Filmproduktion} öffnet das Problemfeld der Imagefilmproduktion: Die Begriffe "Imagefilm" und "Imagefilmproduktion" werden definiert, analog zur Software Entwicklung werden die Phasen der Filmproduktion erläutert und es werden die verschiedenen Gewerke erklärt, die bei der Produktion eines Imagefilms beteiligt sind.
+
+Auf Grundlage des Wissens aus Kapitel \ref{Problemfeld Filmproduktion} wird in Kapitel \ref{Anforderungen an ein agiles Vorgehensmodell} eine Anforderungsanalyse für das zu entwickelnde Vorgehensmodell durchgeführt. Hier werden mithilfe einer Stakeholder Analyse die Beteiligten des Vorgehensmodells ermittelt und dessen grobe Anforderungen identifiziert. Anschließend werden Personae entwickelt, und deren Verhalten im Kontext der Imagefilmproduktion beschrieben, um noch detailliertere Anforderungen an das Vorgehensmodell zu finden. Schlussendlich werden alle ermittelten Anforderungen zusammengeführt, kategorisiert und gewichtet.
+
+Aus Basis der Erkenntnisse aus Kapitel \ref{Problemfeld Agile Vorgehensmodelle} wird in Kapitel \ref{Entwurf eines agilen Vorgehensmodells} ein agiles Vorgehensmodell für die Imagefilmproduktion entworfen. Es werden dabei sowohl Werte, als auch Rollen, Aktivitäten, Ablauf, Artefakte und Techniken definiert, dies das Vorgehensmodell charakterisieren.
+
+In Kapitel \ref{Auswertung} wird das entwickelte Vorgehensmodell anhand der aufgestellten Anforderungen untersucht und bewertet, inwiefern es diesen entspricht.
