@@ -2,7 +2,11 @@
 title: Entwurf eines agilen Vorgehensmodells
 ---
 
+# Einleitung
+
 In diesem Kapitel soll aus den in Kapitel \ref{Problemfeld Agile Vorgehensmodelle} vorgestellten Vorgehensmodellen ein neues, für die Filmproduktion sinnvolles Vorgehensmodell entwickelt werden.
+
+![Struktureller Aufbau von Kapitel 5](https://www.lucidchart.com/publicSegments/view/55c808a0-55f0-4192-9c76-22e80a005a36/image.png)
 
 # Werte
 
@@ -45,7 +49,7 @@ Es muss der Tatsache ins Auge gesehen werden, dass Anforderungen und Vorstellung
 
 ## Frühe Produktion {#entwurf-werte-fruehe-produktion}
 
-<!--TODO Klar machen, dass dieser Begriff von mir stammt. Definieren, was dieser Begriff meint-->
+Frühe Produktion ist ein Wert, der speziell für den Kontext von Imagefilmproduktion vom Autor entworfen wurde. Er beschreibt den Ansatz, dass in einem Imagefilmprojekt möglichst früh vom Team erstes Filmmaterial produziert wird.
 
 Für gutes Feedback ist es wesentlich, dem Kunden so früh wie möglich schon erste Ergebnisse zeigen zu können. Diese müssen nicht perfekt sein, sollen dem Kunden aber die wesentlichen Merkmale zeigen, um die es momentan geht. Je früher der Kunde einen ersten Eindruck in Form eines Films über die geplanten Inhalte bekommt, desto früher kann er auch Feedback geben und verstehen, worum es dem Team geht und wie geplante filmische Aspekte wirken. Außerdem hilft es dem Team, durch frühe beispielhafte Produktionen selbst ein Gefühl dafür zu bekommen, welcher Aufwand mit bestimmten Techniken verbunden ist, oder welche Herausforderungen eine gewisse filmische Methode beinhaltet. Gerade bei neuen Ideen und innovativen und kreativen Ansätzen ist dies eine hilfreiche Möglichkeit, den eigenen Aufwand einzuschätzen.
 
@@ -105,11 +109,11 @@ Scrum Teams der Softwareentwicklung agieren vollständig selbstständig und eige
 
 In der Produktion von Imagefilmen sieht dies anders aus: Hier steht die Ästhetik und die Komposition der Inhalte im Vordergrund, es gibt keinerlei messbare Funktion, die entwickelt werden muss. Daher ist es für die Entwicklung von innovativen Ideen notwendig, dass es jemanden gibt, der die künstlerische Verantwortung des Projekts übernehmen kann. Neben der Kreativität, sollte er auch die Fähigkeit haben, eine klare Entwicklungsrichtung anzugeben.^[Der Autor weiß aus eigener Erfahrung: Wenn es in der Entwicklung und Planung eines Films keine leitende Rolle in Form eines Regisseurs gibt, kann es zu nicht endenden Diskussionen über Ideen und Inhalte kommen.]
 
-Andererseits ist es trotzdem wichtig, die Kompetenzen der einzelnen Teammitglieder wertzuschätzen und effektiv zu nutzen: der Teamleiter bestimmt also nicht jedes Detail des Imagefilms, sondern gibt nur die grobe Richtung an. Er muss also die Balance finden zwischen . 
+Andererseits ist es trotzdem wichtig, die Kompetenzen der einzelnen Teammitglieder wertzuschätzen und effektiv zu nutzen: der Teamleiter bestimmt also nicht jedes Detail des Imagefilms, sondern gibt nur die grobe Richtung an. Er gibt nur so weit Vorgaben, dass das Team die Freiheit besitzt, ihr eigenes Können, Erfahrung und Wissen mit einzubringen.
 
-Zusätzlich zu der künstlerischen Leitung des Teams übernimmt der Teamleiter die Aufgaben des klassischen Scrum Masters: Er sorgt dafür, dass die Regeln und Abläufe des Vorgehens eingehalten werden, dass das Team lernt, mithilfe des Vorgehens effizient zu arbeiten, und das Hindernisse während des Sprints aus dem Weg geschafft werden. Hindernisse können auch unerlaubte Einflüsse des Prduct Owners oder des Kunden auf das Team sein.
+Zusätzlich zu der künstlerischen Leitung des Teams übernimmt der Teamleiter die Aufgaben des klassischen Scrum Masters: Er sorgt dafür, dass die Regeln und Abläufe des Vorgehens eingehalten werden, dass das Team lernt, mithilfe des Vorgehens effizient zu arbeiten, und das Hindernisse während des Sprints aus dem Weg geschafft werden. Hindernisse können auch unerlaubte Einflüsse des Product Owners oder des Kunden auf das Team sein.
 
-Der Teamleiter ist Teil des Teams. Wenn von dem Team die Rede ist, ist damit auch immer der Teamleiter gemeint.
+Der Teamleiter ist Teil des Teams. Wenn von dem Team die Rede ist, ist damit auch immer  der Teamleiter gemeint.
 
 Der Teamleiter ist also eine Mischung aus dem *Autor*, wie er in Abschnitt \ref{filmproduktion-gewerke-autor} beschrieben wird und dem *Scrum Master*, wie er in Abschnitt \ref{vorgehensmodelle-scrum-master} beschrieben wird.
 
@@ -224,7 +228,7 @@ Der Wachsende Film repräsentiert die momentane Version des Imagefilms. Er ist e
 
 ## Recherche {#entwurf-aktivitaten-recherche}
 
-Die Recherche ist die erste Aktivität des Prozesses. Hier informiert sich der Product Owner über die Rahmenbedingungen des Projekts. Er tut dies in Zusammenarbeit mit dem Kunden. Die Ergebnisse des Projekts werden in der Film Vision festgehalten. 
+Die Recherche ist die erste Aktivität des Prozesses. Hier informiert sich der Product Owner über die Rahmenbedingungen des Projekts. Er tut dies in Zusammenarbeit mit dem Kunden. Die Ergebnisse der Recherche werden in der Film Vision festgehalten. 
 
 Die Recherche stellt keine Anforderungsermittlung dar. Es geht nur grob darum, zu formulieren, was die Ziele des Projekts sind, wer der Kunde ist, wer das Zielpublikum ist und wie der geplante Rahmen ist, in dem der Film präsentiert wird. Empfehlenswert ist hier, die Vision kurz in einem Satz zusammen zu fassen, wie z. B.:
 
@@ -280,7 +284,7 @@ Ergebnis der Pioneer Phase ist ein Konzept, wie ein oder mehrere Sprint Backlog 
 
 In der Produktionsphase setzt das Team die Ideen aus der Pioneer Phase um. Mithilfe der Technik *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}) muss dies nicht immer eine veröffentlichungsreife Form annehmen. 
 
-Je nach Fortschritt des Projekts verändert sich die Form der Produktionsphase. In den ersten Sprints geht es dem Team vor allem darum, Wege zur praktischen Umsetzung der Ideen zu erkunden. Dabei kann es wertvolle Erfahrungen machen. Dies ist vor allem dann hilfreich, wenn es sich bei den umzusetzenden Ideen um innovative Ansätze handelt, oder um Methoden oder Techniken, die dem Team so noch nicht vertraut sind. Die Ergebnisse der Produktion der ersten Sprints sind noch nicht so ausgereift, dass sie der finalen Version entsprechen, aber es kann trotzdem schon wertvolles Feedback vom Kunden und vom Product Owner eingeholt werden.
+Je nach Fortschritt des Projekts verändert sich der Inhalt der Produktionsphase. In den ersten Sprints geht es dem Team vor allem darum, Wege zur praktischen Umsetzung der Ideen zu erkunden. Dabei kann es wertvolle Erfahrungen machen. Dies ist vor allem dann hilfreich, wenn es sich bei den umzusetzenden Ideen um innovative Ansätze handelt, oder um Methoden oder Techniken, die dem Team so noch nicht vertraut sind. Die Ergebnisse der Produktion der ersten Sprints sind noch nicht so ausgereift, dass sie der finalen Version entsprechen, aber es kann trotzdem schon wertvolles Feedback vom Kunden und vom Product Owner eingeholt werden.
 
 In den späteren Iterationen bekommt die Produktionsphase eine andere Gewichtung. Es gibt keine neuen Ideen, dessen Umsetzung unbekannt sind. Während die Pioneer Phase nur kurz in dem Sprint angegangen wird, oder sogar übersprungen wird, spielt die Produktions Phase eine größere Rolle. Nun wird auf den Erfahrungen und dem Feedback der vorherigen Sprints aufgebaut und eine Version produziert, die veröffentlichungsreifes Material enthält.
 
@@ -343,7 +347,7 @@ Film Statements nutzen die gleiche Technik. In einem Imagefilm geht es aber nich
 
 Wie genau verfährt nun das Team, wenn es Film Statements benutzen möchte? 
 
-Während der Aktivität *Projekt Initialisierung* erarbeitet der Product Owner zusammen mit dem Kunden und dem Team alle Zielgruppen, die der Imagefilm ansprechen soll. Dies können Gruppen wie "langjähriger Geschäftspartner", "potenzieller Mitarbeiter", "Presse" oder auch "Interessierter Endverbraucher" sein. Bereits hier gibt es genügend Möglichkeit, mit dem Kunden ins Gespräch zu kommen, und die eine oder andere Zielgruppe zu hinterfragen. Generell ist es sinnvoll, eine stark heterogene Zielgruppe zu vermeiden.
+Während der Aktivität *Projekt Initialisierung* erarbeitet der Product Owner zusammen mit dem Kunden und dem Team alle Zielgruppen, die der Imagefilm ansprechen soll. Dies können Gruppen wie "langjähriger Geschäftspartner", "potenzieller Mitarbeiter", "Presse" oder auch "Interessierter Endverbraucher" sein. Bereits hier gibt es genügend Möglichkeit, mit dem Kunden ins Gespräch zu kommen, und die eine oder andere Zielgruppe zu hinterfragen. Generell ist es sinnvoll, eine stark heterogene Zielgruppe zu vermeiden, da sonst nicht mehr gezielt auf diese eingegangen werden kann.
 
 Nachdem sich alle Beteiligten auf die Zielgruppen geeinigt haben, können die ersten Film Statement Karten erstellt werden. Analog zu den User Stories bestehen Film Statements aus Karten, auf denen ein Satz steht. Dieser Satz ist wie folgt aufgebaut:
 
@@ -375,7 +379,7 @@ Das Board besteht aus insgesamt 5 Spalten: dem Sprint Backlog als die Ansammlung
 
 Das Kanban Board gibt dem Team die Möglichkeit, auf einem Blick zu sehen, wie der momentane Stand des Sprints ist. Es bildet eine gute Grundlage für das *Daily-Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}), um über anstehende Aufgaben für den Tag zu reden und aufmerksam auf momentane Probleme zu machen. Außerdem kann mithilfe der Position der Karten der Sprintfortschritt gemessen werden. *Burndown Charts* (siehe Abschnitt \ref{entwurf-techniken-burndown-chart}) bieten eine gute Möglichkeit, diesen zu visualisieren.
 
-Für das Messen des Sprintfortschritt ist es nötig, dass die einzelnen Karten des Kanban Boards gewichtet werden. Hier kann auf die Ergebnisse des *Planning Pokers* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}) aufgebaut werden. Zusätzlich zu der Gewichtung der Karten muss noch eine Gewichtung der Phasen, also der Spalten des Kanban Boards vorgenommen werden. Die Gewichtung der Spalten kann je nach Status des Projektes unterschiedlich sein: Befindet sich das Projekt in einem frühen Status, wird in den Sprints die Pioneer Phase eine größere Rolle spielen als in den letzten Sprints vor dem Abschluss des Projekts. Ein Beispiel für eine solche Gewichtung ist in Abbildung \ref{Kanban Board mit Spalten Gewichtung} dargestellt.
+Für das Messen des Sprintfortschritt ist es nötig, dass die einzelnen Karten des Kanban Boards gewichtet werden. Hier kann auf die Erkenntnisse des *Planning Pokers* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}) aufgebaut werden. Zusätzlich zu der Gewichtung der Karten muss noch eine Gewichtung der Phasen, also der Spalten des Kanban Boards vorgenommen werden. Die Gewichtung der Spalten kann je nach Status des Projektes unterschiedlich sein: Befindet sich das Projekt in einem frühen Status, wird in den Sprints die Pioneer Phase eine größere Rolle spielen als in den letzten Sprints vor dem Abschluss des Projekts. Ein Beispiel für eine solche Gewichtung ist in Abbildung \ref{Kanban Board mit Spalten Gewichtung} dargestellt.
 
 ![Kanban Board mit Spalten Gewichtung](http://download.heart-co.de/film-kanban-spaltengewichtung.png)
 
@@ -487,3 +491,5 @@ Das Beispiel lässt sich nun beliebig fortsetzen. Die Kernaspekte der Technik so
 - **Visualisierung des Entwurfs**: Durch die schnelle und einfache Visualisierung des Gesagten ist es jedem Teammitglied möglich, dem Gesprächsverlauf zu folgen und sicher zu sein, dass alle Teammitglieder über das Gleiche reden.
 - **Schnelle Veränderung und Neugestaltung**: Der Aufwand, einen Satz auf eine Karte zu schreiben, und diese an eine Position zu legen ist sehr gering. Dadurch ist es dem Team möglich, schnell und einfach neue Ideen auszuprobieren, oder diese zu verwerfen, ohne Angst haben zu müssen, bereits zu viel Arbeit in eine Idee investiert zu haben.
 - **Mögliche Anpassung der Technik an die jeweilige Situation**: Je nachdem, was das Team gerade benötigt, kann es neue Elemente für die Visualisierung erfinden (Beispiel STIL Sektion). Es ist auch denkbar, Karten zusammenzulegen, oder zu stapeln, um visualisieren, dass mehrere Alternativen für eine gewisse Idee vorhanden ist. Durch den bewussten Verzicht auf elektronische Mittel kann das Team kreativ mit den vorhandenen Mitteln agieren und auch neue Element der Visualisierung (z. B. verschiedene Farben, Symbole, etc.) einbringen.
+
+# Zusammenfassung
