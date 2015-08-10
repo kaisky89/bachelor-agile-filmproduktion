@@ -14,16 +14,15 @@ In den Abschnitten \ref{phasen-in-der-software-entwicklung} - \ref{grundlagen-ag
 
 - Abschnitt \ref{phasen-in-der-software-entwicklung} stellt die typischen Aktivitäten in der Softwareentwicklung vor und beschreibt die Phasen, die ein Softwareentwicklungsprojekt durchläuft.
 - Abschnitt \ref{vorgehensmodelle-historie} behandelt die historische Entwicklung, wie aus dem klassischen Wasserfallmodell die ersten iterativen Ansätze entstanden.
-- In den Abschnitten \ref{} und \ref{} werden dann die beiden Ansätze von modernen Vorgehensmodellen 
+- In den Abschnitten \ref{schwergewichtige-vorgehensmodelle} und \ref{grundlagen-agile-vorgehensmodelle} werden dann die beiden Ansätze von modernen Vorgehensmodellen vorgestellt, die "schwergewichtigen" und die "agilen" Vorgehensmodelle.
 
-Auf dieser Grundlage werden in den folgenden Abschnitten die drei bekanntesten agilen Vorgehensmodelle vorgestellt:
+Auf dieser Grundlage werden in den folgenden Abschnitten auf die drei bekanntesten agilen Vorgehensmodelle detailliert eingegangen:
 
-- In Abschnitt \ref{vorgehensmodelle-xp} wird das Vorgehensmodell "eXtreme Programming" - oder kurz XP - vorgestellt
-- In Abschnitt \ref{vorgehensmodelle-kanban} wird das Vorgehensmodell Kanban vorgestellt
-- In Abschnitt \ref{problemfeld-scrum} wird das Vorgehensmodell Scrum vorgestellt
+- In Abschnitt \ref{vorgehensmodelle-xp} wird das Vorgehensmodell "eXtreme Programming" - oder kurz XP - und vor allem seine Praktiken vorgestellt. Viele dieser Praktiken bieten eine Grundlage für die in Kapitel \ref{Entwurf eines agilen Vorgehensmodells} entwickelten Techniken.
+- In Abschnitt \ref{vorgehensmodelle-kanban} wird das Vorgehensmodell Kanban mit den Prinzipien der schlanken Softwareentwicklung aber auch der Technik des Kanban Boards vorgestellt.
+- In Abschnitt \ref{problemfeld-scrum} wird das Vorgehensmodell Scrum vorgestellt.
 
-Die Ergebnisse aus diesem Kapitel sollen hauptsächlich Grundlage für Kapitel \ref{Entwurf eines agilen Vorgehensmodells} sein.
-
+Die Ergebnisse aus diesem Kapitel sollen hauptsächlich Grundlage für Kapitel \ref{Entwurf eines agilen Vorgehensmodells} sein. Ziel dieses Kapitels ist es also, sowohl die allgemeinen Grundlagen zum Thema "Agile Vorgehensmodelle" zu legen, als auch mehrere agile Vorgehensmodelle zu betrachten. Dies soll dazu dienen, um ein agiles Vorgehensmodell entwickeln zu können.
 
 
 ## Definition Vorgehensmodell
