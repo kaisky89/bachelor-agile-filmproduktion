@@ -14,7 +14,7 @@ Die Ergebnisse der beiden Analysen werden in Abschnitt \ref{anforderungen-anford
 
 Abbildung \ref{Struktureller Aufbau von Kapitel 4} zeigt den strukturellen Aufbau dieses Kapitels.
 
-![Struktureller Aufbau von Kapitel 4](https://www.lucidchart.com/publicSegments/view/55c804f6-e1c0-4cf1-aa6f-7aaa0a009f25/image.png)
+![Struktureller Aufbau von Kapitel 4](http://download.heart-co.de/image-6.png)
 
 Die Ergebnisse dieses Kapitels werden in Kapitel \ref{Auswertung} benutzt, um das entwickelte Vorgehensmodell dieser Arbeit zu bewerten.
 
@@ -59,7 +59,7 @@ In **Größe** ist die Rede von *Projekterfolg*. Dieser Begriff sei in dem Konte
 
 Aus der Definition des Projekterfolgs ergeben sich die wesentlichen Stakeholder, die ein Imagefilm Projekt ausmachen und somit relevant für das Vorgehensmodell sind. Abbildung \ref{Identifizierung der Stakeholder Teil 1} zeigt diese Stakeholder in der vorher beschriebenen Darstellungsform.
 
-![Identifizierung der Stakeholder Teil 1](https://www.lucidchart.com/publicSegments/view/559d02ad-b1a4-4316-8dc0-2a7c0a00cdd1/image.png)
+![Identifizierung der Stakeholder Teil 1](http://download.heart-co.de/image-5.png)
 
 <!-- Lucid Chart Link https://www.lucidchart.com/documents/edit/504b7c7a-6b4e-4eb0-9563-f6e2c8d86335? -->
 
@@ -78,7 +78,7 @@ Der Betrachter ist das intendierte Zielpublikum des Imagefilms. Er ist für den 
 
 Die Parteien *Filmproduktionsunternehmen* und *Kunde* können noch genauer untergliedert werden. Dies wird in Abbildung \ref{Identifizierung der Stakeholder Teil 2} dargestellt.
 
-![Identifizierung der Stakeholder Teil 2](https://www.lucidchart.com/publicSegments/view/559fe2b9-e6c0-4fa0-9940-1bc40a0098d2/image.png)
+![Identifizierung der Stakeholder Teil 2](http://download.heart-co.de/image-4.png)
 
 <!-- Lucid Chart Link https://www.lucidchart.com/documents/edit/825981a5-8360-4f46-bfec-7e1b53c4a9d5 -->
 
