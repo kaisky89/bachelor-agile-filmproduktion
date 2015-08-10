@@ -281,27 +281,21 @@ Pair Programming ist die Praxis, dass sich zwei Entwickler zusammen mit einer Au
 
 Die Idee des Pair Programmings ist auf der Idee der gedanklichen Arbeitsteilung begründet: Während der Entwickler an der Tastatur das Problem auf taktischer Ebene angeht, macht sich sein beobachtender Kollege über die strategischen Dimensionen des Problems Gedanken.
 
-Pair Programming hat verschiedene Vorteile. Es bietet die Möglichkeit, Wissensinseln zu vermeiden, indem mindestens zwei Entwickler über das Wissen der Codebasis für die zu entwickelnde Funktionalität verfügen \cite{wolf}. Somit können die Gefahren des *Truck Faktors* (siehe auch Abschnitt \ref{move-people-around}) reduziert werden. Wenn beide Entwickler ungefähr gleich viel Erfahrung haben, können sie sich gegenseitig gut unterstützen. Wenn ein Entwickler des Paars deutlich erfahrener als der andere ist, kann der Unerfahrene durch die Zusammenarbeit viel von dem Erfahrenen lernen. Hier gilt wieder der Wert der Kommunikation (siehe Abschnitt \ref{werte-kommunikation}), ein Reden über den Code von Angesicht zu Angesicht - während man am Code Änderungen vornimmt - erweist sich als gute Grundlage, Wissenslücken zu füllen \cite{agilespmkanban}.
+Pair Programming hat verschiedene Vorteile. Es bietet die Möglichkeit, Wissensinseln zu vermeiden, indem mindestens zwei Entwickler über das Wissen der Codebasis für die zu entwickelnde Funktionalität verfügen \cite{wolf}. Wenn beide Entwickler ungefähr gleich viel Erfahrung haben, können sie sich gegenseitig gut unterstützen. Wenn ein Entwickler des Paars deutlich erfahrener als der andere ist, kann der Unerfahrene durch die Zusammenarbeit viel von dem Erfahrenen lernen. Hier gilt wieder der Wert der Kommunikation (siehe Abschnitt \ref{werte-kommunikation}), ein Reden über den Code von Angesicht zu Angesicht - während man am Code Änderungen vornimmt - erweist sich als gute Grundlage, Wissenslücken zu füllen \cite{agilespmkanban}.
 
 
 ## Praktiken des Testens {#Testing}
 
-Die Phase des Testens - die im Wasserfallmodell (siehe Abschnitt \ref{wasserfallmodell}) eine explizite Phase war - ist in XP - wie schon in Abschnitt \ref{tests-zuerst-programmieren} erwähnt - in der Entwicklung der Software integriert. Die folgenden Praktiken und Regeln sieht XP für das Testen vor.
+Die Phase des Testens - die im Wasserfallmodell (siehe Abschnitt \ref{wasserfallmodell}) eine explizite Phase war - ist in XP in der Entwicklung der Software integriert. Die folgenden Praktiken und Regeln sieht XP für das Testen vor.
 
 ### Unit Tests für den gesamten Code
 
-Unit Tests, also Tests, die nah an der Funktionalität einzelner Codeabschnitte liegen, bilden in XP die Grundlage für ein zeiteffizientes Entwickeln. Wells \cite{extremeprogramming} widerspricht der Annahme, dass das Entwickeln von Tests zu viel Zeit in Anspruch nehmen würde. Wie auch schon in Abschnitt \ref{tests-zuerst-programmieren} aufgeführt, nimmt das Entwickeln des Tests als solches kaum Zeit in Anspruch, wenn man es in der Kombination mit der Entwicklung der gewünschten Funktionalität sieht. 
-
-Allerdings bringen Tests dem Team im weiteren Vorgehen laut Wells \cite{extremeprogramming} einen immensen Nutzen:
-
-- Tests ermöglichen die Praktik des collective code ownership (siehe Abschnitt \ref{collective-code-ownership}), indem sie den Entwicklern die Angst nehmen, fremden Code zu ändern und dabei unwissend die Funktionalität zu beeinträchtigen
-- Tests helfen beim Refactoring (siehe Abschnitt \ref{refactoring}), indem sie überprüfbar machen, ob die gewünschte Funktionalität des geänderten Codes immer noch gegeben ist.
-- Tests fördern die Praxis der häufigen Integration (siehe Abschnitt \ref{haeufige-sequenzielle-integration}), indem sie schnell ersichtlich machen, wo bei der Integration Fehler aufgetreten sind und somit dem Entwicklerteam schnell Hinweise darauf geben, an welcher Stelle im Code etwas geändert werden muss.
+Unit Tests, also Tests, die nah an der Funktionalität einzelner Codeabschnitte liegen, bilden in XP die Grundlage für ein zeiteffizientes Entwickeln. Wells \cite{extremeprogramming} widerspricht der Annahme, dass das Entwickeln von Tests zu viel Zeit in Anspruch nehmen würde. Das Entwickeln des Tests nimmt als solches kaum Zeit in Anspruch, wenn man es in der Kombination mit der Entwicklung der gewünschten Funktionalität sieht. 
 
 
 # Kanban {#vorgehensmodelle-kanban}
 
-Das nächste zu betrachtende Vorgehensmodell ist Kanban. Kanban hat im Vergleich zu den beiden anderen in dieser Arbeit vorgestellten Vorgehensmodelle XP und Scrum die Besonderheit, dass es nicht für die Softwareentwicklung entworfen wurde. Ursprünglich wurde Kanban von Toyota entwickelt und diente zum Managen und Optimieren Prozessen in der Automobilherstellung. Die Tatsache, dass das Vorgehensmodell - wenn auch mit Änderungen - aus der Domäne *Automobilindustrie* in die Domäne *Softwareentwicklung* übertragen werden konnte, diente auch zum Teil als Motivation für diese Arbeit. Da Kanban nun bereits schon einmal erfolgreich in eine andere Domäne "übersetzt" <!--TODO besseres Wort--> werden konnte, gibt es also Grund genug, es als Vorgehensmodell hier genauer zu betrachten.
+Das nächste zu betrachtende Vorgehensmodell ist Kanban. Kanban hat im Vergleich zu den beiden anderen in dieser Arbeit vorgestellten Vorgehensmodelle XP und Scrum die Besonderheit, dass es nicht für die Softwareentwicklung entworfen wurde. Ursprünglich wurde Kanban von Toyota entwickelt und diente zum Managen und Optimieren Prozessen in der Automobilherstellung. Die Tatsache, dass das Vorgehensmodell - wenn auch mit Änderungen - aus der Domäne *Automobilindustrie* in die Domäne *Softwareentwicklung* übertragen werden konnte, diente auch zum Teil als Motivation für diese Arbeit. Da Kanban nun bereits schon einmal erfolgreich in eine andere Domäne adaptiert werden konnte, gibt es also Grund genug, es als Vorgehensmodell hier genauer zu betrachten.
 
 ## Was ist Kanban?
 
