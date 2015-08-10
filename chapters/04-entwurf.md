@@ -4,11 +4,19 @@ title: Entwurf eines agilen Vorgehensmodells
 
 # Einleitung
 
-In diesem Kapitel soll aus den in Kapitel \ref{Problemfeld Agile Vorgehensmodelle} vorgestellten Vorgehensmodellen ein neues, für die Filmproduktion sinnvolles Vorgehensmodell entwickelt werden.
+In diesem Kapitel soll aus den in Kapitel \ref{Problemfeld Agile Vorgehensmodelle} vorgestellten Vorgehensmodellen ein neues, für die Filmproduktion sinnvolles Vorgehensmodell entwickelt werden. Weitere Grundlage sind die Erkenntnisse über die Imagefilmproduktion aus Kapitel \ref{Problemfeld Filmproduktion}.
+
+Zuerst werden die Werte des neuen Vorgehensmodells in Abschnitt \ref{entwurf-werte} definiert. Diese Werte bilden die Grundlage für alle weiteren Elemente des Vorgehensmodells. Insgesamt orientiert sich das Vorgehensmodell stark an Scrum, aus diesem Grund sind auch die einzelnen Kategorien der Beschreibungen ähnlich aufgebaut wie in Scrum (Abschnitte \ref{entwurf-rollen} bis \ref{entwurf-aktivitaten}).
+
+Abschnitt \ref{entwurf-techniken} bildet dabei eine Ausnahme: Hier werden Techniken beschrieben, die vorwiegend aus XP aber auch aus Kanban adaptiert wurden.
+
+Den strukturellen Aufbau in diesem Kapitel stellt die Abbildung \ref{Struktureller Aufbau von Kapitel 5} dar.
 
 ![Struktureller Aufbau von Kapitel 5](https://www.lucidchart.com/publicSegments/view/55c808a0-55f0-4192-9c76-22e80a005a36/image.png)
 
-# Werte
+Die Ergebnisse dieses Kapitels werden in Kapitel \ref{Auswertung} ausgewertet: Das entwickelte Vorgehensmodell wird anhand der definierten Anforderungen bewertet.
+
+# Werte {#entwurf-werte}
 
 Das Vorgehensmodell bezieht sich auf die Werte von der *agilen Softwareentwicklung* und die der *schlanken Softwareentwicklung*. Viele dieser Werte lassen sich auch für die Produktion von Imagefilmen übernehmen.
 
@@ -63,7 +71,7 @@ Die agile Software Entwicklung stellt *die Funktionalität für den Kunden* ins 
 In dem Kontext von Imagefilm Produktion ist die Funktionalität mit der zentralen Botschaft zu ersetzen, die der Kunde mit dem Imagefilm darstellen will. Entscheidungen und Handlungen in der Entwicklung und Produktion müssen also diesem Ziel dienen: die intendierte Botschaft des Kundens zu vermitteln.
 Das Vorgehensmodell soll dabei unterstützen, die vom Kunden intendierte Botschaft des Films im Fokus zu behalten und sich daran zu orientieren.
 
-# Rollen
+# Rollen {#entwurf-rollen}
 
 Das Vorgehensmodell definiert verschiedene Rollen, die in einem Projekt gewisse Rechten und Pflichten haben und denen bestimmte Aktivitäten zugeordnet sind. Die Rollendefinitionen lehnen sich stark an die Rollen von Scrum an (siehe Abschnitt \ref{scrum-projektrollen}).
 
@@ -224,7 +232,7 @@ Die Sprintergebnisse werden vom Team erstellt und von diesem auch während des S
 
 Der Wachsende Film repräsentiert die momentane Version des Imagefilms. Er ist ein in sich schlüssiger Film, der alle Arbeiten des Teams bis zum letzten Sprint Review zeigt. Er wird vom Team nach dem Sprint Review erstellt^["erstellt" bedeutet in diesem Kontext, dass aus den Sprintergebnissen und der vorherigen Version des Wachsenden Films eine neue Sequenz zusammengestellt wird.]. Der wachsende Film muss nicht veröffentlicht werden, kann es aber. Im Sinne der Transparenz gegenüber allen Stakeholdern ist er aber ein obligatorisches Artefakt. Alle Stakeholder müssen Zugriff auf dieses Artefakt haben. 
 
-# Aktivitäten
+# Aktivitäten {#entwurf-aktivitaten}
 
 ## Recherche {#entwurf-aktivitaten-recherche}
 
@@ -335,7 +343,7 @@ Schlussendlich werden noch die Techniken des letzten Sprints hinterfragt. Welche
 Ziel der Retrospektive ist, dass Probleme und potenzielle Risiken in der Arbeitsweise des Teams erkannt werden und mit konkreten Entscheidungen dagegen gesteuert werden kann. Da ein Team niemals perfekt sein wird, ist die Retrospektive Teil eines jeden Sprints und ihre Notwendigkeit hört erst mit dem Ende des Projekts auf.
 
 
-# Techniken
+# Techniken {#entwurf-techniken}
 
 ## Film Statements {#techniken-film-statements}
 
@@ -491,5 +499,3 @@ Das Beispiel lässt sich nun beliebig fortsetzen. Die Kernaspekte der Technik so
 - **Visualisierung des Entwurfs**: Durch die schnelle und einfache Visualisierung des Gesagten ist es jedem Teammitglied möglich, dem Gesprächsverlauf zu folgen und sicher zu sein, dass alle Teammitglieder über das Gleiche reden.
 - **Schnelle Veränderung und Neugestaltung**: Der Aufwand, einen Satz auf eine Karte zu schreiben, und diese an eine Position zu legen ist sehr gering. Dadurch ist es dem Team möglich, schnell und einfach neue Ideen auszuprobieren, oder diese zu verwerfen, ohne Angst haben zu müssen, bereits zu viel Arbeit in eine Idee investiert zu haben.
 - **Mögliche Anpassung der Technik an die jeweilige Situation**: Je nachdem, was das Team gerade benötigt, kann es neue Elemente für die Visualisierung erfinden (Beispiel STIL Sektion). Es ist auch denkbar, Karten zusammenzulegen, oder zu stapeln, um visualisieren, dass mehrere Alternativen für eine gewisse Idee vorhanden ist. Durch den bewussten Verzicht auf elektronische Mittel kann das Team kreativ mit den vorhandenen Mitteln agieren und auch neue Element der Visualisierung (z. B. verschiedene Farben, Symbole, etc.) einbringen.
-
-# Zusammenfassung
