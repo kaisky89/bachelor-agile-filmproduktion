@@ -2,6 +2,8 @@
 title: Auswertung
 ---
 
+# Einleitung
+
 # Auswertung der Anforderungen
 
 Der Entwurf des Vorgehensmodells kann nun anhand der in Kapitel \ref{Entwurf eines agilen Vorgehensmodells} entwickelten Anforderungen ausgewertet werden. Hierfür sollen die wichtigsten Anforderungen zuerst einzeln betrachtet werden, um zu diskutieren, inwiefern diese erfüllt worden sind. Danach werden die Ergebnisse dieser Diskussion in einer Tabelle zur Übersicht dargestellt.
@@ -153,4 +155,6 @@ Table: Alle Anforderungen und deren Erfüllung
 Dies ergibt insgesamt eine Erfüllung der Anforderung von  $286 / 408 \approx 3 / 4$.
 
 <!--# Auswertung aus Sicht der Personae-->
+
+# Zusammenfassung
 
