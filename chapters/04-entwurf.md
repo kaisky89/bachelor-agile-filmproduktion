@@ -12,7 +12,7 @@ Abschnitt \ref{entwurf-techniken} bildet dabei eine Ausnahme: Hier werden Techni
 
 Den strukturellen Aufbau in diesem Kapitel stellt die Abbildung \ref{Struktureller Aufbau von Kapitel 5} dar.
 
-![Struktureller Aufbau von Kapitel 5](https://www.lucidchart.com/publicSegments/view/55c808a0-55f0-4192-9c76-22e80a005a36/image.png)
+![Struktureller Aufbau von Kapitel 5](http://download.heart-co.de/image-8.png)
 
 Die Ergebnisse dieses Kapitels werden in Kapitel \ref{Auswertung} ausgewertet: Das entwickelte Vorgehensmodell wird anhand der definierten Anforderungen bewertet.
 
@@ -145,7 +145,7 @@ Das Team bespricht mit dem Product Owner in dem Sprint Planning die Anforderunge
 
 Der Ablauf des Vorgehensmodells richtet sich stark nach dem von Scrum (siehe Kapitel \ref{problemfeld-scrum}). Da Scrum sich weniger um die konkreten Techniken der Software Entwicklung dreht, sondern eher ein Meta Modell ist, lässt sich das Modell leicht für andere Domänen übernehmen. 
 
-![Grober Überblick des Ablaufs](https://www.lucidchart.com/publicSegments/view/55ad0773-1da0-4c48-b1d2-35f10a00800d/image.png)
+![Grober Überblick des Ablaufs](http://download.heart-co.de/image-7.png)
 
 <!-- Link zu Lucidchart: https://www.lucidchart.com/documents/edit/fe537f40-1088-45c7-8ca6-96fd911bac46 -->
 
