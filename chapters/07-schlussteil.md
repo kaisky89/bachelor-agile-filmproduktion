@@ -1,8 +1,6 @@
 ---
-title: Schlussteil
+title: Fazit
 ---
-
-# Fazit
 
 Die Auswertung in Kapitel \ref{Auswertung} hat eine Umsetzung von ca. $3 /4$ der Anforderungen ergeben. Das zeigt, dass viele Anforderungen, wie sie in Kapitel \ref{Anforderungen an ein agiles Vorgehensmodell} formuliert wurden, erfüllt worden sind und es sich hier um ein Vorgehensmodell handelt, dass viele der Probleme, die im Verlauf der Arbeit aufgezeigt wurden, zu lösen vermag.
 
@@ -20,8 +18,6 @@ Das Thema der Arbeit war die Entwicklung eines Vorgehensmodells für die Produkt
 
 Eine Imagefilmproduktion, die nun nicht mit den in dieser Arbeit geschilderten Probleme zu tun hat, wird auch keinen großen Nutzen aus dem Vorgehensmodell ziehen können. 
 
+Viele Aspekte in dieser Arbeit konnten leider nicht in ihrer ganzen Tiefe erkundet und ergründet werden, da der Rahmen dieser Arbeit begrenzt war. So war es dem Autor z. B. nicht möglich, die Prinzipien des Software Kanban auf das Vorgehensmodell anzuwenden. Dies könnte durchaus Thema einer weiteren Arbeit sein.
 
-
-# Ausblick
-
-Viele Aspekte in dieser Arbeit konnten leider nicht in ihrer ganzen Tiefe erkundet und ergründet werden, da der Rahmen dieser Arbeit begrenzt war. So war es dem Autor z. B. nicht möglich, die Prinzipien des Software Kanban auf das Vorgehensmodell anzuwenden. Eine Betrachtung der Prinzipien in diesem Kontext ist aber in jedem Fall 
+Das entwickelte Vorgehensmodell ist - wie schon weiter oben ewähnt - sicher noch nicht in allen Aspekten praxisreif. Ein Testen des Vorgehensmodells anhand von realen Filmproduktionen ist sicherlich ein weiteres Thema für eine Arbeit.
