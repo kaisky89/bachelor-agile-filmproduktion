@@ -4,15 +4,17 @@ title: Auswertung
 
 # Einleitung
 
-# Auswertung der Anforderungen
+![Struktureller Aufbau von Kapitel 6](https://www.lucidchart.com/publicSegments/view/55c80d30-910c-489d-b387-40000a005a36/image.png)
+
+<!-- # Auswertung der Anforderungen -->
 
 Der Entwurf des Vorgehensmodells kann nun anhand der in Kapitel \ref{Entwurf eines agilen Vorgehensmodells} entwickelten Anforderungen ausgewertet werden. Hierfür sollen die wichtigsten Anforderungen zuerst einzeln betrachtet werden, um zu diskutieren, inwiefern diese erfüllt worden sind. Danach werden die Ergebnisse dieser Diskussion in einer Tabelle zur Übersicht dargestellt.
 
 Für die eine detaillierte Betrachtung werden im Folgenden nur Anforderungen benutzt, die eine Gewichtung $\ge6$ haben.
 
-## Anforderungen der Kategorie Kunde
+# Anforderungen der Kategorie Kunde
 
-### K01: Laienkonforme Präsentation der Zwischenergebnisse
+## K01: Laienkonforme Präsentation der Zwischenergebnisse
 
 Die größte Anforderung von Seiten des Kunden ist eine Präsentation der Zwischenergebnisse, die der Kunde versteht. Folgende Elemente des Vorgehensmodells sorgen für eine Umsetzung dieser Anforderung:
 
@@ -21,7 +23,7 @@ Die größte Anforderung von Seiten des Kunden ist eine Präsentation der Zwisch
 - Die Aktivität *Sprintreview* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}): Durch die explizit geforderte Präsentation der *Sprintergebnisse* (siehe Abschnitt \ref{entwurf-artefakte-sprintergebnisse}) und des *wachsenden Films* (siehe Abschnitt \ref{entwurf-artefakte-wachsender-film}) wird der Kunde regelmäßig über den aktuellen Stand informiert.
 - Die Technik der *Cheap Production* (siehe Abschnitt \ref{entwurf-techniken-cheap-production}): Die schnelle Produktion und Präsentation von Beispielfilmen, die zwar noch nicht publikationsreif sind, aber den Kern der Idee des Teams zeigen, hilft dem Kunden, zu verstehen, was das Team geleistet hat. Der Kunde muss sich nicht mit schwer zu verstehenden Dokumenten auseinandersetzen.
 
-### K02: Kommunikation des Projektstatus an Außenstehende
+## K02: Kommunikation des Projektstatus an Außenstehende
 
 Mehrere Stakeholder haben ein Interesse daran, den aktuellen Status des Projekts zu kennen. Dies ist für die Geschäftsführung auf Seiten des Kunden wie auch auf Seiten des Unternehmens wichtig, um Kostentransparenz zu schaffen. Aber auch der Ansprechpartner auf Seiten des Kunden möchte wissen, wie weit das Projekt ist und was die nächsten Schritte sind.
 
@@ -31,7 +33,7 @@ Die Elemente, die für die Anforderung **K01** vorgestellt wurden, setzen auch d
 - Die Technik des *Kanban Boards* (siehe Abschnitt \ref{techniken-kanban-board}): Das Kanban Board zeigt an, welche Film Statements sich in welcher Phase befinden. So kann mithilfe eines kurzen Blick auf das Kanban Board der aktuelle Fortschritt des Projekts abgeschätzt werden. Es ist denkbar, interessierten und berechtigten, außenstehenden Personen regelmäßig Fotos vom Kanban Board zu schicken.
 - Die Technik des *Burndown Charts* (siehe Abschnitt \ref{entwurf-techniken-burndown-chart}): Das Burndown Chart visualisiert den Fortschritt der Arbeit und das Arbeitstempo. Es lässt Schlüsse auf das zukünftige Arbeitstempo ziehen und dient aus diesem Grund sehr gut zur groben Einschätzung von noch benötigter Dauer des Projekts.
 
-### K03: Mitgestalten des Kunden
+## K03: Mitgestalten des Kunden
 
 Die Anforderung, dass der Kunde an der Entwicklung mitgestalten kann, wird mit den folgenden Elementen des Vorgehensmodells erfüllt:
 
@@ -40,9 +42,9 @@ Die Anforderung, dass der Kunde an der Entwicklung mitgestalten kann, wird mit d
 - Aktivität *Sprint Review* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}): Das Sprint Review bietet dem Kunden die ideale Plattform, um über den aktuellen Stand informiert zu werden und aktiv in die Gestaltung mit einzugreifen, indem er mit dem Team direkt reden kann. So können Ergebnisse diskutiert, und nötige Veränderungen auf einfache Art und Weise besprochen werden.
 - Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}): Die Technik der Film Statements bietet dem Kunden die Möglichkeit, auf eine einfache und leicht zugängliche Art und Weise Anforderungen zu formulieren.
 
-## Anforderungen der Kategorie Team
+# Anforderungen der Kategorie Team
 
-### T01: Zielgerichtetes Planen und Handeln
+## T01: Zielgerichtetes Planen und Handeln
 
 Selbstverständlich soll das gesamte Vorgehensmodell mit all seinen Elemtenten genau das schaffen: Das Team zu ermächtigen, effektiv zu planen und zielgerichtet zu handeln. Allerdings gibt es einige Elemente, die sehr deutlich zeigen, wie dies in diesem Vorgehensmodell umgesetzt wird.
 
@@ -50,7 +52,7 @@ Selbstverständlich soll das gesamte Vorgehensmodell mit all seinen Elemtenten g
 - Aktivität *Pioneer Phase* (siehe Abschnitt \ref{entwurf-aktivitat-pioneer-phase}): Es gibt im Modell eine explizite Planungs- und Konzeptionsphase. Dies bewahrt das Team davor, Filmdrehs unvorbereitet und ungezielt zu unternehmen. Solche halb improvisierten und kaum geplanten Drehtermine würden dem Team nicht helfen, gezielt für eine Botschaft zu entwickeln und zu produzieren. Stattdessen gibt es explizite Zeiten, wo das Team konzipieren, planen aber auch neue Techniken ausprobieren kann, um für die Produktion gut vorbereitet zu sein.
 - Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}): Die Technik der Film Statements setzt den Wert *Botschaft als zentrales Ziel* um. Damit unterstützt sie das Team, zielgerichtet zu agieren und die wichtigen Dinge im Fokus zu behalten.
 
-### T02: Kommunikation im Team
+## T02: Kommunikation im Team
 
 In der Domäne der Filmproduktion treffen - wie schon öfter in dieser Arbeit erwähnt - viele Spezialisten aufeinander. Obwohl jeder seine eigenes Fachwissen und seine eigenen Aufgaben hat, ist es doch notwendig, dass alle Teammitglieder zusammen arbeiten. Für eine erfolgreiche Zusammenarbeit ist Kommunikation ein - wenn nicht sogar *der* - wesentlicher Faktor. Folgende Elemente sorgen im Vorgehensmodell dafür, dass dieser Anforderung entsprochen wird:
 
@@ -62,14 +64,14 @@ In der Domäne der Filmproduktion treffen - wie schon öfter in dieser Arbeit er
 - Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}): Planning Poker unterstützt das Team, gemeinsam eine Aufwandsabschätzung zu machen. Dabei werden auch die ruhigeren Teammitglieder integriert. Es macht, wenn das Team sich selbst nicht einig ist, deutlich wieviel Aufwand hinter einer Aufgabe steckt, und regt zur nötigen Diskussion innerhalb des Teams an.
 - Technik *Timeline Karten* (siehe Abschnitt \ref{entwurf-techniken-timeline-karten}): Timeline Karten sind ein nützliches Tool, um den inhaltlichen Aufbau und Zusammenhänge in einem Film zu diskutieren. Durch ihre Leichtgewichtigkeit steht diese Technik dem Team dabei nicht im Weg, sondern fördert eine schnelle und einfache Visualisierung und hilft so, die Kommunikation klar und einfach zu halten.
 
-### T03: Einbringen von Fachwissen der Spezialisten
+## T03: Einbringen von Fachwissen der Spezialisten
 
 - Rolle *Team* (siehe Abschnitt \ref{entwurf-rolle-team}): Die Rolle des Teams wird als eine hocheffiziente kleine Gruppe von Spezialisten, die mithilfe eines breiten Fachwissens gut miteinander arbeiten können. Alle nötigen Kompetenzen sind im Team vorhanden.
 - Aktivität *Pioneer Phase* (siehe Abschnitt \ref{entwurf-aktivitat-pioneer-phase}): Die Konzeption ist nicht die Aufgabe eines einzelnen, sondern des gesamten Teams. So wird vom Projektbeginn an sicher gestellt, dass das gesamte Fachwissen des Teams genutzt wird.
 - Technik *Daily Standup* (siehe Abschnitt \ref{entwurf-techniken-daily-standup}): Durch die tägliche Kommunkation von Problemen und Aufgaben jedes einzelnen Teammitglieds ist es möglich, dass andere Teammitglieder mit ihrem Wissen und Erfahrung dazu beisteuern können, dass diese schneller und besser gelöst werden.
 - Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}): Durch Diskussionen während des Planning Pokers kann das Wissen von jedem Teammitglied genutzt werden, um eine möglichst realistische Aufwandsschätzung zu bekommen.
 
-### T04: Werkzeuge für das Anforderungsmanagement
+## T04: Werkzeuge für das Anforderungsmanagement
 
 - Wert *Offenheit für Änderungen* (siehe Abschnitt \ref{entwurf-werte-offenheit-anderungen}): Der Wert Offenheit für Änderungen steht nicht nur für eine gute Analyse der Anforderungen, sondern auch für eine ständige Aktualisierung dieser.
 - Ablauf *Sprint* (siehe Abschnitt \ref{entwurf-ablauf-sprint}): Der Ablauf in Sprints sorgt dafür, dass aus Anforderungen schnell sichtbare Ergebnisse werden. Dies macht die Anforderungen sowohl dem Team als auch dem Kunden "greifbarer".
@@ -78,7 +80,7 @@ In der Domäne der Filmproduktion treffen - wie schon öfter in dieser Arbeit er
 - Aktivität *Sprint Review* (siehe Abschnitt \ref{entwurf-aktivitaten-sprint-review}): Mithilfe des Sprint Reviews kann dem Kunden gezeigt werden, welche Anforderungen im letzten Sprint abgearbeitet wurden und wie die Ergebnisse aussehen. Somit bleibt auch bei der Präsentation der Zusammenhang zwischen Anforderung und Ergebnis bestehen.
 - Technik *Film Statements* (siehe Abschnitt \ref{techniken-film-statements}): Film Statements erleichtern sowohl dem Team als auch dem Kunden, Anforderungen zu formulieren und zu verstehen.
 
-### T05: Schnelle Fertigstellung des Projekts
+## T05: Schnelle Fertigstellung des Projekts
 
 Die Anforderung an das Vorgehensmodell, Projekte möglichst schnell fertig zu stellen, wird in keinem Element explizit umgesetzt.
 
@@ -90,11 +92,11 @@ Ein zusätzlicher Punkt, der für ein größeres Projekttempo des hier vorgestel
 
 Allerdings sind dies nur Mutmaßungen. Festzuhalten ist, dass die Anforderung "T05: Schnelle Fertigstellung des Projekts" nicht explizit vom Vorgehensmodell erfüllt wird.
 
-## Anforderungen der Kategorie Finanzielles
+# Anforderungen der Kategorie Finanzielles
 
 Die Wirtschaftlichkeit stand in den bisherigen Betrachtungen und Entwicklungen des Vorgehensmodells nicht im Vordergrund. Das Vorgehensmodell basiert aber auf der Annahme, dass wenn das Team effizient Arbeiten kann und die Anforderungen des Kunden klar sind, die gelieferte Qualität den wirtschaftlichen Aufwand in jedem Fall rechtfertigt. Im Folgenden sollen die finanziellen Anforderungen an das Projekt detaillierter besprochen werden.
 
-### F01: Kostentransparenz
+## F01: Kostentransparenz
 
 Kostentransparenz ist für die Geschäftsführung des Kunden, wie auch für die Geschäftsführung des Unternehmens wichtig. Gerade der Kunde wünscht sich am liebsten ein Angebot mit Festpreisgarantie, sodass er von Anfang an weiß, mit welchen Kosten er rechnen kann. Dieser Wunsch kann mit dem Vorgehen dieses Modells nicht erfüllt werden: Die Flexibilität, sich auf Änderungen der Anforderungen des Kunden einzulassen, kann nur gewährleistet werden, wenn das Projekt auch in seinem zeitlichen Rahmen flexibel gestaltet werden kann. Agile Entwicklung - auch in der Domäne des Imagefilms - bedeutet, sich einzugestehen, dass man nicht alles weiß. Man plant also hauptsächlich nur mit den harten Fakten - mit dem IST Zustand. Allerdings gibt es Elemente im Vorgehensmodell, die helfen, schnell und grob einen realistischen Eindruck von dem Aufwand des Projektes zu bekommen:
 
@@ -103,7 +105,7 @@ Kostentransparenz ist für die Geschäftsführung des Kunden, wie auch für die 
 - Technik *Planning Poker* (siehe Abschnitt \ref{entwurf-techniken-planning-poker}): Da die Aufwandsschätzung nicht ein einzelner, sondern das ganze Team zusammen erstellt, ist sichergestellt, dass alle wesentlichen Faktoren mit beachtet werden. Mithilfe des Planning Pokers wird also eine möglichst realistische Einschätzung des Aufwands erstellt. Dies ist die Grundlage für ein aussagekräftiges Burndown Chart.
 
 
-### F02: Geringe finanzielle Kosten
+## F02: Geringe finanzielle Kosten
 
 Auch dieser Punkt ist nicht Gegenstand der bisherigen Betrachtungen gewesen. Allerdings kann auch hier - ähnlich wie im bei der Anforderung *T05: Schnelle Fertigstellung des Projekts* - davon ausgegangen werden, dass das konsequente Zusammenarbeiten aller Gewerke auch zu einer finanziellen Entlastung führen könnte. 
 
@@ -113,17 +115,17 @@ Jacobs und Großpietsch beschreiben einen ähnlichen Ansatz in dem Kontext der n
 
 Allerdings sind dies auch nur Mutmaßungen. Auch hier muss festgehalten werden, dass die Erfüllung der Anforderung "Geringe finanzielle Kosten" nicht gewährleistet werden kann.
 
-## Anforderungen der Kategorie Anderes
+# Anforderungen der Kategorie Anderes
 
-### A01: Hohe Qualität des Imagefilms
+## A01: Hohe Qualität des Imagefilms
 
 Der Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-botschaft}) legt den Fokus darauf, die richtigen Anforderungen zu finden. Feedback, Iteration, Review: Das alles dient dazu, herauszufinden, was wirklich gebraucht wird. Alles das führt dazu, dass genau das entwickelt wird, was der Kunde braucht.
 
-### A02: Aufgabenbeschreibung für Laiendarsteller
+## A02: Aufgabenbeschreibung für Laiendarsteller
 
 Auf die Zusammenarbeit mit Laiendarstellern, deren Beteiligung an dem Imagefilm so gering wie möglich sein soll, wurde in dem Entwurf des Vorgehensmodells nicht weiter eingegangen. Es ist aber denkbar, dass mithilfe der *Cheap Production* eine gute Vorlage für Laiendarsteller entwickelt werden kann. So kann ein Laiendarsteller sofort sehen, wie die Szene auszusehen hat, und wie er in der Szene zu agieren hat.
 
-## Übersicht aller Anforderungen und deren Erfüllung
+# Übersicht aller Anforderungen und deren Erfüllung
 
 In der Tabelle \ref{Alle Anforderungen und deren Erfüllung} sind alle Anforderungen dargestellt. Zusätzlich wird aufgeführt, inwiefern der Entwurf des Vorgehensmodells diese Anforderung erfüllt. Der Grad der Erfüllung liegt dabei auf einer Skala zwischen $0$ (gar nicht erfüllt) und $3$ (vollständig erfüllt).
 
