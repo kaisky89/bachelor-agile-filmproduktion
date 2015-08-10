@@ -6,7 +6,7 @@ title: Problemfeld Filmproduktion
 
 Dieses Kapitel soll das Problemfeld der Filmproduktion aufmachen. Insbesondere geht es um die Produktion um Imagefilmen. Der Begriff Imagefilm sowie die Imagefilmproduktion werden zunächst definiert (Abschnitt \ref{filmproduktion-definition-imagefilm}). Danach werden die allgemeinen Phasen der Filmproduktion betrachtet, wie sie auch in Spiel- und Kinofilmproduktionen zu finden sind (Abschnitt \ref{phasen-in-der-filmproduktion}). Auf Basis der Definition aus \ref{filmproduktion-definition-imagefilm} und der allgemeinen Beschreibung der Filmproduktion wird dann das Vorgehen speziell bei der Imagefilmproduktion beschrieben (Abschnitt \ref{filmproduktion-vorgehen-imagefilm}). Abschließend werden noch die einzelnen Gewerke beschrieben, die in der Filmproduktion vorkommen (Abschnitt \ref{filmproduktion-gewerke}). Dies bietet ein grundlegendes Verständnis, um welche Tätigkeiten es sich bei der Produktion von Imagefilmen handelt. Der strukturelle Aufbau des Kapitels ist auch in Abbildung \ref{Struktureller Aufbau von Kapitel 3} visualisiert.
 
-![Struktureller Aufbau von Kapitel 3](https://www.lucidchart.com/publicSegments/view/55c801c5-fe98-4a56-940d-44480a005c31/image.png)
+![Struktureller Aufbau von Kapitel 3](http://download.heart-co.de/image-3.png)
 
 Die Ergebnisse dieses Kapitels dienen in erster Linie dazu, eine Wissensgrundlage für die Methoden aus Kapitel \ref{Anforderungen an ein agiles Vorgehensmodell} zu bieten, in dem es darum geht, Anforderungen an ein Vorgehensmodell zu entwickeln, dass für die Imagefilmproduktion geeignet ist. Zusätzlich werden die Erkenntnisse in diesem Kapitel auch bei dem Entwurf des Vorgehensmodells in Kapitel \ref{Entwurf eines agilen Vorgehensmodells} verwendet.
 
