@@ -4,15 +4,13 @@ title: Auswertung
 
 # Einleitung
 
+Der Entwurf des Vorgehensmodells aus Kapitel \ref{Entwurf eines agilen Vorgehensmodells} soll in diesem Kapitel  anhand der in Kapitel \ref{Anforderungen an ein agiles Vorgensmodell} entwickelten Anforderungen ausgewertet werden. Hierfür sollen die wichtigsten Anforderungen zuerst einzeln betrachtet werden, um zu diskutieren, inwiefern diese erfüllt worden sind (Abschnitt \ref{auswertung-kategorie-kunde} bis \ref{auswertung-kategorie-anderes}). Danach werden die Ergebnisse dieser Diskussion in einer Tabelle zur Übersicht dargestellt (Abschnitt \ref{auswertung-uebersicht}). Die Abbildung \ref{Struktureller Aufbau von Kapitel 6} zeigt die Struktur dieses Kapitels.
+
 ![Struktureller Aufbau von Kapitel 6](https://www.lucidchart.com/publicSegments/view/55c80d30-910c-489d-b387-40000a005a36/image.png)
 
-<!-- # Auswertung der Anforderungen -->
+Für die eine detaillierte Betrachtung werden im Folgenden nur Anforderungen genutzt, die eine Gewichtung $\ge6$ haben.
 
-Der Entwurf des Vorgehensmodells kann nun anhand der in Kapitel \ref{Entwurf eines agilen Vorgehensmodells} entwickelten Anforderungen ausgewertet werden. Hierfür sollen die wichtigsten Anforderungen zuerst einzeln betrachtet werden, um zu diskutieren, inwiefern diese erfüllt worden sind. Danach werden die Ergebnisse dieser Diskussion in einer Tabelle zur Übersicht dargestellt.
-
-Für die eine detaillierte Betrachtung werden im Folgenden nur Anforderungen benutzt, die eine Gewichtung $\ge6$ haben.
-
-# Anforderungen der Kategorie Kunde
+# Anforderungen der Kategorie Kunde {#auswertung-kategorie-kunde}
 
 ## K01: Laienkonforme Präsentation der Zwischenergebnisse
 
@@ -115,7 +113,7 @@ Jacobs und Großpietsch beschreiben einen ähnlichen Ansatz in dem Kontext der n
 
 Allerdings sind dies auch nur Mutmaßungen. Auch hier muss festgehalten werden, dass die Erfüllung der Anforderung "Geringe finanzielle Kosten" nicht gewährleistet werden kann.
 
-# Anforderungen der Kategorie Anderes
+# Anforderungen der Kategorie Anderes {#auswertung-kategorie-anderes}
 
 ## A01: Hohe Qualität des Imagefilms
 
@@ -125,7 +123,7 @@ Der Wert *Botschaft als zentrales Ziel* (siehe Abschnitt \ref{entwurf-werte-bots
 
 Auf die Zusammenarbeit mit Laiendarstellern, deren Beteiligung an dem Imagefilm so gering wie möglich sein soll, wurde in dem Entwurf des Vorgehensmodells nicht weiter eingegangen. Es ist aber denkbar, dass mithilfe der *Cheap Production* eine gute Vorlage für Laiendarsteller entwickelt werden kann. So kann ein Laiendarsteller sofort sehen, wie die Szene auszusehen hat, und wie er in der Szene zu agieren hat.
 
-# Übersicht aller Anforderungen und deren Erfüllung
+# Übersicht aller Anforderungen und deren Erfüllung {#auswertung-uebersicht}
 
 In der Tabelle \ref{Alle Anforderungen und deren Erfüllung} sind alle Anforderungen dargestellt. Zusätzlich wird aufgeführt, inwiefern der Entwurf des Vorgehensmodells diese Anforderung erfüllt. Der Grad der Erfüllung liegt dabei auf einer Skala zwischen $0$ (gar nicht erfüllt) und $3$ (vollständig erfüllt).
 
