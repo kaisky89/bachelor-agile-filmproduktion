@@ -172,5 +172,3 @@ Der Autor trägt die Verantwortung für das Filmprojekt, er entscheidet, was inh
 In der Zusammenarbeit als Team spielt Feedback auch eine wichtige Rolle: Der Cutter z. B. kann früh Feedback geben, ob das Material gut ist und wie es wirkt, weil er selbst eine gewisse "Distanz" zu den Bildern hat. Dieses Feedback ist sehr hilfreich um möglichst früh weitere Entscheidungen treffen zu können und um gegebenenfalls geplante Szenen oder Abläufe anzupassen.
 
 Insgesamt lässt sich sagen, dass in einem Filmprojekt Team viele Spezialisierungen und Teilfachgebiete vorhanden sind. Daher spielt Kommunikation eine wesentliche Rolle für den Projekterfolg.
-
-# Zusammenfassung
