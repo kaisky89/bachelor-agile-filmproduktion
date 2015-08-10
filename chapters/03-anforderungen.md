@@ -333,5 +333,3 @@ Table: Anforderungen der Kategorie Anderes
 | A04 |       17 |ruhige Aufnahmesituation für Laiendarsteller          |        $5$ |
 | A05 |       21 |Darsteller erfährt, was mit Bildmaterial geschieht    |        $4$ |
 
-
-# Zusammenfassung
