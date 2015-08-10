@@ -4,7 +4,11 @@ title: Problemfeld Filmproduktion
 
 # Einleitung
 
+Dieses Kapitel soll das Problemfeld der Filmproduktion aufmachen. Insbesondere geht es um die Produktion um Imagefilmen. Der Begriff Imagefilm sowie die Imagefilmproduktion werden zunächst definiert (Abschnitt \ref{filmproduktion-definition-imagefilm}). Danach werden die allgemeinen Phasen der Filmproduktion betrachtet, wie sie auch in Spiel- und Kinofilmproduktionen zu finden sind (Abschnitt \ref{phasen-in-der-filmproduktion}). Auf Basis der Definition aus \ref{filmproduktion-definition-imagefilm} und der allgemeinen Beschreibung der Filmproduktion wird dann das Vorgehen speziell bei der Imagefilmproduktion beschrieben (Abschnitt \ref{}. Abschließend werden noch die einzelnen Gewerke beschrieben, die in der Filmproduktion vorkommen. Der strukturelle Aufbau ist auch in Abbildung \ref{Struktureller Aufbau von Kapitel 3} visualisiert.
+
 ![Struktureller Aufbau von Kapitel 3](https://www.lucidchart.com/publicSegments/view/55c801c5-fe98-4a56-940d-44480a005c31/image.png)
+
+Die Ergebnisse dieses Kapitels dienen in erster Linie dazu, eine Wissensgrundlage für die Methoden aus Kapitel \ref{Anforderungen an ein agiles Vorgehensmodell} zu bieten, in dem es darum geht, Anforderungen an ein Vorgehensmodell zu entwickeln, dass für die Imagefilmproduktion geeignet ist. Zusätzlich werden die Erkenntnisse in diesem Kapitel auch bei dem Entwurf des Vorgehensmodells in Kapitel \ref{Entwurf eines agilen Vorgehensmodells} verwendet.
 
 # Definition Imagefilm {#filmproduktion-definition-imagefilm}
 
@@ -12,7 +16,7 @@ Der Begriff des Imagefilm ist mittlerweile ein sehr verbreitetes Wort und wird g
 
 Das Wort Imagefilm lässt sich aufteilen in die beiden Worte *Image* und *Film*. Die Bedeutung des letzteren sollte mittlerweile jedem geläufig sein: Ein *Film* ist ein audiovisuelles Medium, das mithilfe von bewegten Bildern eine fiktionale oder eine non-fiktionale Begebenheit darstellt. 
 
-Das Wort *Image* bedeutet soviel wie Eindruck oder Vorstellungsbild. Es wird benutzt, um in einem sozial- gesellschaftlichen Kontext das allgemeine, das kollektive Bild von einer Sache oder von einer Person zu beschreiben. In dem Kontext von Imagefilm bezieht sich dies auf ein Unternehmen. Es geht also um den allgemeinen gesellschaftlichen Eindruck eines Unternehmens. 
+Das Wort *Image* bedeutet soviel wie Eindruck oder Vorstellungsbild. Es wird benutzt, um in einem sozial- gesellschaftlichen Kontext das allgemeine, das kollektive Bild von einer Sache oder von einer Person zu beschreiben. In dem Kontext von Imagefilm bezieht sich dies auf ein Unternehmen. Es geht um den allgemeinen gesellschaftlichen Eindruck eines Unternehmens. 
 
 Die primäre Bedeutung des Imagefilms ist also, dass es sich um einen Film handelt, der bewusst das Image - also das allgemeine kollektive Vorstellungsbild - eines Unternehmens gestaltet. Hoppert definiert einen Imagefilm wie folgt:
 
@@ -89,7 +93,7 @@ Es werden erste Vorschau Versionen und Strategien für das Marketing erstellt, u
 In dieser Phase wird dafür gesorgt, dass der Film an das gewünschte Zielpublikum gelangt. Für Independent Filme im Kinoformat sind Film Festivals hierfür eine gute Möglichkeit. Außerdem kann auf den üblichen Wegen wie Internet, Trailer, Plakate und Anzeigen Werbung für den Film gemacht werden. Da sich diese Arbeit auf den Imagefilm konzentriert und hierbei der Abnehmer des Films bereits klar ist, soll der Aspekt der Distribution des Films hier nicht weiter betrachtet werden.
 
 
-# Vorgehen in der Produktion eines Imagefilms
+# Vorgehen in der Produktion eines Imagefilms {#}
 
 In dieser Arbeit soll ein Vorgehensmodell speziell für den Filmtyp *Imagefilm* entwickelt werden. Die in Abschnitt \ref{phasen-in-der-filmproduktion} beschriebenen Phasen beziehen sich nicht auf die Erstellung eines Imagefilms, sondern auf die Produktion eines vollständigen Kinofilm in der Independent Filmwelt. Da sich beispielsweise die Länge eines Kinofilms deutlich von der eines Imagefilms unterscheidet,^[Die Länge eines Kinofilms beträgt im Durchschnitt ca. 90 - 120 Minuten. Ein Imagefilm hat eine maximale Länge von 15 Minuten.] muss hier deutlich gemacht werden, dass die Produktion eines Imagefilms kleinere Ausmaße annimmt. Das Problem der Beschreibung der Produktion eines Imagefilms ist nur, dass es hierfür keine Standards gibt. Es ist nirgendwo festgelegt, wie ein Imagefilm produziert werden soll, und dem Autor dieser Arbeit fiel es schwer, in der Literatur explizite Beschreibungen für eine Produktion dieser Art zu finden. In der Realität hat jedes Unternehmen, welches anbietet, Imagefilme zu produzieren, wahrscheinlich sein eigenes Vorgehen entwickelt. Dieses Vorgehen hält sich aber häufig an das bekannte klassische Vorgehen der Filmindustrie, wie es exemplarisch in \ref{phasen-in-der-filmproduktion} beschrieben wird. Aus diesem Grund bietet die Beschreibung der Phasen ein grundlegendes Verständnis für die Produktion eines Imagefilms. Der Autor hat selbst im beruflichen Kontext Erfahrungen mit der Produktion von Imagefilmen in einem kleinen Unternehmen machen können, außerdem auch im akademischen Kontext eines Praxisprojekts das Vorgehen bei der Produktion eines Imagefilms \cite{wittmann2014praxiprojekt} näher betrachten dürfen. Der Ablauf des Praxisprojekts sei hier grob zusammen gefasst, um Einblicke in die Herausforderungen und Besonderheiten bei der Produktion eines Imagefilms zu geben. Für genauere Details siehe auch \cite{wittmann2014praxiprojekt}.
 
