@@ -27,7 +27,7 @@ function downloadPicturesString($string, &$imageNumber = null)
 
     $newFileName = "image".$i++.'.'.$ending;
     
-    `cd tex/images/ && wget -N --quiet $url -O $newFileName`;
+    `cd tex/images/ && wget -N $url -O $newFileName`;
 
     # Bild im Text umbenennen
 
