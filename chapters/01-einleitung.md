@@ -19,7 +19,7 @@ Dies soll Thema dieser Arbeit sein. Gleichzeitig gibt die Arbeit einen Überblic
 
 Der strukturelle Aufbau der Arbeit wird in der Abbildung \ref{Struktureller Aufbau der Arbeit} dargestellt.
 
-![Struktureller Aufbau der Arbeit](https://www.lucidchart.com/publicSegments/view/55c7d6a5-0fc8-4482-9a12-2b9f0a009f25/image.png)
+![Struktureller Aufbau der Arbeit](http://download.heart-co.de/image.png)
 
 Zuerst wird in Kapitel \ref{Problemfeld Agile Vorgehensmodelle} der Kontext der agilen Vorgehensmodelle der Informatik vorgestellt: Es werden die Grundlagen zum Thema "Agile Vorgehensmodelle" gelegt, wobei insbesondere auf die Phasen der Softwareentwicklung, die historische Entwicklung der Vorgehensmodelle und die Unterschiede zwischen agiler und schwergewichtiger Vorgehensmodelle eingegangen wird.
 
