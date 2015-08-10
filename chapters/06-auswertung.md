@@ -154,7 +154,3 @@ Table: Alle Anforderungen und deren Erfüllung
 
 Dies ergibt insgesamt eine Erfüllung der Anforderung von  $286 / 408 \approx 3 / 4$.
 
-<!--# Auswertung aus Sicht der Personae-->
-
-# Zusammenfassung
-
