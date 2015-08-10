@@ -2,6 +2,10 @@
 title: Anforderungen an ein agiles Vorgehensmodell
 ---
 
+# Einleitung
+
+![Struktureller Aufbau von Kapitel 4](https://www.lucidchart.com/publicSegments/view/55c804f6-e1c0-4cf1-aa6f-7aaa0a009f25/image.png)
+
 # Stakeholderanalyse {#anforderungen-stakeholderanalyse}
 
 
@@ -118,11 +122,11 @@ Eine besondere Rolle spielen die Darsteller im Imagefilm. Je nachdem, was die Vo
 
 Anders ist es, wenn es sich bei den Schauspielern um Laiendarsteller handelt. Dies ist im Rahmen eines Imagefilms gut möglich: will man beispielsweise die Authentizität des Imagefilms dadurch fördern, dass echte Mitarbeiter des Kunden im Imagefilm vorkommen^[Auch andere Situationen sind denkbar: Es können Testimonials (also Empfehlungsbotschaften) von Kunden oder Partnern des Kunden vorkommen.]. Dadurch bekommt der Imagefilm einen weniger werbenden Eindruck und stärker den Charakter einer Dokumentation. Die Zusammenarbeit mit Laiendarstellern sieht aber anders aus: Es benötigt eine entspannte Aufnahmesituation, um die Nervosität der Darsteller nicht noch unnötig zu fördern. 
 
-Außerdem brauchen die Laiendarsteller nicht in die Entwicklung und in das weitere Vorgehen für den Imagefilm einbezogen werden: Ihnen wird im besten Fall die geplante Szene kurz beschrieben, und nach einer prägnanten Anweisung, was sie tun sollen, werden sie aufgenommen. Ein größeres Involvement in das Vorgehen ist zu vermeiden, weil dies unnötig Zeit des Laiendarstellers beansprucht.
+In beiden Fällen, sowohl bei Laiendarstellern als auch bei professionellen Darstellern sollten diese nicht in die Entwicklung und in das weitere Vorgehen für den Imagefilm einbezogen werden: Ihnen wird im besten Fall die geplante Szene kurz beschrieben, und nach einer prägnanten Anweisung, was sie tun sollen, werden sie aufgenommen. Eine größere Beteiligung in das Vorgehen ist zu vermeiden, weil dies unnötig Zeit des Darstellers beansprucht.
 
 Der Darsteller spielt für den Projekterfolg eher eine untergeordnete Rolle. Sicher kann die Qualität an einer schlechten Darstellung der Schauspieler leiden, das liegt dann eher an der Auswahl der Schauspieler, also in der Verantwortlichkeit des Teams.
 
-Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen Bildmaterial von ihnen geschieht und wo und in welcher Form sie in der Öffentlichkeit zu sehen sein werden. Außerdem haben sie ein Interesse daran, dass man mit ihnen die zu darstellende Leistung in angemessenen Umfang bespricht und dass sie eine entspannte Aufnahmesituation vorfinden und die Aufnahme möglichst wenig Zeit in Anspruch nimmt.
+Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen Bildmaterial von ihnen geschieht und wo und in welcher Form sie in der Öffentlichkeit zu sehen sein werden.
 
 
 # Personae
@@ -177,7 +181,7 @@ Momentan hat Robert noch keine fest eingestellten Mitarbeiter. Er arbeitet haupt
 
 Trotz seiner langjährigen Erfahrung in der TV Produktion ist Robert nicht konservativ, was die Gestaltung seiner Filme angeht. Er versucht, so nah wie möglich am Puls der Zeit zu sein, indem er auf Youtube und Vimeo aktiv nach neuen Trends und Ideen Ausschau hält.
 
-Der typische Arbeitsablauf für die Produktion eines Imagefilm sieht bei Robert so aus, dass er meist einen Anruf oder einer Email von einem Unternehmen bekommt, das Interesse an der Produktion eines Imagefilms bekundet. Robert macht dann einen Termin mit dem Vertreter des Unternehmens aus, in dem alle Rahmenbedingungen geklärt werden: Für wen ist der Imagefilm, wer ist die Zielgruppe und was soll er aussagen? Auch über das Unternehmen macht Robert Bach erste Recherchen. Häufiger kommt es vor, dass Robert dann einmal ohne großen Plan zum Unternehmen fährt, um vor Ort nach möglichen Drehmöglichkeiten Ausschau hält und um das Unternehmen von seiner echten Seite kennenlernt: Die Mitarbeiter, die Tätigkeiten, die Unternehmenskultur und die Produkte des Unternehmens. Danach kommt bei Robert meist eine Phase der Konzeption. Er entwickelt Ideen zur Visualisierung, einen inhaltlichen Ablauf des Films und eine mögliche szenische Umsetzung. Manchmal, je nachdem wie viel Fachwissen der Ansprechpartner des Unternehmens in der Domäne Film hat, stellt er diesem in Form eines Treatments das Konzept vor. Es fällt Robert allerdings schwer, abzuschätzen, inwiefern sein Gegenüber versteht, was er sich vorstellt. In seinem bisherigen langjährigen Berufsalltag bei RTL konnte er davon ausgehen, dass alle seine Kollegen genügend Fachwissen besaßen, ein Treatment oder ein Drehbuch zu verstehen. Nun hat er es öfter mit Laien zu tun - zumindest was das Fachwissen zu den Begriffen der Filmwelt angeht - und er fragt sich, ob es nicht Möglichkeiten gibt, Konzepte "Laienverträglicher" zu präsentieren.
+Der typische Arbeitsablauf für die Produktion eines Imagefilm sieht bei Robert so aus, dass er meist einen Anruf oder einer Email von einem Unternehmen bekommt, das Interesse an der Produktion eines Imagefilms bekundet. Robert macht dann einen Termin mit dem Vertreter des Unternehmens aus, in dem alle Rahmenbedingungen geklärt werden: Für wen ist der Imagefilm, wer ist die Zielgruppe und was soll er aussagen? Auch über das Unternehmen macht Robert Bach erste Recherchen. Häufiger kommt es vor, dass Robert dann einmal ohne ausführliche vorherige Planung zum Unternehmen fährt, um vor Ort nach möglichen Drehmöglichkeiten Ausschau hält und um das Unternehmen von seiner echten Seite kennenlernt: Die Mitarbeiter, die Tätigkeiten, die Unternehmenskultur und die Produkte des Unternehmens. Danach kommt bei Robert meist eine Phase der Konzeption. Er entwickelt Ideen zur Visualisierung, einen inhaltlichen Ablauf des Films und eine mögliche szenische Umsetzung. Manchmal, je nachdem wie viel Fachwissen der Ansprechpartner des Unternehmens in der Domäne Film hat, stellt er diesem in Form eines Treatments das Konzept vor. Es fällt Robert allerdings schwer, abzuschätzen, inwiefern sein Gegenüber versteht, was er sich vorstellt. In seinem bisherigen langjährigen Berufsalltag bei RTL konnte er davon ausgehen, dass alle seine Kollegen genügend Fachwissen besaßen, ein Treatment oder ein Drehbuch zu verstehen. Nun hat er es öfter mit Laien zu tun - zumindest was das Fachwissen zu den Begriffen der Filmwelt angeht - und er fragt sich, ob es nicht Möglichkeiten gibt, Konzepte "laienverträglicher" zu präsentieren.
 
 Nach der Konzipierung geht es an die Produktion. Dafür engagiert Robert ein Team aus den unterschiedlichen erforderlichen Gewerken. Je nach Idee und Konzept sind dafür Kameramann, Tonmann, Cutter, Tonmischer, zusätzliche Leute im VFX Bereich und Schauspieler notwendig. Robert fällt es häufig schwer, diese Leute erst sehr spät in das Projekt zu involvieren: Gerade die Gewerke, mit denen er eng zusammenarbeitet - wie Kameramann oder Cutter - hätte er eigentlich gerne früher mit im Projekt. Eine kurzes Briefing hilft ihm zwar, zumindest grob seine Intention klar darzustellen, aber häufig fällt ihm auf, dass viele Details besser aufeinander abgestimmt wären, wenn die jeweiligen Gewerke früher, also auch schon in der Konzeptionphase mit involviert wären. Robert weiß allerdings nicht, wie er das umsetzen könnte.
 
@@ -316,3 +320,6 @@ Table: Anforderungen der Kategorie Anderes
 | A03 |   19, 20 |Geringe Beteiligung von Laiendarsteller               |        $5$ |
 | A04 |       17 |ruhige Aufnahmesituation für Laiendarsteller          |        $5$ |
 | A05 |       21 |Darsteller erfährt, was mit Bildmaterial geschieht    |        $4$ |
+
+
+# Zusammenfassung
