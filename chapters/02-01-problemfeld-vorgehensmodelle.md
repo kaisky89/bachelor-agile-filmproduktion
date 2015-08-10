@@ -8,7 +8,7 @@ title: Problemfeld Agile Vorgehensmodelle
 
 In diesem Kapitel soll das Poblemfeld der agilen Vorgehensmodelle aufgemacht werden. Die Abbildung \ref{Struktureller Aufbau von Kapitel 2} zeigt den strukturellen Aufbau des Kapitels.
 
-![Struktureller Aufbau von Kapitel 2](https://www.lucidchart.com/publicSegments/view/55c7e907-548c-496c-9cb1-02690a00c074/image.png)
+![Struktureller Aufbau von Kapitel 2](http://download.heart-co.de/image-2.png)
 
 In den Abschnitten \ref{phasen-in-der-software-entwicklung} - \ref{grundlagen-agile-vorgehensmodelle} werden die Grundlagen zum Thema "Agile Vorgehensmodelle" gelegt: 
 
