@@ -4,7 +4,19 @@ title: Anforderungen an ein agiles Vorgehensmodell
 
 # Einleitung
 
+In diesem Kapitel sollen die Anforderungen erarbeitet werden, die an ein agiles Vorgehensmodell für die Imagefilmproduktion gestellt werden. Grundlage für dieses Kapitel sind die Erkenntnisse aus Kapitel \ref{Problemfeld Filmproduktion}, also das allgemeine Verständnis des Kontextes der Imagefilmproduktion.
+
+Es werden zwei verschiedene Methoden benutzt, um die Anforderungen zu ermitteln: In Abschnitt \ref{anforderungen-stakeholderanalyse} werden alle potenziell an dem Vorgehensmodell beteiligten Personen und Personengruppen mithilfe einer Stakeholderanalyse ermittelt. Diese werden eingeordnet nach Wichtigkeit und Nähe und Beteiligungsgrad. Außerdem werden hier grob erste Anforderungen der einzelnen Stakeholder definiert.
+
+Um noch detaillierter Anforderungen zu spezifizieren, werden in Abschnitt \ref{anforderungen-personae} Personae entwickelt und deren Verhalten im Kontext der Imagefilmproduktion beschrieben.
+
+Die Ergebnisse der beiden Analysen werden in Abschnitt \ref{anforderungen-anforderungen} zusammengeführt und es werden die Anforderungen formuliert. Diese werden kategorisiert und gewichtet.
+
+Abbildung \ref{Struktureller Aufbau von Kapitel 4} zeigt den strukturellen Aufbau dieses Kapitels.
+
 ![Struktureller Aufbau von Kapitel 4](https://www.lucidchart.com/publicSegments/view/55c804f6-e1c0-4cf1-aa6f-7aaa0a009f25/image.png)
+
+Die Ergebnisse dieses Kapitels werden in Kapitel \ref{Auswertung} benutzt, um das entwickelte Vorgehensmodell dieser Arbeit zu bewerten.
 
 # Stakeholderanalyse {#anforderungen-stakeholderanalyse}
 
@@ -129,7 +141,7 @@ Der Darsteller spielt für den Projekterfolg eher eine untergeordnete Rolle. Sic
 Die Darsteller haben ein Anrecht darauf, zu erfahren, was mit dem entstandenen Bildmaterial von ihnen geschieht und wo und in welcher Form sie in der Öffentlichkeit zu sehen sein werden.
 
 
-# Personae
+# Personae {#anforderungen-personae}
 
 Persona ist eine Technik zur Benutzermodellierung aus der Mensch-Computer-Interaktion. Ein Persona wird wie folgt definiert:
 
@@ -185,7 +197,7 @@ Der typische Arbeitsablauf für die Produktion eines Imagefilm sieht bei Robert 
 
 Nach der Konzipierung geht es an die Produktion. Dafür engagiert Robert ein Team aus den unterschiedlichen erforderlichen Gewerken. Je nach Idee und Konzept sind dafür Kameramann, Tonmann, Cutter, Tonmischer, zusätzliche Leute im VFX Bereich und Schauspieler notwendig. Robert fällt es häufig schwer, diese Leute erst sehr spät in das Projekt zu involvieren: Gerade die Gewerke, mit denen er eng zusammenarbeitet - wie Kameramann oder Cutter - hätte er eigentlich gerne früher mit im Projekt. Eine kurzes Briefing hilft ihm zwar, zumindest grob seine Intention klar darzustellen, aber häufig fällt ihm auf, dass viele Details besser aufeinander abgestimmt wären, wenn die jeweiligen Gewerke früher, also auch schon in der Konzeptionphase mit involviert wären. Robert weiß allerdings nicht, wie er das umsetzen könnte.
 
-# Anforderungen
+# Anforderungen {#anforderungen-anforderungen}
 
 ## Zusammenfassung der Stakeholderanalyse
 
